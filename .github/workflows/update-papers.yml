@@ -1,0 +1,54 @@
+name: Update paper candidates
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every 6 hours, in UTC. Minute 17 avoids the busiest top-of-hour queue.
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-paper-candidates
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Search public scholarly sources
+        env:
+          CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
+        run: python scripts/update_candidates.py --since-days 730 --rows 30 --min-score 6
+
+      - name: Rebuild HTML
+        run: python scripts/build_site.py
+
+      - name: Download open PDFs when available
+        run: python scripts/download_pdfs.py
+        continue-on-error: true
+
+      - name: Commit changes
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add data/candidates.json data/last_update.json updates.html index.html papers/*.html pdfs || true
+            git commit -m "Update acoustic-optics paper candidates [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi

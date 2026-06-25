@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Generalizable Non-Line-of-Sight Imaging with Learnable Physical Priors",
+    "venue": "ICCV 2025",
+    "reason_cn": "光学 NLOS 最新顶会论文；与 acoustic NLOS 共享反问题/波动传播语境，但不是声学成像本身。",
+    "url": "https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_Generalizable_Non-Line-of-Sight_Imaging_with_Learnable_Physical_Priors_ICCV_2025_paper.pdf"
+  },
+  {
+    "title": "Recent CVPR/ICCV audio-visual localization/segmentation papers",
+    "venue": "CVPR/ICCV 2025-2026",
+    "reason_cn": "多为 sound source localization / audio-visual segmentation，不是物理声学成像；建议不放入核心库。",
+    "url": ""
+  },
+  {
+    "title": "Nature Photonics / Nature Electronics acousto-optic modulators and RF-acoustic photonic devices",
+    "venue": "Nature Photonics / Nature Electronics",
+    "reason_cn": "器件方向重要，但多数不是 imaging paper；建议作为“器件支撑/弱相关”单独追踪。",
+    "url": ""
+  }
+]

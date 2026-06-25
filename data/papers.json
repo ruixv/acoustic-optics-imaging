@@ -1,0 +1,628 @@
+[
+  {
+    "id": "ruan2026-photoacoustic-mesoscopy",
+    "title": "Noninvasive photoacoustic computed mesoscopy for longitudinal brain imaging",
+    "authors": "Shijie Ruan; Wei Qin; Linyang Li; Tingting Li; et al.",
+    "year": 2026,
+    "publication_date": "2026-02-04",
+    "venue": "Science Advances",
+    "venue_group": "Science family",
+    "venue_type": "journal",
+    "doi": "10.1126/sciadv.aea1602",
+    "primary_url": "https://www.science.org/doi/10.1126/sciadv.aea1602",
+    "pdf_url": "https://www.science.org/doi/pdf/10.1126/sciadv.aea1602",
+    "project_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12871444/",
+    "code_url": "",
+    "topics": [
+      "photoacoustic computed mesoscopy",
+      "brain imaging",
+      "longitudinal imaging",
+      "biomedical"
+    ],
+    "relevance": "core",
+    "summary_cn": "2026 年 Science Advances 光声 computed mesoscopy，用于非侵入纵向脑成像。",
+    "why_include_cn": "目前库中最新的 Science family 光声成像论文之一。",
+    "download_note": "Science Advances/PMC open record available.",
+    "sources": [
+      "https://www.science.org/doi/10.1126/sciadv.aea1602",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12871444/"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "chew2025-acoustic-reliefs",
+    "title": "Acoustic Reliefs",
+    "authors": "Jeremy Chew; Michal Piovarči; Kangrui Xue; Doug L. James; Bernd Bickel",
+    "year": 2025,
+    "publication_date": "2025-12-04",
+    "venue": "ACM Transactions on Graphics (SIGGRAPH Asia)",
+    "venue_group": "ACM TOG / SIGGRAPH Asia",
+    "venue_type": "journal/conference",
+    "doi": "10.1145/3763287",
+    "primary_url": "https://dl.acm.org/doi/10.1145/3763287",
+    "pdf_url": "https://cdl.ethz.ch/wp-content/uploads/2025/11/Acoustic_Reliefs.pdf",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic design",
+      "diffusers",
+      "computational fabrication",
+      "sound scattering"
+    ],
+    "relevance": "related",
+    "summary_cn": "面向室内声学扩散器的计算设计，强调几何 relief 对声散射的控制。",
+    "why_include_cn": "不是成像论文，但属于 ACM TOG 最新声学计算设计/声学编码表面方向，可作为声学编码结构参考。",
+    "download_note": "Author/preprint PDF from ETH CDL available.",
+    "sources": [
+      "https://dl.acm.org/doi/10.1145/3763287",
+      "https://cdl.ethz.ch/wp-content/uploads/2025/11/Acoustic_Reliefs.pdf",
+      "https://www.realtimerendering.com/kesen/siga2025Papers.htm"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "brandmueller2025-photoacoustic-meta-optics",
+    "title": "Photoacoustic microscopy with meta-optics",
+    "authors": "Dorian S. H. Brandmüller; David Grafinger; Robert Nuster; Andreas Hohenau; Marcus Ossiander; Peter Banzer",
+    "year": 2025,
+    "publication_date": "2025-11-19",
+    "venue": "Communications Physics",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal",
+    "doi": "10.1038/s42005-025-02350-4",
+    "primary_url": "https://www.nature.com/articles/s42005-025-02350-4",
+    "pdf_url": "https://arxiv.org/pdf/2412.11733",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic microscopy",
+      "meta-optics",
+      "metalens",
+      "optical excitation coding"
+    ],
+    "relevance": "core",
+    "summary_cn": "用 meta-optics/metalens 替代或改造光声显微镜激发光路，探索更紧凑/多功能的光声显微系统。",
+    "why_include_cn": "Communications Physics 2025 最新光声显微 + 编码光学硬件方向。",
+    "download_note": "arXiv PDF available; Nature page is the version of record.",
+    "sources": [
+      "https://www.nature.com/articles/s42005-025-02350-4",
+      "https://arxiv.org/abs/2412.11733"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "li2025-ultrasound-sar-nlos",
+    "title": "Ultrasound synthetic aperture non-line-of-sight imaging",
+    "authors": "Tailin Li; Ilya Starshynov; Khaled Kassem; Zongliang Xie; Ge Ren; Yihan Luo; Daniele Faccio",
+    "year": 2025,
+    "publication_date": "2025-11-17",
+    "venue": "Communications Physics",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal",
+    "doi": "10.1038/s42005-025-02335-3",
+    "primary_url": "https://www.nature.com/articles/s42005-025-02335-3",
+    "pdf_url": "https://eprints.gla.ac.uk/368628/1/368628.pdf",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic imaging",
+      "NLOS",
+      "synthetic aperture",
+      "ultrasound"
+    ],
+    "relevance": "core",
+    "summary_cn": "利用超声/空气声学合成孔径实现非视域三维隐藏场景成像，是声学 NLOS 与合成孔径成像方向的最新 Nature Portfolio 代表作。",
+    "why_include_cn": "与你的“声学成像 + NLOS + 合成孔径”高度相关，且有开放获取 PDF。",
+    "download_note": "Open-access author/institutional PDF available.",
+    "sources": [
+      "https://www.nature.com/articles/s42005-025-02335-3",
+      "https://eprints.gla.ac.uk/368628/"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "qu2025-zsplat",
+    "title": "Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion",
+    "authors": "Ziyuan Qu; Omkar Vengurlekar; Mohamad Qadri; Kevin Zhang; Michael Kaess; Christopher Metzler; Suren Jayasuriya; Adithya Pediredla",
+    "year": 2025,
+    "publication_date": "2025-09-01",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "venue_group": "IEEE TPAMI",
+    "venue_type": "journal",
+    "doi": "10.1109/TPAMI.2024.3462290",
+    "primary_url": "https://ieeexplore.ieee.org/document/10696806",
+    "pdf_url": "https://arxiv.org/pdf/2404.04687",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "camera-sonar fusion",
+      "Gaussian splatting",
+      "underwater 3D reconstruction",
+      "restricted baseline"
+    ],
+    "relevance": "core",
+    "summary_cn": "将 3D Gaussian Splatting 扩展到相机-声呐融合，用声呐 transient/depth 信息缓解受限视角导致的 depth-axis missing cone 问题。",
+    "why_include_cn": "TPAMI 2025，且与 AONeuS 同一问题族，适合重点跟踪。",
+    "download_note": "arXiv PDF available; IEEE Xplore is the version of record.",
+    "sources": [
+      "https://www.cs.cmu.edu/~kaess/pub/",
+      "https://arxiv.org/abs/2404.04687"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "huynh2025-all-optical-3d-photoacoustic-scanner",
+    "title": "A fast all-optical 3D photoacoustic scanner for clinical vascular imaging",
+    "authors": "Nam Trung Huynh; Edward Zhang; O. Francies; F. Kuklis; T. Allen; J. Zhu; et al.",
+    "year": 2025,
+    "publication_date": "2024-09-30",
+    "venue": "Nature Biomedical Engineering",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal",
+    "doi": "10.1038/s41551-024-01247-x",
+    "primary_url": "https://www.nature.com/articles/s41551-024-01247-x",
+    "pdf_url": "https://www.nature.com/articles/s41551-024-01247-x.pdf",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic imaging",
+      "all-optical ultrasound detection",
+      "3D scanner",
+      "clinical vascular imaging"
+    ],
+    "relevance": "core",
+    "summary_cn": "全光学三维光声扫描仪，用于临床血管成像，强调快速三维采集与光学超声探测。",
+    "why_include_cn": "Nature 子刊中高影响力的光声/声光医学成像系统。",
+    "download_note": "Nature page indicates open article; PDF URL included.",
+    "sources": [
+      "https://www.nature.com/articles/s41551-024-01247-x"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "qadri2024-aoneus",
+    "title": "AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion",
+    "authors": "Mohamad Qadri; Kevin Zhang; Akshay Hinduja; Michael Kaess; Adithya Pediredla; Christopher A. Metzler",
+    "year": 2024,
+    "publication_date": "2024-07-27",
+    "venue": "ACM SIGGRAPH Conference Papers",
+    "venue_group": "ACM SIGGRAPH",
+    "venue_type": "conference",
+    "doi": "10.1145/3641519.3657446",
+    "primary_url": "https://dl.acm.org/doi/10.1145/3641519.3657446",
+    "pdf_url": "https://arxiv.org/pdf/2402.03309",
+    "project_url": "https://aoneus.github.io/",
+    "code_url": "",
+    "topics": [
+      "acoustic-optical fusion",
+      "sonar",
+      "RGB",
+      "neural rendering",
+      "underwater 3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_cn": "面向水下受限基线 3D 重建，将 RGB 与 imaging sonar 的互补信息放入物理神经渲染框架。",
+    "why_include_cn": "最直接的“声光融合成像”顶会论文之一。",
+    "download_note": "arXiv PDF available; ACM version is the version of record.",
+    "sources": [
+      "https://dl.acm.org/doi/10.1145/3641519.3657446",
+      "https://arxiv.org/abs/2402.03309",
+      "https://aoneus.github.io/"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "christopoulos2024-temporal-acoustic-point-holography",
+    "title": "Temporal acoustic point holography",
+    "authors": "Giorgos Christopoulos; Lei Gao; Diego Martínez Plasencia; Marta Betcke; Ryuji Hirayama; Sriram Subramanian",
+    "year": 2024,
+    "publication_date": "2024-07-13",
+    "venue": "ACM SIGGRAPH Conference Papers",
+    "venue_group": "ACM SIGGRAPH",
+    "venue_type": "conference",
+    "doi": "10.1145/3641519.3657443",
+    "primary_url": "https://dl.acm.org/doi/10.1145/3641519.3657443",
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3641519.3657443",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic holography",
+      "phased array",
+      "temporal coding",
+      "ultrasound display"
+    ],
+    "relevance": "core",
+    "summary_cn": "声学相控阵点全息的时间编码/时间控制方法，属于 SIGGRAPH 声学全息与声场控制主线。",
+    "why_include_cn": "顶会声学编码/声场计算代表作。",
+    "download_note": "ACM PDF may be open for SIGGRAPH paper; if access fails, keep DOI link.",
+    "sources": [
+      "https://dl.acm.org/doi/10.1145/3641519.3657443",
+      "https://openreview.net/revisions?id=H22ynXspUG"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "chen2024-pattern",
+    "title": "Photoacoustic Tomography with Temporal Encoding Reconstruction (PATTERN) for cross-modal individual analysis of the whole brain",
+    "authors": "Y. Chen et al.",
+    "year": 2024,
+    "publication_date": "2024-05-18",
+    "venue": "Nature Communications",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal",
+    "doi": "10.1038/s41467-024-48393-z",
+    "primary_url": "https://www.nature.com/articles/s41467-024-48393-z",
+    "pdf_url": "https://www.nature.com/articles/s41467-024-48393-z.pdf",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic tomography",
+      "temporal encoding",
+      "whole-brain imaging",
+      "cross-modal analysis"
+    ],
+    "relevance": "core",
+    "summary_cn": "提出 PATTERN 平台，用时间编码重建进行非破坏、高速三维全脑光声成像与跨模态个体分析。",
+    "why_include_cn": "Nature Communications 的编码光声层析成像，属于声光融合成像核心延展方向。",
+    "download_note": "Nature Communications open-access PDF URL included.",
+    "sources": [
+      "https://www.nature.com/articles/s41467-024-48393-z"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "lin2024-ah-view",
+    "title": "Acoustic hologram-induced virtual in vivo enhanced waveguide for transcranial photoacoustic imaging of brains",
+    "authors": "Lin et al.",
+    "year": 2024,
+    "publication_date": "2024-02-14",
+    "venue": "Science Advances",
+    "venue_group": "Science family",
+    "venue_type": "journal",
+    "doi": "10.1126/sciadv.adl2232",
+    "primary_url": "https://www.science.org/doi/10.1126/sciadv.adl2232",
+    "pdf_url": "https://www.science.org/doi/pdf/10.1126/sciadv.adl2232",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic hologram",
+      "photoacoustic imaging",
+      "transcranial imaging",
+      "waveguide"
+    ],
+    "relevance": "core",
+    "summary_cn": "利用声学全息产生特定三维声场，构造 virtual enhanced waveguide 来增强经颅光声成像。",
+    "why_include_cn": "典型声-光/光声融合：用声场编码改善光声成像。",
+    "download_note": "Science Advances open-access PDF should be downloadable.",
+    "sources": [
+      "https://www.science.org/doi/10.1126/sciadv.adl2232"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "brown2024-computational-ultrasound-4d",
+    "title": "Four-dimensional computational ultrasound imaging of brain hemodynamics",
+    "authors": "Michael D. Brown; Bastian S. Generowicz; Stephanie Dijkhuizen; Sebastiaan K. E. Koekkoek; Christos Strydis; Johannes G. Bosch; Petros Arvanitis; Geert Springeling; Geert J. T. Leus; Chris I. De Zeeuw; Pieter Kruizinga",
+    "year": 2024,
+    "publication_date": "2024-01-19",
+    "venue": "Science Advances",
+    "venue_group": "Science family",
+    "venue_type": "journal",
+    "doi": "10.1126/sciadv.adk7957",
+    "primary_url": "https://www.science.org/doi/10.1126/sciadv.adk7957",
+    "pdf_url": "https://www.science.org/doi/pdf/10.1126/sciadv.adk7957",
+    "project_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10793943/",
+    "code_url": "",
+    "topics": [
+      "computational ultrasound",
+      "4D imaging",
+      "complex fields",
+      "brain hemodynamics"
+    ],
+    "relevance": "core",
+    "summary_cn": "用复杂超声场 + 物理波预测模型降低采样约束，实现小鼠脑血流动力学四维成像。",
+    "why_include_cn": "声学编码成像/计算超声成像的 Science Advances 代表作。",
+    "download_note": "Science Advances/PMC open record available.",
+    "sources": [
+      "https://www.science.org/doi/10.1126/sciadv.adk7957",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10793943/"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "reed2023-neural-sas",
+    "title": "Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar",
+    "authors": "Albert W. Reed; Juhyeon Kim; Thomas Blanford; Adithya Pediredla; Daniel C. Brown; Suren Jayasuriya",
+    "year": 2023,
+    "publication_date": "2023-07-26",
+    "venue": "ACM Transactions on Graphics (SIGGRAPH)",
+    "venue_group": "ACM TOG / SIGGRAPH",
+    "venue_type": "journal/conference",
+    "doi": "10.1145/3592141",
+    "primary_url": "https://dl.acm.org/doi/10.1145/3592141",
+    "pdf_url": "https://arxiv.org/pdf/2306.09909",
+    "project_url": "https://awreed.github.io/sas_nerf/",
+    "code_url": "",
+    "topics": [
+      "synthetic aperture sonar",
+      "neural rendering",
+      "wave-based imaging",
+      "coherent reconstruction"
+    ],
+    "relevance": "core",
+    "summary_cn": "把神经渲染/analysis-by-synthesis 用于相干合成孔径声呐重建，融合物理约束与场景先验。",
+    "why_include_cn": "声学编码/相干声呐成像与神经表示结合的 SIGGRAPH/TOG 核心论文。",
+    "download_note": "arXiv PDF available; project page reports code/data availability.",
+    "sources": [
+      "https://dl.acm.org/doi/10.1145/3592141",
+      "https://arxiv.org/abs/2306.09909",
+      "https://sites.google.com/asu.edu/imaging-lyceum/research"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "chakravarthula2023-seeing-with-sound",
+    "title": "Seeing With Sound: Long-range Acoustic Beamforming for Multimodal Scene Understanding",
+    "authors": "Praneeth Chakravarthula et al.",
+    "year": 2023,
+    "publication_date": "2023-06-18",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "venue_group": "CVPR",
+    "venue_type": "conference",
+    "doi": "",
+    "primary_url": "https://openaccess.thecvf.com/content/CVPR2023/html/Chakravarthula_Seeing_With_Sound_Long-Range_Acoustic_Beamforming_for_Multimodal_Scene_Understanding_CVPR_2023_paper.html",
+    "pdf_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chakravarthula_Seeing_With_Sound_Long-range_Acoustic_Beamforming_for_Multimodal_Scene_Understanding_CVPR_2023_paper.pdf",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic beamforming",
+      "multimodal scene understanding",
+      "vision-acoustic fusion",
+      "CVPR"
+    ],
+    "relevance": "related",
+    "summary_cn": "用远距离声学 beamforming 辅助多模态场景理解，展示声学信号在低光和遮挡/NLOS 情况下对视觉的互补性。",
+    "why_include_cn": "不是成像重建核心，但属于 CVPR 中“声 + 视觉融合感知”的高相关论文。",
+    "download_note": "CVF open-access PDF available.",
+    "sources": [
+      "https://openaccess.thecvf.com/content/CVPR2023/papers/Chakravarthula_Seeing_With_Sound_Long-range_Acoustic_Beamforming_for_Multimodal_Scene_Understanding_CVPR_2023_paper.pdf"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "hirayama2022-high-speed-acoustic-holography-scattering",
+    "title": "High-speed acoustic holography with arbitrary scattering objects",
+    "authors": "Ryuji Hirayama; Giorgos Christopoulos; Diego Martinez Plasencia; Sriram Subramanian",
+    "year": 2022,
+    "publication_date": "2022-06-17",
+    "venue": "Science Advances",
+    "venue_group": "Science family",
+    "venue_type": "journal",
+    "doi": "10.1126/sciadv.abn7614",
+    "primary_url": "https://www.science.org/doi/10.1126/sciadv.abn7614",
+    "pdf_url": "https://www.science.org/doi/pdf/10.1126/sciadv.abn7614",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic holography",
+      "sound scattering",
+      "levitation display",
+      "computational acoustics"
+    ],
+    "relevance": "core",
+    "summary_cn": "考虑任意散射物体存在时的高速声学全息计算，使声场/悬浮显示在复杂边界下仍可工作。",
+    "why_include_cn": "Science Advances 声学全息代表作，和声学编码/声场控制强相关。",
+    "download_note": "Science Advances article is open access; PDF URL should download where available.",
+    "sources": [
+      "https://www.science.org/doi/10.1126/sciadv.abn7614",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9205589/"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "hazan2022-silicon-photonics-acoustic-detector",
+    "title": "Silicon-photonics acoustic detector for optoacoustic micro-tomography",
+    "authors": "Yoav Hazan; Ahiad Levi; Michael Nagli; Amir Rosenthal",
+    "year": 2022,
+    "publication_date": "2022-03-18",
+    "venue": "Nature Communications",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal",
+    "doi": "10.1038/s41467-022-29179-7",
+    "primary_url": "https://www.nature.com/articles/s41467-022-29179-7",
+    "pdf_url": "https://www.nature.com/articles/s41467-022-29179-7.pdf",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "optoacoustic micro-tomography",
+      "silicon photonics",
+      "acoustic detector",
+      "integrated sensing"
+    ],
+    "relevance": "related",
+    "summary_cn": "提出小型硅光声学探测器并用于活体 optoacoustic micro-tomography。",
+    "why_include_cn": "Nature Communications 中集成声学探测与光声层析结合的代表。",
+    "download_note": "Nature Communications open-access PDF URL included.",
+    "sources": [
+      "https://www.nature.com/articles/s41467-022-29179-7"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "kothari2020-wave-based-imaging",
+    "title": "Learning the Geometry of Wave-Based Imaging",
+    "authors": "K. Kothari et al.",
+    "year": 2020,
+    "publication_date": "2020-12-06",
+    "venue": "NeurIPS",
+    "venue_group": "NeurIPS",
+    "venue_type": "conference",
+    "doi": "",
+    "primary_url": "https://proceedings.neurips.cc/paper/2020/hash/5e98d23afe19a774d1b2dcbefd5103eb-Abstract.html",
+    "pdf_url": "https://proceedings.neurips.cc/paper/2020/file/5e98d23afe19a774d1b2dcbefd5103eb-Paper.pdf",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "wave-based imaging",
+      "photoacoustic tomography",
+      "seismology",
+      "deep learning"
+    ],
+    "relevance": "related",
+    "summary_cn": "NeurIPS 中面向波动成像几何的学习方法，应用包括 photoacoustic tomography 与 reflection seismology。",
+    "why_include_cn": "不是最新，但覆盖 NeurIPS 与波动/光声成像交叉。",
+    "download_note": "NeurIPS proceedings PDF available.",
+    "sources": [
+      "https://proceedings.neurips.cc/paper/2020/file/5e98d23afe19a774d1b2dcbefd5103eb-Paper.pdf"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "martinezplasencia2020-gs-pat",
+    "title": "GS-PAT: High-Speed Multi-Point Sound-Fields for Phased Arrays of Transducers",
+    "authors": "Diego Martinez Plasencia; Ryuji Hirayama; Roberto Montano-Murillo; Sriram Subramanian",
+    "year": 2020,
+    "publication_date": "2020-08-12",
+    "venue": "ACM Transactions on Graphics (SIGGRAPH)",
+    "venue_group": "ACM TOG / SIGGRAPH",
+    "venue_type": "journal/conference",
+    "doi": "10.1145/3386569.3392492",
+    "primary_url": "https://dl.acm.org/doi/10.1145/3386569.3392492",
+    "pdf_url": "https://discovery.ucl.ac.uk/id/eprint/10106840/13/Hirayama_GS-PAT-%20High-Speed%20Multi-Point%20Sound-Fields%20for%20Phased%20Arrays%20of%20Transducers_AAM.pdf",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "phased array",
+      "acoustic holography",
+      "GPU phase retrieval",
+      "ultrasound"
+    ],
+    "relevance": "core",
+    "summary_cn": "用于相控阵换能器多点声场快速相位检索的 GPU 算法，是后续声学全息/空中触觉/声场编码的重要基础。",
+    "why_include_cn": "ACM TOG/SIGGRAPH 经典声学编码算法。",
+    "download_note": "UCL accepted manuscript PDF available.",
+    "sources": [
+      "https://dl.acm.org/doi/10.1145/3386569.3392492",
+      "https://discovery.ucl.ac.uk/id/eprint/10106840/"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "jang2020-space-gated-microscopy",
+    "title": "Deep tissue space-gated microscopy via acousto-optic interaction",
+    "authors": "M. Jang et al.",
+    "year": 2020,
+    "publication_date": "2020-02-14",
+    "venue": "Nature Communications",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal",
+    "doi": "10.1038/s41467-020-14514-7",
+    "primary_url": "https://www.nature.com/articles/s41467-020-14514-7",
+    "pdf_url": "https://www.nature.com/articles/s41467-020-14514-7.pdf",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acousto-optic interaction",
+      "space gating",
+      "deep tissue microscopy",
+      "ultrasound modulation"
+    ],
+    "relevance": "related",
+    "summary_cn": "通过高频超声焦点调制与 space gating 抑制多重散射，从而提升深组织光学显微成像。",
+    "why_include_cn": "典型声光相互作用辅助光学显微。",
+    "download_note": "Nature Communications open-access PDF URL included.",
+    "sources": [
+      "https://www.nature.com/articles/s41467-020-14514-7"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "doktofsky2020-acousto-optic-speckle-decorrelation",
+    "title": "Acousto optic imaging beyond the acoustic diffraction limit using speckle decorrelation",
+    "authors": "Daniel Doktofsky; Moriya Rosenfeld; Ori Katz",
+    "year": 2020,
+    "publication_date": "2020-01-03",
+    "venue": "Communications Physics",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal",
+    "doi": "10.1038/s42005-019-0267-9",
+    "primary_url": "https://www.nature.com/articles/s42005-019-0267-9",
+    "pdf_url": "https://www.nature.com/articles/s42005-019-0267-9.pdf",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acousto-optic imaging",
+      "speckle decorrelation",
+      "super-resolution",
+      "deep tissue imaging"
+    ],
+    "relevance": "core",
+    "summary_cn": "利用 speckle decorrelation 实现超过声学衍射极限的声光成像。",
+    "why_include_cn": "声光成像（AOI）物理机制与超分辨方向的重要 Nature Portfolio 论文。",
+    "download_note": "Communications Physics open-access PDF URL included.",
+    "sources": [
+      "https://www.nature.com/articles/s42005-019-0267-9"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "hirayama2019-volumetric-display-acoustic-trapping",
+    "title": "A volumetric display for visual, tactile and audio presentation using acoustic trapping",
+    "authors": "Ryuji Hirayama; Diego Martinez Plasencia; Nobuyuki Masuda; Sriram Subramanian",
+    "year": 2019,
+    "publication_date": "2019-11-13",
+    "venue": "Nature",
+    "venue_group": "Nature",
+    "venue_type": "journal",
+    "doi": "10.1038/s41586-019-1739-5",
+    "primary_url": "https://www.nature.com/articles/s41586-019-1739-5",
+    "pdf_url": "",
+    "project_url": "https://sussex.figshare.com/articles/journal_contribution/A_volumetric_display_for_visual_tactile_and_audio_presentation_using_acoustic_trapping/23472326",
+    "code_url": "",
+    "topics": [
+      "acoustic trapping",
+      "volumetric display",
+      "visual-tactile-audio",
+      "ultrasound"
+    ],
+    "relevance": "related",
+    "summary_cn": "通过声学俘获实现视觉、触觉和声音一体的体显示，是声场控制和声光/多感官展示的 Nature 代表作。",
+    "why_include_cn": "不是传统成像重建，但对声学编码显示和声场控制很重要。",
+    "download_note": "Nature page and Sussex Figshare record available; no direct PDF link recorded here.",
+    "sources": [
+      "https://www.nature.com/articles/s41586-019-1739-5",
+      "https://sussex.figshare.com/articles/journal_contribution/A_volumetric_display_for_visual_tactile_and_audio_presentation_using_acoustic_trapping/23472326"
+    ],
+    "last_verified": "2026-06-25"
+  },
+  {
+    "id": "lindell2019-acoustic-nlos",
+    "title": "Acoustic Non-Line-Of-Sight Imaging",
+    "authors": "David B. Lindell; Gordon Wetzstein; Vladlen Koltun",
+    "year": 2019,
+    "publication_date": "2019-06-16",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "venue_group": "CVPR",
+    "venue_type": "conference",
+    "doi": "",
+    "primary_url": "https://openaccess.thecvf.com/content_CVPR_2019/html/Lindell_Acoustic_Non-Line-Of-Sight_Imaging_CVPR_2019_paper.html",
+    "pdf_url": "https://openaccess.thecvf.com/content_CVPR_2019/papers/Lindell_Acoustic_Non-Line-Of-Sight_Imaging_CVPR_2019_paper.pdf",
+    "project_url": "https://graphics.stanford.edu/papers/soundnlos/",
+    "code_url": "",
+    "topics": [
+      "acoustic NLOS",
+      "time-resolved sensing",
+      "hidden 3D geometry",
+      "CVPR"
+    ],
+    "relevance": "core",
+    "summary_cn": "CVPR 2019 声学非视域成像奠基论文，用低成本声学硬件捕获隐藏三维几何。",
+    "why_include_cn": "虽然不是最新，但几乎是声学 NLOS 必收基础文献。",
+    "download_note": "CVF open-access PDF available.",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2019/papers/Lindell_Acoustic_Non-Line-Of-Sight_Imaging_CVPR_2019_paper.pdf",
+      "https://graphics.stanford.edu/papers/soundnlos/"
+    ],
+    "last_verified": "2026-06-25"
+  }
+]
