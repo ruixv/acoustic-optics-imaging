@@ -16,11 +16,12 @@ Each run:
 1. queries public scholarly sources through `scripts/update_candidates.py`;
 2. records newly discovered records in `data/candidates.json`;
 3. runs `scripts/agent_audit.py` as an automatic curation agent;
-4. promotes high-confidence records to `data/papers.json`;
-5. keeps borderline records in `data/candidates.json` for transparency;
-6. rebuilds the bilingual website through `scripts/build_site.py`;
-7. tries to download open PDFs already listed in the verified library;
-8. commits and pushes changes back to the repository if anything changed.
+4. resolves arXiv records to final journal/conference metadata when Crossref/DOI evidence confirms an accepted or published version;
+5. promotes high-confidence records to `data/papers.json`;
+6. keeps borderline records in `data/candidates.json` for transparency;
+7. rebuilds the bilingual website through `scripts/build_site.py`;
+8. tries to download open PDFs already listed in the verified library;
+9. commits and pushes changes back to the repository if anything changed.
 
 ## Automatic audit policy
 
@@ -31,10 +32,15 @@ The workflow uses an automatic promotion step. The audit agent checks:
 - imaging, reconstruction, tomography, holography, NLOS, synthetic aperture, or sensor-fusion terms;
 - recency;
 - DOI or reliable primary URL;
+- final accepted/published version availability for arXiv records;
 - duplicate status against existing verified records;
 - negative filters for unrelated audio, astronomy, sports, or general signal-processing records.
 
 High-confidence records are promoted automatically. Borderline records remain visible in `updates.html`.
+
+## arXiv / final-version rule
+
+arXiv is treated as a preprint source, not a final venue. If an arXiv paper has an accepted or published version, the tracker records the final journal or conference as `venue` and keeps the arXiv URL only as a preprint/open-PDF source when useful. If no accepted or published version can be verified, the record remains `arXiv preprint`.
 
 ## Public metadata policy
 
