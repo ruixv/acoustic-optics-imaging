@@ -93,6 +93,37 @@
     "curation_origin": "focus-profile-public"
   },
   {
+    "id": "chen2025-sonarsweep-camera-sonar-plane-sweeping",
+    "title": "SonarSweep: Fusing Sonar and Vision for Robust 3D Reconstruction via Plane Sweeping",
+    "authors": "Lingpeng Chen; Jiakun Tang; Apple Pui-Yi Chui; Ziyang Hong; Junfeng Wu",
+    "year": 2025,
+    "publication_date": "2025-11-01",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "",
+    "primary_url": "https://arxiv.org/abs/2511.00392",
+    "pdf_url": "https://arxiv.org/pdf/2511.00392",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "camera-sonar fusion",
+      "plane sweeping",
+      "underwater 3D reconstruction",
+      "dense depth estimation",
+      "visually degraded environments"
+    ],
+    "relevance": "core",
+    "summary_cn": "提出 SonarSweep，将经典 plane sweep 思路改造为声呐-视觉跨模态融合框架，用于低能见度水下环境的鲁棒密集三维重建。",
+    "why_include_cn": "直接对应 camera-sonar fusion 与水下三维重建；arXiv v2 于 2026-05-18 更新，属于应持续跟踪的近期高相关工作。",
+    "download_note": "No final venue was verified at the time of curation; arXiv is recorded as the preprint source.",
+    "sources": [
+      "https://arxiv.org/abs/2511.00392"
+    ],
+    "last_verified": "2026-06-26",
+    "curation_origin": "automation-verified"
+  },
+  {
     "id": "xie2024-bathymetric-sonar-neural-volume-rendering",
     "title": "Bathymetric Surveying with Imaging Sonar Using Neural Volume Rendering",
     "authors": "Yiping Xie; Giancarlo Troni; Nils Bore; John Folkesson",
