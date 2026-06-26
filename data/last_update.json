@@ -1,11 +1,24 @@
 {
-  "last_run": "2026-06-26T05:51:07.480388+00:00",
+  "last_run": "2026-06-26T06:06:22.372467+00:00",
   "since_date": "2024-06-26",
   "raw_candidates_seen": 2098,
   "saved_candidates_total": 102,
   "errors": [],
   "note": "Candidates are ready for automatic curation-agent audit; high-confidence records may be promoted by scripts/agent_audit.py.",
-  "agent_audit_last_run": "2026-06-26T05:53:38.060364+00:00",
+  "mmwave_seed_queries": [
+    "high resolution handheld millimeter wave imaging phase error estimation compensation",
+    "IFNet deep imaging focusing handheld SAR millimeter wave signals",
+    "TwinFocus autofocus handheld mmWave SAR imaging physical digital twin references",
+    "high fidelity 3D reconstruction millimeter wave surface normal estimation",
+    "RISE single static radar indoor scene understanding",
+    "Wave-Former through occlusion 3D reconstruction wireless shape completion",
+    "handheld millimeter wave SAR autofocus MobiSys",
+    "millimeter wave radar indoor scene understanding MobiCom SenSys",
+    "mmWave surface normal estimation 3D reconstruction CVPR ICCV",
+    "Nature high resolution handheld millimeter wave imaging system"
+  ],
+  "mmwave_seed_new_candidates": 0,
+  "agent_audit_last_run": "2026-06-26T06:10:20.551155+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 0,
   "resolved_final_versions": 2,
@@ -23,11 +36,18 @@
     "IEEE TPAMI",
     "MobiCom",
     "MobiSys",
+    "Nature",
+    "Nature Communications",
+    "Nature Computational Science",
+    "Nature Electronics",
+    "Nature Machine Intelligence",
+    "Nature Photonics",
+    "Nature Portfolio",
     "NeurIPS",
     "SIGGRAPH",
     "SenSys"
   ],
   "mmwave_track_total": 1,
   "mmwave_track_removed_non_allowlist": [],
-  "mmwave_track_policy": "Only final-venue papers from the explicit top-venue allow-list are allowed in data/mmwave_papers.json; arXiv-only records are excluded."
+  "mmwave_track_policy": "Only final-venue papers from the explicit top-venue allow-list are allowed in data/mmwave_papers.json; arXiv-only records are excluded. Nature and Nature-family venues are included in the allow-list."
 }
