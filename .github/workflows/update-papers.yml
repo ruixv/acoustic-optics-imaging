@@ -14,6 +14,11 @@ on:
       - 'paper.html'
       - 'style.css'
       - 'script.js'
+      - 'enhancements.css'
+      - 'enhancements.js'
+      - 'author_graph_interactions.css'
+      - 'author_graph_interactions.js'
+      - 'graph_label_cleanup.js'
       - '.github/workflows/update-papers.yml'
 
 permissions:
@@ -57,6 +62,9 @@ jobs:
 
       - name: Rebuild bilingual website
         run: python scripts/build_site.py
+
+      - name: Apply progressive UI enhancements
+        run: python scripts/apply_ui_enhancements.py
 
       - name: Download open PDFs when available
         run: python scripts/download_pdfs.py
