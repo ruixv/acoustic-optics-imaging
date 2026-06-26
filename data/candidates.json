@@ -360,7 +360,7 @@
     "primary_url": "https://doi.org/10.1016/j.jmst.2026.05.052",
     "pdf_url": "",
     "source": "Crossref",
-    "matched_query": "MIMO-SAR FMCW radar 3D reconstruction",
+    "matched_query": "camera sonar fusion 3D reconstruction",
     "score": 8,
     "reasons": [
       "top-venue",
@@ -370,7 +370,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 10,
+    "times_seen": 12,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -380,7 +380,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "track": "mmwave",
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -390,7 +390,7 @@
         "final_version_status": "not-needed"
       }
     },
-    "track": "mmwave"
+    "track": "main"
   },
   {
     "id": "2027-space-for-time-design-of-3d-support-buffer-structures-addressing-lifetime-l-ae365e2a95c3",
@@ -403,7 +403,7 @@
     "primary_url": "https://doi.org/10.1016/j.jmst.2026.05.070",
     "pdf_url": "",
     "source": "Crossref",
-    "matched_query": "MIMO-SAR FMCW radar 3D reconstruction",
+    "matched_query": "camera sonar fusion 3D reconstruction",
     "score": 8,
     "reasons": [
       "top-venue",
@@ -413,7 +413,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 10,
+    "times_seen": 12,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -423,10 +423,52 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "track": "mmwave",
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
+        "source_ok": true,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    },
+    "track": "main"
+  },
+  {
+    "id": "2027-a-computational-framework-for-quantitative-property-mapping-and-structure-p-32a0ddaf8dd5",
+    "title": "A computational framework for quantitative property mapping and structure-property analysis of metallic glasses",
+    "authors": "Xuhe Gong; Hengbo Zhao; Xiao Fu; Jingchen Lian; Qifan Yang; Ran Li; Ruijuan Xiao; Tao Zhang; et al.",
+    "year": 2027,
+    "publication_date": "2027-02-01",
+    "venue": "Journal of Materials Science &amp; Technology",
+    "doi": "10.1016/j.jmst.2026.05.049",
+    "primary_url": "https://doi.org/10.1016/j.jmst.2026.05.049",
+    "pdf_url": "",
+    "source": "Crossref",
+    "matched_query": "millimeter wave radar indoor mapping MobiSys",
+    "score": 8,
+    "reasons": [
+      "top-venue",
+      "imaging/reconstruction term",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 6,
+    "venue_group": "Science family",
+    "topics": [
+      "computational ultrasound"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": false,
         "source_ok": true,
         "preprint_only": false,
         "negative_filter": false,
@@ -489,7 +531,7 @@
     "primary_url": "https://doi.org/10.1016/j.jmst.2026.04.043",
     "pdf_url": "",
     "source": "Crossref",
-    "matched_query": "mmWave radar neural reconstruction",
+    "matched_query": "camera sonar fusion 3D reconstruction",
     "score": 8,
     "reasons": [
       "top-venue",
@@ -499,7 +541,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 19,
+    "times_seen": 24,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -509,7 +551,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "track": "mmwave",
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -519,7 +561,7 @@
         "final_version_status": "not-needed"
       }
     },
-    "track": "mmwave"
+    "track": "main"
   },
   {
     "id": "2027-electrochemical-reconstruction-modulation-of-nicr-ldh-ceo2-unlocking-superi-bda4905b12bf",
@@ -532,7 +574,7 @@
     "primary_url": "https://doi.org/10.1016/j.jmst.2026.05.045",
     "pdf_url": "",
     "source": "Crossref",
-    "matched_query": "MIMO-SAR FMCW radar 3D reconstruction",
+    "matched_query": "camera sonar fusion 3D reconstruction",
     "score": 8,
     "reasons": [
       "top-venue",
@@ -542,7 +584,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 8,
+    "times_seen": 11,
     "venue_group": "Science family",
     "topics": [
       "camera-sonar fusion",
@@ -552,7 +594,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "track": "mmwave",
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -562,7 +604,7 @@
         "final_version_status": "not-needed"
       }
     },
-    "track": "mmwave"
+    "track": "main"
   },
   {
     "id": "2026-in-plane-vector-field-imaging-of-propagating-surface-phonon-polaritons-df6902e2a127",
@@ -912,48 +954,6 @@
     "track": "main"
   },
   {
-    "id": "2027-a-computational-framework-for-quantitative-property-mapping-and-structure-p-32a0ddaf8dd5",
-    "title": "A computational framework for quantitative property mapping and structure-property analysis of metallic glasses",
-    "authors": "Xuhe Gong; Hengbo Zhao; Xiao Fu; Jingchen Lian; Qifan Yang; Ran Li; Ruijuan Xiao; Tao Zhang; et al.",
-    "year": 2027,
-    "publication_date": "2027-02-01",
-    "venue": "Journal of Materials Science &amp; Technology",
-    "doi": "10.1016/j.jmst.2026.05.049",
-    "primary_url": "https://doi.org/10.1016/j.jmst.2026.05.049",
-    "pdf_url": "",
-    "source": "Crossref",
-    "matched_query": "computational ultrasound imaging",
-    "score": 7,
-    "reasons": [
-      "top-venue-hint",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "times_seen": 2,
-    "venue_group": "Science family",
-    "topics": [
-      "computational ultrasound"
-    ],
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.4666666666666667,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "not-needed"
-      }
-    },
-    "track": "main"
-  },
-  {
     "id": "2027-anisotropic-electronic-and-optical-behaviour-of-monolayer-sip-for-next-gene-fb1ffb632f4d",
     "title": "Anisotropic electronic and optical behaviour of monolayer SiP for next generation devices",
     "authors": "Usha Shukla",
@@ -1048,7 +1048,7 @@
     "primary_url": "https://doi.org/10.1016/j.jmst.2026.04.028",
     "pdf_url": "",
     "source": "Crossref",
-    "matched_query": "mmWave radar imaging SenSys",
+    "matched_query": "millimeter wave radar indoor mapping MobiSys",
     "score": 7,
     "reasons": [
       "top-venue",
@@ -1058,7 +1058,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 4,
+    "times_seen": 20,
     "venue_group": "Science family",
     "topics": [
       "mmWave radar imaging"
@@ -1071,7 +1071,7 @@
         "track": "mmwave",
         "primary_scope": true,
         "core_term": true,
-        "imaging_term": true,
+        "imaging_term": false,
         "source_ok": true,
         "preprint_only": false,
         "negative_filter": false,

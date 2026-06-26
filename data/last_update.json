@@ -1,13 +1,33 @@
 {
-  "last_run": "2026-06-26T05:27:26.833902+00:00",
+  "last_run": "2026-06-26T05:51:07.480388+00:00",
   "since_date": "2024-06-26",
-  "raw_candidates_seen": 1738,
+  "raw_candidates_seen": 2098,
   "saved_candidates_total": 102,
   "errors": [],
   "note": "Candidates are ready for automatic curation-agent audit; high-confidence records may be promoted by scripts/agent_audit.py.",
-  "agent_audit_last_run": "2026-06-26T05:29:55.147717+00:00",
+  "agent_audit_last_run": "2026-06-26T05:53:38.060364+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 0,
   "resolved_final_versions": 2,
-  "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion; the mmWave track covers radar imaging, FMCW/MIMO-SAR, 4D radar, and radar point clouds."
+  "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion; the mmWave track covers radar imaging, FMCW/MIMO-SAR, 4D radar, and radar point clouds.",
+  "mmwave_allowlist": [
+    "ACM TOG / SIGGRAPH",
+    "CVPR",
+    "ECCV",
+    "ICCP",
+    "ICCV",
+    "ICLR",
+    "ICML",
+    "IEEE TIP",
+    "IEEE TMC",
+    "IEEE TPAMI",
+    "MobiCom",
+    "MobiSys",
+    "NeurIPS",
+    "SIGGRAPH",
+    "SenSys"
+  ],
+  "mmwave_track_total": 1,
+  "mmwave_track_removed_non_allowlist": [],
+  "mmwave_track_policy": "Only final-venue papers from the explicit top-venue allow-list are allowed in data/mmwave_papers.json; arXiv-only records are excluded."
 }
