@@ -1,45 +1,46 @@
 # Scheduled update task
 
-This repository is configured for an automated paper-candidate update every 6 hours through GitHub Actions.
+This repository is configured for an automated paper update every 6 hours through GitHub Actions.
 
 ## What the scheduled task does
 
 Workflow: `.github/workflows/update-papers.yml`
 
-Cron:
-
 ```yaml
 schedule:
-  - cron: "17 */6 * * *"
+  - cron: '17 */6 * * *'
 ```
-
-This means the workflow runs at 00:17, 06:17, 12:17, and 18:17 UTC every day.
 
 Each run:
 
 1. queries public scholarly sources through `scripts/update_candidates.py`;
-2. writes newly discovered, high-scoring candidates to `data/candidates.json`;
-3. records the run status in `data/last_update.json`;
-4. rebuilds `index.html`, `updates.html`, and per-paper HTML pages;
-5. tries to download open PDFs already listed in verified `data/papers.json`;
-6. commits and pushes changes back to the repository if anything changed.
+2. records newly discovered records in `data/candidates.json`;
+3. runs `scripts/agent_audit.py` as an automatic curation agent;
+4. promotes high-confidence records to `data/papers.json`;
+5. keeps borderline records in `data/candidates.json` for transparency;
+6. rebuilds the bilingual website through `scripts/build_site.py`;
+7. tries to download open PDFs already listed in the verified library;
+8. commits and pushes changes back to the repository if anything changed.
 
-## Accuracy policy
+## Automatic audit policy
 
-To avoid false positives, the workflow does **not** automatically add candidates to the verified library in `data/papers.json`.
+The workflow uses an automatic promotion step. The audit agent checks:
 
-- `data/papers.json`: manually verified, clean paper library.
-- `data/candidates.json`: automatically discovered papers that still need verification.
-- `updates.html`: browser-friendly view of the auto candidates.
+- venue/source priority;
+- acoustic, sonar, ultrasound, photoacoustic, optoacoustic, or acousto-optic terms;
+- imaging, reconstruction, tomography, holography, NLOS, synthetic aperture, or sensor-fusion terms;
+- recency;
+- DOI or reliable primary URL;
+- duplicate status against existing verified records;
+- negative filters for unrelated audio, astronomy, sports, or general signal-processing records.
 
-When a candidate is genuinely relevant, copy it into `data/papers.json`, add a Chinese summary and verified links, then run:
+High-confidence records are promoted automatically. Borderline records remain visible in `updates.html`.
 
-```bash
-python scripts/build_site.py
-git add data/papers.json index.html papers/*.html
-git commit -m "Promote verified paper"
-git push
-```
+## Public metadata policy
+
+This is a public repository. Metadata must use neutral project language only. Do not include private research plans, private preferences, or notes tied to a specific user's unpublished project context.
+
+The build and update scripts sanitize known private-context patterns before writing public metadata.
 
 ## GitHub permissions
 
@@ -61,17 +62,4 @@ Crossref recommends a polite user agent / mailto for API use. Add this optional 
 `Settings` → `Secrets and variables` → `Actions` → `New repository secret`
 
 - Name: `CROSSREF_MAILTO`
-- Value: your email, e.g. `raygeng@hku.hk`
-
-## First-time push permission
-
-To push `.github/workflows/update-papers.yml` into the repository for the first time from your own computer, your GitHub login/token must have permission to write workflow files.
-
-For a fine-grained Personal Access Token:
-
-- Repository access: only `ruixv/acoustic-optics-imaging`
-- Contents: Read and write
-- Workflows: Read and write
-- Metadata: Read-only/default
-
-After the workflow file is in the default branch, future scheduled pushes can use the built-in `GITHUB_TOKEN`.
+- Value: a contact email address
