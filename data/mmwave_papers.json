@@ -1,5 +1,230 @@
 [
   {
+    "id": "twinfocus-handheld-mmwave-sar-autofocus",
+    "title": "TwinFocus: Autofocus for Handheld mmWave SAR Imaging via Physical and Digital Twin References",
+    "authors": "Authors pending verification",
+    "year": 2026,
+    "publication_date": "2026",
+    "venue": "Metadata pending",
+    "venue_group": "Manual seed",
+    "venue_type": "tracking seed",
+    "doi": "",
+    "primary_url": "",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "handheld mmWave SAR",
+      "autofocus",
+      "phase error compensation",
+      "physical and digital twin references"
+    ],
+    "relevance": "core",
+    "summary_cn": "手持毫米波 SAR 自动聚焦方向的手动种子条目，核心关键词覆盖 physical twin / digital twin reference、autofocus 和 phase-error compensation。",
+    "summary_en": "Manual seed for handheld mmWave SAR autofocus using physical and digital twin references.",
+    "why_include_cn": "该题目由用户明确指出为重大遗漏；虽然本次未能在公开检索中核验完整元数据，但应进入隐藏毫米波模块和后续自动精确检索队列。",
+    "why_include_en": "Added as an explicit user-requested mmWave seed so that future automated discovery performs exact-title tracking instead of missing this line of work.",
+    "download_note": "Metadata pending. This entry is intentionally retained as a hidden mmWave tracking seed until authoritative public metadata is found.",
+    "sources": [],
+    "last_verified": "2026-06-26",
+    "curation_origin": "manual-user-request-mmwave-gap-fix",
+    "verification": {
+      "mode": "manual-seed-metadata-pending",
+      "confidence": 0.35,
+      "track": "mmwave",
+      "note": "No authoritative public metadata was found in this pass; kept to prevent recurrence of the omission."
+    }
+  },
+  {
+    "id": "zhou2025-rise-single-static-radar-indoor-scene-understanding",
+    "title": "RISE: Single Static Radar-based Indoor Scene Understanding",
+    "authors": "Kaichen Zhou; Laura Dodds; Sayed Saad Afzal; Fadel Adib",
+    "year": 2025,
+    "publication_date": "2025-11-18",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "",
+    "primary_url": "https://arxiv.org/abs/2511.14019",
+    "pdf_url": "https://arxiv.org/pdf/2511.14019",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "single static radar",
+      "indoor scene understanding",
+      "layout reconstruction",
+      "object detection",
+      "mmWave multipath"
+    ],
+    "relevance": "core",
+    "summary_cn": "使用单个静态毫米波雷达进行室内场景理解，联合布局重建和物体检测，并利用多径反射中的几何信息。",
+    "summary_en": "A single-static mmWave radar benchmark and system for indoor layout reconstruction and object detection using multipath geometry.",
+    "why_include_cn": "这是毫米波雷达从点云/建图走向室内场景理解的重要近作，属于隐藏毫米波模块必须跟踪的方向。",
+    "why_include_en": "Directly addresses static-radar indoor scene reconstruction and object-level understanding, a gap missed by the previous mmWave side-track policy.",
+    "download_note": "arXiv preprint; no final venue was verified during this pass.",
+    "sources": [
+      "https://arxiv.org/abs/2511.14019"
+    ],
+    "last_verified": "2026-06-26",
+    "curation_origin": "manual-user-request-mmwave-gap-fix",
+    "verification": {
+      "mode": "manual-arxiv-verification",
+      "confidence": 0.9,
+      "track": "mmwave"
+    }
+  },
+  {
+    "id": "dodds2025-waveformer-through-occlusion-wireless-shape-completion",
+    "title": "Wave-Former: Through-Occlusion 3D Reconstruction via Wireless Shape Completion",
+    "authors": "Laura Dodds; Maisy Lam; Waleed Akbar; Yibo Cheng; Fadel Adib",
+    "year": 2025,
+    "publication_date": "2025-11-18",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "",
+    "primary_url": "https://arxiv.org/abs/2511.14152",
+    "pdf_url": "https://arxiv.org/pdf/2511.14152",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "through-occlusion 3D reconstruction",
+      "wireless shape completion",
+      "mmWave sensing",
+      "physics-aware reconstruction"
+    ],
+    "relevance": "core",
+    "summary_cn": "利用毫米波无线信号穿透遮挡并结合物理约束 shape completion，实现隐藏日常物体的三维形状重建。",
+    "summary_en": "A through-occlusion mmWave reconstruction method that bridges wireless signals and physics-aware 3D shape completion.",
+    "why_include_cn": "该工作与 through-occlusion、毫米波三维重建和无线 shape completion 直接相关，是此前关键词体系容易漏掉的方向。",
+    "why_include_en": "Included because it captures the through-occlusion mmWave reconstruction family that generic radar point-cloud queries missed.",
+    "download_note": "arXiv preprint; no final venue was verified during this pass.",
+    "sources": [
+      "https://arxiv.org/abs/2511.14152"
+    ],
+    "last_verified": "2026-06-26",
+    "curation_origin": "mmwave-gap-fix-related-discovery",
+    "verification": {
+      "mode": "manual-arxiv-verification",
+      "confidence": 0.88,
+      "track": "mmwave"
+    }
+  },
+  {
+    "id": "mmnorm2025-through-occlusion-surface-normal-mmwave",
+    "title": "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation",
+    "authors": "Authors pending verification",
+    "year": 2025,
+    "publication_date": "2025",
+    "venue": "Metadata pending",
+    "venue_group": "Manual seed",
+    "venue_type": "tracking seed",
+    "doi": "",
+    "primary_url": "https://www.techradar.com/pro/security/wi-fi-signals-could-soon-be-used-by-ai-driven-robots-to-identify-objects-inside-boxes-or-even-tools-hidden-in-a-drawer",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "through-occlusion 3D reconstruction",
+      "surface normal estimation",
+      "mmWave sensing",
+      "hidden object reconstruction",
+      "specular reflection"
+    ],
+    "relevance": "core",
+    "summary_cn": "该手动种子对应 mmNorm / surface-normal-based 毫米波穿透遮挡三维重建方向，强调利用毫米波镜面反射和表面法线估计改善隐藏物体重建。",
+    "summary_en": "Manual seed for mmWave through-occlusion 3D reconstruction via surface normal estimation, associated with the mmNorm line of work.",
+    "why_include_cn": "该题目由用户明确指出为重大遗漏；surface normal、through-occlusion 和 mmWave 3D reconstruction 是此前检索规则没有覆盖好的关键词簇。",
+    "why_include_en": "Added as an explicit user-requested seed for the mmWave surface-normal / through-occlusion reconstruction cluster.",
+    "download_note": "Scholarly metadata pending. A public news report was found for mmNorm, but a primary paper page was not verified during this pass.",
+    "sources": [
+      "https://www.techradar.com/pro/security/wi-fi-signals-could-soon-be-used-by-ai-driven-robots-to-identify-objects-inside-boxes-or-even-tools-hidden-in-a-drawer"
+    ],
+    "last_verified": "2026-06-26",
+    "curation_origin": "manual-user-request-mmwave-gap-fix",
+    "verification": {
+      "mode": "manual-seed-secondary-source",
+      "confidence": 0.55,
+      "track": "mmwave",
+      "note": "A secondary source describes mmNorm and surface-normal-based mmWave reconstruction; full paper metadata remains pending."
+    }
+  },
+  {
+    "id": "li2024-ifnet-handheld-sar-mmwave",
+    "title": "IFNet: Deep Imaging and Focusing for Handheld SAR with Millimeter-wave Signals",
+    "authors": "Yadong Li; Dongheng Zhang; Ruixu Geng; Jincheng Wu; Yang Hu; Qibin Sun; Yan Chen",
+    "year": 2024,
+    "publication_date": "2024-05-03",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2405.02023",
+    "primary_url": "https://arxiv.org/abs/2405.02023",
+    "pdf_url": "https://arxiv.org/pdf/2405.02023",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "handheld mmWave SAR",
+      "deep unfolding",
+      "phase error compensation",
+      "imaging and focusing"
+    ],
+    "relevance": "core",
+    "summary_cn": "面向手持毫米波 SAR 的深度展开成像与聚焦网络，同时建模图像形成和手持相位误差补偿。",
+    "summary_en": "A deep unfolding framework for imaging and focusing in handheld mmWave SAR under phase errors.",
+    "why_include_cn": "该工作正是此前隐藏毫米波模块漏掉的 handheld SAR / phase-error / autofocus 主线。",
+    "why_include_en": "Directly covers handheld mmWave SAR imaging, focusing, and phase-error compensation.",
+    "download_note": "arXiv preprint; no final venue was verified during this pass.",
+    "sources": [
+      "https://arxiv.org/abs/2405.02023"
+    ],
+    "last_verified": "2026-06-26",
+    "curation_origin": "manual-user-request-mmwave-gap-fix",
+    "verification": {
+      "mode": "manual-arxiv-verification",
+      "confidence": 0.92,
+      "track": "mmwave"
+    }
+  },
+  {
+    "id": "li2024-high-resolution-handheld-mmwave-imaging",
+    "title": "A high-resolution handheld millimeter-wave imaging system with phase error estimation and compensation",
+    "authors": "Yadong Li; Dongheng Zhang; Ruixu Geng; Zhi Lu; Zhi Wu; Yang Hu; Qibin Sun; Yan Chen",
+    "year": 2024,
+    "publication_date": "2024",
+    "venue": "Communications Engineering",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal",
+    "doi": "",
+    "primary_url": "",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "handheld mmWave SAR",
+      "high-resolution mmWave imaging",
+      "phase error estimation",
+      "phase compensation"
+    ],
+    "relevance": "core",
+    "summary_cn": "Communications Engineering 2024 手持毫米波高分辨成像系统，核心在于相位误差估计与补偿。",
+    "summary_en": "A Nature Portfolio Communications Engineering paper on high-resolution handheld mmWave imaging with phase-error estimation and compensation.",
+    "why_include_cn": "这是用户明确指出的重大遗漏；Communications Engineering 属于 Nature Portfolio，且与手持毫米波 SAR 高分辨成像直接相关。",
+    "why_include_en": "Included because it is a Nature Portfolio mmWave imaging paper and a direct predecessor to the IFNet handheld SAR line.",
+    "download_note": "Metadata was verified from the IFNet reference list; direct DOI/publisher URL should be filled once resolved from the publisher/Crossref.",
+    "sources": [
+      "https://ar5iv.labs.arxiv.org/html/2405.02023"
+    ],
+    "last_verified": "2026-06-26",
+    "curation_origin": "manual-user-request-mmwave-gap-fix",
+    "verification": {
+      "mode": "manual-reference-list-verification",
+      "confidence": 0.78,
+      "track": "mmwave",
+      "note": "IFNet reference list records this paper as Communications Engineering, vol. 3, no. 1, article 4, 2024. Direct DOI was not resolved in this pass."
+    }
+  },
+  {
     "id": "lu2020-millimap-see-through-smoke",
     "title": "See Through Smoke: Robust Indoor Mapping with Low-cost mmWave Radar",
     "authors": "Chris Xiaoxuan Lu; Stefano Rosa; Peijun Zhao; Bing Wang; Changhao Chen; John A. Stankovic; Niki Trigoni; Andrew Markham",
