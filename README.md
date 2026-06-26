@@ -40,6 +40,7 @@ The goal is **not** to collect every loosely related paper. The goal is to maint
 | Discovery | Crossref + arXiv public APIs |
 | Audit | Automatic curation agent |
 | Promotion | High-confidence papers can be added to `data/papers.json` automatically |
+| Final-version rule | Accepted arXiv papers are labeled by their final journal/conference, not by arXiv |
 | Borderline items | Kept in `data/candidates.json` / `updates.html` |
 | PDF policy | Open/legal sources only |
 
@@ -102,7 +103,11 @@ flowchart LR
     E --> F
 ```
 
-The audit agent evaluates topical relevance, venue/source quality, recency, duplicate status, DOI or primary-source availability, negative-topic filters, and legal PDF availability. High-confidence records are promoted automatically; borderline records remain visible in `updates.html` for transparency.
+The audit agent evaluates topical relevance, venue/source quality, recency, duplicate status, DOI or primary-source availability, negative-topic filters, final accepted/published version availability, and legal PDF availability. High-confidence records are promoted automatically; borderline records remain visible in `updates.html` for transparency.
+
+### arXiv / final-version rule
+
+arXiv is treated as a preprint source, not a final venue. If an arXiv paper has an accepted or published version, the tracker records the final journal or conference as `venue` and keeps the arXiv link only as an open PDF/preprint source when useful. If no accepted/published version can be verified, the record remains `arXiv preprint`.
 
 ---
 
