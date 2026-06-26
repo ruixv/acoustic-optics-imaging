@@ -24,7 +24,7 @@ def load(name):
 
 
 def download(url, out):
-    headers = {'User-Agent': 'Mozilla/5.0 (compatible; acoustic-optics-imaging/1.1; +https://github.com/ruixv/acoustic-optics-imaging)'}
+    headers = {'User-Agent': 'Mozilla/5.0 (compatible; acoustic-optics-imaging/1.2; +https://github.com/ruixv/acoustic-optics-imaging)'}
     with requests.get(url, headers=headers, stream=True, timeout=45, allow_redirects=True) as r:
         r.raise_for_status()
         ctype = r.headers.get('content-type', '').lower()
@@ -38,7 +38,7 @@ def download(url, out):
 
 seen = set()
 papers = []
-for item in load('focus_papers.json') + load('papers.json'):
+for item in load('focus_papers.json') + load('mmwave_papers.json') + load('papers.json'):
     if item.get('id') and item['id'] not in seen:
         papers.append(item)
         seen.add(item['id'])
