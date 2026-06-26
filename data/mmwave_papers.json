@@ -32,7 +32,46 @@
       "mode": "manual-seed-metadata-pending",
       "confidence": 0.35,
       "track": "mmwave",
-      "note": "No authoritative public metadata was found in this pass; kept to prevent recurrence of the omission."
+      "note": "No authoritative public metadata was found in this pass; kept to prevent recurrence of the omission.",
+      "mmwave_keep_reason": "manual-mmwave-tracking-seed"
+    }
+  },
+  {
+    "id": "dodds2025-waveformer-through-occlusion-wireless-shape-completion",
+    "title": "Wave-Former: Through-Occlusion 3D Reconstruction via Wireless Shape Completion",
+    "authors": "Laura Dodds; Maisy Lam; Waleed Akbar; Yibo Cheng; Fadel Adib",
+    "year": 2025,
+    "publication_date": "2025-11-18",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "",
+    "primary_url": "https://arxiv.org/abs/2511.14152",
+    "pdf_url": "https://arxiv.org/pdf/2511.14152",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "through-occlusion 3D reconstruction",
+      "wireless shape completion",
+      "mmWave sensing",
+      "physics-aware reconstruction"
+    ],
+    "relevance": "core",
+    "summary_cn": "利用毫米波无线信号穿透遮挡并结合物理约束 shape completion，实现隐藏日常物体的三维形状重建。",
+    "summary_en": "A through-occlusion mmWave reconstruction method that bridges wireless signals and physics-aware 3D shape completion.",
+    "why_include_cn": "该工作与 through-occlusion、毫米波三维重建和无线 shape completion 直接相关，是此前关键词体系容易漏掉的方向。",
+    "why_include_en": "Included because it captures the through-occlusion mmWave reconstruction family that generic radar point-cloud queries missed.",
+    "download_note": "arXiv preprint; no final venue was verified during this pass.",
+    "sources": [
+      "https://arxiv.org/abs/2511.14152"
+    ],
+    "last_verified": "2026-06-26",
+    "curation_origin": "mmwave-gap-fix-related-discovery",
+    "verification": {
+      "mode": "manual-arxiv-verification",
+      "confidence": 0.88,
+      "track": "mmwave",
+      "mmwave_keep_reason": "high-relevance-mmwave-preprint"
     }
   },
   {
@@ -70,44 +109,8 @@
     "verification": {
       "mode": "manual-arxiv-verification",
       "confidence": 0.9,
-      "track": "mmwave"
-    }
-  },
-  {
-    "id": "dodds2025-waveformer-through-occlusion-wireless-shape-completion",
-    "title": "Wave-Former: Through-Occlusion 3D Reconstruction via Wireless Shape Completion",
-    "authors": "Laura Dodds; Maisy Lam; Waleed Akbar; Yibo Cheng; Fadel Adib",
-    "year": 2025,
-    "publication_date": "2025-11-18",
-    "venue": "arXiv preprint",
-    "venue_group": "arXiv",
-    "venue_type": "preprint",
-    "doi": "",
-    "primary_url": "https://arxiv.org/abs/2511.14152",
-    "pdf_url": "https://arxiv.org/pdf/2511.14152",
-    "project_url": "",
-    "code_url": "",
-    "topics": [
-      "through-occlusion 3D reconstruction",
-      "wireless shape completion",
-      "mmWave sensing",
-      "physics-aware reconstruction"
-    ],
-    "relevance": "core",
-    "summary_cn": "利用毫米波无线信号穿透遮挡并结合物理约束 shape completion，实现隐藏日常物体的三维形状重建。",
-    "summary_en": "A through-occlusion mmWave reconstruction method that bridges wireless signals and physics-aware 3D shape completion.",
-    "why_include_cn": "该工作与 through-occlusion、毫米波三维重建和无线 shape completion 直接相关，是此前关键词体系容易漏掉的方向。",
-    "why_include_en": "Included because it captures the through-occlusion mmWave reconstruction family that generic radar point-cloud queries missed.",
-    "download_note": "arXiv preprint; no final venue was verified during this pass.",
-    "sources": [
-      "https://arxiv.org/abs/2511.14152"
-    ],
-    "last_verified": "2026-06-26",
-    "curation_origin": "mmwave-gap-fix-related-discovery",
-    "verification": {
-      "mode": "manual-arxiv-verification",
-      "confidence": 0.88,
-      "track": "mmwave"
+      "track": "mmwave",
+      "mmwave_keep_reason": "manual-mmwave-tracking-seed"
     }
   },
   {
@@ -146,7 +149,8 @@
       "mode": "manual-seed-secondary-source",
       "confidence": 0.55,
       "track": "mmwave",
-      "note": "A secondary source describes mmNorm and surface-normal-based mmWave reconstruction; full paper metadata remains pending."
+      "note": "A secondary source describes mmNorm and surface-normal-based mmWave reconstruction; full paper metadata remains pending.",
+      "mmwave_keep_reason": "manual-mmwave-tracking-seed"
     }
   },
   {
@@ -183,7 +187,8 @@
     "verification": {
       "mode": "manual-arxiv-verification",
       "confidence": 0.92,
-      "track": "mmwave"
+      "track": "mmwave",
+      "mmwave_keep_reason": "manual-mmwave-tracking-seed"
     }
   },
   {
@@ -221,7 +226,8 @@
       "mode": "manual-reference-list-verification",
       "confidence": 0.78,
       "track": "mmwave",
-      "note": "IFNet reference list records this paper as Communications Engineering, vol. 3, no. 1, article 4, 2024. Direct DOI was not resolved in this pass."
+      "note": "IFNet reference list records this paper as Communications Engineering, vol. 3, no. 1, article 4, 2024. Direct DOI was not resolved in this pass.",
+      "mmwave_keep_reason": "allowed-final-venue"
     }
   },
   {
@@ -254,6 +260,10 @@
       "https://arxiv.org/abs/1911.00398"
     ],
     "last_verified": "2026-06-26",
-    "curation_origin": "mmwave-whitelist-public"
+    "curation_origin": "mmwave-whitelist-public",
+    "verification": {
+      "track": "mmwave",
+      "mmwave_keep_reason": "allowed-final-venue"
+    }
   }
 ]

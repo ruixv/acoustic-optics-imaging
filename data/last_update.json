@@ -1,29 +1,37 @@
 {
-  "last_run": "2026-06-26T08:52:39.692588+00:00",
+  "last_run": "2026-06-26T09:40:15.400639+00:00",
   "since_date": "2024-06-26",
-  "raw_candidates_seen": 2098,
+  "raw_candidates_seen": 2678,
   "saved_candidates_total": 102,
   "errors": [],
-  "note": "Candidates are ready for automatic curation-agent audit; high-confidence records may be promoted by scripts/agent_audit.py.",
+  "note": "Candidates are ready for automatic curation-agent audit; high-confidence records may be promoted by scripts/agent_audit.py. Author strings are preserved in full when available.",
   "mmwave_seed_queries": [
     "high resolution handheld millimeter wave imaging phase error estimation compensation",
+    "A high-resolution handheld millimeter-wave imaging system with phase error estimation and compensation",
+    "Communications Engineering handheld millimeter-wave imaging phase error compensation",
     "IFNet deep imaging focusing handheld SAR millimeter wave signals",
     "TwinFocus autofocus handheld mmWave SAR imaging physical digital twin references",
-    "high fidelity 3D reconstruction millimeter wave surface normal estimation",
-    "RISE single static radar indoor scene understanding",
+    "High-Fidelity Through-Occlusion 3D Reconstruction Millimeter-Wave Surface Normal Estimation",
+    "mmNorm millimeter-wave surface normal hidden object reconstruction",
     "Wave-Former through occlusion 3D reconstruction wireless shape completion",
-    "handheld millimeter wave SAR autofocus MobiSys",
+    "RISE single static radar indoor scene understanding",
+    "single static radar indoor scene understanding mmWave multipath",
+    "handheld millimeter wave SAR autofocus MobiSys MobiCom SenSys",
     "millimeter wave radar indoor scene understanding MobiCom SenSys",
     "mmWave surface normal estimation 3D reconstruction CVPR ICCV",
-    "Nature high resolution handheld millimeter wave imaging system"
+    "Nature Portfolio millimeter wave radar imaging Communications Engineering"
+  ],
+  "mmwave_manual_seed_titles": [
+    "TwinFocus: Autofocus for Handheld mmWave SAR Imaging via Physical and Digital Twin References",
+    "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-06-26T08:57:44.853808+00:00",
+  "agent_audit_last_run": "2026-06-26T09:45:19.511339+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 0,
   "resolved_final_versions": 2,
-  "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion; the mmWave track covers radar imaging, FMCW/MIMO-SAR, 4D radar, and radar point clouds.",
-  "mmwave_allowlist": [
+  "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion; hidden mmWave track covers radar imaging, handheld SAR/autofocus, FMCW/MIMO-SAR, 4D radar, through-occlusion reconstruction, surface normals, and radar scene understanding. Nature-family mapping includes Communications Engineering.",
+  "mmwave_allowlist_final_groups": [
     "ACM TOG / SIGGRAPH",
     "CVPR",
     "ECCV",
@@ -47,7 +55,7 @@
     "SIGGRAPH",
     "SenSys"
   ],
-  "mmwave_track_total": 1,
-  "mmwave_track_removed_non_allowlist": [],
-  "mmwave_track_policy": "Only final-venue papers from the explicit top-venue allow-list are allowed in data/mmwave_papers.json; arXiv-only records are excluded. Nature and Nature-family venues are included in the allow-list."
+  "mmwave_track_total": 7,
+  "mmwave_track_removed_non_policy": [],
+  "mmwave_track_policy": "Hidden mmWave side track keeps final top-venue papers, high-relevance mmWave arXiv/preprints, and explicitly marked manual tracking seeds. Nature Portfolio includes Communications Engineering and other Nature-family journals through the curation group mapping."
 }

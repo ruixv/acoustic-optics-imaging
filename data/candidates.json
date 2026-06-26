@@ -36,6 +36,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -79,6 +81,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -124,6 +128,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -168,6 +174,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -211,6 +219,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -255,6 +265,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -299,6 +311,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -342,6 +356,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -352,7 +368,7 @@
   {
     "id": "2027-two-step-k-rb-ion-exchange-enabling-high-mechanical-properties-and-brittle-33cbb7a76669",
     "title": "Two-step K⁺/Rb⁺ ion exchange enabling high mechanical properties and brittle-ductile transition in 3D-printed dental lithium disilicate",
-    "authors": "Zengqi Ye; Xin Zhou; Qianshu Xia; Xuanbing Chen; Xiaofeng Lu; Qian Teng; Tianxiang Ren; Xian Tong; et al.",
+    "authors": "Zengqi Ye; Xin Zhou; Qianshu Xia; Xuanbing Chen; Xiaofeng Lu; Qian Teng; Tianxiang Ren; Xian Tong; Zhaoping Chen; Yuncang Li; Li Zhu; Cuie Wen; Jixing Lin; Jianfeng Ma",
     "year": 2027,
     "publication_date": "2027-02-01",
     "venue": "Journal of Materials Science &amp; Technology",
@@ -360,7 +376,7 @@
     "primary_url": "https://doi.org/10.1016/j.jmst.2026.05.052",
     "pdf_url": "",
     "source": "Crossref",
-    "matched_query": "camera sonar fusion 3D reconstruction",
+    "matched_query": "Wave-Former through-occlusion 3D reconstruction wireless shape completion",
     "score": 8,
     "reasons": [
       "top-venue",
@@ -370,7 +386,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 20,
+    "times_seen": 23,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -380,22 +396,24 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "track": "main",
+        "track": "mmwave",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
     },
-    "track": "main"
+    "track": "mmwave"
   },
   {
     "id": "2027-space-for-time-design-of-3d-support-buffer-structures-addressing-lifetime-l-ae365e2a95c3",
     "title": "Space-for-time design of 3D support-buffer structures addressing lifetime limitations in planar zinc metal anodes",
-    "authors": "Chun Li; Xuyang Wu; Tengjia Gao; Pei Wang; Xiaoqing Zhang; Qing Liu; Guanhua Zhang; Yubin Zeng; et al.",
+    "authors": "Chun Li; Xuyang Wu; Tengjia Gao; Pei Wang; Xiaoqing Zhang; Qing Liu; Guanhua Zhang; Yubin Zeng; Furui Gu; Junjie Huang; Langxing He; Bote Zhao; Yu Chen; Yong Tang; Wei Yuan",
     "year": 2027,
     "publication_date": "2027-02-01",
     "venue": "Journal of Materials Science &amp; Technology",
@@ -403,7 +421,7 @@
     "primary_url": "https://doi.org/10.1016/j.jmst.2026.05.070",
     "pdf_url": "",
     "source": "Crossref",
-    "matched_query": "camera sonar fusion 3D reconstruction",
+    "matched_query": "Wave-Former through-occlusion 3D reconstruction wireless shape completion",
     "score": 8,
     "reasons": [
       "top-venue",
@@ -413,7 +431,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 20,
+    "times_seen": 23,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -423,22 +441,24 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "track": "main",
+        "track": "mmwave",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
     },
-    "track": "main"
+    "track": "mmwave"
   },
   {
     "id": "2027-a-computational-framework-for-quantitative-property-mapping-and-structure-p-32a0ddaf8dd5",
     "title": "A computational framework for quantitative property mapping and structure-property analysis of metallic glasses",
-    "authors": "Xuhe Gong; Hengbo Zhao; Xiao Fu; Jingchen Lian; Qifan Yang; Ran Li; Ruijuan Xiao; Tao Zhang; et al.",
+    "authors": "Xuhe Gong; Hengbo Zhao; Xiao Fu; Jingchen Lian; Qifan Yang; Ran Li; Ruijuan Xiao; Tao Zhang; Hong Li",
     "year": 2027,
     "publication_date": "2027-02-01",
     "venue": "Journal of Materials Science &amp; Technology",
@@ -456,7 +476,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 22,
+    "times_seen": 26,
     "venue_group": "Science family",
     "topics": [
       "computational ultrasound"
@@ -468,8 +488,10 @@
         "track": "mmwave",
         "primary_scope": true,
         "core_term": true,
-        "imaging_term": false,
+        "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -513,6 +535,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -523,7 +547,7 @@
   {
     "id": "2027-stored-energy-driven-multi-scale-microstructure-reconstruction-for-strength-74ba4f9f16a4",
     "title": "Stored energy-driven multi-scale microstructure reconstruction for strength-ductility synergy and anisotropy mitigation in LDED Ti65 alloy",
-    "authors": "Xianan Liu; Difei Wang; Zuxing Qi; Guangsheng Li; Zijie Xu; Jun Lv; Yingwei Zhang; Jiayan Li; et al.",
+    "authors": "Xianan Liu; Difei Wang; Zuxing Qi; Guangsheng Li; Zijie Xu; Jun Lv; Yingwei Zhang; Jiayan Li; Pengting Li",
     "year": 2027,
     "publication_date": "2027-01-01",
     "venue": "Journal of Materials Science &amp; Technology",
@@ -531,7 +555,7 @@
     "primary_url": "https://doi.org/10.1016/j.jmst.2026.04.043",
     "pdf_url": "",
     "source": "Crossref",
-    "matched_query": "camera sonar fusion 3D reconstruction",
+    "matched_query": "mmNorm millimeter-wave surface normal hidden object reconstruction",
     "score": 8,
     "reasons": [
       "top-venue",
@@ -541,7 +565,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 44,
+    "times_seen": 50,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -551,22 +575,24 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "track": "main",
+        "track": "mmwave",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
     },
-    "track": "main"
+    "track": "mmwave"
   },
   {
     "id": "2027-electrochemical-reconstruction-modulation-of-nicr-ldh-ceo2-unlocking-superi-bda4905b12bf",
     "title": "Electrochemical reconstruction modulation of NiCr-LDH/CeO2: Unlocking superior intrinsic activity and corrosion resistance for alkaline water/seawater oxidation",
-    "authors": "Yunxia Kang; Han-Ming Zhang; Runliang Cui; Ce Zhou; Baocai Xu; Hongjun Huang; Hongjing Wan; Junqi Ge; et al.",
+    "authors": "Yunxia Kang; Han-Ming Zhang; Runliang Cui; Ce Zhou; Baocai Xu; Hongjun Huang; Hongjing Wan; Junqi Ge; Jinfeng Sun",
     "year": 2027,
     "publication_date": "2027-01-01",
     "venue": "Journal of Materials Science &amp; Technology",
@@ -584,7 +610,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 23,
+    "times_seen": 26,
     "venue_group": "Science family",
     "topics": [
       "camera-sonar fusion",
@@ -599,6 +625,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -641,6 +669,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -685,6 +715,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -728,6 +760,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -771,6 +805,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -815,6 +851,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -859,6 +897,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -903,6 +943,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -946,6 +988,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -988,6 +1032,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -1030,6 +1076,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -1058,7 +1106,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 84,
+    "times_seen": 98,
     "venue_group": "Science family",
     "topics": [
       "mmWave radar imaging"
@@ -1071,8 +1119,10 @@
         "track": "mmwave",
         "primary_scope": true,
         "core_term": true,
-        "imaging_term": false,
+        "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -1114,6 +1164,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -1156,6 +1208,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -1199,6 +1253,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -1242,6 +1298,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -1285,6 +1343,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -1328,6 +1388,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -1372,6 +1434,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -1415,6 +1479,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -1458,6 +1524,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -1501,6 +1569,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -1545,6 +1615,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -1588,6 +1660,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -1630,6 +1704,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -1673,6 +1749,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -1716,6 +1794,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -1758,6 +1838,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -1800,6 +1882,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -1842,6 +1926,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -1884,6 +1970,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -1926,6 +2014,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -1968,6 +2058,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -2011,6 +2103,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -2053,6 +2147,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -2095,6 +2191,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -2137,6 +2235,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -2179,6 +2279,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -2221,6 +2323,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -2263,6 +2367,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -2305,6 +2411,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -2347,6 +2455,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -2389,6 +2499,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -2431,6 +2543,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -2473,6 +2587,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -2515,6 +2631,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -2558,6 +2676,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -2601,6 +2721,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -2644,6 +2766,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -2687,6 +2811,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -2730,6 +2856,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -2773,6 +2901,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -2816,6 +2946,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -2859,6 +2991,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -2902,6 +3036,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -2946,6 +3082,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -2990,6 +3128,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -3033,6 +3173,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -3076,6 +3218,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -3119,6 +3263,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -3162,6 +3308,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -3205,6 +3353,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -3249,6 +3399,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -3292,6 +3444,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -3334,6 +3488,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "resolved-from-arxiv-to-final-venue"
@@ -3385,6 +3541,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": true,
         "final_version_status": "not-needed"
@@ -3428,6 +3586,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": true,
         "final_version_status": "not-needed"
@@ -3470,6 +3630,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -3512,6 +3674,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
@@ -3554,6 +3718,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -3597,6 +3763,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -3640,6 +3808,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -3683,6 +3853,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -3727,6 +3899,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -3770,6 +3944,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -3812,6 +3988,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "resolved-from-arxiv-to-final-venue"
@@ -3862,6 +4040,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": true,
         "final_version_status": "not-needed"
@@ -3904,6 +4084,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": true,
         "final_version_status": "not-needed"
@@ -3946,6 +4128,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": true,
         "final_version_status": "not-needed"
@@ -3988,6 +4172,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": false,
         "negative_filter": true,
         "final_version_status": "not-needed"
@@ -4031,6 +4217,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -4074,6 +4262,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -4117,6 +4307,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -4160,6 +4352,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -4203,6 +4397,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -4247,6 +4443,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": true,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -4292,6 +4490,8 @@
         "core_term": true,
         "imaging_term": true,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": true,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -4337,6 +4537,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": true,
         "final_version_status": "arxiv-only-no-final-version-found"
@@ -4382,6 +4584,8 @@
         "core_term": true,
         "imaging_term": false,
         "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
         "preprint_only": true,
         "negative_filter": true,
         "final_version_status": "arxiv-only-no-final-version-found"
