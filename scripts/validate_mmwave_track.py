@@ -14,6 +14,8 @@ MMWAVE = DATA / "mmwave_papers.json"
 LOG = DATA / "last_update.json"
 
 ALLOWED = {
+    "Nature", "Nature Portfolio", "Nature Communications", "Nature Electronics",
+    "Nature Photonics", "Nature Machine Intelligence", "Nature Computational Science",
     "CVPR", "ICCV", "NeurIPS", "ECCV", "ICLR", "ICML", "ICCP",
     "MobiSys", "MobiCom", "SenSys", "IEEE TPAMI", "ACM TOG / SIGGRAPH",
     "IEEE TIP", "IEEE TMC", "SIGGRAPH"
@@ -44,6 +46,6 @@ log = load(LOG, {})
 log["mmwave_allowlist"] = sorted(ALLOWED)
 log["mmwave_track_total"] = len(kept)
 log["mmwave_track_removed_non_allowlist"] = removed
-log["mmwave_track_policy"] = "Only final-venue papers from the explicit top-venue allow-list are allowed in data/mmwave_papers.json; arXiv-only records are excluded."
+log["mmwave_track_policy"] = "Only final-venue papers from the explicit top-venue allow-list are allowed in data/mmwave_papers.json; arXiv-only records are excluded. Nature and Nature-family venues are included in the allow-list."
 dump(LOG, log)
 print(f"mmWave side track: kept {len(kept)}, removed {len(removed)}")
