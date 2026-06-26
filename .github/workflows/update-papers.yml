@@ -47,6 +47,9 @@ jobs:
       - name: Run automatic curation-agent audit
         run: python scripts/agent_audit.py
 
+      - name: Validate mmWave allowlist
+        run: python scripts/validate_mmwave_track.py
+
       - name: Rebuild bilingual website
         run: python scripts/build_site.py
 
