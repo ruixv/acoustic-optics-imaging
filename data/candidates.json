@@ -31,7 +31,7 @@
       "decision": "approved-candidate",
       "confidence": 0.72,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -40,7 +40,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-spherical-collapse-and-halo-formation-in-a-cosmology-with-decaying-dark-mat-caa83473a250",
@@ -73,7 +74,7 @@
       "decision": "candidate",
       "confidence": 0.6666666666666666,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -83,7 +84,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-a-solid-unification-of-the-dark-sector-fba50318007d",
@@ -117,7 +119,7 @@
       "decision": "candidate",
       "confidence": 0.6666666666666666,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -126,7 +128,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-quantum-limited-subdiffraction-telescopy-requires-genuine-multi-telescope-i-eb5abe6ee704",
@@ -160,7 +163,7 @@
       "decision": "candidate",
       "confidence": 0.6666666666666666,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -169,7 +172,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-fracevent-event-camera-simulation-via-fractional-relaxation-pixel-dynamics-b620e6e8c2e9",
@@ -202,7 +206,7 @@
       "decision": "candidate",
       "confidence": 0.6666666666666666,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": false,
@@ -212,7 +216,52 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
+  },
+  {
+    "id": "2026-frequency-phase-transfer-for-future-millimetre-arrays-with-arbitrary-freque-5d28de970723",
+    "title": "Frequency Phase Transfer for Future Millimetre Arrays with Arbitrary Frequency Ratios",
+    "authors": "Senkhosi Simelane; Athol Kemball; Roger Deane",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27143v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27143v1",
+    "source": "arXiv",
+    "matched_query": "acousto-optic imaging",
+    "score": 10,
+    "reasons": [
+      "top-venue-hint",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 18,
+    "venue_group": "Other",
+    "topics": [
+      "photoacoustic imaging"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.6666666666666666,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-multimodal-imaging-to-support-vim-targeting-in-magnetic-resonance-guided-fo-c4a09b9a7735",
@@ -245,7 +294,7 @@
       "decision": "candidate",
       "confidence": 0.6,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -254,7 +303,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-mixoma-reconstru-o-mandibular-com-pr-tese-customizada-3d-relato-de-caso-myx-94554aa24700",
@@ -287,7 +337,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -296,7 +346,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-two-step-k-rb-ion-exchange-enabling-high-mechanical-properties-and-brittle-33cbb7a76669",
@@ -309,7 +360,7 @@
     "primary_url": "https://doi.org/10.1016/j.jmst.2026.05.052",
     "pdf_url": "",
     "source": "Crossref",
-    "matched_query": "camera sonar fusion 3D reconstruction",
+    "matched_query": "MIMO-SAR FMCW radar 3D reconstruction",
     "score": 8,
     "reasons": [
       "top-venue",
@@ -319,7 +370,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 4,
+    "times_seen": 10,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -329,7 +380,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "top_venue": true,
+        "track": "mmwave",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -338,7 +389,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "mmwave"
   },
   {
     "id": "2027-space-for-time-design-of-3d-support-buffer-structures-addressing-lifetime-l-ae365e2a95c3",
@@ -351,7 +403,7 @@
     "primary_url": "https://doi.org/10.1016/j.jmst.2026.05.070",
     "pdf_url": "",
     "source": "Crossref",
-    "matched_query": "camera sonar fusion 3D reconstruction",
+    "matched_query": "MIMO-SAR FMCW radar 3D reconstruction",
     "score": 8,
     "reasons": [
       "top-venue",
@@ -361,7 +413,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 4,
+    "times_seen": 10,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -371,7 +423,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "top_venue": true,
+        "track": "mmwave",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -380,7 +432,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "mmwave"
   },
   {
     "id": "2027-resson-ncia-magn-tica-e-tomografia-computadorizada-de-feixe-c-nico-para-o-d-fb43a2a836a8",
@@ -413,7 +466,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -422,7 +475,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-stored-energy-driven-multi-scale-microstructure-reconstruction-for-strength-74ba4f9f16a4",
@@ -435,7 +489,7 @@
     "primary_url": "https://doi.org/10.1016/j.jmst.2026.04.043",
     "pdf_url": "",
     "source": "Crossref",
-    "matched_query": "camera sonar fusion 3D reconstruction",
+    "matched_query": "mmWave radar neural reconstruction",
     "score": 8,
     "reasons": [
       "top-venue",
@@ -445,7 +499,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 9,
+    "times_seen": 19,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -455,7 +509,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "top_venue": true,
+        "track": "mmwave",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -464,7 +518,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "mmwave"
   },
   {
     "id": "2027-electrochemical-reconstruction-modulation-of-nicr-ldh-ceo2-unlocking-superi-bda4905b12bf",
@@ -477,7 +532,7 @@
     "primary_url": "https://doi.org/10.1016/j.jmst.2026.05.045",
     "pdf_url": "",
     "source": "Crossref",
-    "matched_query": "camera sonar fusion 3D reconstruction",
+    "matched_query": "MIMO-SAR FMCW radar 3D reconstruction",
     "score": 8,
     "reasons": [
       "top-venue",
@@ -487,7 +542,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 3,
+    "times_seen": 8,
     "venue_group": "Science family",
     "topics": [
       "camera-sonar fusion",
@@ -497,7 +552,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "top_venue": true,
+        "track": "mmwave",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -506,7 +561,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "mmwave"
   },
   {
     "id": "2026-in-plane-vector-field-imaging-of-propagating-surface-phonon-polaritons-df6902e2a127",
@@ -538,7 +594,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -548,7 +604,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-satsplatdiff-geometry-preserving-generative-refinement-for-high-fidelity-sa-a3345fa1eb11",
@@ -581,7 +638,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -591,7 +648,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-panoimager-geometry-guided-novel-view-synthesis-and-reconstruction-from-spa-ca962500a10c",
@@ -623,7 +681,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -633,7 +691,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-heterogeneous-neural-predictivity-from-language-models-during-naturalistic-ed6f4cf89853",
@@ -665,7 +724,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -675,7 +734,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-atgbuilder-feature-assisted-graph-learning-for-activity-transition-graph-co-eb26ca729cd8",
@@ -708,7 +768,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -718,7 +778,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-sharelock-a-stealthy-multi-tool-threshold-poisoning-attack-against-mcp-72d92de1b062",
@@ -751,7 +812,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -761,7 +822,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-holistic-multivariance-decomposition-adapting-mode-interrelations-in-low-ra-2f4e5b1c7bf4",
@@ -794,7 +856,7 @@
       "decision": "candidate",
       "confidence": 0.5333333333333333,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -804,7 +866,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2029-computational-by-design-83df3daf63ce",
@@ -836,7 +899,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -845,7 +908,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-a-computational-framework-for-quantitative-property-mapping-and-structure-p-32a0ddaf8dd5",
@@ -877,7 +941,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": true,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -886,7 +950,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-anisotropic-electronic-and-optical-behaviour-of-monolayer-sip-for-next-gene-fb1ffb632f4d",
@@ -918,7 +983,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": true,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -927,7 +992,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-relationship-between-surface-roughness-and-optical-thermal-responses-of-106-e82f12c65e44",
@@ -959,7 +1025,50 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": true,
+        "track": "main",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    },
+    "track": "main"
+  },
+  {
+    "id": "2027-superelastic-ribbon-like-aramid-nanofiber-reinforced-reduced-graphene-oxide-15d59bb78bf7",
+    "title": "Superelastic ribbon-like aramid nanofiber reinforced reduced graphene oxide aerogels for compatible infrared and radar stealth applications in harsh environments",
+    "authors": "Xiaoqing Yin; Yanyan Wang; Nan Pang; Yanxiao Dong; Xingyu Liu; Jianhua Ge; Meijie Yu; Chuanjian Zhou",
+    "year": 2027,
+    "publication_date": "2027-01-01",
+    "venue": "Journal of Materials Science &amp; Technology",
+    "doi": "10.1016/j.jmst.2026.04.028",
+    "primary_url": "https://doi.org/10.1016/j.jmst.2026.04.028",
+    "pdf_url": "",
+    "source": "Crossref",
+    "matched_query": "mmWave radar imaging SenSys",
+    "score": 7,
+    "reasons": [
+      "top-venue",
+      "core wave-sensing term",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 4,
+    "venue_group": "Science family",
+    "topics": [
+      "mmWave radar imaging"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4666666666666667,
+      "checks": {
+        "track": "mmwave",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -1000,7 +1109,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": false,
@@ -1009,7 +1118,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-an-ultralow-loss-integrated-photonic-platform-for-discrete-variable-quantum-40d3bf753f3d",
@@ -1041,7 +1151,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": false,
@@ -1051,7 +1161,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-learning-to-fold-prizewinning-solution-at-lehome-challenge-2026-1st-place-o-02c919c959c7",
@@ -1083,7 +1194,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": false,
@@ -1093,7 +1204,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-a-possible-approach-to-overcome-the-saturation-of-the-neutron-yield-in-a-pl-06d1c5c7c5e9",
@@ -1125,7 +1237,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": false,
@@ -1135,7 +1247,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-physeditworld-a-large-scale-dataset-toward-physics-editable-world-models-630fd9189959",
@@ -1167,7 +1280,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": false,
@@ -1177,7 +1290,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-graph-neural-networks-applications-across-domains-all-insights-you-need-fac185144784",
@@ -1209,7 +1323,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -1219,7 +1333,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-zqr-a-verifiable-qr-driven-zksnark-proof-verification-framework-for-mobile-cabf5ad9fc09",
@@ -1252,7 +1367,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -1262,7 +1377,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-a-hybrid-ifenn-solver-for-generalizable-modeling-of-phase-field-fracture-in-ad19d885a38e",
@@ -1294,7 +1410,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -1304,7 +1420,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-tops-first-principles-visual-token-pruning-via-constructing-token-optimal-p-33c7d0cc4410",
@@ -1336,7 +1453,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -1346,7 +1463,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-the-observer-world-a-cryptographic-extension-of-impagliazzo-s-five-worlds-0d63856fb598",
@@ -1378,7 +1496,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -1388,7 +1506,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-accessing-both-electrochemical-seira-and-sers-with-ultrasensitive-metamater-b3111b691fb5",
@@ -1421,7 +1540,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -1430,7 +1549,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-mapping-political-elite-networks-in-europe-with-a-multilingual-joint-entity-3d783735708c",
@@ -1463,7 +1583,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -1472,7 +1592,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-methane-plume-segmentation-from-hyperspectral-satellite-imagery-via-multimo-01006fa256f8",
@@ -1504,7 +1625,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": false,
@@ -1514,7 +1635,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-parametric-generalized-adaptive-moment-features-pg-amf-for-bearing-fault-di-c5653a684a30",
@@ -1546,7 +1668,7 @@
       "decision": "candidate",
       "confidence": 0.4666666666666667,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": false,
@@ -1556,7 +1678,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2028-robust-mean-signal-estimation-and-inference-for-imaging-data-432fc771eb98",
@@ -1588,7 +1711,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -1597,7 +1720,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-multi-modal-sensor-fusion-for-real-time-robotic-servoing-a-unified-framewor-7c1960a422ff",
@@ -1629,7 +1753,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -1638,7 +1762,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-imaging-in-pediatric-rheumatic-diseases-2c1f430197e2",
@@ -1670,7 +1795,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -1679,7 +1804,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-nanomaterials-for-imaging-and-diagnostics-20b810206022",
@@ -1711,7 +1837,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -1720,7 +1846,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-matrix-assisted-laser-desorption-ionization-mass-spectrometry-imaging-for-s-28dde1bd10ad",
@@ -1752,7 +1879,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -1761,7 +1888,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-hybrid-bayesian-and-deep-learning-based-degradation-modeling-for-medical-im-4d358ef6d2f4",
@@ -1793,7 +1921,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -1802,7 +1930,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-vigabatrin-associated-brain-magnetic-resonance-imaging-findings-257915d11500",
@@ -1834,7 +1963,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -1843,7 +1972,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-advancing-imaging-technology-intelligent-design-and-optimisation-of-barcode-398552ca5792",
@@ -1876,7 +2006,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -1885,7 +2015,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-pediatric-neurologyclinical-and-imaging-case-studies-d8507264e4c9",
@@ -1917,7 +2048,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -1926,7 +2057,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-functional-joint-models-for-imaging-genetic-data-4dc71792b129",
@@ -1958,7 +2090,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -1967,7 +2099,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-3d-geometric-reconstruction-method-of-damaged-cultural-relics-based-on-mult-b697ec891514",
@@ -1999,7 +2132,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2008,7 +2141,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-optimising-360-panoramic-imaging-fisheye-image-stitching-for-drone-based-ae-c34306fb990d",
@@ -2040,7 +2174,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2049,7 +2183,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-surfer-s-myelopathy-with-magnetic-resonance-imaging-evidence-suggestive-of-a24ad32ba915",
@@ -2081,7 +2216,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2090,7 +2225,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-a-segment-anything-model-adaptation-framework-for-battery-visual-inspection-be51cb743568",
@@ -2122,7 +2258,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2131,7 +2267,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-pyrene-based-dual-mode-nanoprobe-for-hydrogen-peroxide-determination-and-mi-b3273fa94c04",
@@ -2163,7 +2300,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2172,7 +2309,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-responsible-ai-in-healthcare-mitigating-hallucinations-and-enhancing-multim-eb1e91326376",
@@ -2204,7 +2342,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2213,7 +2351,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-scenario-driven-fluorescent-probes-for-formaldehyde-from-food-safety-testin-82d9ed650fa5",
@@ -2245,7 +2384,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2254,7 +2393,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-magnetic-resonance-imaging-texture-analysis-of-the-mandibular-condyle-in-ac-adf9cfb43c0c",
@@ -2286,7 +2426,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2295,7 +2435,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-water-soluble-nanosystems-of-the-hydrophobic-dye-zinc-tetraphenylporphyrina-fb862a5c4c68",
@@ -2327,7 +2468,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2336,7 +2477,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-on-fourier-phase-retrieval-from-differential-intensity-measurements-with-ap-d76fedfa3579",
@@ -2368,7 +2510,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2378,7 +2520,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-redshift-dependent-intrinsic-dispersion-in-the-quasar-uv-x-ray-luminosity-r-ae10d30ec23d",
@@ -2410,7 +2553,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -2420,7 +2563,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-neural-networks-for-inverse-design-of-cascaded-mode-near-field-landscapes-9754c854e315",
@@ -2452,7 +2596,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2462,7 +2606,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-gpu-accelerated-superiorization-on-constrained-physical-problems-with-suppy-3631e0308801",
@@ -2494,7 +2639,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2504,7 +2649,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-enabling-self-supervised-learned-primal-dual-with-noise2inverse-67a89a5108d9",
@@ -2536,7 +2682,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2546,7 +2692,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-vlbi-with-skampi-the-ska-mid-mpifr-dish-demonstrator-21b34b33e7e2",
@@ -2578,7 +2725,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2588,7 +2735,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-unraveling-the-mysteries-of-supernovae-with-ska-vlbi-4d74178f29f8",
@@ -2620,7 +2768,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2630,7 +2778,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-look-before-move-narrative-grounded-world-visual-attention-in-dynamic-3d-st-cd4424b63a1e",
@@ -2662,7 +2811,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -2672,7 +2821,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-mlffm-segdiff-a-multi-level-feature-fusion-diffusion-model-for-skin-lesion-a371f26f27f7",
@@ -2704,7 +2854,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": false,
@@ -2714,7 +2864,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-wq-fusion-dynamic-gated-attention-for-cross-domain-audio-representation-b29b868b17fd",
@@ -2746,7 +2897,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": false,
@@ -2756,7 +2907,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-3d-imaging-of-complex-skyrmion-and-hopf-topologies-in-an-extended-sample-82c9b59e1faf",
@@ -2789,7 +2941,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2798,7 +2950,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-vibeact-vibration-to-actions-for-contact-rich-reactive-robot-dexterity-3c496c40b4b4",
@@ -2832,7 +2985,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2841,7 +2994,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-unpinning-of-trapped-oil-droplets-via-non-resonant-acoustic-streaming-in-ca-278d23be8f8b",
@@ -2874,7 +3028,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2883,7 +3037,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-cortex-a-structured-reasoning-benchmark-for-trustworthy-3d-chest-ct-mllms-f88837c57cfc",
@@ -2916,7 +3071,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2925,7 +3080,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-muse-imaging-spectroscopy-of-the-fullerene-planetary-nebula-tc-1-92bed5c35dde",
@@ -2958,7 +3114,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -2967,7 +3123,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-raype-ray-space-positional-encoding-for-3d-aware-video-generation-de7c1aa063d4",
@@ -3000,7 +3157,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -3009,7 +3166,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-error-conditioned-neural-solvers-d919f7c21b2b",
@@ -3042,7 +3200,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -3051,7 +3209,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-realistic-time-domain-synthesis-of-gravitational-wave-detector-glitches-usi-f061a3d670c9",
@@ -3085,7 +3244,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -3094,7 +3253,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-the-ikkt-renormalization-group-flow-is-iib-toward-zero-d-holography-565930ccc08e",
@@ -3127,7 +3287,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -3136,7 +3296,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-unveiling-a-cosmic-tango-integral-field-spectroscopy-and-numerical-simulati-3e0151cac071",
@@ -3168,7 +3329,7 @@
       "decision": "candidate",
       "confidence": 0.4,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -3185,7 +3346,8 @@
       "http://arxiv.org/abs/2606.27057v1",
       "https://arxiv.org/pdf/2606.27057v1"
     ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue"
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "track": "main"
   },
   {
     "id": "2027-flow-and-acoustic-signatures-of-co2-leakage-in-injection-wells-for-ccs-inte-8386513c8f44",
@@ -3218,7 +3380,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": true,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -3227,50 +3389,8 @@
         "negative_filter": true,
         "final_version_status": "not-needed"
       }
-    }
-  },
-  {
-    "id": "2026-frequency-phase-transfer-for-future-millimetre-arrays-with-arbitrary-freque-5d28de970723",
-    "title": "Frequency Phase Transfer for Future Millimetre Arrays with Arbitrary Frequency Ratios",
-    "authors": "Senkhosi Simelane; Athol Kemball; Roger Deane",
-    "year": 2026,
-    "publication_date": "2026-06-25",
-    "venue": "arXiv preprint",
-    "doi": "",
-    "primary_url": "http://arxiv.org/abs/2606.27143v1",
-    "pdf_url": "https://arxiv.org/pdf/2606.27143v1",
-    "source": "arXiv",
-    "matched_query": "acousto-optic imaging",
-    "score": 10,
-    "reasons": [
-      "top-venue-hint",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "times_seen": 18,
-    "venue_group": "Other",
-    "topics": [
-      "photoacoustic imaging"
-    ],
-    "agent_audit": {
-      "decision": "reject-like",
-      "confidence": 0.2,
-      "checks": {
-        "top_venue": false,
-        "primary_scope": false,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": false,
-        "preprint_only": true,
-        "negative_filter": true,
-        "final_version_status": "arxiv-only-no-final-version-found"
-      }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "track": "main"
   },
   {
     "id": "2027-microstructure-engineering-of-soec-hydrogen-electrodes-for-high-performance-5190a5cb08ed",
@@ -3303,7 +3423,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -3312,7 +3432,8 @@
         "negative_filter": true,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-novel-in-situ-alloying-strategy-of-laser-powder-bed-fusion-for-fabricating-bc7fe84816f1",
@@ -3344,7 +3465,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": true,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": false,
@@ -3353,7 +3474,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-bimetallic-additive-manufacturing-of-304-stainless-steel-alsi10mg-by-electr-156458f0f222",
@@ -3385,7 +3507,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": true,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": false,
@@ -3394,7 +3516,8 @@
         "negative_filter": false,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-harmvideobench-benchmarking-harmful-video-understanding-in-large-multimodal-dd7fe0e885f5",
@@ -3426,7 +3549,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": false,
@@ -3436,7 +3559,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-flamevqa-a-physically-grounded-uav-wildfire-vqa-benchmark-with-radiometric-32354aa2a6bf",
@@ -3468,7 +3592,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": false,
@@ -3478,7 +3602,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-foresightsafety-vla-a-unified-diagnostic-safety-benchmark-for-vision-langua-bc23096164c6",
@@ -3510,7 +3635,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": false,
@@ -3520,7 +3645,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-computer-vision-for-moba-analytics-a-dataset-and-baseline-for-visibility-an-62a5dbef5721",
@@ -3552,7 +3678,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": false,
@@ -3562,7 +3688,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-when-does-combining-language-models-help-a-co-failure-ceiling-on-routing-vo-619adcfac7a4",
@@ -3595,7 +3722,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": false,
@@ -3604,7 +3731,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-scalable-behavior-cloning-with-open-data-training-and-evaluation-5cdf8b2442fc",
@@ -3637,7 +3765,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": false,
@@ -3646,7 +3774,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-event-aware-instructed-assistant-for-referring-video-segmentation-d47755e37f06",
@@ -3678,7 +3807,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": true,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": false,
@@ -3695,7 +3824,8 @@
       "http://arxiv.org/abs/2606.26994v1",
       "https://arxiv.org/pdf/2606.26994v1"
     ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue"
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "track": "main"
   },
   {
     "id": "2027-study-on-the-influence-of-supercritical-co2-pulsation-treatment-on-the-mech-ce2570a7c557",
@@ -3727,7 +3857,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -3736,7 +3866,8 @@
         "negative_filter": true,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-dynamic-3d-surface-reconstruction-and-instantaneous-burning-rate-quantifica-4bcd4338a619",
@@ -3768,7 +3899,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -3777,7 +3908,8 @@
         "negative_filter": true,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-high-speed-imaging-of-nh-radicals-in-nh3-h2-turbulent-flames-8d4bda6dc1c2",
@@ -3809,7 +3941,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -3818,7 +3950,8 @@
         "negative_filter": true,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2027-synchronized-digital-holography-and-pyrometry-to-study-particle-agglomerati-6ae342e0bdc7",
@@ -3850,7 +3983,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -3859,7 +3992,8 @@
         "negative_filter": true,
         "final_version_status": "not-needed"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-physiformer-learning-to-simulate-mechanics-in-world-space-d301bfd1062d",
@@ -3892,7 +4026,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": false,
@@ -3901,7 +4035,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-ropemover-depth-aware-object-relocation-via-positional-embeddings-7a26108fa15b",
@@ -3934,7 +4069,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": false,
@@ -3943,7 +4078,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-beyond-the-hard-budget-sparsity-regularizers-for-more-interpretable-top-k-s-b8805ba8a5bb",
@@ -3976,7 +4112,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": false,
@@ -3985,7 +4121,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-viq-text-aligned-visual-quantized-representations-at-any-resolution-fc84b6291a86",
@@ -4018,7 +4155,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": false,
@@ -4027,7 +4164,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-eo-wm-a-physically-informed-world-model-for-probabilistic-earth-observation-c9dee568d51e",
@@ -4060,7 +4198,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": false,
@@ -4069,7 +4207,8 @@
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "track": "main"
   },
   {
     "id": "2026-exploring-tidal-disruption-events-with-ska-and-vlbi-unveiling-the-mystery-o-b369a56323b5",
@@ -4103,7 +4242,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -4113,7 +4252,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-transforming-x-ray-binary-astrophysics-with-ska-vlbi-b2d70b5276d7",
@@ -4147,7 +4287,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": false,
         "core_term": true,
         "imaging_term": true,
@@ -4157,7 +4297,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-event-based-gaze-control-system-for-accurate-real-time-spin-estimation-in-p-49b7d564decd",
@@ -4191,7 +4332,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": false,
@@ -4201,7 +4342,8 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   },
   {
     "id": "2026-multipath-adaptive-gated-bottleneck-latent-ode-with-raman-data-fusion-for-c-a84a240903f1",
@@ -4235,7 +4377,7 @@
       "decision": "reject-like",
       "confidence": 0.2,
       "checks": {
-        "top_venue": false,
+        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": false,
@@ -4245,6 +4387,7 @@
         "final_version_status": "arxiv-only-no-final-version-found"
       }
     },
-    "final_version_status": "arxiv-only-no-final-version-found"
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "track": "main"
   }
 ]

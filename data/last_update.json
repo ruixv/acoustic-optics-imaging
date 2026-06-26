@@ -1,83 +1,13 @@
 {
-  "last_run": "2026-06-26T03:32:34.814677+00:00",
+  "last_run": "2026-06-26T05:27:26.833902+00:00",
   "since_date": "2024-06-26",
-  "raw_candidates_seen": 598,
-  "saved_candidates_total": 101,
-  "errors": [
-    {
-      "source": "arXiv",
-      "query": "imaging sonar differentiable rendering",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "neural implicit surface reconstruction imaging sonar",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22neural%22+OR+all%3A%22implicit%22+OR+all%3A%22surface%22+OR+all%3A%22reconstruction%22+OR+all%3A%22imaging%22+OR+all%3A%22sonar%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "neural volume rendering imaging sonar",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "forward-looking sonar 3D reconstruction differentiable",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22forward-looking%22+OR+all%3A%22sonar%22+OR+all%3A%22reconstruction%22+OR+all%3A%22differentiable%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "coherent synthetic aperture sonar reconstruction",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22coherent%22+OR+all%3A%22synthetic%22+OR+all%3A%22aperture%22+OR+all%3A%22sonar%22+OR+all%3A%22reconstruction%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "camera sonar fusion 3D reconstruction",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22camera%22+OR+all%3A%22sonar%22+OR+all%3A%22fusion%22+OR+all%3A%22reconstruction%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "acoustic optical sensor fusion sonar",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22acoustic%22+OR+all%3A%22optical%22+OR+all%3A%22sensor%22+OR+all%3A%22fusion%22+OR+all%3A%22sonar%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "opti acoustic sensor fusion volumetric mapping",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22opti%22+OR+all%3A%22acoustic%22+OR+all%3A%22sensor%22+OR+all%3A%22fusion%22+OR+all%3A%22volumetric%22+OR+all%3A%22mapping%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "sonar visual dataset cross modal underwater perception",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "acoustic holography phased array computation",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22acoustic%22+OR+all%3A%22holography%22+OR+all%3A%22phased%22+OR+all%3A%22array%22+OR+all%3A%22computation%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "coded acoustic imaging computational acoustics",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "computational ultrasound complex fields imaging",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22computational%22+OR+all%3A%22ultrasound%22+OR+all%3A%22complex%22+OR+all%3A%22fields%22+OR+all%3A%22imaging%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "acousto-optic imaging speckle decorrelation",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22acousto-optic%22+OR+all%3A%22imaging%22+OR+all%3A%22speckle%22+OR+all%3A%22decorrelation%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "photoacoustic imaging acoustic hologram",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    }
-  ],
+  "raw_candidates_seen": 1738,
+  "saved_candidates_total": 102,
+  "errors": [],
   "note": "Candidates are ready for automatic curation-agent audit; high-confidence records may be promoted by scripts/agent_audit.py.",
-  "agent_audit_last_run": "2026-06-26T03:36:18.495958+00:00",
+  "agent_audit_last_run": "2026-06-26T05:29:55.147717+00:00",
   "promoted_count": 0,
+  "promoted_mmwave_count": 0,
   "resolved_final_versions": 2,
-  "audit_note": "High-confidence records are promoted automatically. Scope is narrowed to acoustic imaging, imaging sonar, acoustic rendering/reconstruction, and acoustic-optical fusion."
+  "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion; the mmWave track covers radar imaging, FMCW/MIMO-SAR, 4D radar, and radar point clouds."
 }
