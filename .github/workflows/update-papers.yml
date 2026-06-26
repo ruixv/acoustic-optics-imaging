@@ -44,6 +44,11 @@ jobs:
           CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
         run: python scripts/update_candidates.py --since-days 730 --rows 30 --min-score 7
 
+      - name: Search targeted mmWave seeds
+        env:
+          CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
+        run: python scripts/update_mmwave_seed_candidates.py
+
       - name: Run automatic curation-agent audit
         run: python scripts/agent_audit.py
 
