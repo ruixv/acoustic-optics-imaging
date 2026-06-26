@@ -4,5 +4,6 @@
   "raw_candidates_seen": 1019,
   "saved_candidates_total": 126,
   "errors": [],
-  "note": "Candidates are not automatically promoted to data/papers.json; manual verification is required for the core library."
+  "note": "Automatic curation-agent audit is enabled. High-confidence records can be promoted automatically; borderline records remain in data/candidates.json for transparency.",
+  "workflow_trigger_note": "Triggered after bilingual UI and automatic audit update."
 }
