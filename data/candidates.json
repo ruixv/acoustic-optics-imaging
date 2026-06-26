@@ -21,7 +21,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 4,
     "venue_group": "Nature Portfolio",
     "topics": [
       "acoustic coded imaging"
@@ -35,20 +35,21 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
   {
-    "id": "2026-in-plane-vector-field-imaging-of-propagating-surface-phonon-polaritons-df6902e2a127",
-    "title": "In-plane vector-field imaging of propagating surface phonon polaritons",
-    "authors": "Richarda Niemann; Dorothée S. Mader; Gonzalo Alvarez-Pérez; Ana I. F. Tresguerres-Mata; Aitana Tarazaga Martín-Luengo; Stefan Partel; Joshua D. Caldwell; Niclas S. Mueller; Martin Wolf; Javier Martín-Sánchez; Pablo Alonso-González; Alexander Paarmann",
+    "id": "2026-spherical-collapse-and-halo-formation-in-a-cosmology-with-decaying-dark-mat-caa83473a250",
+    "title": "Spherical Collapse and Halo Formation in a Cosmology with Decaying Dark Matter and a Semi-Cosmographic Dark Energy",
+    "authors": "Mohit Yadav; Tapomoy Guha Sarkar",
     "year": 2026,
     "publication_date": "2026-06-25",
     "venue": "arXiv preprint",
     "doi": "",
-    "primary_url": "http://arxiv.org/abs/2606.27030v1",
-    "pdf_url": "https://arxiv.org/pdf/2606.27030v1",
+    "primary_url": "http://arxiv.org/abs/2606.27076v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27076v1",
     "source": "arXiv",
     "matched_query": "acousto-optic imaging",
     "score": 10,
@@ -61,10 +62,10 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 8,
+    "times_seen": 14,
     "venue_group": "Other",
     "topics": [
-      "acousto-optic imaging"
+      "photoacoustic imaging"
     ],
     "agent_audit": {
       "decision": "approved-candidate",
@@ -75,7 +76,135 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
+  },
+  {
+    "id": "2026-a-solid-unification-of-the-dark-sector-fba50318007d",
+    "title": "A solid unification of the dark sector",
+    "authors": "Jose Beltrán Jiménez; María Pérez Garrote; Florencia A. Teppa Pannia; Shinji Tsujikawa",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27290v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27290v1",
+    "source": "arXiv",
+    "matched_query": "acoustic coded imaging",
+    "score": 10,
+    "reasons": [
+      "top-venue-hint",
+      "acoustic/photoacoustic term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 5,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "acoustic coded imaging"
+    ],
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "top_venue": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-quantum-limited-subdiffraction-telescopy-requires-genuine-multi-telescope-i-eb5abe6ee704",
+    "title": "Quantum-Limited Subdiffraction Telescopy Requires Genuine Multi-Telescope Interference",
+    "authors": "Yujie Zhang; Yunkai Wang; Wilson Wu; Thomas Jennewein",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27276v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27276v1",
+    "source": "arXiv",
+    "matched_query": "all optical ultrasound detection photoacoustic imaging",
+    "score": 10,
+    "reasons": [
+      "top-venue-hint",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 14,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "photoacoustic imaging"
+    ],
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "top_venue": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-simulation-based-inference-for-rapid-bayesian-parameter-estimation-in-epide-333b8f5d5e04",
+    "title": "Simulation-based inference for rapid Bayesian parameter estimation in epidemiological models: a comparison with MCMC",
+    "authors": "Alina Bazarova; Johann Fredrik Jadebeck; Henrik Zunker; Carolina J. Klett-Tammen; Torben Heinsohn; Wolfgang Wiechert; Katharina Noeh; Stefan Kesselheim",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27286v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27286v1",
+    "source": "arXiv",
+    "matched_query": "computational ultrasound imaging",
+    "score": 10,
+    "reasons": [
+      "top-venue-hint",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 3,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "computational ultrasound"
+    ],
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "top_venue": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
     }
   },
@@ -101,7 +230,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 1,
+    "times_seen": 2,
     "venue_group": "Other",
     "topics": [
       "camera-sonar fusion"
@@ -115,9 +244,11 @@
         "imaging_term": false,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-multimodal-imaging-to-support-vim-targeting-in-magnetic-resonance-guided-fo-c4a09b9a7735",
@@ -141,7 +272,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 4,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -155,7 +286,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -180,7 +312,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 4,
     "venue_group": "Other",
     "topics": [
       "synthetic aperture sonar",
@@ -195,7 +327,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -220,7 +353,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 1,
+    "times_seen": 2,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -235,7 +368,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -248,86 +382,6 @@
     "venue": "Journal of Materials Science &amp; Technology",
     "doi": "10.1016/j.jmst.2026.05.070",
     "primary_url": "https://doi.org/10.1016/j.jmst.2026.05.070",
-    "pdf_url": "",
-    "source": "Crossref",
-    "matched_query": "synthetic aperture sonar 3D reconstruction",
-    "score": 8,
-    "reasons": [
-      "top-venue-hint",
-      "imaging/reconstruction term",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "times_seen": 1,
-    "venue_group": "Science family",
-    "topics": [
-      "synthetic aperture sonar",
-      "3D reconstruction"
-    ],
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "top_venue": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "preprint_only": false,
-        "negative_filter": false
-      }
-    }
-  },
-  {
-    "id": "2027-resson-ncia-magn-tica-e-tomografia-computadorizada-de-feixe-c-nico-para-o-d-fb43a2a836a8",
-    "title": "RESSONÂNCIA MAGNÉTICA E TOMOGRAFIA COMPUTADORIZADA DE FEIXE CÔNICO PARA O DIAGNÓSTICO DIFERENCIAL ENTRE CISTOS E GRANULOMAS PERIAPICAIS: REVISÃO INTEGRATIVA Magnetic resonance imaging and cone beam computed tomography fordifferential diagnosis between periapical cysts and granulomas:integrative review",
-    "authors": "Antônio José Araújo Pereira Júnior; Bruna Eulália Da Silva Mateus; Cristiano Jacques Silva Tobias; Izabel Hoelzle Rodrigues; Matheus William Santos Pereira",
-    "year": 2027,
-    "publication_date": "2027-01-02",
-    "venue": "Revista Fluminense de Odontologia",
-    "doi": "10.22409/05vfy618",
-    "primary_url": "https://doi.org/10.22409/05vfy618",
-    "pdf_url": "",
-    "source": "Crossref",
-    "matched_query": "all optical ultrasound detection photoacoustic imaging",
-    "score": 8,
-    "reasons": [
-      "top-venue-hint",
-      "imaging/reconstruction term",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "times_seen": 11,
-    "venue_group": "Other",
-    "topics": [
-      "photoacoustic imaging",
-      "3D reconstruction"
-    ],
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "top_venue": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "preprint_only": false,
-        "negative_filter": false
-      }
-    }
-  },
-  {
-    "id": "2027-stored-energy-driven-multi-scale-microstructure-reconstruction-for-strength-74ba4f9f16a4",
-    "title": "Stored energy-driven multi-scale microstructure reconstruction for strength-ductility synergy and anisotropy mitigation in LDED Ti65 alloy",
-    "authors": "Xianan Liu; Difei Wang; Zuxing Qi; Guangsheng Li; Zijie Xu; Jun Lv; Yingwei Zhang; Jiayan Li; et al.",
-    "year": 2027,
-    "publication_date": "2027-01-01",
-    "venue": "Journal of Materials Science &amp; Technology",
-    "doi": "10.1016/j.jmst.2026.04.043",
-    "primary_url": "https://doi.org/10.1016/j.jmst.2026.04.043",
     "pdf_url": "",
     "source": "Crossref",
     "matched_query": "synthetic aperture sonar 3D reconstruction",
@@ -355,7 +409,90 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2027-resson-ncia-magn-tica-e-tomografia-computadorizada-de-feixe-c-nico-para-o-d-fb43a2a836a8",
+    "title": "RESSONÂNCIA MAGNÉTICA E TOMOGRAFIA COMPUTADORIZADA DE FEIXE CÔNICO PARA O DIAGNÓSTICO DIFERENCIAL ENTRE CISTOS E GRANULOMAS PERIAPICAIS: REVISÃO INTEGRATIVA Magnetic resonance imaging and cone beam computed tomography fordifferential diagnosis between periapical cysts and granulomas:integrative review",
+    "authors": "Antônio José Araújo Pereira Júnior; Bruna Eulália Da Silva Mateus; Cristiano Jacques Silva Tobias; Izabel Hoelzle Rodrigues; Matheus William Santos Pereira",
+    "year": 2027,
+    "publication_date": "2027-01-02",
+    "venue": "Revista Fluminense de Odontologia",
+    "doi": "10.22409/05vfy618",
+    "primary_url": "https://doi.org/10.22409/05vfy618",
+    "pdf_url": "",
+    "source": "Crossref",
+    "matched_query": "all optical ultrasound detection photoacoustic imaging",
+    "score": 8,
+    "reasons": [
+      "top-venue-hint",
+      "imaging/reconstruction term",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 22,
+    "venue_group": "Other",
+    "topics": [
+      "photoacoustic imaging",
+      "3D reconstruction"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "top_venue": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2027-stored-energy-driven-multi-scale-microstructure-reconstruction-for-strength-74ba4f9f16a4",
+    "title": "Stored energy-driven multi-scale microstructure reconstruction for strength-ductility synergy and anisotropy mitigation in LDED Ti65 alloy",
+    "authors": "Xianan Liu; Difei Wang; Zuxing Qi; Guangsheng Li; Zijie Xu; Jun Lv; Yingwei Zhang; Jiayan Li; et al.",
+    "year": 2027,
+    "publication_date": "2027-01-01",
+    "venue": "Journal of Materials Science &amp; Technology",
+    "doi": "10.1016/j.jmst.2026.04.043",
+    "primary_url": "https://doi.org/10.1016/j.jmst.2026.04.043",
+    "pdf_url": "",
+    "source": "Crossref",
+    "matched_query": "synthetic aperture sonar 3D reconstruction",
+    "score": 8,
+    "reasons": [
+      "top-venue-hint",
+      "imaging/reconstruction term",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 4,
+    "venue_group": "Science family",
+    "topics": [
+      "synthetic aperture sonar",
+      "3D reconstruction"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "top_venue": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -380,7 +517,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 1,
+    "times_seen": 2,
     "venue_group": "Other",
     "topics": [
       "synthetic aperture sonar",
@@ -395,9 +532,51 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
+  },
+  {
+    "id": "2026-in-plane-vector-field-imaging-of-propagating-surface-phonon-polaritons-df6902e2a127",
+    "title": "In-plane vector-field imaging of propagating surface phonon polaritons",
+    "authors": "Richarda Niemann; Dorothée S. Mader; Gonzalo Alvarez-Pérez; Ana I. F. Tresguerres-Mata; Aitana Tarazaga Martín-Luengo; Stefan Partel; Joshua D. Caldwell; Niclas S. Mueller; Martin Wolf; Javier Martín-Sánchez; Pablo Alonso-González; Alexander Paarmann",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27030v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27030v1",
+    "source": "arXiv",
+    "matched_query": "acoustic optical sensor fusion",
+    "score": 8,
+    "reasons": [
+      "top-venue-hint",
+      "imaging/reconstruction term",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 9,
+    "venue_group": "Other",
+    "topics": [
+      "acousto-optic imaging"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "top_venue": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-satsplatdiff-geometry-preserving-generative-refinement-for-high-fidelity-sa-a3345fa1eb11",
@@ -410,7 +589,7 @@
     "primary_url": "http://arxiv.org/abs/2606.27223v1",
     "pdf_url": "https://arxiv.org/pdf/2606.27223v1",
     "source": "arXiv",
-    "matched_query": "all optical ultrasound detection photoacoustic imaging",
+    "matched_query": "acousto-optic imaging",
     "score": 8,
     "reasons": [
       "top-venue-hint",
@@ -420,7 +599,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 15,
+    "times_seen": 25,
     "venue_group": "Other",
     "topics": [
       "photoacoustic imaging",
@@ -435,48 +614,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
-  },
-  {
-    "id": "2026-spherical-collapse-and-halo-formation-in-a-cosmology-with-decaying-dark-mat-caa83473a250",
-    "title": "Spherical Collapse and Halo Formation in a Cosmology with Decaying Dark Matter and a Semi-Cosmographic Dark Energy",
-    "authors": "Mohit Yadav; Tapomoy Guha Sarkar",
-    "year": 2026,
-    "publication_date": "2026-06-25",
-    "venue": "arXiv preprint",
-    "doi": "",
-    "primary_url": "http://arxiv.org/abs/2606.27076v1",
-    "pdf_url": "https://arxiv.org/pdf/2606.27076v1",
-    "source": "arXiv",
-    "matched_query": "all optical ultrasound detection photoacoustic imaging",
-    "score": 8,
-    "reasons": [
-      "top-venue-hint",
-      "imaging/reconstruction term",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "times_seen": 12,
-    "venue_group": "Other",
-    "topics": [
-      "photoacoustic imaging"
-    ],
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "top_venue": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": false,
-        "preprint_only": true,
-        "negative_filter": false
-      }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-panoimager-geometry-guided-novel-view-synthesis-and-reconstruction-from-spa-ca962500a10c",
@@ -489,7 +631,7 @@
     "primary_url": "http://arxiv.org/abs/2606.27071v1",
     "pdf_url": "https://arxiv.org/pdf/2606.27071v1",
     "source": "arXiv",
-    "matched_query": "all optical ultrasound detection photoacoustic imaging",
+    "matched_query": "acousto-optic imaging",
     "score": 8,
     "reasons": [
       "top-venue-hint",
@@ -499,7 +641,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 13,
+    "times_seen": 15,
     "venue_group": "Other",
     "topics": [
       "photoacoustic imaging"
@@ -513,9 +655,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-heterogeneous-neural-predictivity-from-language-models-during-naturalistic-ed6f4cf89853",
@@ -552,9 +696,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-atgbuilder-feature-assisted-graph-learning-for-activity-transition-graph-co-eb26ca729cd8",
@@ -592,9 +738,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-sharelock-a-stealthy-multi-tool-threshold-poisoning-attack-against-mcp-72d92de1b062",
@@ -632,9 +780,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-holistic-multivariance-decomposition-adapting-mode-interrelations-in-low-ra-2f4e5b1c7bf4",
@@ -672,9 +822,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2029-computational-by-design-83df3daf63ce",
@@ -697,7 +849,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 1,
+    "times_seen": 2,
     "venue_group": "Other",
     "topics": [
       "computational ultrasound"
@@ -711,7 +863,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -736,7 +889,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 4,
     "venue_group": "Science family",
     "topics": [
       "camera-sonar fusion"
@@ -750,7 +903,8 @@
         "imaging_term": false,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -775,7 +929,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 1,
+    "times_seen": 2,
     "venue_group": "Science family",
     "topics": [
       "computational ultrasound"
@@ -789,7 +943,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -814,7 +969,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 4,
     "venue_group": "Science family",
     "topics": [
       "camera-sonar fusion"
@@ -828,7 +983,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -853,7 +1009,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 4,
     "venue_group": "Science family",
     "topics": [
       "camera-sonar fusion"
@@ -867,7 +1023,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -892,7 +1049,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 4,
     "venue_group": "Science family",
     "topics": [
       "camera-sonar fusion"
@@ -906,7 +1063,8 @@
         "imaging_term": false,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -931,7 +1089,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 1,
+    "times_seen": 2,
     "venue_group": "Other",
     "topics": [
       "camera-sonar fusion"
@@ -945,7 +1103,8 @@
         "imaging_term": false,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -970,7 +1129,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 3,
     "venue_group": "Other",
     "topics": [
       "camera-sonar fusion"
@@ -984,9 +1143,11 @@
         "imaging_term": false,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-learning-to-fold-prizewinning-solution-at-lehome-challenge-2026-1st-place-o-02c919c959c7",
@@ -999,7 +1160,7 @@
     "primary_url": "http://arxiv.org/abs/2606.27163v1",
     "pdf_url": "https://arxiv.org/pdf/2606.27163v1",
     "source": "arXiv",
-    "matched_query": "vision sonar fusion",
+    "matched_query": "camera sonar fusion",
     "score": 7,
     "reasons": [
       "top-venue-hint",
@@ -1009,7 +1170,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 3,
     "venue_group": "Other",
     "topics": [
       "camera-sonar fusion"
@@ -1023,9 +1184,11 @@
         "imaging_term": false,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-a-possible-approach-to-overcome-the-saturation-of-the-neutron-yield-in-a-pl-06d1c5c7c5e9",
@@ -1038,7 +1201,7 @@
     "primary_url": "http://arxiv.org/abs/2606.27108v1",
     "pdf_url": "https://arxiv.org/pdf/2606.27108v1",
     "source": "arXiv",
-    "matched_query": "vision sonar fusion",
+    "matched_query": "camera sonar fusion",
     "score": 7,
     "reasons": [
       "top-venue-hint",
@@ -1048,7 +1211,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 3,
     "venue_group": "Other",
     "topics": [
       "camera-sonar fusion"
@@ -1062,9 +1225,11 @@
         "imaging_term": false,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-physeditworld-a-large-scale-dataset-toward-physics-editable-world-models-630fd9189959",
@@ -1087,7 +1252,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 1,
+    "times_seen": 2,
     "venue_group": "Other",
     "topics": [
       "camera-sonar fusion"
@@ -1101,9 +1266,11 @@
         "imaging_term": false,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-graph-neural-networks-applications-across-domains-all-insights-you-need-fac185144784",
@@ -1140,9 +1307,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-harmvideobench-benchmarking-harmful-video-understanding-in-large-multimodal-dd7fe0e885f5",
@@ -1179,9 +1348,11 @@
         "imaging_term": false,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-flamevqa-a-physically-grounded-uav-wildfire-vqa-benchmark-with-radiometric-32354aa2a6bf",
@@ -1218,9 +1389,11 @@
         "imaging_term": false,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-foresightsafety-vla-a-unified-diagnostic-safety-benchmark-for-vision-langua-bc23096164c6",
@@ -1257,48 +1430,11 @@
         "imaging_term": false,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
-  },
-  {
-    "id": "2026-event-aware-instructed-assistant-for-referring-video-segmentation-d47755e37f06",
-    "title": "Event-Aware Instructed Assistant for Referring Video Segmentation",
-    "authors": "Jinyu Liu; Henghui Ding; Shuting He; Yu-Gang Jiang",
-    "year": 2026,
-    "publication_date": "2026-06-25",
-    "venue": "arXiv preprint",
-    "doi": "",
-    "primary_url": "http://arxiv.org/abs/2606.26994v1",
-    "pdf_url": "https://arxiv.org/pdf/2606.26994v1",
-    "source": "arXiv",
-    "matched_query": "vision sonar fusion",
-    "score": 7,
-    "reasons": [
-      "top-venue-hint",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "topics": [
-      "camera-sonar fusion"
-    ],
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.4666666666666667,
-      "checks": {
-        "top_venue": true,
-        "core_term": true,
-        "imaging_term": false,
-        "source_ok": false,
-        "preprint_only": true,
-        "negative_filter": false
-      }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-computer-vision-for-moba-analytics-a-dataset-and-baseline-for-visibility-an-62a5dbef5721",
@@ -1335,9 +1471,11 @@
         "imaging_term": false,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-zqr-a-verifiable-qr-driven-zksnark-proof-verification-framework-for-mobile-cabf5ad9fc09",
@@ -1375,9 +1513,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-a-hybrid-ifenn-solver-for-generalizable-modeling-of-phase-field-fracture-in-ad19d885a38e",
@@ -1414,9 +1554,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-tops-first-principles-visual-token-pruning-via-constructing-token-optimal-p-33c7d0cc4410",
@@ -1453,9 +1595,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-the-observer-world-a-cryptographic-extension-of-impagliazzo-s-five-worlds-0d63856fb598",
@@ -1492,7 +1636,173 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
+  },
+  {
+    "id": "2026-accessing-both-electrochemical-seira-and-sers-with-ultrasensitive-metamater-b3111b691fb5",
+    "title": "Accessing both electrochemical SEIRA and SERS with ultrasensitive metamaterials for enhanced molecular identification",
+    "authors": "Nicolas Spiesshofer; Tabitha Jones; Sarah May Sibug Torres; Zoltan Sztranyovszky; Caleb Todd; Shijie Zhu; Yeeun Roh; Rakesh Arul; Alexander Squires; Ivana Qianqi Lin; Angela Demtriadou; David O. Scanlon; Viv Lindo; Jeremy J. Baumberg",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27367v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27367v1",
+    "source": "arXiv",
+    "matched_query": "all optical ultrasound detection photoacoustic imaging",
+    "score": 7,
+    "reasons": [
+      "top-venue-hint",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 4,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "photoacoustic imaging"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4666666666666667,
+      "checks": {
+        "top_venue": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-when-does-combining-language-models-help-a-co-failure-ceiling-on-routing-vo-619adcfac7a4",
+    "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
+    "authors": "Josef Chen",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27288v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27288v1",
+    "source": "arXiv",
+    "matched_query": "vision sonar fusion",
+    "score": 7,
+    "reasons": [
+      "top-venue-hint",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 2,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "camera-sonar fusion"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4666666666666667,
+      "checks": {
+        "top_venue": true,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-scalable-behavior-cloning-with-open-data-training-and-evaluation-5cdf8b2442fc",
+    "title": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
+    "authors": "Arthur Allshire; Himanshu Gaurav Singh; Ritvik Singh; Adam Rashid; Hongsuk Choi; David McAllister; Justin Yu; Yiyuan Chen; Huang Huang; Pieter Abbeel; Xi Chen; Rocky Duan; Phillip Isola; Jitendra Malik; Fred Shentu; Guanya Shi; Philipp Wu; Angjoo Kanazawa",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27375v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27375v1",
+    "source": "arXiv",
+    "matched_query": "vision sonar fusion",
+    "score": 7,
+    "reasons": [
+      "top-venue-hint",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 1,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "camera-sonar fusion"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4666666666666667,
+      "checks": {
+        "top_venue": true,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-mapping-political-elite-networks-in-europe-with-a-multilingual-joint-entity-3d783735708c",
+    "title": "Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
+    "authors": "Kirill Solovev; Jana Lasser",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27347v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27347v1",
+    "source": "arXiv",
+    "matched_query": "computational ultrasound imaging",
+    "score": 7,
+    "reasons": [
+      "top-venue-hint",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 1,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "computational ultrasound"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4666666666666667,
+      "checks": {
+        "top_venue": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
     }
   },
@@ -1517,7 +1827,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 1,
+    "times_seen": 2,
     "venue_group": "Other",
     "topics": [
       "camera-sonar fusion"
@@ -1531,9 +1841,11 @@
         "imaging_term": false,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-parametric-generalized-adaptive-moment-features-pg-amf-for-bearing-fault-di-c5653a684a30",
@@ -1570,9 +1882,59 @@
         "imaging_term": false,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
+  },
+  {
+    "id": "2026-event-aware-instructed-assistant-for-referring-video-segmentation-d47755e37f06",
+    "title": "Event-Aware Instructed Assistant for Referring Video Segmentation",
+    "authors": "Jinyu Liu; Henghui Ding; Shuting He; Yu-Gang Jiang",
+    "year": 2026,
+    "publication_date": "2026-01-01",
+    "venue": "IEEE Transactions on Image Processing",
+    "doi": "10.1109/tip.2026.3697653",
+    "primary_url": "https://doi.org/10.1109/tip.2026.3697653",
+    "pdf_url": "https://arxiv.org/pdf/2606.26994v1",
+    "source": "Crossref-final-version",
+    "matched_query": "vision sonar fusion",
+    "score": 7,
+    "reasons": [
+      "top-venue-hint",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 1,
+    "venue_group": "IEEE TIP",
+    "topics": [
+      "camera-sonar fusion"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4666666666666667,
+      "checks": {
+        "top_venue": true,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    },
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/tip.2026.3697653",
+      "http://arxiv.org/abs/2606.26994v1",
+      "https://arxiv.org/pdf/2606.26994v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue"
   },
   {
     "id": "2028-robust-mean-signal-estimation-and-inference-for-imaging-data-432fc771eb98",
@@ -1595,7 +1957,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 7,
+    "times_seen": 14,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -1609,7 +1971,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -1634,7 +1997,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 3,
+    "times_seen": 6,
     "venue_group": "Other",
     "topics": [
       "camera-sonar fusion"
@@ -1648,7 +2011,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -1673,7 +2037,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 6,
+    "times_seen": 12,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -1687,7 +2051,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -1712,7 +2077,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 4,
+    "times_seen": 8,
     "venue_group": "Other",
     "topics": [
       "acoustic coded imaging"
@@ -1726,7 +2091,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -1751,7 +2117,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 6,
+    "times_seen": 12,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -1765,7 +2131,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -1790,7 +2157,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 6,
+    "times_seen": 12,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -1804,7 +2171,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -1829,7 +2197,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 6,
+    "times_seen": 12,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -1843,7 +2211,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -1868,7 +2237,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 6,
+    "times_seen": 12,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -1882,7 +2251,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -1907,7 +2277,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 7,
+    "times_seen": 14,
     "venue_group": "Other",
     "topics": [
       "acoustic coded imaging",
@@ -1922,7 +2292,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -1947,7 +2318,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 6,
+    "times_seen": 12,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -1961,7 +2332,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -1986,7 +2358,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 6,
+    "times_seen": 12,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -2000,7 +2372,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -2025,7 +2398,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 6,
+    "times_seen": 12,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -2039,7 +2412,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -2064,7 +2438,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 6,
+    "times_seen": 12,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -2078,7 +2452,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -2103,7 +2478,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 4,
     "venue_group": "Other",
     "topics": [
       "camera-sonar fusion"
@@ -2117,7 +2492,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -2142,7 +2518,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 1,
+    "times_seen": 2,
     "venue_group": "Other",
     "topics": [
       "acoustic holography"
@@ -2156,7 +2532,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -2181,7 +2558,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 4,
+    "times_seen": 8,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -2195,7 +2572,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -2220,7 +2598,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 4,
+    "times_seen": 8,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -2234,7 +2612,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -2259,7 +2638,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 4,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -2273,7 +2652,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -2298,7 +2678,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 4,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -2312,7 +2692,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -2337,7 +2718,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 4,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -2351,7 +2732,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -2376,7 +2758,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 4,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -2390,7 +2772,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -2415,7 +2798,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 4,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -2429,7 +2812,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -2454,7 +2838,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 2,
+    "times_seen": 4,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -2468,7 +2852,8 @@
         "imaging_term": true,
         "source_ok": true,
         "preprint_only": false,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "not-needed"
       }
     }
   },
@@ -2493,7 +2878,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 3,
+    "times_seen": 5,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -2507,9 +2892,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-redshift-dependent-intrinsic-dispersion-in-the-quasar-uv-x-ray-luminosity-r-ae10d30ec23d",
@@ -2522,7 +2909,7 @@
     "primary_url": "http://arxiv.org/abs/2606.27173v1",
     "pdf_url": "https://arxiv.org/pdf/2606.27173v1",
     "source": "arXiv",
-    "matched_query": "acoustic coded imaging",
+    "matched_query": "acoustic holography imaging",
     "score": 6,
     "reasons": [
       "acoustic/photoacoustic term",
@@ -2532,7 +2919,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 3,
+    "times_seen": 4,
     "venue_group": "Other",
     "topics": [
       "acoustic coded imaging"
@@ -2546,9 +2933,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-neural-networks-for-inverse-design-of-cascaded-mode-near-field-landscapes-9754c854e315",
@@ -2585,9 +2974,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-gpu-accelerated-superiorization-on-constrained-physical-problems-with-suppy-3631e0308801",
@@ -2610,7 +3001,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 6,
+    "times_seen": 8,
     "venue_group": "Other",
     "topics": [
       "acousto-optic imaging"
@@ -2624,48 +3015,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
-  },
-  {
-    "id": "2026-unveiling-a-cosmic-tango-integral-field-spectroscopy-and-numerical-simulati-3e0151cac071",
-    "title": "Unveiling a cosmic tango: Integral field spectroscopy and numerical simulations of Arp 143's interaction",
-    "authors": "Hugo Martel; Carmelle Robert; Laurent Drissen; Charles-Antoine Parent; Prime Karera; Sébastien Vicens-Mouret; Salvador Duarte Puertas; Jorge Iglesias Páramo; José M. Vilchez",
-    "year": 2026,
-    "publication_date": "2026-06-25",
-    "venue": "arXiv preprint",
-    "doi": "",
-    "primary_url": "http://arxiv.org/abs/2606.27057v1",
-    "pdf_url": "https://arxiv.org/pdf/2606.27057v1",
-    "source": "arXiv",
-    "matched_query": "acousto-optic imaging",
-    "score": 6,
-    "reasons": [
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "times_seen": 6,
-    "venue_group": "Other",
-    "topics": [
-      "acousto-optic imaging"
-    ],
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.4,
-      "checks": {
-        "top_venue": false,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": false,
-        "preprint_only": true,
-        "negative_filter": false
-      }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-enabling-self-supervised-learned-primal-dual-with-noise2inverse-67a89a5108d9",
@@ -2702,9 +3056,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-vlbi-with-skampi-the-ska-mid-mpifr-dish-demonstrator-21b34b33e7e2",
@@ -2741,9 +3097,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-unraveling-the-mysteries-of-supernovae-with-ska-vlbi-4d74178f29f8",
@@ -2780,9 +3138,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-look-before-move-narrative-grounded-world-visual-attention-in-dynamic-3d-st-cd4424b63a1e",
@@ -2805,7 +3165,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 1,
+    "times_seen": 2,
     "venue_group": "Other",
     "topics": [
       "camera-sonar fusion"
@@ -2819,9 +3179,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-mlffm-segdiff-a-multi-level-feature-fusion-diffusion-model-for-skin-lesion-a371f26f27f7",
@@ -2844,7 +3206,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 1,
+    "times_seen": 2,
     "venue_group": "Other",
     "topics": [
       "camera-sonar fusion"
@@ -2858,9 +3220,11 @@
         "imaging_term": false,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-wq-fusion-dynamic-gated-attention-for-cross-domain-audio-representation-b29b868b17fd",
@@ -2883,7 +3247,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 1,
+    "times_seen": 2,
     "venue_group": "Other",
     "topics": [
       "camera-sonar fusion"
@@ -2897,9 +3261,635 @@
         "imaging_term": false,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": false
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
+  },
+  {
+    "id": "2026-3d-imaging-of-complex-skyrmion-and-hopf-topologies-in-an-extended-sample-82c9b59e1faf",
+    "title": "3D Imaging of Complex Skyrmion and Hopf Topologies in an Extended Sample",
+    "authors": "I. Binnie; H. Fang; B. Shearer; A. Grafov; N. Jenkins; Y. Shao; C. O'Leary; Y. Liao; T. Feggeler; A. Oh; S. Yazdi; J. Zou; B. Wang; E-E. Cating; S. A. Montoya; D. Shapiro; J. Miao; H. C. Kapteyn; M. M. Murnane",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27365v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27365v1",
+    "source": "arXiv",
+    "matched_query": "acousto-optic imaging",
+    "score": 6,
+    "reasons": [
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 7,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "acousto-optic imaging"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4,
+      "checks": {
+        "top_venue": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
     }
+  },
+  {
+    "id": "2026-vibeact-vibration-to-actions-for-contact-rich-reactive-robot-dexterity-3c496c40b4b4",
+    "title": "VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity",
+    "authors": "Yuemin Mao; Uksang Yoo; Jean Oh; Jonathan Francis; Jeffrey Ichnowski",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27344v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27344v1",
+    "source": "arXiv",
+    "matched_query": "photoacoustic computed tomography deep learning",
+    "score": 6,
+    "reasons": [
+      "acoustic/photoacoustic term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 5,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "photoacoustic imaging",
+      "3D reconstruction"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4,
+      "checks": {
+        "top_venue": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-unpinning-of-trapped-oil-droplets-via-non-resonant-acoustic-streaming-in-ca-278d23be8f8b",
+    "title": "Unpinning of trapped oil droplets via non-resonant acoustic streaming in capillary tubes",
+    "authors": "D. Tsiklauri",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27331v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27331v1",
+    "source": "arXiv",
+    "matched_query": "acoustic coded imaging",
+    "score": 6,
+    "reasons": [
+      "acoustic/photoacoustic term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 4,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "acoustic coded imaging"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4,
+      "checks": {
+        "top_venue": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-cortex-a-structured-reasoning-benchmark-for-trustworthy-3d-chest-ct-mllms-f88837c57cfc",
+    "title": "CORTEX: A Structured Reasoning Benchmark for Trustworthy 3D Chest CT MLLMs",
+    "authors": "Hashmat Shadab Malik; Anees Ur Rehman Hashmi; Numan Saeed; Muzammal Naseer; Salman Khan; Christoph Lippert",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27264v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27264v1",
+    "source": "arXiv",
+    "matched_query": "acousto-optic imaging",
+    "score": 6,
+    "reasons": [
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 6,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "acousto-optic imaging"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4,
+      "checks": {
+        "top_venue": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-muse-imaging-spectroscopy-of-the-fullerene-planetary-nebula-tc-1-92bed5c35dde",
+    "title": "MUSE Imaging Spectroscopy of the Fullerene Planetary Nebula Tc 1",
+    "authors": "J. R. Walsh; M. J. Barlow; A. Monreal-Ibero; J. Cami; E. Peeters; R. Wesson; J. Bernard-Salas; N. L. J. Cox; G. F. J. Watt",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27245v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27245v1",
+    "source": "arXiv",
+    "matched_query": "all optical ultrasound detection photoacoustic imaging",
+    "score": 6,
+    "reasons": [
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 8,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "photoacoustic imaging"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4,
+      "checks": {
+        "top_venue": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-raype-ray-space-positional-encoding-for-3d-aware-video-generation-de7c1aa063d4",
+    "title": "RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation",
+    "authors": "Minghao Yin; Jiahao Lu; Wenbo Hu; Wang Zhao; Shan Ying; Kai Han",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27345v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27345v1",
+    "source": "arXiv",
+    "matched_query": "vision sonar fusion",
+    "score": 6,
+    "reasons": [
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 2,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "camera-sonar fusion"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4,
+      "checks": {
+        "top_venue": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-physiformer-learning-to-simulate-mechanics-in-world-space-d301bfd1062d",
+    "title": "PhysiFormer: Learning to Simulate Mechanics in World Space",
+    "authors": "Yiming Chen; Yushi Lan; Andrea Vedaldi",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27364v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27364v1",
+    "source": "arXiv",
+    "matched_query": "vision sonar fusion",
+    "score": 6,
+    "reasons": [
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 1,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "camera-sonar fusion"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4,
+      "checks": {
+        "top_venue": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-ropemover-depth-aware-object-relocation-via-positional-embeddings-7a26108fa15b",
+    "title": "RoPEMover: Depth-Aware Object Relocation via Positional Embeddings",
+    "authors": "Ipek Oztas; Duygu Ceylan; Aybars Bugra Aksoy; Aysegul Dundar",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27332v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27332v1",
+    "source": "arXiv",
+    "matched_query": "vision sonar fusion",
+    "score": 6,
+    "reasons": [
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 1,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "camera-sonar fusion"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4,
+      "checks": {
+        "top_venue": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-beyond-the-hard-budget-sparsity-regularizers-for-more-interpretable-top-k-s-b8805ba8a5bb",
+    "title": "Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders",
+    "authors": "Nathanaël Jacquier; Maria Vakalopoulou; Mahdi S. Hosseini",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27321v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27321v1",
+    "source": "arXiv",
+    "matched_query": "vision sonar fusion",
+    "score": 6,
+    "reasons": [
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 1,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "camera-sonar fusion"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4,
+      "checks": {
+        "top_venue": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-viq-text-aligned-visual-quantized-representations-at-any-resolution-fc84b6291a86",
+    "title": "ViQ: Text-Aligned Visual Quantized Representations at Any Resolution",
+    "authors": "Xumin Yu; Zuyan Liu; Zhenyu Yang; Yuhao Dong; Shengsheng Qian; Jiwen Lu; Han Hu; Yongming Rao",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27313v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27313v1",
+    "source": "arXiv",
+    "matched_query": "vision sonar fusion",
+    "score": 6,
+    "reasons": [
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 1,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "camera-sonar fusion"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4,
+      "checks": {
+        "top_venue": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-eo-wm-a-physically-informed-world-model-for-probabilistic-earth-observation-c9dee568d51e",
+    "title": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
+    "authors": "Junwei Luo; Shuai Yuan; Zhenya Yang; Yansheng Li; Zhe Liu; Hengshuang Zhao",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27277v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27277v1",
+    "source": "arXiv",
+    "matched_query": "vision sonar fusion",
+    "score": 6,
+    "reasons": [
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 1,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "camera-sonar fusion"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4,
+      "checks": {
+        "top_venue": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-error-conditioned-neural-solvers-d919f7c21b2b",
+    "title": "Error-Conditioned Neural Solvers",
+    "authors": "Haina Jiang; Liam Wang; Peng-Chen Chen; Min Seop Kwak; Seungryong Kim; Brian Bell; Jeong Joon Park",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27354v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27354v1",
+    "source": "arXiv",
+    "matched_query": "synthetic aperture sonar neural reconstruction",
+    "score": 6,
+    "reasons": [
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 1,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "synthetic aperture sonar"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4,
+      "checks": {
+        "top_venue": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-realistic-time-domain-synthesis-of-gravitational-wave-detector-glitches-usi-f061a3d670c9",
+    "title": "Realistic Time-Domain Synthesis of Gravitational-Wave Detector Glitches using Class-Conditional Derivative Generative Adversarial Networks",
+    "authors": "Tom Dooney; Mees de Boer; Harsh Narola; Melissa Lopez; Stefano Bromuri; Daniel Stanley Tan; Chris Van Den Broeck",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27227v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27227v1",
+    "source": "arXiv",
+    "matched_query": "synthetic aperture sonar 3D reconstruction",
+    "score": 6,
+    "reasons": [
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 2,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "synthetic aperture sonar",
+      "3D reconstruction"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4,
+      "checks": {
+        "top_venue": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-the-ikkt-renormalization-group-flow-is-iib-toward-zero-d-holography-565930ccc08e",
+    "title": "The IKKT renormalization group flow is IIB: toward zero-d holography",
+    "authors": "Xiangwen Guan; Joel Karlsson; Sébastien Reymond; Thomas Van Riet",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2606.27333v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27333v1",
+    "source": "arXiv",
+    "matched_query": "acoustic holography imaging",
+    "score": 6,
+    "reasons": [
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 1,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "Other",
+    "topics": [
+      "acoustic holography"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4,
+      "checks": {
+        "top_venue": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2026-unveiling-a-cosmic-tango-integral-field-spectroscopy-and-numerical-simulati-3e0151cac071",
+    "title": "Unveiling a cosmic tango: Integral field spectroscopy and numerical simulations of Arp 143’s interaction",
+    "authors": "Hugo Martel; Carmelle Robert; Laurent Drissen; Charles-Antoine Parent; Prime Karera; Sébastien Vicens-Mouret; Salvador Duarte Puertas; Jorge Iglesias Páramo; et al.",
+    "year": 2026,
+    "publication_date": "2026-06-23",
+    "venue": "Monthly Notices of the Royal Astronomical Society",
+    "doi": "10.1093/mnras/stag1190",
+    "primary_url": "https://doi.org/10.1093/mnras/stag1190",
+    "pdf_url": "https://arxiv.org/pdf/2606.27057v1",
+    "source": "Crossref-final-version",
+    "matched_query": "acousto-optic imaging",
+    "score": 6,
+    "reasons": [
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "times_seen": 6,
+    "venue_group": "Other",
+    "topics": [
+      "acousto-optic imaging"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.4,
+      "checks": {
+        "top_venue": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    },
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1093/mnras/stag1190",
+      "http://arxiv.org/abs/2606.27057v1",
+      "https://arxiv.org/pdf/2606.27057v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue"
   },
   {
     "id": "2026-frequency-phase-transfer-for-future-millimetre-arrays-with-arbitrary-freque-5d28de970723",
@@ -2912,7 +3902,7 @@
     "primary_url": "http://arxiv.org/abs/2606.27143v1",
     "pdf_url": "https://arxiv.org/pdf/2606.27143v1",
     "source": "arXiv",
-    "matched_query": "all optical ultrasound detection photoacoustic imaging",
+    "matched_query": "acousto-optic imaging",
     "score": 10,
     "reasons": [
       "top-venue-hint",
@@ -2923,7 +3913,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 12,
+    "times_seen": 18,
     "venue_group": "Other",
     "topics": [
       "photoacoustic imaging"
@@ -2937,9 +3927,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": true
+        "negative_filter": true,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-exploring-tidal-disruption-events-with-ska-and-vlbi-unveiling-the-mystery-o-b369a56323b5",
@@ -2978,9 +3970,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": true
+        "negative_filter": true,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-transforming-x-ray-binary-astrophysics-with-ska-vlbi-b2d70b5276d7",
@@ -3019,9 +4013,11 @@
         "imaging_term": true,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": true
+        "negative_filter": true,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-event-based-gaze-control-system-for-accurate-real-time-spin-estimation-in-p-49b7d564decd",
@@ -3046,7 +4042,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 1,
+    "times_seen": 2,
     "venue_group": "Other",
     "topics": [
       "camera-sonar fusion"
@@ -3060,9 +4056,11 @@
         "imaging_term": false,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": true
+        "negative_filter": true,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   },
   {
     "id": "2026-multipath-adaptive-gated-bottleneck-latent-ode-with-raman-data-fusion-for-c-a84a240903f1",
@@ -3087,7 +4085,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "times_seen": 1,
+    "times_seen": 2,
     "venue_group": "Other",
     "topics": [
       "camera-sonar fusion"
@@ -3101,8 +4099,10 @@
         "imaging_term": false,
         "source_ok": false,
         "preprint_only": true,
-        "negative_filter": true
+        "negative_filter": true,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
-    }
+    },
+    "final_version_status": "arxiv-only-no-final-version-found"
   }
 ]
