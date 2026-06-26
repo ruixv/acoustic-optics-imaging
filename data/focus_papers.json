@@ -13,12 +13,20 @@
     "pdf_url": "https://openaccess.thecvf.com/content/CVPR2026W/PBVS/papers/Brodjian_Single-View_Seafloor_Recovery_from_Imaging_Sonar_via_Differentiable_Rendering_CVPRW_2026_paper.pdf",
     "project_url": "",
     "code_url": "",
-    "topics": ["imaging sonar", "differentiable rendering", "single-view 3D recovery", "bathymetry", "physics-based inverse rendering"],
+    "topics": [
+      "imaging sonar",
+      "differentiable rendering",
+      "single-view 3D recovery",
+      "bathymetry",
+      "physics-based inverse rendering"
+    ],
     "relevance": "core",
     "summary_cn": "从单张前视成像声呐图像中，通过可微声呐渲染恢复海底高度场，强调无需训练数据的物理反演。",
     "why_include_cn": "直接对应成像声呐、可微渲染与物理约束三维重建，是声学反演和可微 forward model 方向的高相关论文。",
     "download_note": "CVF open-access paper and PDF are available.",
-    "sources": ["https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/Brodjian_Single-View_Seafloor_Recovery_from_Imaging_Sonar_via_Differentiable_Rendering_CVPRW_2026_paper.html"],
+    "sources": [
+      "https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/Brodjian_Single-View_Seafloor_Recovery_from_Imaging_Sonar_via_Differentiable_Rendering_CVPRW_2026_paper.html"
+    ],
     "last_verified": "2026-06-26",
     "curation_origin": "focus-profile-public"
   },
@@ -36,12 +44,20 @@
     "pdf_url": "https://arxiv.org/pdf/2603.14457",
     "project_url": "",
     "code_url": "",
-    "topics": ["opti-acoustic sensor fusion", "camera-sonar fusion", "volumetric mapping", "underwater 3D reconstruction", "visibility-robust perception"],
+    "topics": [
+      "opti-acoustic sensor fusion",
+      "camera-sonar fusion",
+      "volumetric mapping",
+      "underwater 3D reconstruction",
+      "visibility-robust perception"
+    ],
     "relevance": "core",
     "summary_cn": "融合单目相机与双声呐进行水下体素/体积建图，用声学稳健性补视觉在低能见度环境下的不足。",
     "why_include_cn": "虽然目前仅核验到 arXiv 版本，但主题直接落在声光/相机-声呐融合与复杂环境三维建图上，适合作为高相关候选方向。",
     "download_note": "No final venue was verified at the time of curation; arXiv is recorded as the preprint source.",
-    "sources": ["https://arxiv.org/abs/2603.14457"],
+    "sources": [
+      "https://arxiv.org/abs/2603.14457"
+    ],
     "last_verified": "2026-06-26",
     "curation_origin": "focus-profile-public"
   },
@@ -59,12 +75,20 @@
     "pdf_url": "https://arxiv.org/pdf/2606.01398",
     "project_url": "",
     "code_url": "",
-    "topics": ["sonar-visual dataset", "cross-modal perception", "underwater sensing", "camera-sonar fusion", "paired multimodal data"],
+    "topics": [
+      "sonar-visual dataset",
+      "cross-modal perception",
+      "underwater sensing",
+      "camera-sonar fusion",
+      "paired multimodal data"
+    ],
     "relevance": "related",
     "summary_cn": "发布水下声呐-视觉配对数据集 SOVIS，用于跨模态感知、声呐预测与水下机器人任务。",
     "why_include_cn": "数据集本身不是成像算法，但对声学-视觉融合、跨模态监督和真实水下数据设计有直接参考价值。",
     "download_note": "No final venue was verified at the time of curation; arXiv is recorded as the preprint source.",
-    "sources": ["https://arxiv.org/abs/2606.01398"],
+    "sources": [
+      "https://arxiv.org/abs/2606.01398"
+    ],
     "last_verified": "2026-06-26",
     "curation_origin": "focus-profile-public"
   },
@@ -82,12 +106,20 @@
     "pdf_url": "https://arxiv.org/pdf/2404.14819",
     "project_url": "",
     "code_url": "",
-    "topics": ["imaging sonar", "neural volume rendering", "bathymetry", "self-supervised reconstruction", "differentiable sonar rendering"],
+    "topics": [
+      "imaging sonar",
+      "neural volume rendering",
+      "bathymetry",
+      "self-supervised reconstruction",
+      "differentiable sonar rendering"
+    ],
     "relevance": "core",
     "summary_cn": "用神经体渲染和可微声呐模型从前视成像声呐数据中恢复海底地形，并联合估计声呐波束模式。",
     "why_include_cn": "直接对应神经声学重建、可微声呐 forward model 与自监督三维几何恢复，是成像声呐神经渲染方向的重要近作。",
     "download_note": "No final venue was verified at the time of curation; arXiv is recorded as the preprint source.",
-    "sources": ["https://arxiv.org/abs/2404.14819"],
+    "sources": [
+      "https://arxiv.org/abs/2404.14819"
+    ],
     "last_verified": "2026-06-26",
     "curation_origin": "focus-profile-public"
   },
@@ -105,12 +137,20 @@
     "pdf_url": "https://arxiv.org/pdf/2209.08221",
     "project_url": "",
     "code_url": "",
-    "topics": ["imaging sonar", "neural implicit surface", "differentiable acoustic rendering", "forward-looking sonar", "3D reconstruction"],
+    "topics": [
+      "imaging sonar",
+      "neural implicit surface",
+      "differentiable acoustic rendering",
+      "forward-looking sonar",
+      "3D reconstruction"
+    ],
     "relevance": "core",
     "summary_cn": "用神经隐式表面表示和可微体渲染来拟合前视成像声呐观测，实现密集三维表面重建。",
     "why_include_cn": "这是 AONeuS 等声光融合神经渲染工作的前置声学分支，对理解声呐 forward model、隐式几何和可微重建非常有启发。",
     "download_note": "No final venue was verified at the time of curation; arXiv is recorded as the preprint source.",
-    "sources": ["https://arxiv.org/abs/2209.08221"],
+    "sources": [
+      "https://arxiv.org/abs/2209.08221"
+    ],
     "last_verified": "2026-06-26",
     "curation_origin": "focus-profile-public"
   }
