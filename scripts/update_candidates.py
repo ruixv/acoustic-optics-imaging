@@ -27,14 +27,15 @@ TOP_VENUE_PATTERNS=[
 ]
 QUERIES=[
 'imaging sonar differentiable rendering','neural implicit surface reconstruction imaging sonar','neural volume rendering imaging sonar','forward-looking sonar 3D reconstruction differentiable','synthetic aperture sonar neural reconstruction','coherent synthetic aperture sonar reconstruction','camera sonar fusion 3D reconstruction','acoustic optical sensor fusion sonar','opti acoustic sensor fusion volumetric mapping','sonar visual dataset cross modal underwater perception','acoustic non-line-of-sight imaging','ultrasound synthetic aperture non-line-of-sight imaging','acoustic holography phased array computation','coded acoustic imaging computational acoustics','computational ultrasound complex fields imaging','acousto-optic imaging speckle decorrelation','photoacoustic imaging acoustic hologram',
+'NAS-GS noise-aware sonar Gaussian splatting','circular synthetic aperture sonar shadows 3D reconstruction','differentiable structural optimization acoustic holography','skull-conforming acoustic holographic lenses','vectorial acoustic multiplexed holography','compact optical-resolution photoacoustic microscopy reflective objective transducer',
 'mmWave radar imaging CVPR','mmWave radar imaging ICCV','mmWave radar imaging NeurIPS','mmWave radar imaging ECCV','mmWave radar imaging ICLR','mmWave radar imaging ICML','mmWave radar imaging ICCP','mmWave radar imaging MobiSys','mmWave radar imaging MobiCom','mmWave radar imaging SenSys','mmWave radar imaging TPAMI','mmWave radar imaging TOG','mmWave radar imaging TIP','mmWave radar imaging TMC','millimeter wave radar imaging SIGGRAPH','4D radar point cloud CVPR','FMCW MIMO-SAR radar imaging MobiSys','millimeter wave radar indoor mapping MobiSys',
 'handheld mmWave SAR autofocus phase error compensation','handheld millimeter-wave imaging phase error estimation compensation','IFNet deep imaging focusing handheld SAR millimeter-wave','TwinFocus autofocus handheld mmWave SAR physical digital twin references','mmWave surface normal estimation through-occlusion 3D reconstruction','mmNorm millimeter-wave surface normal hidden object reconstruction','Wave-Former through-occlusion 3D reconstruction wireless shape completion','single static radar indoor scene understanding RISE','mmWave multipath indoor layout reconstruction object detection','Nature Portfolio Communications Engineering millimeter-wave imaging'
 ]
 CORE_TERMS=['acoustic','sonar','ultrasound','photoacoustic','optoacoustic','acousto-optic','acousto optic','radar','mmwave','millimeter-wave','millimeter wave','millimetre wave','fmcw','wireless']
-IMAGING_TERMS=['imaging','reconstruction','tomography','holography','nlos','non-line-of-sight','synthetic aperture','sensor fusion','neural rendering','volume rendering','differentiable rendering','3d','bathymetry','surface reconstruction','point cloud','super resolution','mapping','surface normal','through-occlusion','shape completion','scene understanding','autofocus','phase error','phase compensation','phase calibration']
-PRIMARY_TERMS=['imaging sonar','forward-looking sonar','synthetic aperture sonar','camera sonar','camera-sonar','acoustic-optical','acoustic optical','opti-acoustic','acoustic non-line-of-sight','acoustic nlos','ultrasound synthetic aperture','acoustic holography','coded acoustic','computational ultrasound','mmwave radar','millimeter-wave radar','millimeter wave radar','millimetre wave radar','4d radar','radar point cloud','mimo-sar','fmcw radar','radar imaging','mmwave imaging','millimeter wave imaging','millimetre wave mapping','handheld sar','handheld mmwave','mmwave sar','single static radar','radar indoor scene understanding','through-occlusion','surface normal estimation','wireless shape completion','mmnorm','twinfocus','ifnet','phase error estimation']
-NEGATIVE_TERMS=['speech recognition','music','audio caption','radio galaxy','black hole','x-ray binary','tidal disruption','cell culture','raman data fusion','football','ball games','co2 leakage','injection wells','fuel']
-SESSION=requests.Session(); SESSION.headers.update({'User-Agent':'acoustic-optics-imaging-updater/2.4 (https://github.com/ruixv/acoustic-optics-imaging; mailto:%s)'%os.getenv('CROSSREF_MAILTO','example@example.com')})
+IMAGING_TERMS=['imaging','reconstruction','tomography','holography','nlos','non-line-of-sight','synthetic aperture','sensor fusion','neural rendering','volume rendering','differentiable rendering','3d','bathymetry','surface reconstruction','point cloud','super resolution','mapping','surface normal','through-occlusion','shape completion','scene understanding','autofocus','phase error','phase compensation','phase calibration','gaussian splatting','novel view synthesis','multiplexed holography','wavefront shaping','lens optimization']
+PRIMARY_TERMS=['imaging sonar','forward-looking sonar','synthetic aperture sonar','camera sonar','camera-sonar','sonar gaussian splatting','noise-aware sonar','circular synthetic aperture sonar','acoustic-optical','acoustic optical','opti-acoustic','acoustic non-line-of-sight','acoustic nlos','ultrasound synthetic aperture','acoustic holography','acoustic holographic','acoustic holographic lens','skull-conforming acoustic','vectorial acoustic multiplexed holography','coded acoustic','computational ultrasound','photoacoustic microscopy','optical-resolution photoacoustic microscopy','or-pam','reflective objective','mmwave radar','millimeter-wave radar','millimeter wave radar','millimetre wave radar','4d radar','radar point cloud','mimo-sar','fmcw radar','radar imaging','mmwave imaging','millimeter wave imaging','millimetre wave mapping','handheld sar','handheld mmwave','mmwave sar','single static radar','radar indoor scene understanding','through-occlusion','surface normal estimation','wireless shape completion','mmnorm','twinfocus','ifnet','phase error estimation']
+NEGATIVE_TERMS=['speech recognition','music','audio caption','radio galaxy','black hole','x-ray binary','tidal disruption','cell culture','raman data fusion','football','ball games','co2 leakage','injection wells','fuel','cosmology','dark matter','dark energy','epidemiological','telescope','telescopy']
+SESSION=requests.Session(); SESSION.headers.update({'User-Agent':'acoustic-optics-imaging-updater/2.5 (https://github.com/ruixv/acoustic-optics-imaging; mailto:%s)'%os.getenv('CROSSREF_MAILTO','example@example.com')})
 
 def norm_text(x:str)->str: return re.sub(r'\s+',' ',(x or '').strip())
 def slugify(s:str,max_len:int=80)->str: return re.sub(r'[^a-zA-Z0-9]+','-',s.lower()).strip('-')[:max_len].strip('-') or 'candidate'
@@ -49,6 +50,13 @@ def get_year_date_crossref(item:Dict[str,Any])->Tuple[Optional[int],str]:
             arr=parts[0]; y=int(arr[0]) if arr and arr[0] else None; m=int(arr[1]) if len(arr)>1 else 1; d=int(arr[2]) if len(arr)>2 else 1
             if y: return y,f'{y:04d}-{m:02d}-{d:02d}'
     return None,''
+def relevant_enough(title:str,abstract:str,venue:str,query:str)->bool:
+    text=f'{title} {abstract} {venue} {query}'.lower()
+    if any(t in text for t in NEGATIVE_TERMS): return False
+    primary=any(t in text for t in PRIMARY_TERMS)
+    core=any(t in text for t in CORE_TERMS)
+    imaging=any(t in text for t in IMAGING_TERMS)
+    return primary or (core and imaging)
 def score_candidate(title:str,abstract:str,venue:str,query:str,year:Optional[int])->Tuple[int,List[str]]:
     text=f'{title} {abstract} {venue}'.lower(); reasons=[]; score=0
     if is_top_venue(venue): score+=4; reasons.append('top-venue')
@@ -56,7 +64,8 @@ def score_candidate(title:str,abstract:str,venue:str,query:str,year:Optional[int
     elif any(t in text for t in CORE_TERMS): score+=2; reasons.append('core wave-sensing term')
     if any(t in text for t in IMAGING_TERMS): score+=3; reasons.append('imaging/reconstruction term')
     if any(t in text for t in NEGATIVE_TERMS): score-=8; reasons.append('negative-topic-filter')
-    q_terms=[w for w in re.split(r'\W+',query.lower()) if len(w)>3]; hits=sum(1 for w in q_terms if w in text)
+    q_terms=[w for w in re.split(r'\W+',query.lower()) if len(w)>3]
+    hits=sum(1 for w in q_terms if w in text)
     if q_terms and hits>=max(2,len(q_terms)//2): score+=2; reasons.append('query-title/abstract match')
     if year and year>=dt.date.today().year-2: score+=1; reasons.append('recent')
     return score,reasons
@@ -71,6 +80,7 @@ def crossref_search(query:str,rows:int,from_date:str)->List[Dict[str,Any]]:
         title=norm_text(' '.join(it.get('title') or []));
         if not title: continue
         venue=norm_text(' '.join(it.get('container-title') or [])); abstract=re.sub(r'<[^>]+>',' ',html.unescape(it.get('abstract') or '')); year,pub=get_year_date_crossref(it); authors=[]
+        if not relevant_enough(title,abstract,venue,query): continue
         for a in it.get('author') or []:
             name=norm_text(' '.join([a.get('given',''),a.get('family','')]))
             if name: authors.append(name)
@@ -78,7 +88,9 @@ def crossref_search(query:str,rows:int,from_date:str)->List[Dict[str,Any]]:
         out.append(record_base(title,'; '.join(authors),year,pub,venue,doi,url,'','Crossref',query,score,reasons))
     return out
 def arxiv_search(query:str,rows:int,from_date:str)->List[Dict[str,Any]]:
-    search_query=' OR '.join([f'all:"{part}"' for part in query.split() if len(part)>3]) or f'all:"{query}"'; params={'search_query':search_query,'start':0,'max_results':rows,'sortBy':'submittedDate','sortOrder':'descending'}
+    terms=[t for t in re.split(r'\s+',query.strip()) if len(t)>3]
+    search_query=' AND '.join([f'all:"{term}"' for term in terms]) or f'all:"{query}"'
+    params={'search_query':search_query,'start':0,'max_results':rows,'sortBy':'submittedDate','sortOrder':'descending'}
     r=SESSION.get('http://export.arxiv.org/api/query?'+urllib.parse.urlencode(params),timeout=45); r.raise_for_status(); root=ET.fromstring(r.text); ns={'a':'http://www.w3.org/2005/Atom'}; cutoff=dt.date.fromisoformat(from_date); out=[]
     for e in root.findall('a:entry',ns):
         title=norm_text(e.findtext('a:title',default='',namespaces=ns)); summary=norm_text(e.findtext('a:summary',default='',namespaces=ns)); published=e.findtext('a:published',default='',namespaces=ns); pub=published[:10] if published else ''
@@ -86,10 +98,11 @@ def arxiv_search(query:str,rows:int,from_date:str)->List[Dict[str,Any]]:
             try:
                 if dt.date.fromisoformat(pub)<cutoff: continue
             except ValueError: pass
+        if not relevant_enough(title,summary,'arXiv preprint',query): continue
         year=int(pub[:4]) if pub[:4].isdigit() else None; authors='; '.join(norm_text(a.findtext('a:name',default='',namespaces=ns)) for a in e.findall('a:author',ns)); entry_id=e.findtext('a:id',default='',namespaces=ns); pdf=''
         for link in e.findall('a:link',ns):
             if link.attrib.get('title')=='pdf' or link.attrib.get('type')=='application/pdf': pdf=link.attrib.get('href','')
-        score,reasons=score_candidate(title,summary,'arXiv',query,year); out.append(record_base(title,authors,year,pub,'arXiv preprint','',entry_id,pdf,'arXiv',query,score,reasons))
+        score,reasons=score_candidate(title,summary,'arXiv preprint',query,year); out.append(record_base(title,authors,year,pub,'arXiv preprint','',entry_id,pdf,'arXiv',query,score,reasons))
     return out
 def merge_candidates(new_items:Iterable[Dict[str,Any]],existing:List[Dict[str,Any]],verified:List[Dict[str,Any]],min_score:int)->List[Dict[str,Any]]:
     verified_keys={fingerprint(p.get('title',''),p.get('doi',''),p.get('primary_url','')) for p in verified}; by_key={}; today=dt.date.today().isoformat()
@@ -110,5 +123,5 @@ def main()->int:
             try: items=func(q,args.rows,from_date); all_new.extend(items); print(f'{source_name}: {q!r}: {len(items)} raw candidates')
             except Exception as e: print(f'ERROR {source_name} {q!r}: {e}'); errors.append({'source':source_name,'query':q,'error':str(e)})
             time.sleep(args.sleep)
-    merged=merge_candidates(all_new,existing,verified,args.min_score); write_json(CANDIDATES_PATH,merged); write_json(RUN_LOG_PATH,{'last_run':dt.datetime.now(dt.timezone.utc).isoformat(),'since_date':from_date,'raw_candidates_seen':len(all_new),'saved_candidates_total':len(merged),'errors':errors,'note':'Candidates are ready for automatic curation-agent audit; high-confidence records may be promoted by scripts/agent_audit.py. Author strings are preserved in full when available.'}); print(f'saved {len(merged)} candidates to {CANDIDATES_PATH.relative_to(ROOT)}'); return 0
+    merged=merge_candidates(all_new,existing,verified,args.min_score); write_json(CANDIDATES_PATH,merged); write_json(RUN_LOG_PATH,{'last_run':dt.datetime.now(dt.timezone.utc).isoformat(),'since_date':from_date,'raw_candidates_seen':len(all_new),'saved_candidates_total':len(merged),'errors':errors,'note':'Candidates are ready for automatic curation-agent audit. arXiv search now uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available.'}); print(f'saved {len(merged)} candidates to {CANDIDATES_PATH.relative_to(ROOT)}'); return 0
 if __name__=='__main__': raise SystemExit(main())
