@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
-"""Scheduled candidate updater for the acoustic-optics imaging paper tracker.
+"""Scheduled discovery step for the acoustic-optics imaging tracker.
 
-The goal is high recall with clear separation between:
-  1) manually verified papers in data/papers.json, and
-  2) automatically discovered candidates in data/candidates.json.
-
-It uses public scholarly APIs/pages only. It does not bypass paywalls.
+This script favors recall. It writes discovered records to data/candidates.json
+with status `candidate-pending-agent-audit`. The next pipeline step,
+scripts/agent_audit.py, performs curation and promotes high-confidence records.
 """
 from __future__ import annotations
 
@@ -16,7 +14,6 @@ import html
 import json
 import os
 import re
-import sys
 import time
 import urllib.parse
 import xml.etree.ElementTree as ET
@@ -34,7 +31,7 @@ RUN_LOG_PATH = DATA_DIR / "last_update.json"
 
 TOP_VENUE_HINTS = [
     "Nature", "Nature Electronics", "Nature Photonics", "Nature Communications",
-    "Communications Physics", "Communications Engineering", "Light: Science & Applications",
+    "Communications Physics", "Scientific Data", "Light: Science & Applications",
     "Science", "Science Advances", "Science Robotics", "Science Translational Medicine",
     "ACM Transactions on Graphics", "TOG", "SIGGRAPH", "SIGGRAPH Asia",
     "IEEE Transactions on Pattern Analysis and Machine Intelligence", "TPAMI",
@@ -42,7 +39,6 @@ TOP_VENUE_HINTS = [
     "CVPR", "ICCV", "ECCV", "ICLR", "NeurIPS", "Neural Information Processing Systems",
 ]
 
-# Queries are intentionally broad, but scoring below downranks weak matches.
 QUERIES = [
     "acoustic optical imaging",
     "acoustic-optical imaging",
@@ -70,10 +66,14 @@ IMAGING_TERMS = [
     "imaging", "reconstruction", "tomography", "holography", "nlos", "non-line-of-sight", "non line of sight",
     "synthetic aperture", "sensor fusion", "gaussian splatting", "neural rendering", "3d",
 ]
+NEGATIVE_TERMS = [
+    "speech recognition", "music", "audio caption", "radio galaxy", "black hole", "x-ray binary",
+    "tidal disruption", "cell culture", "ball games", "raman data fusion",
+]
 
 SESSION = requests.Session()
 SESSION.headers.update({
-    "User-Agent": "acoustic-optics-imaging-updater/1.1 (https://github.com/ruixv/acoustic-optics-imaging; mailto:%s)" % os.getenv("CROSSREF_MAILTO", "example@example.com")
+    "User-Agent": "acoustic-optics-imaging-updater/2.0 (https://github.com/ruixv/acoustic-optics-imaging; mailto:%s)" % os.getenv("CROSSREF_MAILTO", "example@example.com")
 })
 
 
@@ -97,6 +97,10 @@ def load_json(path: Path, default: Any) -> Any:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def write_json(path: Path, obj: Any) -> None:
+    path.write_text(json.dumps(obj, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
 def get_year_date_crossref(item: Dict[str, Any]) -> Tuple[Optional[int], str]:
     for k in ["published-print", "published-online", "published", "created", "issued"]:
         parts = (item.get(k) or {}).get("date-parts")
@@ -115,7 +119,6 @@ def score_candidate(title: str, abstract: str, venue: str, query: str, year: Opt
     venue_text = venue.lower()
     reasons: List[str] = []
     score = 0
-
     if any(v.lower() in venue_text or v.lower() in text for v in TOP_VENUE_HINTS):
         score += 4
         reasons.append("top-venue-hint")
@@ -125,17 +128,38 @@ def score_candidate(title: str, abstract: str, venue: str, query: str, year: Opt
     if any(t in text for t in IMAGING_TERMS):
         score += 3
         reasons.append("imaging/reconstruction term")
+    if any(t in text for t in NEGATIVE_TERMS):
+        score -= 4
+        reasons.append("negative-topic-filter")
     q_terms = [w for w in re.split(r"\W+", query.lower()) if len(w) > 3]
-    if q_terms:
-        hits = sum(1 for w in q_terms if w in text)
-        if hits >= max(1, len(q_terms) // 2):
-            score += 2
-            reasons.append("query-title/abstract match")
+    hits = sum(1 for w in q_terms if w in text)
+    if q_terms and hits >= max(1, len(q_terms) // 2):
+        score += 2
+        reasons.append("query-title/abstract match")
     current_year = dt.date.today().year
     if year and year >= current_year - 2:
         score += 1
         reasons.append("recent")
     return score, reasons
+
+
+def record_base(title: str, authors: str, year: Optional[int], pub_date: str, venue: str, doi: str, url: str, pdf: str, source: str, query: str, score: int, reasons: List[str]) -> Dict[str, Any]:
+    return {
+        "id": slugify(f"{year or 'yyyy'}-{title}") + "-" + fingerprint(title, doi, url),
+        "title": title,
+        "authors": authors,
+        "year": year,
+        "publication_date": pub_date,
+        "venue": venue,
+        "doi": doi,
+        "primary_url": url,
+        "pdf_url": pdf,
+        "source": source,
+        "matched_query": query,
+        "score": score,
+        "reasons": reasons,
+        "status": "candidate-pending-agent-audit",
+    }
 
 
 def crossref_search(query: str, rows: int, from_date: str) -> List[Dict[str, Any]]:
@@ -147,13 +171,11 @@ def crossref_search(query: str, rows: int, from_date: str) -> List[Dict[str, Any
         "filter": f"from-pub-date:{from_date}",
         "select": "DOI,title,author,container-title,published-print,published-online,published,issued,created,URL,type,abstract",
     }
-    mailto = os.getenv("CROSSREF_MAILTO")
-    if mailto:
-        params["mailto"] = mailto
-    url = "https://api.crossref.org/works?" + urllib.parse.urlencode(params)
-    r = SESSION.get(url, timeout=45)
+    if os.getenv("CROSSREF_MAILTO"):
+        params["mailto"] = os.getenv("CROSSREF_MAILTO")
+    r = SESSION.get("https://api.crossref.org/works?" + urllib.parse.urlencode(params), timeout=45)
     r.raise_for_status()
-    out = []
+    out: List[Dict[str, Any]] = []
     for it in r.json().get("message", {}).get("items", []):
         title = norm_text(" ".join(it.get("title") or []))
         if not title:
@@ -167,42 +189,21 @@ def crossref_search(query: str, rows: int, from_date: str) -> List[Dict[str, Any
             if name:
                 authors.append(name)
         doi = it.get("DOI") or ""
+        url = it.get("URL") or (f"https://doi.org/{doi}" if doi else "")
         score, reasons = score_candidate(title, abstract, venue, query, year)
-        out.append({
-            "id": slugify(f"{year or 'yyyy'}-{title}") + "-" + fingerprint(title, doi),
-            "title": title,
-            "authors": "; ".join(authors[:8]) + ("; et al." if len(authors) > 8 else ""),
-            "year": year,
-            "publication_date": pub_date,
-            "venue": venue,
-            "doi": doi,
-            "primary_url": it.get("URL") or (f"https://doi.org/{doi}" if doi else ""),
-            "pdf_url": "",
-            "source": "Crossref",
-            "matched_query": query,
-            "score": score,
-            "reasons": reasons,
-            "status": "candidate-needs-manual-verification",
-        })
+        out.append(record_base(title, "; ".join(authors[:8]) + ("; et al." if len(authors) > 8 else ""), year, pub_date, venue, doi, url, "", "Crossref", query, score, reasons))
     return out
 
 
 def arxiv_search(query: str, rows: int, from_date: str) -> List[Dict[str, Any]]:
     search_query = " OR ".join([f'all:"{part}"' for part in query.split() if len(part) > 3]) or f'all:"{query}"'
-    params = {
-        "search_query": search_query,
-        "start": 0,
-        "max_results": rows,
-        "sortBy": "submittedDate",
-        "sortOrder": "descending",
-    }
-    url = "http://export.arxiv.org/api/query?" + urllib.parse.urlencode(params)
-    r = SESSION.get(url, timeout=45)
+    params = {"search_query": search_query, "start": 0, "max_results": rows, "sortBy": "submittedDate", "sortOrder": "descending"}
+    r = SESSION.get("http://export.arxiv.org/api/query?" + urllib.parse.urlencode(params), timeout=45)
     r.raise_for_status()
     root = ET.fromstring(r.text)
     ns = {"a": "http://www.w3.org/2005/Atom"}
     cutoff = dt.date.fromisoformat(from_date)
-    out = []
+    out: List[Dict[str, Any]] = []
     for e in root.findall("a:entry", ns):
         title = norm_text(e.findtext("a:title", default="", namespaces=ns))
         summary = norm_text(e.findtext("a:summary", default="", namespaces=ns))
@@ -222,46 +223,30 @@ def arxiv_search(query: str, rows: int, from_date: str) -> List[Dict[str, Any]]:
             if link.attrib.get("title") == "pdf" or link.attrib.get("type") == "application/pdf":
                 pdf_url = link.attrib.get("href", "")
         score, reasons = score_candidate(title, summary, "arXiv", query, year)
-        out.append({
-            "id": slugify(f"{year or 'yyyy'}-{title}") + "-" + fingerprint(title, "", entry_id),
-            "title": title,
-            "authors": authors,
-            "year": year,
-            "publication_date": pub_date,
-            "venue": "arXiv preprint",
-            "doi": "",
-            "primary_url": entry_id,
-            "pdf_url": pdf_url,
-            "source": "arXiv",
-            "matched_query": query,
-            "score": score,
-            "reasons": reasons,
-            "status": "candidate-needs-manual-verification",
-        })
+        out.append(record_base(title, authors, year, pub_date, "arXiv preprint", "", entry_id, pdf_url, "arXiv", query, score, reasons))
     return out
 
 
 def merge_candidates(new_items: Iterable[Dict[str, Any]], existing: List[Dict[str, Any]], verified: List[Dict[str, Any]], min_score: int) -> List[Dict[str, Any]]:
     verified_keys = {fingerprint(p.get("title", ""), p.get("doi", ""), p.get("primary_url", "")) for p in verified}
     by_key: Dict[str, Dict[str, Any]] = {}
+    today = dt.date.today().isoformat()
     for item in existing:
-        k = fingerprint(item.get("title", ""), item.get("doi", ""), item.get("primary_url", ""))
-        by_key[k] = item
+        by_key[fingerprint(item.get("title", ""), item.get("doi", ""), item.get("primary_url", ""))] = item
     for item in new_items:
         if item.get("score", 0) < min_score:
             continue
         k = fingerprint(item.get("title", ""), item.get("doi", ""), item.get("primary_url", ""))
         if k in verified_keys:
             continue
-        prev = by_key.get(k)
-        if prev:
-            # Keep user annotations, but refresh volatile fields.
-            prev.update({kk: vv for kk, vv in item.items() if vv not in [None, "", []] and kk not in {"status"}})
-            prev["last_seen"] = dt.date.today().isoformat()
+        if k in by_key:
+            prev = by_key[k]
+            prev.update({kk: vv for kk, vv in item.items() if vv not in [None, "", []]})
+            prev["last_seen"] = today
             prev["times_seen"] = int(prev.get("times_seen", 1)) + 1
         else:
-            item["first_seen"] = dt.date.today().isoformat()
-            item["last_seen"] = dt.date.today().isoformat()
+            item["first_seen"] = today
+            item["last_seen"] = today
             item["times_seen"] = 1
             by_key[k] = item
     merged = list(by_key.values())
@@ -271,19 +256,17 @@ def merge_candidates(new_items: Iterable[Dict[str, Any]], existing: List[Dict[st
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--since-days", type=int, default=730, help="candidate search window")
-    ap.add_argument("--rows", type=int, default=30, help="rows per query per source")
-    ap.add_argument("--min-score", type=int, default=6, help="minimum heuristic score for saving a candidate")
-    ap.add_argument("--sleep", type=float, default=1.0, help="delay between API calls")
+    ap.add_argument("--since-days", type=int, default=730)
+    ap.add_argument("--rows", type=int, default=30)
+    ap.add_argument("--min-score", type=int, default=6)
+    ap.add_argument("--sleep", type=float, default=1.0)
     args = ap.parse_args()
-
     today = dt.date.today()
     from_date = (today - dt.timedelta(days=args.since_days)).isoformat()
     verified = load_json(PAPERS_PATH, [])
     existing = load_json(CANDIDATES_PATH, [])
     all_new: List[Dict[str, Any]] = []
     errors: List[Dict[str, str]] = []
-
     for q in QUERIES:
         for source_name, func in [("Crossref", crossref_search), ("arXiv", arxiv_search)]:
             try:
@@ -291,20 +274,19 @@ def main() -> int:
                 all_new.extend(items)
                 print(f"{source_name}: {q!r}: {len(items)} raw candidates")
             except Exception as e:
-                print(f"ERROR {source_name} {q!r}: {e}", file=sys.stderr)
+                print(f"ERROR {source_name} {q!r}: {e}")
                 errors.append({"source": source_name, "query": q, "error": str(e)})
             time.sleep(args.sleep)
-
     merged = merge_candidates(all_new, existing, verified, args.min_score)
-    CANDIDATES_PATH.write_text(json.dumps(merged, ensure_ascii=False, indent=2), encoding="utf-8")
-    RUN_LOG_PATH.write_text(json.dumps({
+    write_json(CANDIDATES_PATH, merged)
+    write_json(RUN_LOG_PATH, {
         "last_run": dt.datetime.now(dt.timezone.utc).isoformat(),
         "since_date": from_date,
         "raw_candidates_seen": len(all_new),
         "saved_candidates_total": len(merged),
         "errors": errors,
-        "note": "Candidates are not automatically promoted to data/papers.json; manual verification is required for the core library.",
-    }, ensure_ascii=False, indent=2), encoding="utf-8")
+        "note": "Candidates are ready for automatic curation-agent audit; high-confidence records may be promoted by scripts/agent_audit.py.",
+    })
     print(f"saved {len(merged)} candidates to {CANDIDATES_PATH.relative_to(ROOT)}")
     return 0
 
