@@ -60,7 +60,7 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           if [[ -n "$(git status --porcelain)" ]]; then
-            git add data/papers.json data/focus_papers.json data/candidates.json data/last_update.json index.html updates.html paper.html papers/*.html pdfs || true
+            git add data/papers.json data/focus_papers.json data/mmwave_papers.json data/candidates.json data/last_update.json index.html updates.html paper.html papers/*.html pdfs || true
             git commit -m 'Auto-update acoustic-optics paper library [skip ci]'
             git push
           else
