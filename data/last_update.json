@@ -1,15 +1,9 @@
 {
-  "last_run": "2026-06-26T07:41:11.304205+00:00",
+  "last_run": "2026-06-26T08:52:39.692588+00:00",
   "since_date": "2024-06-26",
-  "raw_candidates_seen": 2065,
+  "raw_candidates_seen": 2098,
   "saved_candidates_total": 102,
-  "errors": [
-    {
-      "source": "Crossref",
-      "query": "ultrasound synthetic aperture non-line-of-sight imaging",
-      "error": "500 Server Error: Server Error for url: https://api.crossref.org/works?query.bibliographic=ultrasound+synthetic+aperture+non-line-of-sight+imaging&rows=30&sort=published&order=desc&filter=from-pub-date%3A2024-06-26&select=DOI%2Ctitle%2Cauthor%2Ccontainer-title%2Cpublished-print%2Cpublished-online%2Cpublished%2Cissued%2Ccreated%2CURL%2Ctype%2Cabstract&mailto=raygeng%40hku.hk"
-    }
-  ],
+  "errors": [],
   "note": "Candidates are ready for automatic curation-agent audit; high-confidence records may be promoted by scripts/agent_audit.py.",
   "mmwave_seed_queries": [
     "high resolution handheld millimeter wave imaging phase error estimation compensation",
@@ -24,7 +18,7 @@
     "Nature high resolution handheld millimeter wave imaging system"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-06-26T07:46:42.880190+00:00",
+  "agent_audit_last_run": "2026-06-26T08:57:44.853808+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 0,
   "resolved_final_versions": 2,
