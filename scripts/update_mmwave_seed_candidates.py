@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Targeted discovery for the optional mmWave side-track.
+"""Targeted discovery for the optional hidden mmWave side-track.
 
 This script searches public scholarly sources with seed queries that are easy to
 miss with generic keyword search, then appends the results to candidates.json.
-The allow-list validator still decides what can appear in mmwave_papers.json.
+It also records exact manual seed titles so future runs keep looking for them
+until authoritative metadata is found.
 """
 from __future__ import annotations
 from pathlib import Path
@@ -30,19 +31,34 @@ LOG = DATA / "last_update.json"
 
 SEED_QUERIES = [
     "high resolution handheld millimeter wave imaging phase error estimation compensation",
+    "A high-resolution handheld millimeter-wave imaging system with phase error estimation and compensation",
+    "Communications Engineering handheld millimeter-wave imaging phase error compensation",
     "IFNet deep imaging focusing handheld SAR millimeter wave signals",
     "TwinFocus autofocus handheld mmWave SAR imaging physical digital twin references",
-    "high fidelity 3D reconstruction millimeter wave surface normal estimation",
-    "RISE single static radar indoor scene understanding",
+    "High-Fidelity Through-Occlusion 3D Reconstruction Millimeter-Wave Surface Normal Estimation",
+    "mmNorm millimeter-wave surface normal hidden object reconstruction",
     "Wave-Former through occlusion 3D reconstruction wireless shape completion",
-    "handheld millimeter wave SAR autofocus MobiSys",
+    "RISE single static radar indoor scene understanding",
+    "single static radar indoor scene understanding mmWave multipath",
+    "handheld millimeter wave SAR autofocus MobiSys MobiCom SenSys",
     "millimeter wave radar indoor scene understanding MobiCom SenSys",
     "mmWave surface normal estimation 3D reconstruction CVPR ICCV",
-    "Nature high resolution handheld millimeter wave imaging system"
+    "Nature Portfolio millimeter wave radar imaging Communications Engineering",
+]
+
+MANUAL_SEEDS = [
+    {
+        "title": "TwinFocus: Autofocus for Handheld mmWave SAR Imaging via Physical and Digital Twin References",
+        "matched_query": "TwinFocus autofocus handheld mmWave SAR imaging physical digital twin references",
+    },
+    {
+        "title": "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation",
+        "matched_query": "High-Fidelity Through-Occlusion 3D Reconstruction Millimeter-Wave Surface Normal Estimation",
+    },
 ]
 
 SESSION = requests.Session()
-SESSION.headers.update({"User-Agent": "acoustic-optics-mmwave-seed-search/1.0 (https://github.com/ruixv/acoustic-optics-imaging; mailto:%s)" % os.getenv("CROSSREF_MAILTO", "example@example.com")})
+SESSION.headers.update({"User-Agent": "acoustic-optics-mmwave-seed-search/1.1 (https://github.com/ruixv/acoustic-optics-imaging; mailto:%s)" % os.getenv("CROSSREF_MAILTO", "example@example.com")})
 
 
 def load(path: Path, default: Any) -> Any:
@@ -82,11 +98,11 @@ def date_from_crossref(item: Dict[str, Any]) -> Tuple[Optional[int], str]:
 def score(title: str, abstract: str, venue: str) -> int:
     text = f"{title} {abstract} {venue}".lower()
     s = 0
-    if any(k in text for k in ["mmwave", "millimeter wave", "millimeter-wave", "millimetre wave", "radar", "fmcw", "mimo-sar"]):
+    if any(k in text for k in ["mmwave", "millimeter wave", "millimeter-wave", "millimetre wave", "radar", "fmcw", "mimo-sar", "wireless"]):
         s += 5
-    if any(k in text for k in ["imaging", "reconstruction", "mapping", "scene understanding", "sar", "surface normal", "autofocus", "phase error"]):
+    if any(k in text for k in ["imaging", "reconstruction", "mapping", "scene understanding", "sar", "surface normal", "autofocus", "phase error", "phase compensation", "phase calibration", "through-occlusion", "shape completion", "multipath", "single static radar", "digital twin", "physical twin"]):
         s += 5
-    if any(k in text for k in ["cvpr", "iccv", "eccv", "iclr", "icml", "iccp", "neurips", "mobisys", "mobicom", "sensys", "transactions on mobile computing", "nature"]):
+    if any(k in text for k in ["cvpr", "iccv", "eccv", "iclr", "icml", "iccp", "neurips", "mobisys", "mobicom", "sensys", "transactions on mobile computing", "nature", "communications engineering", "communications physics"]):
         s += 4
     return s
 
@@ -115,7 +131,7 @@ def crossref(query: str) -> List[Dict[str, Any]]:
         sc = score(title, abstract, venue)
         if sc < 7:
             continue
-        out.append({"id": slugify(f"{y or 'yyyy'}-{title}") + "-" + fp({"title": title, "doi": doi, "primary_url": url}), "title": title, "authors": "; ".join(authors[:8]) + ("; et al." if len(authors) > 8 else ""), "year": y, "publication_date": pub, "venue": venue, "doi": doi, "primary_url": url, "pdf_url": "", "source": "Crossref-mmwave-seed", "matched_query": query, "score": sc, "reasons": ["mmwave-seed-query"], "status": "candidate-pending-agent-audit"})
+        out.append({"id": slugify(f"{y or 'yyyy'}-{title}") + "-" + fp({"title": title, "doi": doi, "primary_url": url}), "title": title, "authors": "; ".join(authors), "year": y, "publication_date": pub, "venue": venue, "doi": doi, "primary_url": url, "pdf_url": "", "source": "Crossref-mmwave-seed", "matched_query": query, "score": sc, "reasons": ["mmwave-seed-query"], "status": "candidate-pending-agent-audit"})
     return out
 
 
@@ -144,6 +160,33 @@ def arxiv(query: str) -> List[Dict[str, Any]]:
     return out
 
 
+def manual_seed_items() -> List[Dict[str, Any]]:
+    today = dt.date.today().isoformat()
+    out = []
+    for seed in MANUAL_SEEDS:
+        title = seed["title"]
+        out.append({
+            "id": slugify(f"manual-{title}") + "-" + fp({"title": title}),
+            "title": title,
+            "authors": "Authors pending verification",
+            "year": None,
+            "publication_date": "",
+            "venue": "Metadata pending",
+            "doi": "",
+            "primary_url": "",
+            "pdf_url": "",
+            "source": "Manual-mmwave-seed",
+            "matched_query": seed.get("matched_query", title),
+            "score": 12,
+            "reasons": ["manual-mmwave-seed", "requires-authoritative-metadata"],
+            "status": "candidate-pending-agent-audit",
+            "first_seen": today,
+            "last_seen": today,
+            "times_seen": 1,
+        })
+    return out
+
+
 verified = load(PAPERS, []) + load(FOCUS, []) + load(MMWAVE, [])
 existing = load(CANDIDATES, [])
 seen = {fp(x) for x in verified + existing}
@@ -164,11 +207,18 @@ for q in SEED_QUERIES:
             errors.append({"query": q, "source": fn.__name__, "error": str(e)})
         time.sleep(0.5)
 
+for item in manual_seed_items():
+    key = fp(item)
+    if key not in seen:
+        new_items.append(item)
+        seen.add(key)
+
 merged = existing + new_items
 merged.sort(key=lambda x: (x.get("score", 0), str(x.get("publication_date", ""))), reverse=True)
 dump(CANDIDATES, merged)
 log = load(LOG, {})
 log["mmwave_seed_queries"] = SEED_QUERIES
+log["mmwave_manual_seed_titles"] = [s["title"] for s in MANUAL_SEEDS]
 log["mmwave_seed_new_candidates"] = len(new_items)
 if errors:
     log.setdefault("errors", []).extend(errors)
