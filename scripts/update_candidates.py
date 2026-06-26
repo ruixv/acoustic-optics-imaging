@@ -3,7 +3,7 @@
 
 Scope: acoustic imaging, imaging sonar, acoustic-optical fusion, acoustic NLOS,
 acoustic holography/coded acoustics, differentiable acoustic reconstruction,
-and the optional mmWave radar imaging side-track.
+and the optional hidden mmWave radar imaging side-track.
 """
 from __future__ import annotations
 import argparse, datetime as dt, hashlib, html, json, os, re, time, urllib.parse, xml.etree.ElementTree as ET
@@ -15,15 +15,26 @@ ROOT=Path(__file__).resolve().parents[1]
 DATA_DIR=ROOT/'data'; DATA_DIR.mkdir(exist_ok=True)
 PAPERS_PATH=DATA_DIR/'papers.json'; FOCUS_PATH=DATA_DIR/'focus_papers.json'; MMWAVE_PATH=DATA_DIR/'mmwave_papers.json'; CANDIDATES_PATH=DATA_DIR/'candidates.json'; RUN_LOG_PATH=DATA_DIR/'last_update.json'
 
-TOP_VENUE_PATTERNS=[r'\bnature\b',r'nature communications',r'communications physics',r'scientific data',r'light: science',r'\bscience\b',r'science advances',r'acm transactions on graphics',r'\bsiggraph\b',r'\bcvpr\b',r'\biccv\b',r'\beccv\b',r'\biclr\b',r'\bicml\b',r'\biccp\b',r'international conference on machine learning',r'international conference on computational photography',r'\bneurips\b',r'pattern analysis and machine intelligence',r'\btpami\b',r'transactions on image processing',r'\btip\b',r'\bmobisys\b',r'\bmobicom\b',r'\bsensys\b',r'transactions on mobile computing',r'\btmc\b']
+TOP_VENUE_PATTERNS=[
+    r'\bnature\b',r'nature communications',r'nature biomedical engineering',r'nature electronics',r'nature photonics',
+    r'nature machine intelligence',r'nature computational science',r'communications engineering',r'communications physics',
+    r'communications materials',r'communications medicine',r'scientific data',r'light: science',
+    r'\bscience\b',r'science advances',r'science robotics',
+    r'acm transactions on graphics',r'\bsiggraph\b',r'\bcvpr\b',r'\biccv\b',r'\beccv\b',r'\biclr\b',r'\bicml\b',r'\biccp\b',
+    r'international conference on machine learning',r'international conference on computational photography',r'\bneurips\b',
+    r'pattern analysis and machine intelligence',r'\btpami\b',r'transactions on image processing',r'\btip\b',
+    r'\bmobisys\b',r'\bmobicom\b',r'\bsensys\b',r'transactions on mobile computing',r'\btmc\b'
+]
 QUERIES=[
 'imaging sonar differentiable rendering','neural implicit surface reconstruction imaging sonar','neural volume rendering imaging sonar','forward-looking sonar 3D reconstruction differentiable','synthetic aperture sonar neural reconstruction','coherent synthetic aperture sonar reconstruction','camera sonar fusion 3D reconstruction','acoustic optical sensor fusion sonar','opti acoustic sensor fusion volumetric mapping','sonar visual dataset cross modal underwater perception','acoustic non-line-of-sight imaging','ultrasound synthetic aperture non-line-of-sight imaging','acoustic holography phased array computation','coded acoustic imaging computational acoustics','computational ultrasound complex fields imaging','acousto-optic imaging speckle decorrelation','photoacoustic imaging acoustic hologram',
-'mmWave radar imaging CVPR','mmWave radar imaging ICCV','mmWave radar imaging NeurIPS','mmWave radar imaging ECCV','mmWave radar imaging ICLR','mmWave radar imaging ICML','mmWave radar imaging ICCP','mmWave radar imaging MobiSys','mmWave radar imaging MobiCom','mmWave radar imaging SenSys','mmWave radar imaging TPAMI','mmWave radar imaging TOG','mmWave radar imaging TIP','mmWave radar imaging TMC','millimeter wave radar imaging SIGGRAPH','4D radar point cloud CVPR','FMCW MIMO-SAR radar imaging MobiSys','millimeter wave radar indoor mapping MobiSys']
-CORE_TERMS=['acoustic','sonar','ultrasound','photoacoustic','optoacoustic','acousto-optic','acousto optic','radar','mmwave','millimeter-wave','millimeter wave','millimetre wave','fmcw']
-IMAGING_TERMS=['imaging','reconstruction','tomography','holography','nlos','non-line-of-sight','synthetic aperture','sensor fusion','neural rendering','volume rendering','differentiable rendering','3d','bathymetry','surface reconstruction','point cloud','super resolution','mapping']
-PRIMARY_TERMS=['imaging sonar','forward-looking sonar','synthetic aperture sonar','camera sonar','camera-sonar','acoustic-optical','acoustic optical','opti-acoustic','acoustic non-line-of-sight','acoustic nlos','ultrasound synthetic aperture','acoustic holography','coded acoustic','computational ultrasound','mmwave radar','millimeter-wave radar','millimeter wave radar','millimetre wave radar','4d radar','radar point cloud','mimo-sar','fmcw radar','radar imaging','mmwave imaging','millimeter wave imaging','millimetre wave mapping']
+'mmWave radar imaging CVPR','mmWave radar imaging ICCV','mmWave radar imaging NeurIPS','mmWave radar imaging ECCV','mmWave radar imaging ICLR','mmWave radar imaging ICML','mmWave radar imaging ICCP','mmWave radar imaging MobiSys','mmWave radar imaging MobiCom','mmWave radar imaging SenSys','mmWave radar imaging TPAMI','mmWave radar imaging TOG','mmWave radar imaging TIP','mmWave radar imaging TMC','millimeter wave radar imaging SIGGRAPH','4D radar point cloud CVPR','FMCW MIMO-SAR radar imaging MobiSys','millimeter wave radar indoor mapping MobiSys',
+'handheld mmWave SAR autofocus phase error compensation','handheld millimeter-wave imaging phase error estimation compensation','IFNet deep imaging focusing handheld SAR millimeter-wave','TwinFocus autofocus handheld mmWave SAR physical digital twin references','mmWave surface normal estimation through-occlusion 3D reconstruction','mmNorm millimeter-wave surface normal hidden object reconstruction','Wave-Former through-occlusion 3D reconstruction wireless shape completion','single static radar indoor scene understanding RISE','mmWave multipath indoor layout reconstruction object detection','Nature Portfolio Communications Engineering millimeter-wave imaging'
+]
+CORE_TERMS=['acoustic','sonar','ultrasound','photoacoustic','optoacoustic','acousto-optic','acousto optic','radar','mmwave','millimeter-wave','millimeter wave','millimetre wave','fmcw','wireless']
+IMAGING_TERMS=['imaging','reconstruction','tomography','holography','nlos','non-line-of-sight','synthetic aperture','sensor fusion','neural rendering','volume rendering','differentiable rendering','3d','bathymetry','surface reconstruction','point cloud','super resolution','mapping','surface normal','through-occlusion','shape completion','scene understanding','autofocus','phase error','phase compensation','phase calibration']
+PRIMARY_TERMS=['imaging sonar','forward-looking sonar','synthetic aperture sonar','camera sonar','camera-sonar','acoustic-optical','acoustic optical','opti-acoustic','acoustic non-line-of-sight','acoustic nlos','ultrasound synthetic aperture','acoustic holography','coded acoustic','computational ultrasound','mmwave radar','millimeter-wave radar','millimeter wave radar','millimetre wave radar','4d radar','radar point cloud','mimo-sar','fmcw radar','radar imaging','mmwave imaging','millimeter wave imaging','millimetre wave mapping','handheld sar','handheld mmwave','mmwave sar','single static radar','radar indoor scene understanding','through-occlusion','surface normal estimation','wireless shape completion','mmnorm','twinfocus','ifnet','phase error estimation']
 NEGATIVE_TERMS=['speech recognition','music','audio caption','radio galaxy','black hole','x-ray binary','tidal disruption','cell culture','raman data fusion','football','ball games','co2 leakage','injection wells','fuel']
-SESSION=requests.Session(); SESSION.headers.update({'User-Agent':'acoustic-optics-imaging-updater/2.3 (https://github.com/ruixv/acoustic-optics-imaging; mailto:%s)'%os.getenv('CROSSREF_MAILTO','example@example.com')})
+SESSION=requests.Session(); SESSION.headers.update({'User-Agent':'acoustic-optics-imaging-updater/2.4 (https://github.com/ruixv/acoustic-optics-imaging; mailto:%s)'%os.getenv('CROSSREF_MAILTO','example@example.com')})
 
 def norm_text(x:str)->str: return re.sub(r'\s+',' ',(x or '').strip())
 def slugify(s:str,max_len:int=80)->str: return re.sub(r'[^a-zA-Z0-9]+','-',s.lower()).strip('-')[:max_len].strip('-') or 'candidate'
@@ -39,7 +50,7 @@ def get_year_date_crossref(item:Dict[str,Any])->Tuple[Optional[int],str]:
             if y: return y,f'{y:04d}-{m:02d}-{d:02d}'
     return None,''
 def score_candidate(title:str,abstract:str,venue:str,query:str,year:Optional[int])->Tuple[int,List[str]]:
-    text=f'{title} {abstract}'.lower(); reasons=[]; score=0
+    text=f'{title} {abstract} {venue}'.lower(); reasons=[]; score=0
     if is_top_venue(venue): score+=4; reasons.append('top-venue')
     if any(t in text for t in PRIMARY_TERMS): score+=5; reasons.append('primary imaging/radar term')
     elif any(t in text for t in CORE_TERMS): score+=2; reasons.append('core wave-sensing term')
@@ -64,7 +75,7 @@ def crossref_search(query:str,rows:int,from_date:str)->List[Dict[str,Any]]:
             name=norm_text(' '.join([a.get('given',''),a.get('family','')]))
             if name: authors.append(name)
         doi=it.get('DOI') or ''; url=it.get('URL') or (f'https://doi.org/{doi}' if doi else ''); score,reasons=score_candidate(title,abstract,venue,query,year)
-        out.append(record_base(title,'; '.join(authors[:8])+('; et al.' if len(authors)>8 else ''),year,pub,venue,doi,url,'','Crossref',query,score,reasons))
+        out.append(record_base(title,'; '.join(authors),year,pub,venue,doi,url,'','Crossref',query,score,reasons))
     return out
 def arxiv_search(query:str,rows:int,from_date:str)->List[Dict[str,Any]]:
     search_query=' OR '.join([f'all:"{part}"' for part in query.split() if len(part)>3]) or f'all:"{query}"'; params={'search_query':search_query,'start':0,'max_results':rows,'sortBy':'submittedDate','sortOrder':'descending'}
@@ -99,5 +110,5 @@ def main()->int:
             try: items=func(q,args.rows,from_date); all_new.extend(items); print(f'{source_name}: {q!r}: {len(items)} raw candidates')
             except Exception as e: print(f'ERROR {source_name} {q!r}: {e}'); errors.append({'source':source_name,'query':q,'error':str(e)})
             time.sleep(args.sleep)
-    merged=merge_candidates(all_new,existing,verified,args.min_score); write_json(CANDIDATES_PATH,merged); write_json(RUN_LOG_PATH,{'last_run':dt.datetime.now(dt.timezone.utc).isoformat(),'since_date':from_date,'raw_candidates_seen':len(all_new),'saved_candidates_total':len(merged),'errors':errors,'note':'Candidates are ready for automatic curation-agent audit; high-confidence records may be promoted by scripts/agent_audit.py.'}); print(f'saved {len(merged)} candidates to {CANDIDATES_PATH.relative_to(ROOT)}'); return 0
+    merged=merge_candidates(all_new,existing,verified,args.min_score); write_json(CANDIDATES_PATH,merged); write_json(RUN_LOG_PATH,{'last_run':dt.datetime.now(dt.timezone.utc).isoformat(),'since_date':from_date,'raw_candidates_seen':len(all_new),'saved_candidates_total':len(merged),'errors':errors,'note':'Candidates are ready for automatic curation-agent audit; high-confidence records may be promoted by scripts/agent_audit.py. Author strings are preserved in full when available.'}); print(f'saved {len(merged)} candidates to {CANDIDATES_PATH.relative_to(ROOT)}'); return 0
 if __name__=='__main__': raise SystemExit(main())
