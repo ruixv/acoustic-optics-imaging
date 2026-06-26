@@ -1,10 +1,20 @@
-name: Update paper candidates
+name: Update papers with auto audit
 
 on:
   workflow_dispatch:
   schedule:
-    # Every 6 hours, in UTC. Minute 17 avoids the busiest top-of-hour queue.
-    - cron: "17 */6 * * *"
+    - cron: '17 */6 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'data/**'
+      - 'index.html'
+      - 'updates.html'
+      - 'paper.html'
+      - 'style.css'
+      - 'script.js'
+      - '.github/workflows/update-papers.yml'
 
 permissions:
   contents: write
@@ -15,6 +25,7 @@ concurrency:
 
 jobs:
   update:
+    if: ${{ !contains(github.event.head_commit.message, '[skip ci]') }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -23,7 +34,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -33,7 +44,10 @@ jobs:
           CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
         run: python scripts/update_candidates.py --since-days 730 --rows 30 --min-score 6
 
-      - name: Rebuild HTML
+      - name: Run automatic curation-agent audit
+        run: python scripts/agent_audit.py
+
+      - name: Rebuild bilingual website
         run: python scripts/build_site.py
 
       - name: Download open PDFs when available
@@ -43,12 +57,12 @@ jobs:
       - name: Commit changes
         shell: bash
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           if [[ -n "$(git status --porcelain)" ]]; then
-            git add data/candidates.json data/last_update.json updates.html index.html papers/*.html pdfs || true
-            git commit -m "Update acoustic-optics paper candidates [skip ci]"
+            git add data/papers.json data/candidates.json data/last_update.json index.html updates.html paper.html papers/*.html pdfs || true
+            git commit -m 'Auto-update acoustic-optics paper library [skip ci]'
             git push
           else
-            echo "No changes to commit."
+            echo 'No changes to commit.'
           fi
