@@ -23,6 +23,15 @@
   "promoted_mmwave_count": 0,
   "resolved_final_versions": 2,
   "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion; the mmWave track covers radar imaging, FMCW/MIMO-SAR, 4D radar, and radar point clouds.",
+  "manual_focus_additions": [
+    {
+      "id": "chen2025-sonarsweep-camera-sonar-plane-sweeping",
+      "title": "SonarSweep: Fusing Sonar and Vision for Robust 3D Reconstruction via Plane Sweeping",
+      "verified_on": "2026-06-26",
+      "source": "https://arxiv.org/abs/2511.00392",
+      "note": "Added to data/focus_papers.json as a high-relevance camera-sonar fusion preprint; no final top-venue version verified."
+    }
+  ],
   "mmwave_allowlist": [
     "ACM TOG / SIGGRAPH",
     "CVPR",
