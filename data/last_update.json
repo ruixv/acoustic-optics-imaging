@@ -7,5 +7,6 @@
   "note": "Candidates are ready for automatic curation-agent audit; high-confidence records may be promoted by scripts/agent_audit.py.",
   "agent_audit_last_run": "2026-06-26T02:13:04.618462+00:00",
   "promoted_count": 0,
-  "audit_note": "High-confidence records are promoted automatically; borderline records remain in data/candidates.json."
+  "audit_note": "High-confidence records are promoted automatically; borderline records remain in data/candidates.json.",
+  "manual_audit_trigger": "requested-from-chatgpt-2026-06-26"
 }
