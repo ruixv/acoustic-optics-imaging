@@ -1,10 +1,147 @@
 {
-  "last_run": "2026-06-27T13:03:50.048933+00:00",
+  "last_run": "2026-06-27T14:24:11.740801+00:00",
   "since_date": "2024-06-27",
-  "raw_candidates_seen": 1663,
+  "raw_candidates_seen": 1667,
   "saved_candidates_total": 89,
-  "errors": [],
-  "note": "Candidates are ready for automatic curation-agent audit. arXiv search now uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set now tracks recent 3D sonar simulation and vision-sonar fusion preprints.",
+  "citation_graph_seed_count": 27,
+  "errors": [
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Single-View Seafloor Recovery from Imaging Sonar via Differentiable Rendering",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW7162418521%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Towards Versatile Opti-Acoustic Sensor Fusion and Volumetric Mapping",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW7138441001%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Noninvasive photoacoustic computed mesoscopy for longitudinal brain imaging",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW7127576892%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: TwinFocus: Autofocus for Handheld mmWave SAR Imaging via Physical and Digital Twin References",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW7162781559%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Photoacoustic microscopy with meta-optics",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4416389353%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Wave-Former: Through-Occlusion 3D Reconstruction via Wireless Shape Completion",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4417210194%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: RISE: Single Static Radar-based Indoor Scene Understanding",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW2751571889%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Ultrasound synthetic aperture non-line-of-sight imaging",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4416291893%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: SonarSweep: Fusing Sonar and Vision for Robust 3D Reconstruction via Plane Sweeping",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4415937507%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4402732997%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW3167138498%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: A fast all-optical 3D photoacoustic scanner for clinical vascular imaging",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4402996161%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4400581066%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Temporal acoustic point holography",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4400580459%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Photoacoustic Tomography with Temporal Encoding Reconstruction (PATTERN) for cross-modal individual analysis of the whole brain",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4397034748%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: IFNet: Deep Imaging and Focusing for Handheld SAR with Millimeter-wave Signals",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4396781145%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Bathymetric Surveying with Imaging Sonar Using Neural Volume Rendering",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4395443427%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Acoustic hologram-induced virtual in vivo enhanced waveguide for transcranial photoacoustic imaging of brains",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4391830931%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Four-dimensional computational ultrasound imaging of brain hemodynamics",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4390959389%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: A high-resolution handheld millimeter-wave imaging system with phase error estimation and compensation",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4390609920%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4385275672%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Neural Implicit Surface Reconstruction using Imaging Sonar",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4383109134%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: High-speed acoustic holography with arbitrary scattering objects",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW4283020512%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: GS-PAT: High-Speed Multi-Point Sound-Fields for Phased Arrays of Transducers",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW3048425039%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: See Through Smoke: Robust Indoor Mapping with Low-cost mmWave Radar",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW3018353706%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Acousto optic imaging beyond the acoustic diffraction limit using speckle decorrelation",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW2996770512%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Acoustic Non-Line-Of-Sight Imaging",
+      "error": "400 Client Error: Bad Request for url: https://api.openalex.org/works?filter=cites%3AW2979485309%2Cfrom_publication_date%3A2024-06-27&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Chost_venue%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    }
+  ],
+  "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
   "mmwave_seed_queries": [
     "high resolution handheld millimeter wave imaging phase error estimation compensation",
     "A high-resolution handheld millimeter-wave imaging system with phase error estimation and compensation",
@@ -26,7 +163,7 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-06-27T13:06:20.544481+00:00",
+  "agent_audit_last_run": "2026-06-27T14:25:54.724543+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 0,
   "resolved_final_versions": 40,
