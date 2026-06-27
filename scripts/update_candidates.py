@@ -162,7 +162,7 @@ def core_papers_for_citation_expansion(verified:List[Dict[str,Any]],max_seeds:in
 def openalex_citation_search(core_paper:Dict[str,Any],rows:int,from_date:str)->List[Dict[str,Any]]:
     seed=resolve_openalex_work(core_paper)
     if not seed or not seed.get('id'): return []
-    seed_id=openalex_short_id(seed.get('id','')); fields='id,display_name,doi,publication_year,publication_date,primary_location,host_venue,authorships,abstract_inverted_index,open_access'
+    seed_id=openalex_short_id(seed.get('id','')); fields='id,display_name,doi,publication_year,publication_date,primary_location,authorships,abstract_inverted_index,open_access'
     params=openalex_params(filter=f'cites:{seed_id},from_publication_date:{from_date}',sort='publication_date:desc',**{'per-page':rows,'select':fields})
     r=SESSION.get('https://api.openalex.org/works',params=params,timeout=45); r.raise_for_status(); out=[]
     for work in r.json().get('results') or []:
