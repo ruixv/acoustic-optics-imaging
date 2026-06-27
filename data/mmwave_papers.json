@@ -1,5 +1,42 @@
 [
   {
+    "id": "2026-mme-loc-facilitating-accurate-drone-landing-with-ultra-high-frequency-local-6a38d2e92914",
+    "title": "mmE-Loc: Facilitating Accurate Drone Landing With Ultra-High-Frequency Localization",
+    "authors": "Haoyang Wang; Jingao Xu; Xinyu Luo; Ting Zhang; Xuecheng Chen; Ruiyang Duan; Y. Liu; Jianfeng Zheng; Weijie Hong; Xiaoqiang Ji; Yuqing Tang; Xinlei Chen",
+    "year": 2026,
+    "publication_date": "2026-02-19",
+    "venue": "IEEE Transactions on Mobile Computing",
+    "venue_group": "IEEE TMC",
+    "venue_type": "journal",
+    "doi": "10.1109/tmc.2026.3666235",
+    "primary_url": "https://doi.org/10.1109/tmc.2026.3666235",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "handheld mmWave SAR"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on handheld mmWave SAR.",
+    "summary_cn": "自动审核收录的论文，主题包括 handheld mmWave SAR。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tmc.2026.3666235"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "mmwave",
+      "mmwave_keep_reason": "allowed-final-venue"
+    }
+  },
+  {
     "id": "twinfocus-handheld-mmwave-sar-autofocus",
     "title": "TwinFocus: Autofocus for Handheld mmWave SAR Imaging via Physical and Digital Twin References",
     "authors": "Authors pending verification",
@@ -114,6 +151,81 @@
     }
   },
   {
+    "id": "2025-i-sense-you-fast-simultaneous-action-and-identity-inference-by-slimming-mul-e87c1334ac46",
+    "title": "I Sense You Fast: Simultaneous Action and Identity Inference by Slimming Multi-Branch RadarNet",
+    "authors": "Biyun Sheng; Yan Bao; Hui Cai; Linqing Gui; Fu Xiao",
+    "year": 2025,
+    "publication_date": "2025-05-15",
+    "venue": "IEEE Transactions on Mobile Computing",
+    "venue_group": "IEEE TMC",
+    "venue_type": "journal",
+    "doi": "10.1109/tmc.2025.3570757",
+    "primary_url": "https://doi.org/10.1109/tmc.2025.3570757",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "through-occlusion mmWave reconstruction",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on through-occlusion mmWave reconstruction, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 through-occlusion mmWave reconstruction、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tmc.2025.3570757"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "mmwave",
+      "mmwave_keep_reason": "allowed-final-venue"
+    }
+  },
+  {
+    "id": "2025-fusegrasp-radar-camera-fusion-for-robotic-grasping-of-transparent-objects-fff6c9707132",
+    "title": "FuseGrasp: Radar-Camera Fusion for Robotic Grasping of Transparent Objects",
+    "authors": "Hongyu Deng; Tianfan Xue; He Chen",
+    "year": 2025,
+    "publication_date": "2025-03-03",
+    "venue": "IEEE Transactions on Mobile Computing",
+    "venue_group": "IEEE TMC",
+    "venue_type": "journal",
+    "doi": "10.1109/tmc.2025.3547371",
+    "primary_url": "https://doi.org/10.1109/tmc.2025.3547371",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "mmWave radar imaging"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on mmWave radar imaging.",
+    "summary_cn": "自动审核收录的论文，主题包括 mmWave radar imaging。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tmc.2025.3547371"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "mmwave",
+      "mmwave_keep_reason": "allowed-final-venue"
+    }
+  },
+  {
     "id": "mmnorm2025-through-occlusion-surface-normal-mmwave",
     "title": "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation",
     "authors": "Authors pending verification",
@@ -151,6 +263,81 @@
       "track": "mmwave",
       "note": "A secondary source describes mmNorm and surface-normal-based mmWave reconstruction; full paper metadata remains pending.",
       "mmwave_keep_reason": "manual-mmwave-tracking-seed"
+    }
+  },
+  {
+    "id": "2024-ubiquitous-indoor-mapping-using-mobile-radio-tomography-35907d831169",
+    "title": "Ubiquitous Indoor Mapping Using Mobile Radio Tomography",
+    "authors": "Amartya Basu; Ayon Chakraborty; Kush Jajal",
+    "year": 2024,
+    "publication_date": "2024-08-13",
+    "venue": "IEEE Transactions on Mobile Computing",
+    "venue_group": "IEEE TMC",
+    "venue_type": "journal",
+    "doi": "10.1109/tmc.2024.3442439",
+    "primary_url": "https://doi.org/10.1109/tmc.2024.3442439",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "mmWave radar imaging",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on mmWave radar imaging, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 mmWave radar imaging、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tmc.2024.3442439"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "mmwave",
+      "mmwave_keep_reason": "allowed-final-venue"
+    }
+  },
+  {
+    "id": "2024-introducing-an-indoor-object-classification-dataset-including-sparse-point-b7f6a9ad866b",
+    "title": "Introducing an indoor object classification dataset including sparse point clouds from mmWave radar",
+    "authors": "Panagiotis Kasnesis; Christos Chatzigeorgiou; Vasileios Doulgerakis; Dimitris Uzunidis; Evangelos Margaritis; Charalampos Z. Patrikakis; Stelios Α. Mitilineos",
+    "year": 2024,
+    "publication_date": "2024-08-03",
+    "venue": "Scientific Data",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "conference",
+    "doi": "10.1038/s41597-024-03678-2",
+    "primary_url": "https://doi.org/10.1038/s41597-024-03678-2",
+    "pdf_url": "https://www.nature.com/articles/s41597-024-03678-2.pdf",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "mmWave radar imaging"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on mmWave radar imaging.",
+    "summary_cn": "自动审核收录的论文，主题包括 mmWave radar imaging。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1038/s41597-024-03678-2"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "mmwave",
+      "mmwave_keep_reason": "allowed-final-venue"
     }
   },
   {

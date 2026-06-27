@@ -1,5 +1,151 @@
 [
   {
+    "id": "2026-imaging-hidden-objects-with-consumer-lidar-via-motion-induced-sampling-ac530193e497",
+    "title": "Imaging hidden objects with consumer LiDAR via motion-induced sampling",
+    "authors": "Siddharth Somasundaram; Aaron Young; Akshat Dave; Adithya Pediredla; Ramesh Raskar",
+    "year": 2026,
+    "publication_date": "2026-05-20",
+    "venue": "Nature",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal",
+    "doi": "10.1038/s41586-026-10502-x",
+    "primary_url": "https://doi.org/10.1038/s41586-026-10502-x",
+    "pdf_url": "https://arxiv.org/pdf/2605.17865",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic NLOS"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on acoustic NLOS.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic NLOS。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1038/s41586-026-10502-x"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2026-from-traditional-methods-to-artificial-intelligence-a-review-of-non-line-of-c16d30085c79",
+    "title": "From Traditional Methods to Artificial Intelligence: A Review of Non-Line-of-Sight Analysis Techniques",
+    "authors": "Semra Çelebi; İbrahim Türkoğlu",
+    "year": 2026,
+    "publication_date": "2026-03-30",
+    "venue": "Sakarya University Journal of Computer and Information Sciences",
+    "venue_group": "Other",
+    "venue_type": "journal",
+    "doi": "10.35377/saucis...1718848",
+    "primary_url": "https://doi.org/10.35377/saucis...1718848",
+    "pdf_url": "http://saucis.sakarya.edu.tr/en/download/article-file/4955630",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic NLOS"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on acoustic NLOS.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic NLOS。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.35377/saucis...1718848"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2026-range-doppler-algorithm-of-multireceiver-synthetic-aperture-sonar-using-non-5850277289f4",
+    "title": "Range-doppler algorithm of multireceiver synthetic aperture sonar using nonuniform signal",
+    "authors": "Pan Huang; Yan Fan; Xiaojie Teng; Jingjing Tan; Lijie Guo",
+    "year": 2026,
+    "publication_date": "2026-03-24",
+    "venue": "PLoS ONE",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.1371/journal.pone.0343983",
+    "primary_url": "https://doi.org/10.1371/journal.pone.0343983",
+    "pdf_url": "https://doi.org/10.1371/journal.pone.0343983",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "synthetic aperture sonar",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on synthetic aperture sonar, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 synthetic aperture sonar、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1371/journal.pone.0343983"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2026-adaptive-path-planning-for-autonomous-underwater-vehicle-auv-based-on-spati-a2c1090c3ae4",
+    "title": "Adaptive Path Planning for Autonomous Underwater Vehicle (AUV) Based on Spatio-Temporal Graph Neural Networks and Conditional Normalizing Flow Probabilistic Reconstruction",
+    "authors": "GuoShuai Li; Jinghua Wang; Jichuan Dai; Tian Zhao; Danqiang Chen; Cui Chen",
+    "year": 2026,
+    "publication_date": "2026-02-11",
+    "venue": "Algorithms",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.3390/a19020147",
+    "primary_url": "https://doi.org/10.3390/a19020147",
+    "pdf_url": "https://www.mdpi.com/1999-4893/19/2/147/pdf",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "synthetic aperture sonar",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on synthetic aperture sonar, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 synthetic aperture sonar、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.3390/a19020147"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
     "id": "ruan2026-photoacoustic-mesoscopy",
     "title": "Noninvasive photoacoustic computed mesoscopy for longitudinal brain imaging",
     "authors": "Shijie Ruan; Wei Qin; Linyang Li; Tingting Li; et al.",
@@ -28,6 +174,79 @@
       "https://pmc.ncbi.nlm.nih.gov/articles/PMC12871444/"
     ],
     "last_verified": "2026-06-25"
+  },
+  {
+    "id": "2026-underwater-target-tracking-based-on-acoustic-optical-fusion-for-multi-auv-s-7bcbc835f6c1",
+    "title": "Underwater Target Tracking Based on Acoustic-Optical Fusion for Multi-AUV Systems",
+    "authors": "Yang Yang; Yichen Li; Wenbin Yu; Xinping Guan",
+    "year": 2026,
+    "publication_date": "2026-01-01",
+    "venue": "IEEE Transactions on Network Science and Engineering",
+    "venue_group": "Science family",
+    "venue_type": "journal",
+    "doi": "10.1109/tnse.2026.3667901",
+    "primary_url": "https://doi.org/10.1109/tnse.2026.3667901",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "camera-sonar fusion"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on camera-sonar fusion.",
+    "summary_cn": "自动审核收录的论文，主题包括 camera-sonar fusion。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tnse.2026.3667901"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2026-splatting-sa-direct-rendering-of-synthetic-aperture-imagery-a1007e09d3a9",
+    "title": "Splatting SA: Direct Rendering of Synthetic Aperture Imagery",
+    "authors": "Ole Jacob Lorentzen",
+    "year": 2026,
+    "publication_date": "2026-01-01",
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+    "venue_group": "Other",
+    "venue_type": "journal",
+    "doi": "10.1109/tgrs.2026.3653637",
+    "primary_url": "https://doi.org/10.1109/tgrs.2026.3653637",
+    "pdf_url": "https://doi.org/10.1109/tgrs.2026.3653637",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tgrs.2026.3653637"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
   },
   {
     "id": "chew2025-acoustic-reliefs",
@@ -121,6 +340,305 @@
     "last_verified": "2026-06-25"
   },
   {
+    "id": "2025-explainable-machine-learning-for-bathymetric-mapping-adaptive-normalization-5042e785f3d1",
+    "title": "Explainable machine learning for bathymetric mapping: adaptive normalization and feature engineering in complex seabed terrains",
+    "authors": "Ahmet Durap",
+    "year": 2025,
+    "publication_date": "2025-11-13",
+    "venue": "Ocean Science Journal",
+    "venue_group": "Science family",
+    "venue_type": "journal",
+    "doi": "10.1007/s12601-025-00251-9",
+    "primary_url": "https://doi.org/10.1007/s12601-025-00251-9",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1007/s12601-025-00251-9"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-systems-analysis-of-feature-extraction-and-matching-methods-in-opt-acoustic-cd32727eca9c",
+    "title": "Systems analysis of feature extraction and matching methods in opt acoustic data for navigation and mapping tasks",
+    "authors": "Nikolay Dmitrievich Svischev; Iscandar Maratovich Azhmukhamedov; Georgiy Aleksandrovich Popov",
+    "year": 2025,
+    "publication_date": "2025-11-10",
+    "venue": "VESTNIK OF ASTRAKHAN STATE TECHNICAL UNIVERSITY SERIES MANAGEMENT COMPUTER SCIENCE AND INFORMATICS",
+    "venue_group": "Science family",
+    "venue_type": "journal",
+    "doi": "10.24143/2072-9502-2025-4-7-22",
+    "primary_url": "https://doi.org/10.24143/2072-9502-2025-4-7-22",
+    "pdf_url": "https://vestnik.astu.org/en/storage/download/235968",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.24143/2072-9502-2025-4-7-22"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-reconstructing-microwave-synthetic-aperture-images-using-neural-fields-1d97143f5d56",
+    "title": "Reconstructing Microwave Synthetic Aperture Images Using Neural Fields",
+    "authors": "Cecilio Obeso; Kavian Zirak; Omkar Vengurlekar; Suren Jayasuriya; Mohammadreza F. Imani",
+    "year": 2025,
+    "publication_date": "2025-11-02",
+    "venue": "OpenAlex indexed work",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.23919/amta66658.2025.11317823",
+    "primary_url": "https://doi.org/10.23919/amta66658.2025.11317823",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "synthetic aperture sonar",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on synthetic aperture sonar, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 synthetic aperture sonar、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.23919/amta66658.2025.11317823"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-a-self-controlled-reconfigurable-intelligent-surface-inspired-by-optical-ho-c34e2b9abc57",
+    "title": "A self-controlled reconfigurable intelligent surface inspired by optical holography",
+    "authors": "Jieao Zhu; Ze Gu; Qian Ma; Linglong Dai; Tie Jun Cui",
+    "year": 2025,
+    "publication_date": "2025-10-29",
+    "venue": "Nature Electronics",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal",
+    "doi": "10.1038/s41928-025-01482-3",
+    "primary_url": "https://doi.org/10.1038/s41928-025-01482-3",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic holography"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on acoustic holography.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic holography。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1038/s41928-025-01482-3"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-opti-acoustic-scene-reconstruction-in-highly-turbid-underwater-environments-06eb8fa123ca",
+    "title": "Opti-Acoustic Scene Reconstruction in Highly Turbid Underwater Environments",
+    "authors": "Ivana Collado-Gonzalez; John McConnell; Paul Szenher; Brendan Englot",
+    "year": 2025,
+    "publication_date": "2025-10-19",
+    "venue": "OpenAlex indexed work",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.1109/iros60139.2025.11247733",
+    "primary_url": "https://doi.org/10.1109/iros60139.2025.11247733",
+    "pdf_url": "https://arxiv.org/pdf/2508.03408",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "camera-sonar fusion"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on camera-sonar fusion.",
+    "summary_cn": "自动审核收录的论文，主题包括 camera-sonar fusion。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/iros60139.2025.11247733"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-oasis-real-time-opti-acoustic-sensing-for-intervention-systems-in-unstructu-50ff5685745f",
+    "title": "OASIS: Real-Time Opti-Acoustic Sensing for Intervention Systems in Unstructured Environments",
+    "authors": "Amy Phung; Richard Camilli",
+    "year": 2025,
+    "publication_date": "2025-10-19",
+    "venue": "OpenAlex indexed work",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.1109/iros60139.2025.11246656",
+    "primary_url": "https://doi.org/10.1109/iros60139.2025.11246656",
+    "pdf_url": "https://arxiv.org/pdf/2508.12071v1",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "camera-sonar fusion"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on camera-sonar fusion.",
+    "summary_cn": "自动审核收录的论文，主题包括 camera-sonar fusion。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/iros60139.2025.11246656",
+      "http://arxiv.org/abs/2508.12071v1",
+      "https://arxiv.org/pdf/2508.12071v1"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "resolved-from-arxiv-to-final-venue",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-acoustic-neural-3d-reconstruction-under-pose-drift-4c50062edf90",
+    "title": "Acoustic Neural 3D Reconstruction Under Pose Drift",
+    "authors": "Tianxiang Lin; Mohamad Qadri; Kevin Zhang; Adithya Pediredla; Christopher A. Metzler; Michael Kaess",
+    "year": 2025,
+    "publication_date": "2025-10-19",
+    "venue": "OpenAlex indexed work",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.1109/iros60139.2025.11247485",
+    "primary_url": "https://doi.org/10.1109/iros60139.2025.11247485",
+    "pdf_url": "https://arxiv.org/pdf/2503.08930v2",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/iros60139.2025.11247485",
+      "http://arxiv.org/abs/2503.08930v2",
+      "https://arxiv.org/pdf/2503.08930v2"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "resolved-from-arxiv-to-final-venue",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-underwater-sonar-fusion-for-enhanced-3d-reconstruction-using-background-dat-5c364984710f",
+    "title": "Underwater Sonar Fusion for Enhanced 3D Reconstruction using Background Data and Voxel Initializer Mapping for AUV",
+    "authors": "Bonchul Ku; Jason Kim; Seungwon Ham; Son‐Cheol Yu",
+    "year": 2025,
+    "publication_date": "2025-10-14",
+    "venue": "Journal of Sensor Science and Technology",
+    "venue_group": "Science family",
+    "venue_type": "journal",
+    "doi": "10.46670/jsst.2025.34.5.575",
+    "primary_url": "https://doi.org/10.46670/jsst.2025.34.5.575",
+    "pdf_url": "https://doi.org/10.46670/jsst.2025.34.5.575",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.46670/jsst.2025.34.5.575"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
     "id": "qu2025-zsplat",
     "title": "Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion",
     "authors": "Ziyuan Qu; Omkar Vengurlekar; Mohamad Qadri; Kevin Zhang; Michael Kaess; Christopher Metzler; Suren Jayasuriya; Adithya Pediredla",
@@ -151,6 +669,1030 @@
     "last_verified": "2026-06-25"
   },
   {
+    "id": "2025-pseudo-forward-depth-estimation-for-imaging-sonar-using-diffusion-models-e9ad65e929f7",
+    "title": "Pseudo Forward Depth Estimation for Imaging Sonar Using Diffusion Models",
+    "authors": "Zhengyan Zhang; H. M. Hu; Bing Wang; Jinghua Lin; Jianmin Li; Meimei Liu; Chih‐Yung Wen",
+    "year": 2025,
+    "publication_date": "2025-08-28",
+    "venue": "OpenAlex indexed work",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.1109/icia64617.2025.11277805",
+    "primary_url": "https://doi.org/10.1109/icia64617.2025.11277805",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/icia64617.2025.11277805"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-mobile-human-brain-imaging-using-functional-ultrasound-127f24f26828",
+    "title": "Mobile human brain imaging using functional ultrasound",
+    "authors": "Sadaf Soloukey; Luuk Verhoef; Frits Mastik; Michael Brown; Geert Springeling; Bastian S. Generowicz; Djaina Satoer; Clemens M.F. Dirven; Marion Smits; Borbála Hunyadi; Sebastiaan K. E. Koekkoek; Arnaud J.P.E. Vincent; et al.",
+    "year": 2025,
+    "publication_date": "2025-06-18",
+    "venue": "Science Advances",
+    "venue_group": "Science family",
+    "venue_type": "journal",
+    "doi": "10.1126/sciadv.adu9133",
+    "primary_url": "https://doi.org/10.1126/sciadv.adu9133",
+    "pdf_url": "https://www.science.org/doi/pdf/10.1126/sciadv.adu9133?download=true",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "computational ultrasound"
+    ],
+    "relevance": "related",
+    "summary_en": "Automatically audited paper on computational ultrasound.",
+    "summary_cn": "自动审核收录的论文，主题包括 computational ultrasound。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1126/sciadv.adu9133"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-three-dimensional-reconstruction-of-satellites-using-dual-branch-nerf-with-bb61a4706e6b",
+    "title": "Three-Dimensional Reconstruction of Satellites Using Dual-Branch NeRF with ISAR and Optical Fusion",
+    "authors": "Xindi Yu; Ling Wang; Bin Wu; Daiyin Zhu",
+    "year": 2025,
+    "publication_date": "2025-05-21",
+    "venue": "OpenAlex indexed work",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.23919/irs64527.2025.11046185",
+    "primary_url": "https://doi.org/10.23919/irs64527.2025.11046185",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "camera-sonar fusion"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on camera-sonar fusion.",
+    "summary_cn": "自动审核收录的论文，主题包括 camera-sonar fusion。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.23919/irs64527.2025.11046185"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-vair-visuo-acoustic-implicit-representations-for-low-cost-multi-modal-trans-00acc390e2d2",
+    "title": "VAIR: Visuo-Acoustic Implicit Representations for Low-Cost, Multi-Modal Transparent Surface Reconstruction in Indoor Scenes",
+    "authors": "Advaith V. Sethuraman; Onur Bagoren; Harikrishnan Seetharaman; Dalton Richardson; Joseph Taylor; Katherine A. Skinner",
+    "year": 2025,
+    "publication_date": "2025-05-19",
+    "venue": "OpenAlex indexed work",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.1109/icra55743.2025.11127657",
+    "primary_url": "https://doi.org/10.1109/icra55743.2025.11127657",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/icra55743.2025.11127657"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-computational-ultrasound-carotid-artery-imaging-with-a-few-transceivers-an-d158340a2bfe",
+    "title": "Computational Ultrasound Carotid Artery Imaging With a Few Transceivers: An Emulation Study",
+    "authors": "Yida Hu; Didem Dogan; Michael Brown; Geert Leus; Antonius F.W. van der Steen; Pieter Kruizinga; Johan G. Bosch",
+    "year": 2025,
+    "publication_date": "2025-04-04",
+    "venue": "IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control",
+    "venue_group": "Other",
+    "venue_type": "journal",
+    "doi": "10.1109/tuffc.2025.3557374",
+    "primary_url": "https://doi.org/10.1109/tuffc.2025.3557374",
+    "pdf_url": "https://pure.eur.nl/ws/files/227170279/Computational_Ultrasound_Carotid_Artery_Imaging_With_a_Few_Transceivers.pdf",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "computational ultrasound"
+    ],
+    "relevance": "related",
+    "summary_en": "Automatically audited paper on computational ultrasound.",
+    "summary_cn": "自动审核收录的论文，主题包括 computational ultrasound。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tuffc.2025.3557374"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-monitoring-microvascular-changes-over-time-with-a-repositionable-3d-ultraso-0bfd52d5f12d",
+    "title": "Monitoring microvascular changes over time with a repositionable 3D ultrasonic capacitive micromachined row-column sensor",
+    "authors": "Cyprien Blanquart; Léa Davenet; Julien Claisse; Mallorie Giroud; Audren Boulmé; Edgard Jeanne; Mickaël Tanter; Mafalda Correia; Thomas Deffieux",
+    "year": 2025,
+    "publication_date": "2025-03-26",
+    "venue": "Science Advances",
+    "venue_group": "Science family",
+    "venue_type": "journal",
+    "doi": "10.1126/sciadv.adr6449",
+    "primary_url": "https://doi.org/10.1126/sciadv.adr6449",
+    "pdf_url": "https://doi.org/10.1126/sciadv.adr6449",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "computational ultrasound"
+    ],
+    "relevance": "related",
+    "summary_en": "Automatically audited paper on computational ultrasound.",
+    "summary_cn": "自动审核收录的论文，主题包括 computational ultrasound。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1126/sciadv.adr6449"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-nest-neural-stress-tensor-tomography-by-leveraging-3d-photoelasticity-46627ae56426",
+    "title": "NeST: Neural Stress Tensor Tomography by leveraging 3D Photoelasticity",
+    "authors": "Akshat Dave; Tianyi Zhang; Aaron Young; Ramesh Raskar; Wolfgang Heidrich; Ashok Veeraraghavan",
+    "year": 2025,
+    "publication_date": "2025-03-22",
+    "venue": "ACM Transactions on Graphics",
+    "venue_group": "ACM TOG / SIGGRAPH",
+    "venue_type": "journal",
+    "doi": "10.1145/3723873",
+    "primary_url": "https://doi.org/10.1145/3723873",
+    "pdf_url": "https://doi.org/10.1145/3723873",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "synthetic aperture sonar",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on synthetic aperture sonar, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 synthetic aperture sonar、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1145/3723873"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-multiangle-sonar-imaging-for-3-d-reconstruction-of-underwater-objects-in-sh-d965b5651059",
+    "title": "Multiangle Sonar Imaging for 3-D Reconstruction of Underwater Objects in Shadowless Environments",
+    "authors": "Zhijie Tang; Yang Li; Chi Wang",
+    "year": 2025,
+    "publication_date": "2025-03-21",
+    "venue": "IEEE Journal of Oceanic Engineering",
+    "venue_group": "Other",
+    "venue_type": "journal",
+    "doi": "10.1109/joe.2025.3535563",
+    "primary_url": "https://doi.org/10.1109/joe.2025.3535563",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/joe.2025.3535563"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-bidirectional-lambertian-scatterers-using-acoustic-holograms-for-the-simult-caaf723349a8",
+    "title": "Bidirectional Lambertian Scatterers Using Acoustic Holograms for the Simultaneous Control of Reflected and Transmitted Wavefronts",
+    "authors": "Eric Ballestero; Josep Rodríguez-Sendra; Vicente Romero‐García; Jean‐Philippe Groby; Nóe Jiménez",
+    "year": 2025,
+    "publication_date": "2025-03-06",
+    "venue": "Advanced Functional Materials",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.1002/adfm.202423715",
+    "primary_url": "https://doi.org/10.1002/adfm.202423715",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202423715",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic holography"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on acoustic holography.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic holography。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1002/adfm.202423715"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-improved-acoustic-holograms-using-simulated-annealing-3ccacd5faf11",
+    "title": "Improved acoustic holograms using simulated annealing",
+    "authors": "Gagana Weerasinghe; Bram Servais; Daniel E. Heath; Samuel T. Martin; David J. Collins",
+    "year": 2025,
+    "publication_date": "2025-03-01",
+    "venue": "Biomicrofluidics",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.1063/5.0258632",
+    "primary_url": "https://doi.org/10.1063/5.0258632",
+    "pdf_url": "https://doi.org/10.1063/5.0258632",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic holography"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on acoustic holography.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic holography。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1063/5.0258632"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-accurate-and-real-time-acoustic-holography-using-super-resolution-and-physi-8a521f0480df",
+    "title": "Accurate and real-time acoustic holography using super-resolution and physics combined deep learning",
+    "authors": "Chengxi Zhong; Zhenhuan Sun; Jiaqi Li; Yujie Jiang; Hu Su; Song Liu",
+    "year": 2025,
+    "publication_date": "2025-02-03",
+    "venue": "Applied Physics Letters",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.1063/5.0234327",
+    "primary_url": "https://doi.org/10.1063/5.0234327",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic holography"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on acoustic holography.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic holography。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1063/5.0234327"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-semi-supervised-generative-adversarial-network-to-estimate-the-depth-map-of-6fd06afbb0cc",
+    "title": "Semi-supervised generative adversarial network to estimate the depth map of underwater targets in acoustic images for 3D reconstruction",
+    "authors": "Baoxing Bai; Weisheng Yan; Rongxin Cui",
+    "year": 2025,
+    "publication_date": "2025-01-31",
+    "venue": "Measurement Science and Technology",
+    "venue_group": "Science family",
+    "venue_type": "journal",
+    "doi": "10.1088/1361-6501/adb0ab",
+    "primary_url": "https://doi.org/10.1088/1361-6501/adb0ab",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1088/1361-6501/adb0ab"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-physics-based-generative-adversarial-network-for-real-time-acoustic-hologra-a8ffec64b271",
+    "title": "Physics-based generative adversarial network for real-time acoustic holography",
+    "authors": "Qingyi Lu; Chengxi Zhong; Su Hu; Song Liu",
+    "year": 2025,
+    "publication_date": "2025-01-28",
+    "venue": "Ultrasonics",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.1016/j.ultras.2025.107583",
+    "primary_url": "https://doi.org/10.1016/j.ultras.2025.107583",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic holography"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on acoustic holography.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic holography。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1016/j.ultras.2025.107583"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-neurss-enhancing-auv-localization-and-bathymetric-mapping-with-neural-rende-4519b938fbfd",
+    "title": "NeuRSS: Enhancing AUV Localization and Bathymetric Mapping With Neural Rendering for Sidescan SLAM",
+    "authors": "Yiping Xie; Jun Zhang; Nils Bore; John Folkesson",
+    "year": 2025,
+    "publication_date": "2025-01-07",
+    "venue": "IEEE Journal of Oceanic Engineering",
+    "venue_group": "Other",
+    "venue_type": "journal",
+    "doi": "10.1109/joe.2024.3501317",
+    "primary_url": "https://doi.org/10.1109/joe.2024.3501317",
+    "pdf_url": "https://doi.org/10.1109/joe.2024.3501317",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/joe.2024.3501317"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-underwater-3-d-point-cloud-reconstruction-of-a-single-sonar-image-based-on-a798e681dfc1",
+    "title": "Underwater 3-D Point Cloud Reconstruction of a Single Sonar Image Based on Pseudo Front View",
+    "authors": "Shaoxuan Ma; Jian Wang; Yupei Huang; Min Tan; Junzhi Yu; Zhengxing Wu",
+    "year": 2025,
+    "publication_date": "2025-01-01",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "venue_group": "Other",
+    "venue_type": "journal",
+    "doi": "10.1109/tim.2025.3595608",
+    "primary_url": "https://doi.org/10.1109/tim.2025.3595608",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tim.2025.3595608"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-real-time-acoustic-holography-for-target-pattern-acoustic-field-reconstruct-eda4a84426cd",
+    "title": "Real-Time Acoustic Holography for Target Pattern Acoustic Field Reconstruction With Iterative Unsupervised Learning",
+    "authors": "Minjie Ma; Xuewei Wang; Yang Li; Jia Wang",
+    "year": 2025,
+    "publication_date": "2025-01-01",
+    "venue": "IEEE Access",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.1109/access.2025.3563250",
+    "primary_url": "https://doi.org/10.1109/access.2025.3563250",
+    "pdf_url": "https://doi.org/10.1109/access.2025.3563250",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic holography"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on acoustic holography.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic holography。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/access.2025.3563250"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-non-line-of-sight-mmw-sar-imaging-with-equivariant-adaptive-threshold-learn-fb25b2d572f5",
+    "title": "Non-Line-of-Sight mmW SAR Imaging With Equivariant Adaptive Threshold Learning",
+    "authors": "Xiang Cai; Shunjun Wei; Mou Wang; Hao Zhang; Kun Chen; Xinyuan Liu; Jun Shi; Guolong Cui",
+    "year": 2025,
+    "publication_date": "2025-01-01",
+    "venue": "IEEE Transactions on Computational Imaging",
+    "venue_group": "Other",
+    "venue_type": "journal",
+    "doi": "10.1109/tci.2025.3597462",
+    "primary_url": "https://doi.org/10.1109/tci.2025.3597462",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic NLOS"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on acoustic NLOS.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic NLOS。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tci.2025.3597462"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-night-non-line-of-sight-imaging-from-indirect-time-of-flight-data-2cc3ae1f111b",
+    "title": "NIGHT - Non-Line-of-Sight Imaging from Indirect Time of Flight Data",
+    "authors": "Matteo Caligiuri; Adriano Simonetto; Pietro Zanuttigh",
+    "year": 2025,
+    "publication_date": "2025-01-01",
+    "venue": "Lecture notes in computer science",
+    "venue_group": "Science family",
+    "venue_type": "journal",
+    "doi": "10.1007/978-3-031-93806-1_12",
+    "primary_url": "https://doi.org/10.1007/978-3-031-93806-1_12",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic NLOS"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on acoustic NLOS.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic NLOS。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1007/978-3-031-93806-1_12"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-multiview-3-d-surface-reconstruction-from-sar-images-by-inverse-rendering-a46c31caca02",
+    "title": "Multiview 3-D Surface Reconstruction From SAR Images by Inverse Rendering",
+    "authors": "Emile Barbier--Renard; Florence Tupin; Nicolas Trouvé; Laurent Denis",
+    "year": 2025,
+    "publication_date": "2025-01-01",
+    "venue": "IEEE Geoscience and Remote Sensing Letters",
+    "venue_group": "Other",
+    "venue_type": "journal",
+    "doi": "10.1109/lgrs.2025.3572303",
+    "primary_url": "https://doi.org/10.1109/lgrs.2025.3572303",
+    "pdf_url": "https://arxiv.org/pdf/2502.10492",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "synthetic aperture sonar",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on synthetic aperture sonar, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 synthetic aperture sonar、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/lgrs.2025.3572303"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-multi-sonar-fusion-based-precision-underwater-3d-reconstruction-for-optimal-cb5ecd64bd30",
+    "title": "Multi-Sonar Fusion-Based Precision Underwater 3D Reconstruction for Optimal Scan Path Planning of AUV",
+    "authors": "Sehwan Rho; Hangil Joe; Minsung Sung; Jason Kim; Seungmin Kim; Son‐Cheol Yu",
+    "year": 2025,
+    "publication_date": "2025-01-01",
+    "venue": "IEEE Access",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.1109/access.2025.3542084",
+    "primary_url": "https://doi.org/10.1109/access.2025.3542084",
+    "pdf_url": "https://doi.org/10.1109/access.2025.3542084",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/access.2025.3542084"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-lambertian-trf-lambertian-tensorial-radiance-fields-for-underwater-3-d-reco-5ea330734c20",
+    "title": "Lambertian-TRF: Lambertian Tensorial Radiance Fields for Underwater 3-D Reconstruction Using Imaging Sonar",
+    "authors": "Haowen Gao; Binyu Nie; Wenjie Lu; Yunxuan Feng; Manman Hu",
+    "year": 2025,
+    "publication_date": "2025-01-01",
+    "venue": "IEEE Transactions on Instrumentation and Measurement",
+    "venue_group": "Other",
+    "venue_type": "journal",
+    "doi": "10.1109/tim.2025.3566802",
+    "primary_url": "https://doi.org/10.1109/tim.2025.3566802",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tim.2025.3566802"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2025-acsim-a-novel-acoustic-camera-simulator-with-recursive-ray-tracing-artifact-fb8ec8d21860",
+    "title": "ACSim: A Novel Acoustic Camera Simulator With Recursive Ray Tracing, Artifact Modeling, and Ground Truthing",
+    "authors": "Yusheng Wang; Yonghoon Ji; Hiroshi Tsuchiya; Jun Ota; Hajime Asama; Atsushi Yamashita",
+    "year": 2025,
+    "publication_date": "2025-01-01",
+    "venue": "IEEE Transactions on Robotics",
+    "venue_group": "Other",
+    "venue_type": "journal",
+    "doi": "10.1109/tro.2025.3562048",
+    "primary_url": "https://doi.org/10.1109/tro.2025.3562048",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tro.2025.3562048"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2024-large-scale-dense-3-d-mapping-using-submaps-derived-from-orthogonal-imaging-566e806f683a",
+    "title": "Large-Scale Dense 3-D Mapping Using Submaps Derived From Orthogonal Imaging Sonars",
+    "authors": "John McConnell; Ivana Collado-Gonzalez; Paul Szenher; Brendan Englot",
+    "year": 2024,
+    "publication_date": "2024-11-05",
+    "venue": "IEEE Journal of Oceanic Engineering",
+    "venue_group": "Other",
+    "venue_type": "journal",
+    "doi": "10.1109/joe.2024.3458108",
+    "primary_url": "https://doi.org/10.1109/joe.2024.3458108",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/joe.2024.3458108"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2024-an-in-air-synthetic-aperture-sonar-dataset-of-target-scattering-in-environm-755caefb39e1",
+    "title": "An in-air synthetic aperture sonar dataset of target scattering in environments of varying complexity",
+    "authors": "Thomas E. Blanford; David P. Williams; J. Daniel Park; Brian Reinhardt; Kyle S. Dalton; Shawn Johnson; Daniel C. Brown",
+    "year": 2024,
+    "publication_date": "2024-11-05",
+    "venue": "Scientific Data",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "conference",
+    "doi": "10.1038/s41597-024-04050-0",
+    "primary_url": "https://doi.org/10.1038/s41597-024-04050-0",
+    "pdf_url": "https://www.nature.com/articles/s41597-024-04050-0.pdf",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "synthetic aperture sonar",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on synthetic aperture sonar, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 synthetic aperture sonar、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1038/s41597-024-04050-0"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2024-soft-shadow-diffusion-ssd-physics-inspired-learning-for-3d-computational-pe-1fae5ded10e0",
+    "title": "Soft Shadow Diffusion (SSD): Physics-Inspired Learning for 3D Computational Periscopy",
+    "authors": "Fadlullah Raji; John Murray–Bruce",
+    "year": 2024,
+    "publication_date": "2024-10-25",
+    "venue": "Lecture notes in computer science",
+    "venue_group": "Science family",
+    "venue_type": "journal",
+    "doi": "10.1007/978-3-031-72989-8_22",
+    "primary_url": "https://doi.org/10.1007/978-3-031-72989-8_22",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic NLOS"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on acoustic NLOS.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic NLOS。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1007/978-3-031-72989-8_22"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2024-domain-reduction-strategy-for-non-line-of-sight-imaging-140dfa5b8026",
+    "title": "Domain Reduction Strategy for Non-Line-of-Sight Imaging",
+    "authors": "Hyun-Bo Shim; In Cho; Daekyu Kwon; Seon Joo Kim",
+    "year": 2024,
+    "publication_date": "2024-10-25",
+    "venue": "Lecture notes in computer science",
+    "venue_group": "Science family",
+    "venue_type": "journal",
+    "doi": "10.1007/978-3-031-72751-1_5",
+    "primary_url": "https://doi.org/10.1007/978-3-031-72751-1_5",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic NLOS"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on acoustic NLOS.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic NLOS。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1007/978-3-031-72751-1_5"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2024-deep-learning-based-super-resolution-acoustic-holography-for-phased-transdu-8380f4eadb6b",
+    "title": "Deep learning-based super-resolution acoustic holography for phased transducer array",
+    "authors": "Qingyi Lu; Chengxi Zhong; Qing Liu; Hu Su; Song Liu",
+    "year": 2024,
+    "publication_date": "2024-10-03",
+    "venue": "Journal of Applied Physics",
+    "venue_group": "Other",
+    "venue_type": "journal",
+    "doi": "10.1063/5.0223530",
+    "primary_url": "https://doi.org/10.1063/5.0223530",
+    "pdf_url": "https://doi.org/10.1063/5.0223530",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic holography"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on acoustic holography.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic holography。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1063/5.0223530"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "2024-nemf-neural-microphysics-fields-c60280a5f9ea",
+    "title": "NeMF: Neural Microphysics Fields",
+    "authors": "Inbal Kom Betzer; Roi Ronen; Vadim Holodovsky; Yoav Y. Schechner; Ilan Koren",
+    "year": 2024,
+    "publication_date": "2024-09-30",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "venue_group": "IEEE TPAMI",
+    "venue_type": "journal",
+    "doi": "10.1109/tpami.2024.3467913",
+    "primary_url": "https://doi.org/10.1109/tpami.2024.3467913",
+    "pdf_url": "https://doi.org/10.1109/tpami.2024.3467913",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "synthetic aperture sonar",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on synthetic aperture sonar, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 synthetic aperture sonar、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tpami.2024.3467913"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
     "id": "huynh2025-all-optical-3d-photoacoustic-scanner",
     "title": "A fast all-optical 3D photoacoustic scanner for clinical vascular imaging",
     "authors": "Nam Trung Huynh; Edward Zhang; O. Francies; F. Kuklis; T. Allen; J. Zhu; et al.",
@@ -178,6 +1720,44 @@
       "https://www.nature.com/articles/s41551-024-01247-x"
     ],
     "last_verified": "2026-06-25"
+  },
+  {
+    "id": "2024-differentiable-space-carving-for-3d-reconstruction-using-imaging-sonar-e383816bc5db",
+    "title": "Differentiable Space Carving for 3D Reconstruction Using Imaging Sonar",
+    "authors": "Yunxuan Feng; Wenjie Lu; Haowen Gao; Binyu Nie; Kaiyang Lin; Liang Hu",
+    "year": 2024,
+    "publication_date": "2024-09-27",
+    "venue": "IEEE Robotics and Automation Letters",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.1109/lra.2024.3469778",
+    "primary_url": "https://doi.org/10.1109/lra.2024.3469778",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "differentiable acoustic rendering",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, differentiable acoustic rendering, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、differentiable acoustic rendering、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/lra.2024.3469778"
+    ],
+    "last_verified": "2026-06-27",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
   },
   {
     "id": "qadri2024-aoneus",

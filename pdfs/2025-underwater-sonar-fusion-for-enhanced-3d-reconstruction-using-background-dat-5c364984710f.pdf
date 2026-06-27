@@ -1,0 +1,1137 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="dc.identifier" content="10.46670/JSST.2025.34.5.575">
+<!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="referrer" content="strict-origin-when-cross-origin" />
+<meta http-equiv="Cache-Cotrol" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<title>한국센서학회 학술지영문홈페이지</title>
+<link rel="stylesheet" href="/_common/default.css" type="text/css">
+<link rel="stylesheet" href="/_common/css/jquery.simplyscroll.css" type="text/css" />
+<link rel="stylesheet" href="/_common/css/owl.carousel.min.css" type="text/css" />
+<!--<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=MML_HTMLorMML"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" crossorigin="anonymous" integrity="sha384-Ra6zh6uYMmH5ydwCqqMoykyf1T/+ZcnOQfFPhDrp2kI4OIxadnhsvvA2vv9A7xYv"></script>
+
+<!--<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>-->
+
+<script type="text/javascript" src="/_common/js/jquery.min.js"></script>
+<script type="text/javascript" src="/_common/js/jquery.simplyscroll.min.js"></script>
+<script type="text/javascript" src="/_common/js/common.js"></script>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" integrity="sha256-f45CCkrD6n9v0IHOByNBAUFNJ98mCm1UdmP44MDvuvQ=" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js" integrity="sha256-xNjb53/rY+WmG+4L6tTl9m6PpqknWZvRt0rO1SRnJzw=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/_common/js/crossmark.min.js"></script>
+<script type="text/javascript" src="/_common/js/owl.carousel.min.js"></script>
+
+
+</head><link href="/design.css" rel="stylesheet" type="text/css">
+
+<body>
+
+<div class="wrap">
+	<div class="basicTable">
+
+<!-- �����̹��� -->
+<div align="center"><a href="/main.php"><img src="/images/basic/topimg.jpg" alt='한국센서학회 학술지영문홈페이지' border="0"></a></div>
+		<span id="submenu1" onMouseOver="menuOn('1')" onMouseOut="menuOff('1')" class="subMenuType" style="position:absolute; top: 235px; visibility:hidden;">
+			<table cellpadding=0 cellspacing=0 border=0 style="margin-top:11px;">
+				<tr>
+					<td class="subMenuTypeLeft">&nbsp;</td><!--321-->
+					<td>
+						<table cellpadding=0 cellspacing=0 border=0 class="subMenuLayerList">
+							<tr>
+								<td class="subMenuLink"><a href="javascript:go_menu('html','11')"><nobr>Introduction</nobr></a></td>
+								<td class="subMenuLink"><a href="javascript:go_menu('html','12')"><nobr>Editorial Board</nobr></a></td>
+								<td class="subMenuLink"><a href="javascript:go_menu('html','13')"><nobr>Open Access</nobr></a></td>
+								<td class="subMenuLink"><a href="javascript:go_menu('link','14')"><nobr>CrossMark</nobr></a></td>
+								<td class="subMenuLink"><a href="javascript:go_menu('html','15')"><nobr>Publishing Office</nobr></a></td>
+							</tr>
+					  </table>
+				  </td>
+					<td class="subMenuTypeRight">&nbsp;</td>
+				</tr>
+		</table>
+</span>
+
+
+		<span id="submenu4" onMouseOver="menuOn('4')" onMouseOut="menuOff('4')" class="subMenuType" style="position:absolute; top: 235px; visibility:hidden;">
+			<table cellpadding=0 cellspacing=0 border=0 style="margin-top:11px;">
+				<tr>
+					<td class="subMenuTypeLeft">&nbsp;</td><!--321-->
+					<td>
+						<table cellpadding=0 cellspacing=0 border=0 class="subMenuLayerList">
+							<tr>
+								<td class="subMenuLink"><a href="javascript:go_menu('current','41')"><nobr>Current Issue</nobr></a></td>
+								<td class="subMenuLink"><a href="javascript:go_menu('full','42')"><nobr>Journal Archive(XML)</nobr></a></td>
+								<td class="subMenuLink"><a href="javascript:go_menu('search','43')"><nobr>Search for Article</nobr></a></td>
+							</tr>
+					  </table>
+				  </td>
+					<td class="subMenuTypeRight">&nbsp;</td>
+				</tr>
+		</table>
+</span>
+
+
+		<span id="submenu5" onMouseOver="menuOn('5')" onMouseOut="menuOff('5')" class="subMenuType" style="position:absolute; top: 235px; visibility:hidden;">
+			<table cellpadding=0 cellspacing=0 border=0 style="margin-top:11px;">
+				<tr>
+					<td class="subMenuTypeLeft">&nbsp;</td><!--321-->
+					<td>
+						<table cellpadding=0 cellspacing=0 border=0 class="subMenuLayerList">
+							<tr>
+								<td class="subMenuLink"><a href="javascript:go_menu('html','51')"><nobr>Research and publication ethics</nobr></a></td>
+								<td class="subMenuLink"><a href="javascript:go_menu('html','52')"><nobr>Ethics Committee</nobr></a></td>
+							</tr>
+					  </table>
+				  </td>
+					<td class="subMenuTypeRight">&nbsp;</td>
+				</tr>
+		</table>
+</span>
+
+<table cellpadding=0 cellspacing=0 border=0 class="menuType" ID="menu">
+	<tr>
+		<td class="menuTypeLeft"></td>
+		<td align=centerr>
+			<div class="mainMenu">
+			<table cellpadding=0 cellspacing=0 class="mainMenuList">
+				<tr>
+					<td  id="mainmenu" onMouseOver="menuOn('')" onMouseOut="menuOff('')">
+						<a >
+													</a>
+					</td>
+					<td  id="mainmenu1" onMouseOver="menuOn('1')" onMouseOut="menuOff('1')">
+						<a >
+							About						</a>
+					</td>
+					<td  id="mainmenu2" onMouseOver="menuOn('2')" onMouseOut="menuOff('2')">
+						<a  href=javascript:go_menu('html','2') >
+							For Authors						</a>
+					</td>
+					<td  id="mainmenu3" onMouseOver="menuOn('3')" onMouseOut="menuOff('3')">
+						<a  href=javascript:go_menu('html','3') >
+							For Reviewers						</a>
+					</td>
+					<td  id="mainmenu4" onMouseOver="menuOn('4')" onMouseOut="menuOff('4')">
+						<a >
+							Article						</a>
+					</td>
+					<td  id="mainmenu5" onMouseOver="menuOn('5')" onMouseOut="menuOff('5')">
+						<a >
+							Ethical Guideline						</a>
+					</td>
+					<td  id="mainmenu6" onMouseOver="menuOn('6')" onMouseOut="menuOff('6')">
+						<a  href=javascript:go_menu('link','6') >
+							e-Submission						</a>
+					</td>
+				</tr>
+			</table>
+			</div>
+			</td>
+					<td class="menuTypeRight"></td>
+		</tr>
+</table>
+
+<div id="popup_login" class="popup_window en">
+        <div class="popup_area">
+            <div class="popup_header">
+                <p class="title">Login</p>
+                <a href="#" title="팝업 닫기" class="btn_close"></a>
+            </div>
+            <div class="popup_content">
+                <div class="login_form">
+                    <div class="login_box">
+                        <label class="input_box">
+                            <span class="label">Username(ID)</span>
+                            <input type="text" id="user_id" name="user_id"  class="input_text input_id">
+                        </label>
+                        <label class="input_box">
+                            <span class="label">Password</span>
+                            <input type="password" id="user_pw" name="user_pw" class="input_text input_pw">
+                        </label>
+                        <a href="#" class="btns btn_login">Login</a>
+                    </div>
+                </div>
+                <div class="btn_box">
+                    <a href="http:///modules/user_find/index.php?mode=id" title="forgot my username" class="btns btn_find_id" target="_blank" rel="noopener noreferrer">Forgot<br>my username</a>
+                    <a href="http:///modules/user_find/index.php?mode=passwdf" title="Forgot my password" class="btns btn_find_password" target="_blank" rel="noopener noreferrer">Forgot<br>my password</a>
+                    <a href="http:///modules/user_join/index.php" title="Register" class="btns btn_join" target="_blank" rel="noopener noreferrer">Register</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div id="popup_alert" class="popup_window en">
+	<div class="popup_area" >
+		<div class="popup_content">
+			<div class="alert_text">
+				<p class="text">Sorry.</p>
+				<p >You are not permitted to access the full text of articles.</p>
+				<p>If you have any questions about permissions,</p>
+				<p>please contact the Society.</p>
+				<div class="line"></div>
+				<p>죄송합니다.</p>
+				<p>회원님은 논문 이용 권한이 없습니다.</p>
+				<p>권한 관련 문의는 학회로 부탁 드립니다.</p>
+			</div>
+			<div class="btn_box">
+				<a href="#" class="btns btn_ok">Close</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+		
+	//var use_yn = "";
+	//var level = "";
+	var use_yn = "Y";
+
+	$(".popup_window .btn_close,.popup_window .btn_ok").on("click", function() {
+        $(this).closest(".popup_window").fadeOut(200);
+		$("#user_id").val("");
+		$("#user_pw").val("");
+        return false;
+    });
+
+	$("#login_button").click(function() {
+		$("#popup_login").fadeIn(200);
+        return false;
+	});
+	$("#join_button").click(function() {
+		var url = "http:///modules/user_join/index.php";
+		window.open(url, "_blank"); 
+        return false;
+	});
+
+	$(".btn_login").click(function() {
+
+		if(!$("#user_id").val()) {
+			alert("Please re-enter your username and password");
+			return;
+		}
+
+		if(!$("#user_pw").val()) {
+			alert("Please re-enter your username and password");
+			return;
+		}
+
+		$.ajax({
+			url : "/_common/builder_login.php",
+			dataType:"text",
+			type:"POST",
+			data:{"user_id":$("#user_id").val(), "user_pw":$("#user_pw").val()},
+			success:function(data)
+			{
+				if(data == "login") {
+					alert("로그인 되었습니다.");
+					location.reload();
+				}
+				else {
+					alert("Please re-enter your username and password");
+				}
+			}
+		});
+	});
+
+	$("#logout_button").click(function() {
+		$.ajax({
+			url : "/_common/builder_logout.php",
+			dataType:"text",
+			type:"POST",
+			data:{"user_id":"test1"},
+			success:function(data)
+			{
+				if(data == "logout") {
+					alert("로그아웃 되었습니다.");
+					window.parent.location.href="http://";
+				}
+			}
+		});
+	});
+
+	$(document).on("click", "#icon_xml,#pubreader_view,#epub_down,#icon_pdf2", function() {
+		if(use_yn=='N'){
+							$("#popup_login").fadeIn(200);
+				return false;
+				
+		}
+	});
+});
+	
+</script>
+<script>
+function menuOn(name) {
+	$(".subMenuType").css("visibility","hidden");
+	var sub = $("#submenu" + name);
+	var ww = $("#mainmenu" + name).width();
+	ww = sub.width() - ww;
+	var o = $("#mainmenu" + name).offset();
+	var so = sub.offset();
+	var x = o.left - ww / 2;
+	var mm = $("#menu").offset();
+	var mmx = mm.left;
+	var mmw = $("#menu").width();
+	//메인메뉴 폭을 넘어갈 경우 안쪽으로 오도록 조절 - 13.11.13 장은수
+	if (x+sub.width() > mmx+mmw)
+	{
+		x = -sub.width()+mmx+mmw;
+	}
+	if (x<mmx)
+	{
+		x = mmx;
+	}
+	
+	var y = o.top+25;
+	sub.css({"left":x+"px"});//, "top":y+"px"});
+	sub.css("visibility","visible");
+
+}
+function menuOff(name) {
+	$(".subMenuType").css("visibility","hidden");
+}
+//if(top.frames.length != 2) top.location.href="/";
+//if(top.frames[0].name != 'dummy0') top.location.href="/";
+
+
+function getCookie(c_name)
+{
+	var i,x,y,ARRcookies=document.cookie.split(";");
+	for (i=0;i<ARRcookies.length;i++)
+	{
+		x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+		y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+		x=x.replace(/^\s+|\s+$/g,"");
+		if (x==c_name)
+		{
+			return unescape(y);
+		}
+	}
+}
+</script>
+<div class='contents'><div class='current_bg'>
+<div class="full_page_wrap">
+<div>
+	<div>
+		<h1>Journal Archive(XML)</h1>
+	</div>
+
+	
+</div>
+<div style="clear:both"></div>
+
+<div class="sub_contents">
+		<div class="book_select">
+			<div class="book_select_name">
+				JOURNAL OF SENSOR SCIENCE AND TECHNOLOGY -
+									Vol. 34,					No. 5				 
+											</div>
+
+						<div class="book_select_list">
+	[<a href="javascript:gotoPaperList()">Paper List</a>]
+	[<a href="javascript:gotoVolList('4158')"> Prev</a>]				[<a href="javascript:gotoVolList('')">Go to Volume List</a>]
+	[<a href="javascript:gotoVolList('4282')"> Next</a>]			</div>
+            		</div>
+
+<div style="clear:both"></div>
+
+<div id='side_box' style="display:inline-block;float:right; text-align:right; width:135px;overflow:hidden; margin-top: 20px;">
+		<!-- <div style="display:block;">
+			<a id="open-crossmark" href="#" style="margin: 20px 0 0 0;">
+				<img style="border: 0; display: none;" id="crossmark-icon" src="https://crossmark.crossref.org/images/crossmark_button.png" />
+			</a>
+		</div>
+		<div id="crossmark-dialog" style="display: none;" title="">
+			<iframe id="crossmark-dialog-frame" frameborder="0"></iframe>
+		</div> -->
+			<div style="display:block;clear:both;">
+			<img id="icon_pdf" src="/_common/images/icon_pdf.png" border="0" style="margin:5px 0px 0px 0px; cursor:pointer;"/>
+		</div>
+		
+		<div style="display:block;clear:both;">
+			<a href="/_PR/view/index.php?aidx=46541&bidx=4212" target="_blank"><img id="pubreader_view" src="/_common/images/pubreader_view.png" border="0" style="margin:5px 0px 0px 0px; "/></a>
+		</div>
+		<div style="display:block;clear:both;">
+			<a href="/_EP/view/index.php?aidx=46541&bidx=4212"><img id="epub_down" src="/_common/images/epub_down.png" border="0" style="margin:5px 0px 0px 0px; "/></a>
+		</div>
+		<div style="display:block;clear:both;">
+			<!-- <input type="text" class="domain" value="sensor" style="display: none;"/>
+			<input type="text" class="idx" value="46541" style="display: none;"/>
+			<input type="text" class="current-url" value="" style="display: none;"/> -->
+			<img id="quote_view" src="/_common/images/quote_view.svg" border="0" style="margin:5px 0px 0px 0px; cursor:pointer;" data-idx="46541" data-domain="sensor" data-bs-toggle="modal" data-bs-target="#addModal"/>
+		</div>
+				<script type="text/javascript" src="./quote/js/FileSaver.min.js"></script>
+<script type="text/javascript" src="./quote/js/quote.js"></script>
+<script type="text/javascript" src="./quote/js/xlsx.full.min.js"></script>
+<script type="text/javascript" src="./quote/js/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" media="screen" href="./quote/css/dp_qoute.min.css">
+<link rel="stylesheet" media="screen" href="./quote/css/boot_modal.css">
+<div class="modal" id="addModal" tabindex="-1" role="dialog" aria-labelledby="addModalLabel" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="dpDimLayer" id="dpDimLayer" data-visible="visible" style="display: block;">
+          <div class="dpBgDimmed" id="dpDimBgLayer" data-visible="visible">
+          </div>
+          <dialog class="dpQuoteThesisChange" id="dpQuoteChangeLayer" style="display: block; z-index: 1101;" open="">
+              <section class="dpQuoteThesisChange__header">
+			  <div class="dpQuoteThesisChange__tit">인용하기<span class="dpQuoteThesisChange__form" id="quote-thesis-title">_APA 양식</span></div>
+                  <!-- <h1 class="dpQuoteThesisChange__tit">인용하기<span class="dpQuoteThesisChange__form" id="quote-thesis-title">_APA 양식</span></h1> -->
+                  <button class="dpQuoteThesisChange__closed closeModal" id="" data-bs-dismiss="modal"><span class="a11y" data-bs-dismiss="modal">닫기</span></button>
+              </section>
+              <section class="dpQuoteThesisChange__cont">
+                  <section class="dpQuoteThesisChange__listWrap">
+                      <ul class="dpQuoteThesisChange__list">
+                          <li data-tab="tab-0" class="dpQuoteThesisChange__btnQuo select" data-style="0">
+                              <input type="hidden" name="dev_quote_id" id="dev_quote_id0" value="9176">
+                              <span name="dev_quote_nm" value="테스트" id="dev_quote_nm0">APA</span>
+                          </li>
+                          <li class="dpQuoteThesisChange__btnQuo" data-style="1">
+                              <input type="hidden" name="dev_quote_id" id="dev_quote_id1" value="18">
+                              <span name="dev_quote_nm" value="IEEE" id="dev_quote_nm1">Chicago</span>
+                          </li>
+                          <li class="dpQuoteThesisChange__btnQuo" data-style="2">
+                              <input type="hidden" name="dev_quote_id" id="dev_quote_id2" value="17">
+                              <span name="dev_quote_nm" value="Harvard" id="dev_quote_nm2">MLA</span>
+                          </li>
+                          <li class="dpQuoteThesisChange__btnQuo" data-style="3">
+                              <input type="hidden" name="dev_quote_id" id="dev_quote_id3" value="9">
+                              <span name="dev_quote_nm" value="ACS" id="dev_quote_nm3">IEEE</span>
+                          </li>
+                          <li class="dpQuoteThesisChange__btnQuo" data-style="4">
+                              <input type="hidden" name="dev_quote_id" id="dev_quote_id4" value="5">
+                              <span name="dev_quote_nm" value="Chicago" id="dev_quote_nm4">Harvard</span>
+                          </li>
+                          <li class="dpQuoteThesisChange__btnQuo" data-style="5">
+                              <input type="hidden" name="dev_quote_id" id="dev_quote_id5" value="2">
+                              <span name="dev_quote_nm" value="MLA" id="dev_quote_nm5">ACS</span>
+                          </li>
+                      </ul>
+                  </section>
+                  <section class="dpQuoteThesisChange__quo">
+                      <div class="dpQuoteThesisChange__quoExam"></div>
+                      <div class="dpQuoteThesisChange__quoBtnWrap">
+                          <label class="dpQuoteThesisChange__label ko_select">
+                              <input type="radio" class="dpQuoteThesisChange__radio" id="input_language_radio_01" name="choice" value="K">
+                              <span class="dpQuoteThesisChange__txt" for="language_radio_01">한글</span>
+                          </label>
+                          <label class="dpQuoteThesisChange__label">
+                              <input type="radio" class="dpQuoteThesisChange__radio" id="input_language_radio_02" name="choice" value="E">
+                              <span class="dpQuoteThesisChange__txt" for="language_radio_02">English</span>
+                          </label>
+                          <button class="dpQuoteThesisChange__copy">복사하기</button>
+                      </div>
+                  </section>
+              </section>
+			  <div class="dpQuoteThesisChange__h2">서지정보 내보내기</div>
+              <!-- <h2 class="dpQuoteThesisChange__h2">서지정보 내보내기</h2> -->
+              <section class="dpQuoteThesisChange__btnWrap">
+                  <button class="dpQuoteThesisChange__export" type="button" data-type="0">Endnote</button>
+                  <button class="dpQuoteThesisChange__export" type="button" data-type="1">Refworks</button>
+                  <button class="dpQuoteThesisChange__export" type="button" data-type="2">Mendeley</button>
+                  <button class="dpQuoteThesisChange__export" type="button" data-type="3">Word/한글2018</button>
+                  <button class="dpQuoteThesisChange__export" type="button" data-type="4">Bibtex</button>
+                  <button class="dpQuoteThesisChange__export" type="button" data-type="5">Excel</button>
+              </section>
+              <div style="display:none;">
+                  <form style="display:none;" name="ExportRWForm" id="dev_exportRWForm" method="post" action="https://www.refworks.com/express/ExpressImport.asp?vendor=Nurimedia&filter=RefWorks%20Tagged%20Format&encoding=65001">
+                    <textarea name="ImportData" id="importData" readonly="" rows="20" cols="180"></textarea>
+                  </form>
+                </div>
+				 <div id="copyText"></div>
+          </dialog>
+        </div>
+			</div>
+		</div>
+	</div>		</div>
+
+
+<div class='NURIMEDIAXML' style="width:82% !important; display:inline-block;float:left;">
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/NuriXml.css"><link rel="stylesheet" type="text/css" href="./xslt_default.css"><link href="https://hangeul.pstatic.net/hangeul_static/css/NanumBarunGothicYetHangul.css" rel="stylesheet" type="text/css"><style type="text/css">
+				.tl-inline1{width:100%;}
+				.unit_01 {float:right; padding-right:10px;padding-left:50px;}
+				.table-scroll-container {width:100%; overflow-x:auto; -webkit-overflow-scrolling:touch; scrollbar-color: #8B8B8B #f1f1f1; scrollbar-width: thin;}
+				.table-scroll-container::-webkit-scrollbar-track {background: #f1f1f1;}
+				.table_padding{padding-left:5px;padding-right:5px;word-break:keep-all !important;}
+				.fig_line > .label{vertical-align: top;display: inline-block;width:5%;margin-right:1%;}
+				.fig_line > .capture-id > .tl-inline1{width:93%;margin-bottom:0px;}
+				.fig_line > .capture-id > p{font-size:10pt;margin:0px;}
+				.xml_graphic {max-width:400px; width:100%; border:2px solid #cccccc; padding:10px; margin-top:10px;}
+				.disp-formula {display:flex; align-items:center; margin:10px 0; padding:0 20px;}
+				.formula-content {flex:1; overflow-x:auto; white-space:nowrap; -webkit-overflow-scrolling:touch; scrollbar-color: #8B8B8B #f1f1f1; scrollbar-width: thin;}
+				.formula-content::-webkit-scrollbar-track {background: #f1f1f1;}
+				.formula-label {white-space:nowrap; padding-left:30px;}
+				.MathJax_Display{text-align:left !important;}
+				.MathJax_Display *{font-size:16px;}
+				</style>
+
+
+
+
+<div id="article-level-0-front" class="fm">
+
+<table width="100%" class="fm">
+<tr><td left-margine="10" width="30%" style="height:1px;"></td><td style="height:1px;"></td></tr>
+<tr><td valign="top" style="position:relative;"><span class="article-type">[ Article ]</span></td></tr><tr><td valign="top">JOURNAL OF SENSOR SCIENCE AND TECHNOLOGY - Vol. 34, No. 5, pp. 575-584<br>
+</td></tr><tr><td valign="top"><span class="gen">Abbreviation: </span>J. Sens. Sci. Technol.</td></tr><tr><td valign="top"><span class="gen">ISSN: </span>1225-5475
+					(Print)
+				
+2093-7563
+					(Online)
+				
+</td></tr><tr><td><span class="gen">Print </span><span class="gen"> publication date </span><span class="gen"> </span>30 Sep 2025<br>
+</td></tr><tr><td colspan="2"><span class="gen">Received </span><span class="gen"> </span>23 Aug 2025
+<span class="gen">Revised </span><span class="gen"> </span>04 Sep 2025
+<span class="gen">Accepted </span><span class="gen"> </span>17 Sep 2025
+</td></tr><tr><td style="width:100%"><span class="gen">DOI: </span><a href="https://doi.org/10.46670/JSST.2025.34.5.575" target="_blank">https://doi.org/10.46670/JSST.2025.34.5.575</a><br><br></td></tr><tr><td colspan="2" valign="top"><span style="font-weight:bold;width:100%;" class="tl-document">Underwater Sonar Fusion for Enhanced 3D Reconstruction using Background Data and Voxel Initializer Mapping for AUV</span></td></tr>
+<tr><td valign="top" align="left"><div id="enNameColon"><span class="capture-id"><span class="gen">Bonchul Ku</span></span><sup>1</sup><img id="orcid" src="/_common/images/orcid.gif" orcid="https://orcid.org/0009-0008-2797-5090">
+ ; <span class="capture-id"><span class="gen">Jason Kim</span></span><sup>1</sup><img id="orcid" src="/_common/images/orcid.gif" orcid="https://orcid.org/0000-0001-5019-0445">
+ ; <span class="capture-id"><span class="gen">Seungwon Ham</span></span><sup>1</sup><img id="orcid" src="/_common/images/orcid.gif" orcid="https://orcid.org/0009-0004-4947-1310">
+ ; <span class="capture-id"><span class="gen">Son-Cheol Yu</span></span><sup>1</sup><span class="xref"><sup><span class="gen">, </span><a href="#cor1">+</a></sup></span><img id="orcid" src="/_common/images/orcid.gif" orcid="https://orcid.org/0000-0001-5654-1816">
+
+</div></td></tr><tr><td valign="top" align="left" id="JSST_2025_v34n5_575_A001"><span class="au-label">1</span>Dept. of Convergence IT Engineering, Pohang University of Science and Technology (POSTECH), 37673, Pohang, Republic of Korea<br>
+</td></tr>
+<tr><td colspan="2" valign="top"><br><span style="font-weight:bold;width:100%;" class="tl-document"></span></td></tr>
+<tr><td valign="top" align="left"><div id="krNameColon">
+</div></td></tr>
+<br><tr><td valign="top"><span class="capture-id"><span class="gen" id="cor1">Correspondence to : </span><sup>+</sup><a href="mailto:sncyu@postech.ac.kr">sncyu@postech.ac.kr</a><br>
+</span><br></td></tr>
+<tr><td colspan="2"><br>&#9426; The Korean Sensors Society
+<br><div style="width:100%;margin-top:5px;">This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License(<a target="xrefwindow" style="word-break:break-all;" href="https://creativecommons.org/licenses/by-nc/3.0/">https://creativecommons.org/licenses/by-nc/3.0/</a>) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</div></td></tr><tr><td><div id="crossMark" class="crossMark" style="display:block; width:150px;height:30px;"><a id="open-crossmark" href="#"><img src="/_common/img/crossmark.png"></a></div><div id="crossmark-dialog" style="display: none;" title=""><iframe id="crossmark-dialog-frame" frameborder="0"></iframe></div></td></tr><tr><td><div id="citedLink" class="ctLink"></div><div id="citedLinkList"></div></td></tr><tr><td><div class="funding" id="funding">Funding Information &#9660;</div><div id="funding_info" style="display: none;"><div style="padding: 10px; border: 1px solid rgb(51, 51, 51); border-image: none;"><ul><li style="font-weight:bold;">Ministry of Land, Infrastructure and Transport</li><li></ul><ul><li style="font-weight:bold;">Korea Agency for Infrastructure Technology Advancement</li><li>RS-2023-00250727</li></ul></div></div></td></tr></table><td valign="top"><span class="tl-main-part"></span></td>
+
+
+<table border="0" width="100%" class="fm" xxxbackground="/__common/img/nuri_logo.png" style="background-repeat:no-repeat;">
+
+<tr><td leftmargine="10" width="50%" style="height:1px;"></td><td style="height:1px;"></td></tr>
+
+</table><tr><td colspan="2" valign="top"><hr class="section-rule"></td></tr>
+<tr><td valign="top"><span class="tl-main-part"><span class="tl-main-part">Abstract</span></span></td>
+<td valign="top"><p>This study proposes an underwater 3D object reconstruction method using forward looking sonar (FLS) and profiling sonar (PS) fusion through voxel-based space-carving. Underwater environments commonly rely on sonar sensors because of optical equipment limitations. However, the inherent dimensional ambiguity of conventional sonar systems prevents accurate object localization, necessitating sensor fusion approaches to achieve precise 3D reconstruction. The proposed methodology employs a complementary fusion strategy: FLS assigns probabilistic weights to all potential object regions considering vertical ambiguity, whereas PS complements this by executing conservative carving operations to remove regions where objects are confirmed absent. This approach enables comprehensive background and object mapping followed by object segmentation, unlike conventional region-of-interest-based reconstruction. Validation using ray-tracing simulation with objects (slope box) demonstrated that PS effectively carves away ambiguous vertical regions initially predicted by FLS, resulting in significantly improved 3D reconstruction accuracy. The results confirm that the proposed sensor fusion approach successfully resolves dimensional ambiguity inherent to single-sensor methods, achieving precise object localization through systematic probabilistic space-carving in underwater environments.</p>
+</td><td valign="top"></td>
+</tr>
+<hr class="part-rule"><table width="100%" class="fm">
+<tr><td left-margine="10" width="30%" style="height:1px;"></td><td style="height:1px;"></td></tr>
+
+<tr>
+<td colspan="2" valign="top"><span class="tl-main-part">Keywords: </span><span class="capture-id">Occupancy grid map</span>, <span class="capture-id">Object 3D reconstruction</span>, <span class="capture-id">Multi-sonar fusion</span><br></td>
+</tr>
+</table>
+
+</div>
+
+<div id="article-level-0-body" class="body">
+
+<hr class="part-rule">
+
+<div id="JSST_2025_v34n5_575_sec1">
+<span class="tl-main-part" style="margin-bottom:10px;">1. INTRODUCTION</span>
+<p>Three-dimensional (3D) object reconstruction in underwater environments is crucial for marine exploration, underwater structure inspection, and seabed resource exploration. Consequently, extensive research has been conducted across these diverse fields <span class="xref"><a href="#JSST_2025_v34n5_575_B1">[1</a></span>-<span class="xref"><a href="#JSST_2025_v34n5_575_B4">4]</a></span>. However, the optical and electromagnetic sensors used in terrestrial applications cannot operate effectively underwater because of rapid signal attenuation and scattering in water. Therefore, acoustic sensors have become the primary choice for environmental sensing and navigation under challenging underwater conditions. Underwater surveying missions that employ autonomous underwater vehicles (AUVs) equipped with acoustic-based sonar sensors demonstrate superior performance in aquatic environments because sound waves propagate efficiently through water with significantly less attenuation compared to optical signals over considerable distances.</p>
+<p>Among the various sonar types, forward-looking sonar (FLS) has emerged as the most promising for 3D reconstruction because of its high resolution and real-time imaging capabilities. However, FLS suffers from an inherent limitation: while it provides accurate horizontal information, it cannot determine the exact vertical position of the reflection points within its vertical field of view (FoV). This ambiguity leads to dimensional deficiency problems, leading to the generation of false slope artifacts in front of the objects during reconstruction. To compensate for FLS limitations, researchers have developed various approaches combining FLS with profiling sonar (PS) to supplement the missing dimensional information. Extensive research has been conducted in this multisensor fusion domain <span class="xref"><a href="#JSST_2025_v34n5_575_B5">[5</a></span>,<span class="xref"><a href="#JSST_2025_v34n5_575_B6">6]</a></span>.</p>
+<p>Conventional region-of-interest (ROI)-based approaches typically follow a sequential process: first, regions with a high probability of object detection are filtered through region of interest extraction. Subsequently, 3D coordinate transformation and reconstruction are applied to the filtered data from these detected regions <span class="xref"><a href="#JSST_2025_v34n5_575_B5">[5</a></span>,<span class="xref"><a href="#JSST_2025_v34n5_575_B6">6]</a></span>. However, this approach has critical limitations. Information acquisition is only possible when objects are in close proximity and are clearly distinguishable from background noise. In most underwater scenarios, the boundaries between objects and the background are ambiguous, resulting in the exclusion of substantial amounts of potentially valuable data during the filtering process. Additionally, these methods cannot effectively utilize seafloor information for comprehensive mapping because background data are systematically discarded rather than being integrated into the reconstruction process.</p>
+<p>To overcome these limitations, this paper proposes a method that reverses the steps of traditional sequences, as illustrated in <span class="xref"><a href="#JSST_2025_v34n5_575_F1">Fig. 1</a></span>. Instead of requiring object detection before reconstruction, the proposed approach applies an immediate 3D coordinate transformation to all the sonar data. The method then constructs a comprehensive 3D scene representation through voxel-based probabilistic mapping, followed by object extraction from this complete representation. This systematic three-stage process (initial voxel mapping, accumulation, and segmentation) reconstructs background-included data and subsequently extracts objects through segmentation, which differs from conventional ROI-based methods that require prior object detection.</p>
+<div id="JSST_2025_v34n5_575_F1"><img class="xml_graphic" src="JSST_2025_v34n5_575_f001.jpg">
+<br><span class="label">Fig. 1.&nbsp;
+				</span><br><span class="capture-id">
+<span class="tl-inline1">Underwater 3D Object Reconstruction Scenario and Proposed Method Sequence using AUV-mounted Sonar Systems.</span>
+</span><br><br></div><p>The key advantage of this approach is that it utilizes sonar data from all distances without object detection constraints. Using the data from extended scanning ranges, the method naturally collects information from multiple viewpoints, providing a more comprehensive coverage of target objects and the surrounding environments. This comprehensive data collection effectively mitigates the false slope generation problem of the FLS while overcoming the constraints of conventional fusion methods. This represents the core contribution of this study, enabling robust 3D reconstruction performance for various object geometries approaching under different conditions.</p>
+<p>The remainder of this paper is organized as follows. <span class="xref"><a href="#JSST_2025_v34n5_575_sec2">Section 2</a></span> presents the methodology for converting FLS and PS sensor data into occupancy grid maps using the proposed fusion approach. <span class="xref"><a href="#JSST_2025_v34n5_575_sec3">Section 3</a></span> describes the simulation environment, experimental validation, and performance analyses. <span class="xref"><a href="#JSST_2025_v34n5_575_sec4">Section 4</a></span> presents the conclusions and directions for future research.</p>
+</div>
+
+<hr class="section-rule">
+<div id="JSST_2025_v34n5_575_sec2">
+<span class="tl-main-part" style="margin-bottom:10px;">2. METHOD</span>
+<p>This study employed an occupancy grid mapping methodology <span class="xref"><a href="#JSST_2025_v34n5_575_B7">[7</a></span>,<span class="xref"><a href="#JSST_2025_v34n5_575_B8">8]</a></span> to implement the proposed approach, which constructs local maps before object extraction for comprehensive 3D scene reconstruction. The proposed method reconstructs 3D objects by combining the advantages of the FLS and PS sensors. Unlike existing approaches that impose conditional constraints for object detection, the unconditional data processing strategy of the proposed method makes it universally applicable.</p>
+<p>The core implementation follows a space-carving concept inspired by <span class="xref"><a href="#JSST_2025_v34n5_575_B9">[9]</a></span>: FLS data assign positive weights to all potentially occupied regions in the vertical direction to compensate for the inherent ambiguity, whereas PS data carve false positive regions by marking them as free space. This approach enables robust 3D mapping without the limitations of the traditional ROI-based methods.</p>
+<p>The core concept of the proposed method is illustrated in <span class="xref"><a href="#JSST_2025_v34n5_575_F2">Fig. 2</a></span>. As illustrated in <span class="xref"><a href="#JSST_2025_v34n5_575_F2">Fig. 2 (b)</a></span>, FLS provides precise horizontal resolution along the FoV <i>&theta;<sub>b</sub></i> but suffers from vertical ambiguity within its beamwidth <i>&phi;<sub>v</sub></i> (dark gray cone area). This makes it impossible to determine the exact height of the object surfaces. Therefore, the candidate points must be generated at all possible positions in the vertical direction. In contrast, as shown in <span class="xref"><a href="#JSST_2025_v34n5_575_F2">Fig. 2 (a)</a></span>, PS provides accurate vertical information through its profiling range <i>&phi;<sub>p</sub></i> but has horizontal ambiguity within its beamwidth <i>&theta;<sub>h</sub></i> due to its fan-shaped scanning pattern (light gray area). However, accurate vertical information from the PS can be used to remove (carve) regions where objects do not exist among the vertical candidate points generated by the FLS. <span class="xref"><a href="#JSST_2025_v34n5_575_F2">Fig. 2 (c)</a></span> demonstrates the fusion process, whereby the horizontal information (dark gray) of FLS and vertical constraints (light gray) of PS are combined to achieve a precise 3D reconstruction of the target object.</p>
+<div id="JSST_2025_v34n5_575_F2"><img class="xml_graphic" src="JSST_2025_v34n5_575_f002.jpg">
+<br><span class="label">Fig. 2.&nbsp;
+				</span><br><span class="capture-id">
+<span class="tl-inline1">Occupancy grid mapping method overview: (a) PS geometric parameters, (b) FLS geometric parameters, (c) FLS+PS weight assignment.</span>
+</span><br><br></div><p>To implement this fusion concept, the proposed method follows a four-stage process as illustrated in <span class="xref"><a href="#JSST_2025_v34n5_575_F3">Fig. 3</a></span>: (i) object detection and voxel map initialization using PS data (<span class="xref"><a href="#JSST_2025_v34n5_575_sec2-1">Section 2.1</a></span>); (ii) FLS-based voxel map updates for potential object regions (<span class="xref"><a href="#JSST_2025_v34n5_575_sec2-2">Section 2.2</a></span>); (iii) PS-based carving operations to refine the occupancy map (<span class="xref"><a href="#JSST_2025_v34n5_575_sec2-3">Section 2.3</a></span>); and (iv) object extraction from the final 3D scene representation (<span class="xref"><a href="#JSST_2025_v34n5_575_sec2-4">Section 2.4</a></span>). This four-stage approach enables the complete realization of the &ldquo;local mapping before object extraction&rdquo; strategy proposed in this work. Each stage was designed to leverage the complementary strengths of both sensors while minimizing their individual limitations. The detailed implementation and roles of each stage are described in the following subsections.</p>
+<div id="JSST_2025_v34n5_575_F3"><img class="xml_graphic" src="JSST_2025_v34n5_575_f003.jpg">
+<br><span class="label">Fig. 3.&nbsp;
+				</span><br><span class="capture-id">
+<span class="tl-inline1">Overall methodology flowchart for FLS and PS sensor fusion.</span>
+</span><br><br></div><div id="JSST_2025_v34n5_575_sec2-1">
+<span class="tl-lowest-section1">2.1 Object Detection and Voxel Map Initialization</span>
+<p>Creating a local voxel map across an entire environment is highly inefficient in terms of data storage and computational load. As observed in OctoMap <span class="xref"><a href="#JSST_2025_v34n5_575_B10">[10]</a></span>, sparse voxel allocation significantly improves memory efficiency and computational performance by generating voxels only at required locations. Based on this principle, this study adopted an active object detection approach to implement algorithms using PS sensor data, generating local voxel maps only when objects are detected, instead of maintaining complete maps throughout the scanning process.</p>
+<p>The PS rotated about the vertical axis and recorded the sonar signal intensity in the direction of the sensor faces. Although a full 360-degree rotation is generally possible, this study scanned only within a limited angular range to solve the problem of excessively long scan cycles during full rotation.</p>
+<p>The object-detection algorithm using PS data is shown in <span class="xref"><a href="#JSST_2025_v34n5_575_F4">Fig. 4</a></span>. The data format in <span class="xref"><a href="#JSST_2025_v34n5_575_F4">Fig. 4 (a)</a></span> is from a single PS sequence, with the echo intensity recorded at all points within a distance of 0 m to the maximum range. The highest intensity point (marked with a green square) was identified as the selected point for that sequence. These selected points were then transformed from the local coordinate system of the sensor to global 3D coordinates by combining the position and orientation data of the AUV with the relative distance and angle measurements from the PS sensor. As shown in <span class="xref"><a href="#JSST_2025_v34n5_575_F4">Fig. 4 (b)</a></span>, based on a repeated increase of the Z-coordinates of the selected points from each sequence, the system determines whether an object has been detected. In this process, when the PS detects an object, the system initializes a local voxel map with center at the location of the detected object. The voxel map covers a 10 &times; 10 &times; 10 m<sup>3</sup> region with 100 &times; 100 &times; 100 resolution, providing a 10 cm voxel resolution for precise 3D mapping.</p>
+<div id="JSST_2025_v34n5_575_F4"><img class="xml_graphic" src="JSST_2025_v34n5_575_f004.jpg">
+<br><span class="label">Fig. 4.&nbsp;
+				</span><br><span class="capture-id">
+<span class="tl-inline1">Object detection algorithm using PS data; (a) Point selection method in single sequence; (b) Object recognition pattern across multiple sequences.</span>
+</span><br><br></div></div>
+<div id="JSST_2025_v34n5_575_sec2-2">
+<span class="tl-lowest-section1">2.2 FLS Data-based Voxel Map Update</span>
+<p>Once the voxel map is initialized through object detection, the system begins to update the voxel map using the FLS data. FLS sensors provide 2D image data, which are fundamentally acoustic data in polar coordinates converted into Cartesian coordinate images, as illustrated in <span class="xref"><a href="#JSST_2025_v34n5_575_F5">Fig. 5</a></span>. Here, the vertical pixel information corresponds to the distance from the sensor, and horizontal pixel information includes angular information corresponding to the individual beams.</p>
+<div id="JSST_2025_v34n5_575_F5"><img class="xml_graphic" src="JSST_2025_v34n5_575_f005.jpg">
+<br><span class="label">Fig. 5.&nbsp;
+				</span><br><span class="capture-id">
+<span class="tl-inline1">FLS image coordinate conversion.</span>
+</span><br><br></div><p>This system does not convert all pixel data but selectively processes only pixels with high probability in object detection. Specifically, only pixels with intensity values exceeding the threshold of 150 (in the 0&ndash;255 intensity range) were considered as object detection data, and only these selected pixel indices (i, j) were processed for further computation. By selecting only high-intensity points, we accurately reconstructed the objects and seabed.</p>
+<p>However, the pixels lack precise vertical information because of the inherent ambiguity of FLS. In <span class="xref"><a href="#JSST_2025_v34n5_575_F2">Fig. 2 (b)</a></span>, the dark-gray shaded area represents this uncertainty zone, where the exact vertical position cannot be determined from a single measurement. To address this, we first converted the selected pixel indices (i, j) from <span class="xref"><a href="#JSST_2025_v34n5_575_F5">Fig. 5</a></span> to physical measurements (<i>r<sub>i</sub></i>, <i>&theta;<sub>i</sub></i>) using <span class="xref"><a href="#JSST_2025_v34n5_575_S1">Eqs. (1)</a></span> and <span class="xref"><a href="#JSST_2025_v34n5_575_S2">(2)</a></span>, before including the geometric parameters of tilt angle <i>&phi;<sub>t</sub></i><sub>1</sub>, beamwidth <i>&phi;<sub>v</sub></i>, and FoV <i>&theta;<sub>b</sub></i>. Coordinate conversion formulae were designed to address this vertical ambiguity.</p>
+<div class="capture-id" id="JSST_2025_v34n5_575_S1"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ1" display="block"><mml:msub><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mi>r</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mi>m</mml:mi><mml:mi>i</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mfenced separators="|"><mml:mrow><mml:mi>h</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:msub><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfenced></mml:mrow><mml:mrow><mml:mi>h</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:mfrac><mml:mo>&sdot;</mml:mo><mml:mfenced separators="|"><mml:mrow><mml:msub><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mi>m</mml:mi><mml:mi>a</mml:mi><mml:mi>x</mml:mi></mml:mrow></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mi>m</mml:mi><mml:mi>i</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfenced></mml:math></div><div class="formula-label"><span class="label">(1)&nbsp;
+				</span></div></div></div><div class="capture-id" id="JSST_2025_v34n5_575_S2"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ2" display="block"><mml:msub><mml:mrow><mml:mi>&theta;</mml:mi></mml:mrow><mml:mrow><mml:mi>b</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>&theta;</mml:mi></mml:mrow><mml:mrow><mml:mi>F</mml:mi></mml:mrow></mml:msub><mml:mo>&sdot;</mml:mo><mml:mfenced separators="|"><mml:mrow><mml:msub><mml:mrow><mml:mi>&theta;</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub><mml:mo>-</mml:mo><mml:mi>&omega;</mml:mi><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:mfenced></mml:mrow><mml:mrow><mml:mi>&omega;</mml:mi></mml:mrow></mml:mfrac></mml:math></div><div class="formula-label"><span class="label">(2)&nbsp;
+				</span></div></div></div><div class="capture-id" id="JSST_2025_v34n5_575_S3"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ3" display="block"><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>v</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:mfenced><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>m</mml:mi><mml:mi>i</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mi>k</mml:mi><mml:mo>&sdot;</mml:mo><mml:mfenced separators="|"><mml:mrow><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>m</mml:mi><mml:mi>a</mml:mi><mml:mi>x</mml:mi></mml:mrow></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>m</mml:mi><mml:mi>i</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfenced></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mi>v</mml:mi></mml:mrow></mml:msub><mml:mo>-</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:mfrac></mml:math></div><div class="formula-label"><span class="label">(3)&nbsp;
+				</span></div></div></div><div class="capture-id" id="JSST_2025_v34n5_575_S4"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ4" display="block"><mml:mtable><mml:mtr><mml:mtd><mml:mfenced open="[" close="]" separators="|"><mml:mrow><mml:mtable><mml:mtr><mml:mtd><mml:msub><mml:mrow><mml:mi>X</mml:mi></mml:mrow><mml:mrow><mml:mi>F</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi><mml:mo>,</mml:mo><mml:mi>k</mml:mi></mml:mrow></mml:mfenced></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mrow><mml:mi>Y</mml:mi></mml:mrow><mml:mrow><mml:mi>F</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi><mml:mo>,</mml:mo><mml:mi>k</mml:mi></mml:mrow></mml:mfenced></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mrow><mml:mi>Z</mml:mi></mml:mrow><mml:mrow><mml:mi>F</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi><mml:mo>,</mml:mo><mml:mi>k</mml:mi></mml:mrow></mml:mfenced></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mfenced></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mi>r</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:mfenced><mml:mi mathvariant="normal">*</mml:mi><mml:mfenced open="[" close="]" separators="|"><mml:mrow><mml:mtable><mml:mtr><mml:mtd><mml:mrow><mml:maligngroup></mml:maligngroup><mml:mtext>cos</mml:mtext><mml:mfenced separators="|"><mml:mrow><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>t</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>v</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced><mml:mi>c</mml:mi><mml:mi>o</mml:mi><mml:mi>s</mml:mi><mml:mfenced separators="|"><mml:mrow><mml:msub><mml:mrow><mml:mi>&theta;</mml:mi></mml:mrow><mml:mrow><mml:mi>b</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:maligngroup></mml:maligngroup><mml:mtext>cos</mml:mtext><mml:mfenced separators="|"><mml:mrow><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>t</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>v</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced><mml:mtext>sin</mml:mtext><mml:mfenced separators="|"><mml:mrow><mml:msub><mml:mrow><mml:mi>&theta;</mml:mi></mml:mrow><mml:mrow><mml:mi>b</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:maligngroup></mml:maligngroup><mml:mtext>sin</mml:mtext><mml:mfenced separators="|"><mml:mrow><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>t</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>v</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mfenced></mml:mtd></mml:mtr></mml:mtable></mml:math></div><div class="formula-label"><span class="label">(4)&nbsp;
+				</span></div></div></div><p><span class="xref"><a href="#JSST_2025_v34n5_575_S1">Eqs. (1)</a></span> and <span class="xref"><a href="#JSST_2025_v34n5_575_S2">(2)</a></span> convert image indices into physical measurements. <span class="xref"><a href="#JSST_2025_v34n5_575_S1">Eq. (1)</a></span> converts the range information from FLS image coordinates to actual distance measurements. Here <i>r<sub>r</sub></i> is the distance from the sensor to the detected point. <i>r<sub>min</sub></i> and <i>r<sub>max</sub></i> are the minimum and maximum measurement distances of the sensor, respectively; <i>h</i> is the total number of vertical pixels; and <i>r<sub>i</sub></i> is the range index of the image.</p>
+<p><span class="xref"><a href="#JSST_2025_v34n5_575_S2">Eq. (2)</a></span> converts the horizontal angular information from image coordinates into beam angles; <i>&theta;<sub>F</sub></i> represents the horizontal FoV; <i>&theta;<sub>i</sub></i> is the angular index of the image; and <i>&omega;</i> is the total number of beams (horizontal pixels).</p>
+<p>These converted measurements are then used for the 3D coordinate transformation, as illustrated in <span class="xref"><a href="#JSST_2025_v34n5_575_F2">Fig. 2 (b)</a></span>. The vertical ambiguity is addressed by generating sample points across the vertical FoV as in <span class="xref"><a href="#JSST_2025_v34n5_575_S3">Eq. (3)</a></span>, where <i>k</i> represents the <i>k</i>-th possible vertical position; <i>&phi;<sub>min</sub></i> and <i>&phi;<sub>max</sub></i> define the vertical scan angle range; and <i>N<sub>v</sub></i> is the number of sampling points. This equation distributes possible object positions across the entire range of vertical ambiguity.</p>
+<p><span class="xref"><a href="#JSST_2025_v34n5_575_S4">Eq. (4)</a></span> transforms each 2D image coordinate (i, j) with multiple vertical <i>k</i> samples into the final 3D coordinates. The parameter <i>k</i> generates sample points distributed across the vertical ambiguity range, whereas <i>&phi;<sub>t</sub></i><sub>1</sub> represents the FLS mounting tilt angle, which is a fixed sensor installation parameter.</p>
+<p>Based on the reconstructed 3D points, the occupancy grid map is updated using the log-odds method. For each detected 3D point P = (x, y, z, intensity), we calculated the weight only for the voxel containing this 3D point.</p>
+<div class="capture-id" id="JSST_2025_v34n5_575_S5"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ5" display="block"><mml:mtext>&Delta;</mml:mtext><mml:msub><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mi>o</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mtext>log</mml:mtext><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>o</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:msub><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>o</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:math></div><div class="formula-label"><span class="label">(5)&nbsp;
+				</span></div></div></div><div class="capture-id" id="JSST_2025_v34n5_575_S6"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ6" display="block"><mml:msub><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>e</mml:mi><mml:mi>w</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>y</mml:mi><mml:mo>,</mml:mo><mml:mi>z</mml:mi></mml:mrow></mml:mfenced><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mi>o</mml:mi><mml:mi>l</mml:mi><mml:mi>d</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>y</mml:mi><mml:mo>,</mml:mo><mml:mi>z</mml:mi></mml:mrow></mml:mfenced><mml:mo>+</mml:mo><mml:mtext>&Delta;</mml:mtext><mml:msub><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mi>o</mml:mi></mml:mrow></mml:msub><mml:mo>&sdot;</mml:mo><mml:msub><mml:mrow><mml:mi>&alpha;</mml:mi></mml:mrow><mml:mrow><mml:mi>F</mml:mi></mml:mrow></mml:msub><mml:mo>&sdot;</mml:mo><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi>F</mml:mi></mml:mrow></mml:msub></mml:math></div><div class="formula-label"><span class="label">(6)&nbsp;
+				</span></div></div></div><div class="capture-id" id="JSST_2025_v34n5_575_S7"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ7" display="block"><mml:mtext>clamp</mml:mtext><mml:mfenced separators="|"><mml:mrow><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>a</mml:mi><mml:mo>,</mml:mo><mml:mi>b</mml:mi></mml:mrow></mml:mfenced><mml:mo>=</mml:mo><mml:mtext>min</mml:mtext><mml:mfenced separators="|"><mml:mrow><mml:mtext>max</mml:mtext><mml:mfenced separators="|"><mml:mrow><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>a</mml:mi></mml:mrow></mml:mfenced><mml:mo>,</mml:mo><mml:mi>b</mml:mi></mml:mrow></mml:mfenced></mml:math></div><div class="formula-label"><span class="label">(7)&nbsp;
+				</span></div></div></div><div class="capture-id" id="JSST_2025_v34n5_575_S8"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ8" display="block"><mml:msub><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>e</mml:mi><mml:mi>w</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>y</mml:mi><mml:mo>,</mml:mo><mml:mi>z</mml:mi></mml:mrow></mml:mfenced><mml:mo>=</mml:mo><mml:mtext>clamp</mml:mtext><mml:mfenced separators="|"><mml:mrow><mml:msub><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>e</mml:mi><mml:mi>w</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>y</mml:mi><mml:mo>,</mml:mo><mml:mi>z</mml:mi></mml:mrow></mml:mfenced><mml:mo>,</mml:mo><mml:mo>-</mml:mo><mml:mn>5.0,5.0</mml:mn></mml:mrow></mml:mfenced></mml:math></div><div class="formula-label"><span class="label">(8)&nbsp;
+				</span></div></div></div><div class="capture-id" id="JSST_2025_v34n5_575_S9"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ9" display="block"><mml:msub><mml:mrow><mml:mi>p</mml:mi></mml:mrow><mml:mrow><mml:mi>o</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>y</mml:mi><mml:mo>,</mml:mo><mml:mi>z</mml:mi></mml:mrow></mml:mfenced><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mfenced separators="|"><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mtext>exp</mml:mtext><mml:mfenced separators="|"><mml:mrow><mml:mo>-</mml:mo><mml:mi>L</mml:mi><mml:mfenced separators="|"><mml:mrow><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>y</mml:mi><mml:mo>,</mml:mo><mml:mi>z</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced></mml:mrow></mml:mfrac></mml:math></div><div class="formula-label"><span class="label">(9)&nbsp;
+				</span></div></div></div><p>In <span class="xref"><a href="#JSST_2025_v34n5_575_S5">Eq. (5)</a></span>, used to calculate	&Delta;<i>L<sub>o</sub></i>, <i>P<sub>o</sub></i> is an adjustable parameter that determines the strength of the occupied space updates. To assign a stronger weight to occupied regions, <i>P<sub>o</sub></i> is set closer to 1.0, whereas values closer to 0.5, provide more conservative updates.</p>
+<p>For the FLS data processing, we updated only the voxels containing the detected 3D points in occupied spaces. <span class="xref"><a href="#JSST_2025_v34n5_575_S6">Eq. (6)</a></span> is the update formula where &Delta;<i>L<sub>o</sub></i> is the update weight; <i>&alpha;<sub>F</sub></i> adjusts the influence between PS and FLS updates; and <i>I<sub>F</sub></i> is the intensity value normalized to between 0 and 1.</p>
+<p>The calculated <i>L</i>(<i>x</i>, <i>y</i>, <i>z</i>) values are limited to the upper and lower bounds expressed in <span class="xref"><a href="#JSST_2025_v34n5_575_S8">Eq. (8)</a></span> for numerical stability, where the clamp function restricts the values to a specified range, as in <span class="xref"><a href="#JSST_2025_v34n5_575_S7">Eq. (7)</a></span>. In <span class="xref"><a href="#JSST_2025_v34n5_575_S8">Eq. (8)</a></span>, this clamp function constrains the log-odds values to the range [-5.0, 5.0], to prevent numerical overflow and maintain computational stability during iterative updates.</p>
+<p>Finally, the <i>L</i>(<i>x</i>, <i>y</i>, <i>z</i>) values are converted back to probabilities through a sigmoid function using <span class="xref"><a href="#JSST_2025_v34n5_575_S9">Eq. (9)</a></span>, to calculate the final occupancy probability.</p>
+</div>
+<div id="JSST_2025_v34n5_575_sec2-3">
+<span class="tl-lowest-section1">2.3 PS Data-based Voxel Map Update</span>
+<p>As explained in <span class="xref"><a href="#JSST_2025_v34n5_575_sec2-1">Section 2.1</a></span>, strong intensity signals in the PS sensor data are not necessarily definitive evidence that they originate from objects. Existing sonar data processing methods include using the maximum echo <span class="xref"><a href="#JSST_2025_v34n5_575_B11">[11]</a></span>, selecting multiple peaks <span class="xref"><a href="#JSST_2025_v34n5_575_B12">[12]</a></span>, and using all values above certain thresholds. While these approaches work well for general object detection, a more conservative approach is required for voxel map updates, considering the irreversible nature of the carving operation.</p>
+<p>The critical difference lies in the purpose of data utilization. In <span class="xref"><a href="#JSST_2025_v34n5_575_sec2-1">Section 2.1</a></span>, we focused on object detection, which tolerates false positives, whereas voxel carving permanently removes potential object regions. The most dangerous scenario occurs when an object is located nearby, but a distant seafloor produces stronger reflection signals. In intensity-based selection methods such as maximum echo, the system selects the distant seafloor point and incorrectly carves away the space with actual nearby objects.</p>
+<p>Therefore, this study adopted a conservative closest distance-based selection strategy instead of conventional intensity-based methods. This approach ensures that actual objects are not carved away, prioritizing preservation over aggressive removal.</p>
+<p>To implement closest distance-based selection on PS sensor data, we adopted a group-based selection method as illustrated in <span class="xref"><a href="#JSST_2025_v34n5_575_F6">Fig. 6</a></span>. The algorithm first applies a predefined threshold &tau; = 0.7 to select only high-reliability signals above this threshold (orange dashed line). These selected points are then sorted by distance and grouped, classifying consecutive points as belonging to the same group. Among all the formed groups, the group with the shortest distance measurements is selected. Within this closest group, the final detection point was determined by selecting the point with the highest signal intensity (marked with a black square). Through this process, a selected point was obtained from a single PS sequence.</p>
+<div id="JSST_2025_v34n5_575_F6"><img class="xml_graphic" src="JSST_2025_v34n5_575_f006.jpg">
+<br><span class="label">Fig. 6.&nbsp;
+				</span><br><span class="capture-id">
+<span class="tl-inline1">Closest point selection algorithm from multiple echoes in PS data</span>
+</span><br><br></div><p>The PS-based 3D coordinate conversion requires that the unique characteristics of the sensor be considered. As shown in <span class="xref"><a href="#JSST_2025_v34n5_575_F2">Fig. 2 (a)</a></span>, the PS exhibits horizontal ambiguity (light gray fan-shaped area) while providing accurate vertical information, which is complementary to the FLS behavior. The geometric parameters including <i>&phi;<sub>t</sub></i><sub>2</sub>, beamwidth <i>&theta;<sub>h</sub></i>, and profiling range <i>&phi;<sub>p</sub></i> define this sensing geometry. To handle the horizontal uncertainty, we distributed multiple candidate points across the ambiguous angular range at the selected distance <i>r<sub>s</sub></i>:</p>
+<div class="capture-id" id="JSST_2025_v34n5_575_S10"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ10" display="block"><mml:msub><mml:mrow><mml:mi>&theta;</mml:mi></mml:mrow><mml:mrow><mml:mi>h</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:mfenced><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>&theta;</mml:mi></mml:mrow><mml:mrow><mml:mi>m</mml:mi><mml:mi>i</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mi>k</mml:mi><mml:mo>&sdot;</mml:mo><mml:mfenced separators="|"><mml:mrow><mml:msub><mml:mrow><mml:mi>&theta;</mml:mi></mml:mrow><mml:mrow><mml:mi>m</mml:mi><mml:mi>a</mml:mi><mml:mi>x</mml:mi></mml:mrow></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mrow><mml:mi>&theta;</mml:mi></mml:mrow><mml:mrow><mml:mi>m</mml:mi><mml:mi>i</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfenced></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mi>h</mml:mi></mml:mrow></mml:msub><mml:mo>-</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:mfrac></mml:math></div><div class="formula-label"><span class="label">(10)&nbsp;
+				</span></div></div></div><div class="capture-id" id="JSST_2025_v34n5_575_S11"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ11" display="block"><mml:mfenced open="[" close="]" separators="|"><mml:mrow><mml:mtable><mml:mtr><mml:mtd><mml:mrow><mml:maligngroup></mml:maligngroup><mml:msub><mml:mrow><mml:mi>X</mml:mi></mml:mrow><mml:mrow><mml:mi>P</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:maligngroup></mml:maligngroup><mml:msub><mml:mrow><mml:mi>Y</mml:mi></mml:mrow><mml:mrow><mml:mi>P</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:maligngroup></mml:maligngroup><mml:msub><mml:mrow><mml:mi>Z</mml:mi></mml:mrow><mml:mrow><mml:mi>P</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mfenced><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mo>&sdot;</mml:mo><mml:mfenced open="[" close="]" separators="|"><mml:mrow><mml:mtable><mml:mtr><mml:mtd><mml:mrow><mml:maligngroup></mml:maligngroup><mml:mtext>cos</mml:mtext><mml:mfenced separators="|"><mml:mrow><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>t</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfenced><mml:mtext>&nbsp;cos</mml:mtext><mml:mfenced separators="|"><mml:mrow><mml:msub><mml:mrow><mml:mi>&theta;</mml:mi></mml:mrow><mml:mrow><mml:mi>h</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:maligngroup></mml:maligngroup><mml:mtext>cos</mml:mtext><mml:mfenced separators="|"><mml:mrow><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>t</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfenced><mml:mi>&nbsp;</mml:mi><mml:mtext>sin</mml:mtext><mml:mfenced separators="|"><mml:mrow><mml:msub><mml:mrow><mml:mi>&theta;</mml:mi></mml:mrow><mml:mrow><mml:mi>h</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:maligngroup></mml:maligngroup><mml:mtext>sin</mml:mtext><mml:mfenced separators="|"><mml:mrow><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>t</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>&phi;</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mfenced></mml:math></div><div class="formula-label"><span class="label">(11)&nbsp;
+				</span></div></div></div><p><span class="xref"><a href="#JSST_2025_v34n5_575_S10">Eq. (10)</a></span> describes the horizontal angle sampling used to handle the inherent horizontal ambiguity of PS; <i>&theta;<sub>min</sub></i> and <i>&theta;<sub>max</sub></i> are the horizontal FoV angles of the PS sensor; <i>N<sub>h</sub></i> is the number of sampling points distributed across this angular range; and k is the sampling index.</p>
+<p><span class="xref"><a href="#JSST_2025_v34n5_575_S11">Eq. (11)</a></span> transforms the PS data into 3D coordinates. Here, <i>r<sub>s</sub></i> is the chosen distance from the group-based selection method; <i>&phi;<sub>t</sub></i><sub>2</sub> is the PS sensor mounting tilt angle; <i>&phi;<sub>p</sub></i> is the PS profiling angle for the current measurement; and <i>q<sub>h</sub></i>(<i>k</i>) represents the <i>k</i>-th horizontal angle sample. Parameter <i>k</i> generates multiple candidate positions across the horizontal uncertainty range.</p>
+<p>To identify free-space voxels between the sensor and detected points, we applied the 3D Bresenham algorithm <span class="xref"><a href="#JSST_2025_v34n5_575_B13">[13]</a></span>, which extends the traditional 2D ray-tracing method to three-dimensional space. The Bresenham algorithm efficiently determined all the voxels along the straight-line path from the sensor position to each detected PS point. Because the acoustic signal successfully traversed this region without obstruction, these intermediate voxels represent the confirmed free space.</p>
+<p>To each voxel identified by the Bresenham algorithm along the ray path , a weight update was applied as follows:</p>
+<div class="capture-id" id="JSST_2025_v34n5_575_S12"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ12" display="block"><mml:mtext>&Delta;</mml:mtext><mml:msub><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mi>f</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mtext>log</mml:mtext><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>f</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:msub><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>f</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:math></div><div class="formula-label"><span class="label">(12)&nbsp;
+				</span></div></div></div><div class="capture-id" id="JSST_2025_v34n5_575_S13"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ13" display="block"><mml:msub><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mi>e</mml:mi><mml:mi>w</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>y</mml:mi><mml:mo>,</mml:mo><mml:mi>z</mml:mi></mml:mrow></mml:mfenced><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mi>o</mml:mi><mml:mi>l</mml:mi><mml:mi>d</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>y</mml:mi><mml:mo>,</mml:mo><mml:mi>z</mml:mi></mml:mrow></mml:mfenced><mml:mo>+</mml:mo><mml:mtext>&Delta;</mml:mtext><mml:msub><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mi>f</mml:mi></mml:mrow></mml:msub><mml:mo>&sdot;</mml:mo><mml:mtext>exp</mml:mtext><mml:mfenced separators="|"><mml:mrow><mml:mo>-</mml:mo><mml:msub><mml:mrow><mml:mi>&alpha;</mml:mi></mml:mrow><mml:mrow><mml:mi>P</mml:mi></mml:mrow></mml:msub><mml:mo>&sdot;</mml:mo><mml:mi>t</mml:mi></mml:mrow></mml:mfenced></mml:math></div><div class="formula-label"><span class="label">(13)&nbsp;
+				</span></div></div></div><p>The &Delta;<i>L<sub>f</sub></i> is calculated according to <span class="xref"><a href="#JSST_2025_v34n5_575_S12">Eq. (12)</a></span>, where <i>P<sub>f</sub></i> is an adjustable parameter that determines the strength of free space updates. To ensure conservative carving operations, <i>P<sub>f</sub></i> is typically set to less than 0.5, creating negative log-odds increments to mark voxels as free space.</p>
+<p>Using <span class="xref"><a href="#JSST_2025_v34n5_575_S13">Eq. (13)</a></span>, negative weight updates are applied with <i>L<sub>new</sub></i>(<i>x</i>, <i>y</i>, <i>z</i>) and <i>L<sub>old</sub></i>(<i>x</i>, <i>y</i>, <i>z</i>) representing the updated and previous voxel occupancy weights, respectively. &Delta;<i>L<sub>f</sub></i> is a negative value; <i>&alpha;<sub>P</sub></i> controls the carving intensity; and t represents the distance from sensor to point normalized to the 0&ndash;1 range to implement distance-based weighting. The exponential function precludes strong negative weights near the detection point due to potential noise while generating stronger negative weights at farther distances, where we can be more confident that no objects exist.</p>
+<p>Through this PS weight update process, ambiguous regions predicted by FLS as potential object locations were systematically carved away owing to the PS's accurate vertical information, to complete the sensor fusion approach.</p>
+</div>
+<div id="JSST_2025_v34n5_575_sec2-4">
+<span class="tl-lowest-section1">2.4 Voxel Map Completion and Object Segmentation</span>
+<p>After completing the iterative voxel map updates from the FLS and PS sensors, the system obtains a comprehensive 3D occupancy probability map of the target region. This final stage realizes the core concept of &ldquo;local mapping before object extraction.&rdquo; The process consists of two main operations: probability thresholding and object detection.</p>
+<p>For probability thresholding, the system converted a probabilistic occupancy map into a binary classification. Voxels with occupancy probability values above 0.7 are classified as occupied space, whereas those below this threshold are considered free space. This threshold value was determined by fine-tuning the occupancy weight parameters to achieve optimal reconstruction performance. The resulting binary map provides a clear representation of the reconstructed 3D scene.</p>
+<p>Object detection applies a moving average-based approach to the reconstructed voxel map, following the same principle as that of the object detection algorithm described in <span class="xref"><a href="#JSST_2025_v34n5_575_sec2-1">Section 2.1</a></span>. The system computes a moving average of the Z-coordinates from the occupied voxels to establish a robust seafloor baseline resistant to noise and small objects. When consecutive voxel heights deviated significantly from the moving-average baseline, the system identified these regions as objects. This moving-average filtering effectively suppresses noise and minor seafloor variations, while maintaining sensitivity to genuine objects of interest.</p>
+<p>Through this four-stage process, the proposed method successfully demonstrates the &ldquo;background-included mapping followed by segmentation&rdquo; approach. Compared to existing FLS+PS methods that rely on ROI-based object detection before reconstruction, the proposed approach is expected to achieve superior reconstruction performance. Although this approach is effective in the current simulation environment, real-world marine applications would require additional preprocessing stages to handle increased noise levels and filter out smaller objects that are not of interest for specific mission objectives. These improvements will be considered in future studies.</p>
+</div>
+</div>
+
+<hr class="section-rule">
+<div id="JSST_2025_v34n5_575_sec3">
+<span class="tl-main-part" style="margin-bottom:10px;">3. Simulation</span>
+<div id="JSST_2025_v34n5_575_sec3-1">
+<span class="tl-lowest-section1">3.1 Simulation Description</span>
+<p>To validate the proposed method, we employed a ray tracing-based underwater acoustic simulator specifically designed for sonar simulations. The core operating principle of the simulator is based on ray tracing techniques <span class="xref"><a href="#JSST_2025_v34n5_575_B14">[14]</a></span>, in which acoustic beams are represented as collections of rays. Object surfaces are modeled as triangular polygons; and the collisions between rays and polygons are detected. This simulator generates sonar data that closely resemble actual sonar images, thereby enabling a quantitative evaluation of algorithm performance. For FLS modeling, we utilized DIDSON specifications, whereas for PS modeling, 881A specifications were employed. The sensor specifications and experimental parameters used in our validation experiments are listed in <span class="xref"><a href="#JSST_2025_v34n5_575_T1">Tables 1</a></span> and <span class="xref"><a href="#JSST_2025_v34n5_575_T2">2</a></span>, respectively. Additional technical findings were reported in <span class="xref"><a href="#JSST_2025_v34n5_575_B15">[15]</a></span> and <span class="xref"><a href="#JSST_2025_v34n5_575_B16">[16]</a></span>.</p>
+<div class="capture-id" id="JSST_2025_v34n5_575_S14"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ14" display="block"><mml:mover accent="true"><mml:mrow><mml:mi>p</mml:mi></mml:mrow><mml:mo>&rarr;</mml:mo></mml:mover><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mo>&rarr;</mml:mo></mml:mover><mml:mo>&sdot;</mml:mo><mml:mover accent="true"><mml:mrow><mml:msub><mml:mrow><mml:mi>p</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>&rarr;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mo>&rarr;</mml:mo></mml:mover><mml:mo>&sdot;</mml:mo><mml:mover accent="true"><mml:mrow><mml:mi>v</mml:mi></mml:mrow><mml:mo>&rarr;</mml:mo></mml:mover></mml:mrow></mml:mfrac><mml:mover accent="true"><mml:mrow><mml:mi>v</mml:mi></mml:mrow><mml:mo>&rarr;</mml:mo></mml:mover></mml:math></div><div class="formula-label"><span class="label">(14)&nbsp;
+				</span></div></div></div><div class="capture-id" id="JSST_2025_v34n5_575_S15"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ15" display="block"><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi>M</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi>k</mml:mi><mml:mfrac><mml:mrow><mml:mi>Z</mml:mi><mml:mo>-</mml:mo><mml:msub><mml:mrow><mml:mi>Z</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>Z</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>Z</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mn>4</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:mfrac><mml:msup><mml:mrow><mml:mi>c</mml:mi><mml:mi>o</mml:mi><mml:mi>s</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mo>&#8289;</mml:mo><mml:mi>&alpha;</mml:mi></mml:math></div><div class="formula-label"><span class="label">(15)&nbsp;
+				</span></div></div></div><div class="capture-id" id="JSST_2025_v34n5_575_T1"><span class="label">Table 1.&nbsp;
+				</span><br><span class="capture-id"><span class="tl-inline1">
+<span class="tl-inline1">Specifications of forward Looking Sonar (DIDSON) used in experiment</span>
+</span></span><br></div>
+<div class="table-scroll-container"><table width="100%" class="bm" cellpadding="1" frame="hsides" rules="groups">
+<thead><tr><th class="table_padding">Operating frequency</th>
+<th class="table_padding"></th>
+<th class="table_padding">1.1/1.8 MHz</th>
+</tr>
+</thead>
+<tr><td align="center" class="table_padding">Horizontal FoV</td>
+<td align="center" class="table_padding"><i>&theta;<sub>F</sub></i></td>
+<td align="center" class="table_padding">29<sup>o</sup></td>
+</tr>
+<tr><td align="center" class="table_padding">Vertical FoV</td>
+<td align="center" class="table_padding"><i>&phi;<sub>min</sub></i> ~ <i>&phi;<sub>max</sub></i></td>
+<td align="center" class="table_padding">&ndash;7<sup>o</sup> - +7<sup>o</sup></td>
+</tr>
+<tr><td align="center" class="table_padding">Tilt angle</td>
+<td align="center" class="table_padding"><i>&phi;<sub>t</sub></i><sub>1</sub></td>
+<td align="center" class="table_padding">40<sup>o</sup></td>
+</tr>
+<tr><td align="center" class="table_padding">Range</td>
+<td align="center" class="table_padding"><i>r<sub>min</sub></i> - <i>r<sub>max</sub></i></td>
+<td align="center" class="table_padding">0.83-10 m</td>
+</tr>
+<tr><td align="center" class="table_padding">Number of Beam</td>
+<td align="center" class="table_padding"><i>&omega;</i></td>
+<td align="center" class="table_padding">96</td>
+</tr>
+<tr><td align="center" class="table_padding">Total Number of Vertical Pixels</td>
+<td align="center" class="table_padding"><i>h</i></td>
+<td align="center" class="table_padding">512</td>
+</tr>
+<tr><td align="center" class="table_padding">Vertical Number of Samples</td>
+<td align="center" class="table_padding"><i>N<sub>v</sub></i></td>
+<td align="center" class="table_padding">5</td>
+</tr>
+
+</table>
+</div><br><div class="capture-id" id="JSST_2025_v34n5_575_T2"><span class="label">Table 2.&nbsp;
+				</span><br><span class="capture-id"><span class="tl-inline1">
+<span class="tl-inline1">Specifications of profiling sonar(881A) used in experiment</span>
+</span></span><br></div>
+<div class="table-scroll-container"><table width="100%" class="bm" cellpadding="1" frame="hsides" rules="groups">
+<thead><tr><th class="table_padding">Operating frequency</th>
+<th class="table_padding"></th>
+<th class="table_padding">675 kHz</th>
+</tr>
+</thead>
+<tr><td align="center" class="table_padding">Horizontal FoV</td>
+<td align="center" class="table_padding"><i>&theta;<sub>min</sub></i> - <i>&theta;<sub>max</sub></i></td>
+<td align="center" class="table_padding">-10<sup>o</sup> - 10<sup>o</sup></td>
+</tr>
+<tr><td align="center" class="table_padding">Vertical FoV</td>
+<td align="center" class="table_padding"><i>&phi;<sub>p</sub></i></td>
+<td align="center" class="table_padding">&ndash;20<sup>o</sup> - 20<sup>o</sup></td>
+</tr>
+<tr><td align="center" class="table_padding">Tilt angle</td>
+<td align="center" class="table_padding"><i>&phi;<sub>t</sub></i><sub>2</sub></td>
+<td align="center" class="table_padding">40<sup>o</sup></td>
+</tr>
+<tr><td align="center" class="table_padding">Range</td>
+<td align="center" class="table_padding"></td>
+<td align="center" class="table_padding">0 - 10 m</td>
+</tr>
+<tr><td align="center" class="table_padding">Horizontal Number of Samples</td>
+<td align="center" class="table_padding"><i>N<sub>h</sub></i></td>
+<td align="center" class="table_padding">21</td>
+</tr>
+
+</table>
+</div><br><p>The mathematical implementation of the ray tracing information for the DIDSON and 881A specifications involves two key calculations: geometric intersection computation and acoustic intensity modeling. These key calculations enable accurate simulation of underwater acoustic propagation and reflection characteristics.</p>
+<p>Additionally, to reproduce realistic sonar image characteristics, we applied speckle noise models that reflect the inherent acoustic properties of underwater environments <span class="xref"><a href="#JSST_2025_v34n5_575_B17">[17</a></span>,<span class="xref"><a href="#JSST_2025_v34n5_575_B18">18]</a></span>. The final intensity with added noise was calculated using a complex synthesis of coherent and incoherent echoes, as follows <span class="xref"><a href="#JSST_2025_v34n5_575_B18">[18]</a></span>:</p>
+<div class="capture-id" id="JSST_2025_v34n5_575_S16"><div class="disp-formula"><div class="formula-content"><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="JSST_2025_v34n5_575_EQ16" display="block"><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi>r</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:mfenced><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mtext>Re</mml:mtext></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi>M</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:mfenced><mml:mo>+</mml:mo><mml:msup><mml:mrow><mml:mtext>Im</mml:mtext></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi>M</mml:mi></mml:mrow></mml:msub><mml:mfenced separators="|"><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:mfenced></mml:math></div><div class="formula-label"><span class="label">(16)&nbsp;
+				</span></div></div></div><p><span class="xref"><a href="#JSST_2025_v34n5_575_S16">Eq. (16)</a></span> represents the final intensity calculation with speckle noise, where <i>I<sub>r</sub></i> is the measured intensity, which incorporates realistic noise characteristics. Through this comprehensive physical modeling approach, the simulator generated highly realistic sonar data that closely matched the actual underwater sonar characteristics, as shown in <span class="xref"><a href="#JSST_2025_v34n5_575_F7">Fig. 7</a></span>, which compares the real DIDSON data with our simulation results.</p>
+<div id="JSST_2025_v34n5_575_F7"><img class="xml_graphic" src="JSST_2025_v34n5_575_f007.jpg">
+<br><span class="label">Fig. 7.&nbsp;
+				</span><br><span class="capture-id">
+<span class="tl-inline1">Real vs simulated FLS data comparison; (a) Actual and (b) Simulated DIDSON images.</span>
+</span><br><br></div></div>
+<div id="JSST_2025_v34n5_575_sec3-2">
+<span class="tl-lowest-section1">3.2 Simulation Setup</span>
+<p>In the simulation environment, the target object was placed on a seafloor with slightly irregular surface characteristics. The test object was a sloped box with 90-degree and 60-degree angled surfaces, as shown in <span class="xref"><a href="#JSST_2025_v34n5_575_F8">Figs. 8 (d)</a></span> and <span class="xref"><a href="#JSST_2025_v34n5_575_F9">9 (d)</a></span>, respectively, specifically designed for validating false slope suppression and reconstruction accuracy. This object geometry represents a common challenge in underwater sonar reconstruction, where the FLS vertical ambiguity typically causes false slope artifacts that degrade reconstruction quality.</p>
+<div id="JSST_2025_v34n5_575_F8"><img class="xml_graphic" src="JSST_2025_v34n5_575_f008.jpg">
+<br><span class="label">Fig. 8.&nbsp;
+				</span><br><span class="capture-id">
+<span class="tl-inline1">Reconstruction results for 90-degree slope box; (a) FLS-based positive weights, (b) PS-based space-carving, (c) Fusion weight update, and (d) Scan direction and object geometry.</span>
+</span><br><br></div><div id="JSST_2025_v34n5_575_F9"><img class="xml_graphic" src="JSST_2025_v34n5_575_f009.jpg">
+<br><span class="label">Fig. 9.&nbsp;
+				</span><br><span class="capture-id">
+<span class="tl-inline1">Reconstruction results for 60-degree slope box; (a) FLS-based positive weights, (b) PS-based space-carving, (c) Fusion weight update, and (d) Scan direction and object geometry.</span>
+</span><br><br></div><p>The AUV was configured with FLS and PS sensors positioned at the same location. Scanning operations were conducted by approaching the sloped box from two opposite directions (0&deg; and 180&deg;) at a constant altitude of 3.12 m above the seabed. This dual-angle scanning approach enables comprehensive data collection from opposite directions, providing the multi-perspective information required for robust 3D reconstruction.</p>
+<p>The simulation executed 1600 sequences with a 5 mm advancement per sequence. FLS data were recorded every 4th sequence (400 frames per scan), whereas PS data were acquired in every sequence (1600 measurements per scan).</p>
+</div>
+<div id="JSST_2025_v34n5_575_sec3-3">
+<span class="tl-lowest-section1">3.3 Results</span>
+<p>To validate the proposed method, we compared the reconstruction results of the FLS-only approach and the proposed FLS+PS fusion method using a slope box modeling file as the ground truth reference.</p>
+<p>The reconstruction results for a slope box at 90-degree orientation are presented in <span class="xref"><a href="#JSST_2025_v34n5_575_F8">Fig. 8</a></span>. The positive weights estimated by the FLS (DIDSON) in <span class="xref"><a href="#JSST_2025_v34n5_575_F8">Fig. 8 (a)</a></span>, demonstrate the vertical ambiguity inherent in the FLS measurements, with potential object locations distributed across the entire vertical FoV. <span class="xref"><a href="#JSST_2025_v34n5_575_F8">Fig. 8 (b)</a></span> displays the carving process on PS data, removing uncertain regions through space-carving operations, which effectively eliminates the false-positive areas marked in red. <span class="xref"><a href="#JSST_2025_v34n5_575_F8">Fig. 8 (c)</a></span> presents the final fusion reconstruction result, which successfully combines both sensor outputs, showing clear object boundaries and an accurate geometric representation. This result highlights the fundamental advantages of the occupancy-grid method. Instead of treating each voxel independently, our approach interprets the spatial relationship between voxels using the entire sensor-to-object path to carve away the empty space. This allows a single measurement to simultaneously inform on the state of multiple voxels, thereby maximizing information usage. Accumulating weighted evidence from multiple measurements makes the method robust against noise and false positives, which typically challenge point-based approaches.</p>
+<p>The reconstruction results for a 60-degree slope orientation are displayed in <span class="xref"><a href="#JSST_2025_v34n5_575_F9">Fig. 9</a></span>. Although this configuration generates fewer false slope artifacts than the 90-degree case, inaccuracies still occur in the FLS-only reconstruction. The results demonstrate that the precise vertical information in PS allows the remaining false slope regions to be removed through accurate space-carving operations.</p>
+<p>An important observation in both reconstruction results is the presence of shadow areas, indicated by the darker yellow regions in the object geometry diagrams (<span class="xref"><a href="#JSST_2025_v34n5_575_F8">Figs. 8 (d)</a></span> and <span class="xref"><a href="#JSST_2025_v34n5_575_F9">9 (d)</a></span>). These shadow areas represent regions where objects physically exist but remain undetected during voxel reconstruction. This phenomenon occurs because of the directional nature of sonar propagation, in which acoustic beams cannot penetrate solid objects to gather information regarding the occluded areas behind them. This acoustic shadowing is an inherent limitation of sonar-based reconstruction systems and does not indicate failure of the proposed method. When these naturally occluded shadow regions are excluded from the evaluation, the reconstruction results accurately capture the visible object surfaces and boundaries.</p>
+<p>Through a direct comparison between the ground truth and reconstructed voxel data, the results clearly demonstrate that the proposed FLS+PS fusion method successfully removes significant amounts of uncertain regions compared with the FLS-only reconstruction. The subsequent results show that our method addresses critical limitations observed in prior work. Unlike previous approaches that generated severe false slope artifacts in 90-degree box reconstructions and struggled to accurately estimate angles for inclined objects such as 60-degree slopes, the proposed method successfully eliminated these false slope problems and achieved an angle estimation accuracy similar to the ground truth across different object orientations.</p>
+</div>
+</div>
+
+<hr class="section-rule">
+<div id="JSST_2025_v34n5_575_sec4">
+<span class="tl-main-part" style="margin-bottom:10px;">4. CONCLUSIONS</span>
+<p>This study proposes an underwater sonar fusion method for enhanced 3D reconstruction via background data integration and local mapping using an AUV. To address the false slope limitations observed in existing approaches, we introduced a strategy that first comprehensively reconstructs the mapping, followed by object segmentation. This enables the utilization of more effective information, including background data, compared with conventional methods, to reduce and eliminate false slope artifacts. This method leverages FLS sensors to generate positive probabilistic weights across potential object regions utilizing the vertical ambiguity, whereas PS sensors complement this by executing conservative carving operations to remove regions where objects are confirmed to be absent through accurate vertical information. The proposed method was validated by employing a ray tracing-based simulator in which an AUV equipped with FLS and PS sensors was used to scan the target objects, and reconstruction was conducted using the proposed fusion approach. As demonstrated in the Results section, the method accurately carved away ambiguous regions from the FLS-only reconstruction following the actual object outlines. Future research will focus on preparing our method for real-world use in two ways. First, the reliability of the method will be improved by testing its performance over a wider range of horizontal angles, similar to the partial scans that occur during real missions. Second, the proposed approach will be tested in a more realistic underwater setting. In these environments, we will address common problems such as unclear boundaries between objects and their backgrounds, as well as high levels of sensor noise. This includes developing methods to fix the weight errors caused by imperfect data. Ultimately, this study will enable us to perform experiments to reconstruct completely unknown objects in actual underwater environments.</p>
+</div>
+
+
+</div>
+
+<div id="article-level-0-back" class="bm">
+
+<hr class="part-rule">
+<div>
+<span class="tl-inline1">CRediT Authorship Contribution Statement</span>
+<p><b>Bonchul Ku:</b> Investigation, Methodology, Writing &ndash; Original Draft, Writing &ndash; review, editing, and validation. <b>Jason Kim:</b> Resources, Software, Validation, Visualization. <b>Seungwon Ham:</b> Resources, Visualization. <b>Son-Cheol Yu:</b> Methodology, Supervision.</p>
+</div>
+
+<hr class="section-rule">
+<div>
+<span class="tl-inline1">Declaration of Competing Interest</span>
+<p>The authors declare no competing interests that could inappropriately influence or bias this work.</p>
+</div>
+
+<hr class="section-rule">
+<div class="capture-id"><span class="tl-main-part" style="margin-bottom:10px;">Acknowledgments</span>
+<p>This work was supported by the Korea Agency for Infrastructure Technology Advancement (KAIA), funded by the Ministry of Land, Infrastructure, and Transport through the Korea Floating Infrastructure Research Center, Seoul National University, under Grant RS-2023-00250727.</p>
+</div><hr class="section-rule">
+<span class="tl-main-part" style="margin-bottom:10px;">References</span>
+<table width="100%" class="bm">
+<tr><td left-margine="10" width="30px" style="height:1px;"></td><td style="height:1px;"></td></tr>
+<tr>
+<td id="JSST_2025_v34n5_575_B1" valign="top" align="right" style="width:5%"><b><i>1. </i></b></td>
+<td valign="top">N. Jaber, B. Wehbe, L. Christensen, F. Kirchner, MV3D: Multi-view 3D reconstruction of objects using forward-looking sonar, IEEE Robot. Autom. Lett. 10 (2025) 8762&ndash;8769.<br><img src="/_common/images/crossref.gif" doi="https://doi.org/10.1109/LRA.2025.3588062" id="crossref"></td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B2" valign="top" align="right" style="width:5%"><b><i>2. </i></b></td>
+<td valign="top">A. Cardaillac, M. Ludvigsen, Camera-sonar combination for improved underwater localization and mapping, IEEE Access 11 (2023) 123070&ndash;123079.<br><img src="/_common/images/crossref.gif" doi="https://doi.org/10.1109/ACCESS.2023.3329834" id="crossref"></td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B3" valign="top" align="right" style="width:5%"><b><i>3. </i></b></td>
+<td valign="top">S. Arnold, B. Wehbe, Spatial acoustic projection for 3D imaging sonar reconstruction, Proceedings of the IEEE Int. Conf. Robot. Autom. (ICRA), Philadelphia, USA, 2022, pp. 3054&ndash;3060.<br><img src="/_common/images/crossref.gif" doi="https://doi.org/10.1109/ICRA46639.2022.9812277" id="crossref"></td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B4" valign="top" align="right" style="width:5%"><b><i>4. </i></b></td>
+<td valign="top">M. Qadri, M. Kaess, I. Gkioulekas, Neural implicit surface reconstruction using imaging sonar, Proceedings of the IEEE Int. Conf. Robot. Autom. (ICRA), London, UK, 2023, pp. 1040&ndash;1047.<br><img src="/_common/images/crossref.gif" doi="https://doi.org/10.1109/ICRA48891.2023.10161206" id="crossref"></td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B5" valign="top" align="right" style="width:5%"><b><i>5. </i></b></td>
+<td valign="top">S. Rho, H. Joe, M. Sung, J. Kim, S. Kim, S.-C. Yu, Multi-sonar fusion-based precision underwater 3D reconstruction for optimal scan path planning of AUV, IEEE Access 13 (2025) 35157&ndash;35173.<br><img src="/_common/images/crossref.gif" doi="https://doi.org/10.1109/ACCESS.2025.3542084" id="crossref"></td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B6" valign="top" align="right" style="width:5%"><b><i>6. </i></b></td>
+<td valign="top">H. Joe, J. Kim, S.-C. Yu, Probabilistic 3D reconstruction using two sonar devices, Sensors 22 (2022) 2094.<br><img src="/_common/images/crossref.gif" doi="https://doi.org/10.3390/s22062094" id="crossref"></td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B7" valign="top" align="right" style="width:5%"><b><i>7. </i></b></td>
+<td valign="top">A. Elfes, Using occupancy grids for mobile robot perception and navigation, Computer 22 (1989) 46&ndash;57.<br><img src="/_common/images/crossref.gif" doi="https://doi.org/10.1109/2.30720" id="crossref"></td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B8" valign="top" align="right" style="width:5%"><b><i>8. </i></b></td>
+<td valign="top">H.P. Moravec, A. Elfes, High resolution maps from wide angle sonar, Proceedings of IEEE Int. Conf. Robot. Autom., St. Louis, USA, 1985, pp. 116&ndash;121.<br><img src="/_common/images/crossref.gif" doi="https://doi.org/10.1109/ROBOT.1985.1087316" id="crossref"></td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B9" valign="top" align="right" style="width:5%"><b><i>9. </i></b></td>
+<td valign="top">K.N. Kutulakos, S.M. Seitz, A theory of shape by space carving, Int. J. Comput. Vis. 38 (2000) 199&ndash;218.<br><img src="/_common/images/crossref.gif" doi="https://doi.org/10.1023/A:1008191222954" id="crossref"></td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B10" valign="top" align="right" style="width:5%"><b><i>10. </i></b></td>
+<td valign="top">A. Hornung, K.M. Wurm, M. Bennewitz, C. Stachniss, W. Burgard, OctoMap: An efficient probabilistic 3D mapping framework based on octrees, Auton. Robots 34 (2013) 189&ndash;206.<br><img src="/_common/images/crossref.gif" doi="https://doi.org/10.1007/s10514-012-9321-0" id="crossref"></td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B11" valign="top" align="right" style="width:5%"><b><i>11. </i></b></td>
+<td valign="top">B.R. Calder, L.A. Mayer, Automatic processing of high-rate, high-density multibeam echosounder data, Geochem. Geophys. Geosyst. 4 (2003) 1048.<br><img src="/_common/images/crossref.gif" doi="https://doi.org/10.1029/2002GC000486" id="crossref"></td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B12" valign="top" align="right" style="width:5%"><b><i>12. </i></b></td>
+<td valign="top">J.E. Hughes Clarke, L.A. Mayer, D.E. Wells, Shallow-Water Imaging Multibeam Sonars: A New Tool for Investigating Seafloor Processes in the Coastal Zone and on the Continental Shelf, Mar. Geophys. Res. 18 (1996) 607&ndash;629.<br><img src="/_common/images/crossref.gif" doi="https://doi.org/10.1007/BF00313877" id="crossref"></td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B13" valign="top" align="right" style="width:5%"><b><i>13. </i></b></td>
+<td valign="top">J.E. Bresenham, Algorithm for computer control of a digital plotter, IBM Syst. J. 4 (1965) 25&ndash;30.<br><img src="/_common/images/crossref.gif" doi="https://doi.org/10.1147/sj.41.0025" id="crossref"></td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B14" valign="top" align="right" style="width:5%"><b><i>14. </i></b></td>
+<td valign="top">J. Kim, M. Sung, S.-C. Yu, Development of simulator for autonomous underwater vehicles utilizing underwater acoustic and optical sensing emulators, Proceedings of the 18th Int. Conf. Control Autom. Syst. (ICCAS), PyeongChang, Korea, 2018, pp. 416&ndash;419.</td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B15" valign="top" align="right" style="width:5%"><b><i>15. </i></b></td>
+<td valign="top">Sound Metrics Corp., DIDSON 300m Acoustic Lens. <a target="xrefwindow" style="word-break:break-all;" href="http://www.soundmetrics.com/products/didson-sonars/DIDSON-300m">http://www.soundmetrics.com/products/didson-sonars/DIDSON-300m</a>, 2024 (accessed 19 August 2025).</td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B16" valign="top" align="right" style="width:5%"><b><i>16. </i></b></td>
+<td valign="top">Imagenex Technology Corp., 881A Imaging Sonar. <a target="xrefwindow" style="word-break:break-all;" href="https://imagenex.com/products/881a-imaging">https://imagenex.com/products/881a-imaging</a>, 2024 (accessed 19 August 2025).</td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B17" valign="top" align="right" style="width:5%"><b><i>17. </i></b></td>
+<td valign="top">Y. Huang, W. Li, F. Yuan, Speckle noise reduction in sonar image based on adaptive redundant dictionary, J. Mar. Sci. Eng. 8 (2020) 761.<br><img src="/_common/images/crossref.gif" doi="https://doi.org/10.3390/jmse8100761" id="crossref"></td>
+</tr><tr>
+<td id="JSST_2025_v34n5_575_B18" valign="top" align="right" style="width:5%"><b><i>18. </i></b></td>
+<td valign="top">H. Joe, J. Kim, S.-C. Yu, 3D reconstruction using two sonar devices in a Monte-Carlo approach for AUV application, Int. J. Control Autom. Syst. 18 (2020) 587&ndash;596.<br><img src="/_common/images/crossref.gif" doi="https://doi.org/10.1007/s12555-019-0692-2" id="crossref"></td>
+</tr></table>
+
+
+</div>
+
+<div id="article-level-0-figs-and-tables" class="bm"></div>
+
+<div id="article-level-0-end-metadata" class="fm">
+<table width="100%" class="fm">
+<tr><td left-margine="10" width="30%" style="height:1px;"></td><td style="height:1px;"></td></tr>
+
+<tr>
+<td colspan="2" valign="top"></td>
+</tr>
+</table>
+
+</div>
+</div>
+
+<a style="clear:both; float:left;" name="__bottom">&nbsp;</a><!--1231-->
+<script type="text/javascript">
+	var bodyscrollTop = 0;
+	var doi="10.46670/JSST.2025.34.5.575";
+	var domainid="sensor";
+
+/* 5.01 */
+
+	function openList() {
+
+		$('#citedLinkList').toggle();
+
+		
+	}
+
+	$(document).ready(function() {
+		//var use_yn = "";
+		//var level = "";
+		var use_yn = "Y";
+
+		$("div.NURIMEDIAXML img").attr("src",function(i,src) { 
+			if( $(this).hasClass('graphic_p') ||
+				$(this).hasClass('xml_graphic') ) {
+				return "/xml//46541/" + src; 
+			}
+		}); 
+
+		$("div.NURIMEDIAXML img").load(function() { 
+		    var maxWidth = 800;
+		    if( $(this).width() > maxWidth )  
+		        $(this).css("width", maxWidth); // Set new width
+
+		});
+
+				$(document).on("click", "#icon_pdf", function() {
+			if(use_yn == "N") { 
+									$("#popup_login").fadeIn(200);
+					return false;
+				 
+			} else { 
+														var pdfw = window.open('/xml/46541/46541.pdf', 'pdfwin', 'resizable=1, scrollbars=1, status=1');
+										pdfw.focus();
+							 } 
+			/* 20170220
+						*/
+		});
+		$(document).on("click", "#icon_pdf_add", function() {
+			if(use_yn == "N") { 
+									$("#popup_login").fadeIn(200);
+					return false;
+				 
+			} else { 
+							 } 
+		});
+
+		$(document).on("click", "#crossref", function() {
+			var m = $(this).attr("doi"); 
+			var imgw = window.open(encodeURI(m), 'imgwin', 'resizable=1, scrollbars=1, status=1');
+			imgw.focus();
+		});
+
+		$(document).on("click", "#orcid", function() {
+			var m = $(this).attr("orcid"); 
+			var imgw = window.open(encodeURI(m), 'orcwin', 'resizable=1, scrollbars=1, status=1');
+			imgw.focus();
+		});
+
+		$(document).on("click", "#funding", function() {
+			
+				if($('#funding_info').css("display") == "block") {
+					$('#funding_info').css("display","none");
+				}
+				else {
+					$('#funding_info').css("display","block");			
+				}
+		});
+
+		
+		$(document).on("click", "#TextButton", function() {
+			if (use_yn=="N"){
+									$("#popup_login").fadeIn(200);
+					return false;
+					
+			} else {
+				if($('.body').css("display") == "block") {
+					var elem;
+					if($("#article-level-0-back > .capture-id > span:contains('Notes')").size() > 0){
+						elem = $("#article-level-0-back .capture-id").eq(0);
+					}else{
+						elem = $("#article-level-0-back .part-rule").eq(0);
+					}
+					elem = $("#article-level-0-back .part-rule").eq(0);
+					$("#level_check_button").detach().insertAfter("#article-level-0-back .part-rule:eq(0)");
+
+					$('.body').css("display","none");
+					$("#article-level-0-back > .capture-id > span:contains('Notes')").parent(".capture-id").css("display","none");
+					//var pos = $("#level_check_button").offset();
+					//window.scrollTo(pos.left,pos.top);
+					/*if($("#article-level-0-back > .capture-id > span:contains('Notes').length > 0")){
+						$("#article-level-0-back > .part-rule:first-child").css("display","none");
+					}*/
+				}
+				else {
+					$("#level_check_button").detach().insertAfter("#article-level-0-body .part-rule:eq(0)");
+
+					$('.body').css("display","block");		
+					$("#article-level-0-back > .capture-id > span:contains('Notes')").parent(".capture-id").css("display","block");
+					/*if($("#article-level-0-back > .capture-id > span:contains('Notes').length > 0")){
+						$("#article-level-0-back > .part-rule:first-child").css("display","block");
+					}*/
+				}
+			}
+		});
+		
+		/*
+				*/
+
+		
+	/*	document.querySelector('#quote_view').addEventListener('click', (e) => {
+		  e.preventDefault();
+		  e.stopImmediatePropagation();
+			document.querySelector('.current-url').value = window.location.href;
+
+			let nWidth = "960";
+			let nHeight = "345";
+
+			// 듀얼 모니터 고려한 윈도우 띄우기
+			let curX = window.screenLeft;
+			let curY = window.screenTop;
+			let curWidth = document.body.clientWidth;
+			let curHeight = document.body.clientHeight;
+				
+			let nLeft = curX + (curWidth / 2) - (nWidth / 2);
+			let nTop = curY + (curHeight / 2) - (nHeight / 2);
+		
+			let strOption = "";
+			strOption += "left=" + nLeft + ",";
+			strOption += "top=" + nTop + ",";
+			strOption += "width=" + nWidth + ",";
+			strOption += "height=" + nHeight + ",";
+			strOption += "toolbar=no, menubar=no, location=no, titlebar=no";
+ 
+			let myWindow = window.open('/_common/quote/quote_layer.html', '인용하기', strOption)
+		}); */
+		
+		$("div.NURIMEDIAXML img").click(function() { 
+			if( $(this).hasClass('xml_graphic') ) {
+
+				var m = $(this).attr("src"); 
+				if(m.substr(0,4) != "/xml") return;			
+				var imgw = window.open('/_common/vw_image.php?m=' + encodeURI(m), 'imgwin', 'width=600, height=400, resizable=1, scrollbars=1, status=1');
+				imgw.focus();
+			}
+		});
+
+
+		$.ajax({
+			url : "./citedLink.php",
+			dataType:"text",
+			type:"POST",
+			data:{"doi":doi, "domainid":domainid},
+			success:function(data)
+			{
+				$('#citedLink').html(data);
+				$.ajax({
+					url : "./citedLinkList.php",
+					dataType:"text",
+					type:"POST",
+					data:{"doi":doi, "domainid":domainid},
+					success:function(data)
+					{						
+						$('#citedLinkList').css("display","none");
+						$('#citedLinkList').html(data);
+						var contributor = $("contributor").last(); 
+						$('#citedLinkTR').css("display","");
+						
+						$("contributor").last().text(contributor.text().replace(/;/,''));
+					}
+				});
+			}
+		});
+
+
+/*
+		var indexCol = $("#enNameColon").children().length;
+
+		$("#enNameColon").children().each(function(i) {
+			
+			if( i < indexCol-1 ) {
+				var htm = $(this).find("sup").context.nodeName;
+				if(htm != "SUP" && $(this).text() != "†")
+					$(this).html($(this).html()+"; ");
+			}
+		});
+
+		var indexCol = $("#krNameColon").children().length;
+
+		$("#krNameColon").children().each(function(i) {
+			
+			if( i < indexCol-1 ) {
+				$(this).html($(this).html()+";");
+			}
+		});
+		*/
+		var initPosition = parseInt($("#Xslidemenu").css("top"));
+		$(window).scroll(function() {
+			if (document.compatMode && document.compatMode != 'BackCompat') {
+				position = document.documentElement.scrollTop;
+			}
+			else {
+				position = document.body.scrollTop;
+			}
+			$("#Xslidemenu").css({"right":"0px"});
+			$("#Xslidemenu").stop().animate({"top":position + initPosition+"px"},1000);
+		});
+	});
+</script>
+
+
+<style type="text/css">
+#Xslidemenu { z-index:10; position:absolute; top:280px; right:15px;}
+</style>
+
+<div id="Xslidemenu">
+	<table border=0 align=right cellpadding=1 cellspacing=0>
+		<tr><td align=right><a href="#" onClick="this.blur()"><img src="/_common/images/quickTop.png"></a></td></tr>
+		<tr><td align=right><a href="#__bottom" onClick="this.blur()"><img src="/_common/images/quickBottom.png"></a></td></tr>
+	</table>
+</div>
+</div>
+<form name='bsF' method='post'>
+	<input type="hidden" name="now_book_name" value="JOURNAL OF SENSOR SCIENCE AND TECHNOLOGY">
+	<input type="hidden" name="a" value="full">
+	<input type="hidden" name="b" value="42">
+	<input type="hidden" name="aidx" value="">
+	<input type="hidden" name="bidx" value="4212">
+</form>
+
+<script>
+	function doChangeGroup(obj) {
+		with(document.bsF) {
+			bidx.value = "";
+			now_book_name.value = obj.value
+			submit();
+		}
+	}
+	function gotoVolList(idx) {
+		with(document.bsF) {
+			bidx.value = idx;
+			submit();
+		}
+	}
+	function gotoPaperList() {
+		with(document.bsF) {
+			aidx.value = "";
+			submit();
+		}
+	}
+	
+	function doSelectBook(no) {
+		with(document.bsF) {
+			bidx.value = no;
+			submit();
+		}
+	}
+</script>
+
+
+		</div>
+</div></div>
+<!-- 하단 copyright  -->
+<div class="main_copyright" align="center">
+<div style="width:990px; margin:0 auto; padding:20px; line-height:2">
+	<p style="color:#184cc2; font-size:18px; font-weight:bold;">The Journal of Sensor Science and Technology is the official journal of the Korean Sensors Society</p>
+	#714, 22, Teheran-ro 7-gil, Gangnam-gu, 06130, Republic of Korea<br>
+Tel: +82-2-554-6616 | E-mail: ksensors@gmail.com<br>
+Copyright © 2026 by The Korean Sensors Society 
+ 
+</div>
+</div>
+
+</body>
+</html>
