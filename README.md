@@ -39,7 +39,7 @@ A small optional side-track for **millimeter-wave radar imaging** is maintained 
 | Default language | English |
 | Chinese mode | Title translation + Chinese highlights |
 | Update cadence | Every 6 hours |
-| Discovery | Crossref + arXiv public APIs |
+| Discovery | Crossref + arXiv public APIs + OpenAlex cited-by expansion from Core papers |
 | Audit | Automatic curation agent |
 | Main promotion | High-confidence acoustic/acoustic-optical papers can be added to `data/papers.json` automatically |
 | Optional side-track | mmWave radar imaging records are kept in `data/mmwave_papers.json` and hidden behind a collapsed appendix |
@@ -101,7 +101,7 @@ Each scheduled run performs this pipeline:
 
 ```mermaid
 flowchart LR
-    A[Search public scholarly sources] --> B[Score candidates]
+    A[Search public scholarly sources and Core citations] --> B[Score candidates]
     B --> C[Automatic curation-agent audit]
     C -->|Acoustic / acoustic-optical| D[data/papers.json]
     C -->|Optional side-track| M[data/mmwave_papers.json]
@@ -112,6 +112,12 @@ flowchart LR
 ```
 
 The audit agent evaluates topical relevance, venue/source quality, recency, duplicate status, DOI or primary-source availability, negative-topic filters, final accepted/published version availability, and legal PDF availability. High-confidence records are promoted automatically; borderline records remain visible in `updates.html` for transparency.
+
+### Core-citation expansion rule
+
+In addition to keyword and venue searches, each update pass tracks newly published or newly indexed papers that cite records already labeled as `relevance: "core"`. The citation graph is queried through public scholarly metadata sources when available, currently OpenAlex cited-by records, and citation-of-Core evidence is stored on candidates with fields such as `cites_core`, `cited_core_paper`, `citation_source`, and `metadata_verified_from`.
+
+Citation-of-Core is a strong relevance signal, not an automatic promotion rule. Citing papers still pass topical relevance, negative-topic, duplicate, metadata-quality, and final-venue checks before promotion.
 
 ### arXiv / final-version rule
 
