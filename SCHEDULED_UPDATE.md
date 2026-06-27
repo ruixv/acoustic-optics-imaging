@@ -14,14 +14,15 @@ schedule:
 Each run:
 
 1. queries public scholarly sources through `scripts/update_candidates.py`;
-2. records newly discovered records in `data/candidates.json`;
-3. runs `scripts/agent_audit.py` as an automatic curation agent;
-4. resolves arXiv records to final journal/conference metadata when Crossref/DOI evidence confirms an accepted or published version;
-5. promotes high-confidence records to `data/papers.json`;
-6. keeps borderline records in `data/candidates.json` for transparency;
-7. rebuilds the bilingual website through `scripts/build_site.py`;
-8. tries to download open PDFs already listed in the verified library;
-9. commits and pushes changes back to the repository if anything changed.
+2. expands discovery through citation-graph search for papers that cite records already labeled as Core;
+3. records newly discovered records in `data/candidates.json`;
+4. runs `scripts/agent_audit.py` as an automatic curation agent;
+5. resolves arXiv records to final journal/conference metadata when Crossref/DOI evidence confirms an accepted or published version;
+6. promotes high-confidence records to `data/papers.json`;
+7. keeps borderline records in `data/candidates.json` for transparency;
+8. rebuilds the bilingual website through `scripts/build_site.py`;
+9. tries to download open PDFs already listed in the verified library;
+10. commits and pushes changes back to the repository if anything changed.
 
 ## Automatic audit policy
 
@@ -33,10 +34,24 @@ The workflow uses an automatic promotion step. The audit agent checks:
 - recency;
 - DOI or reliable primary URL;
 - final accepted/published version availability for arXiv records;
+- citation-of-Core evidence when available;
 - duplicate status against existing verified records;
 - negative filters for unrelated audio, astronomy, sports, or general signal-processing records.
 
 High-confidence records are promoted automatically. Borderline records remain visible in `updates.html`.
+
+## Core-citation expansion rule
+
+In addition to keyword-, venue-, Crossref-, and arXiv-based discovery, every update pass should search for newly published or newly indexed papers that cite records already labeled as Core.
+
+Procedure:
+
+1. maintain a seed set of Core papers with DOI, title, venue, and primary URL;
+2. query a citation graph database, currently OpenAlex cited-by records, for recent works that cite each Core seed;
+3. treat citation-of-Core as a strong relevance signal during candidate scoring;
+4. verify metadata from DOI, publisher, OpenAlex, Crossref, arXiv, ACM, IEEE, Nature, Science, CVF, DBLP, or other primary sources when available;
+5. record citation evidence on candidates using fields such as `cites_core`, `cited_core_paper`, `citation_source`, and `metadata_verified_from`;
+6. keep candidates as watchlist entries unless the final venue and topical relevance meet the curated-library promotion criteria.
 
 ## arXiv / final-version rule
 
