@@ -1,9 +1,9 @@
 {
-  "last_run": "2026-06-27T14:33:54.135693+00:00",
+  "last_run": "2026-06-27T18:46:14.180936+00:00",
   "since_date": "2024-06-27",
-  "raw_candidates_seen": 2064,
-  "saved_candidates_total": 408,
-  "citation_graph_seed_count": 27,
+  "raw_candidates_seen": 1849,
+  "saved_candidates_total": 377,
+  "citation_graph_seed_count": 50,
   "errors": [],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
   "mmwave_seed_queries": [
@@ -27,9 +27,9 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-06-27T14:35:55.850063+00:00",
-  "promoted_count": 43,
-  "promoted_mmwave_count": 50,
+  "agent_audit_last_run": "2026-06-27T18:47:36.827848+00:00",
+  "promoted_count": 12,
+  "promoted_mmwave_count": 15,
   "resolved_final_versions": 40,
   "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion; hidden mmWave track covers radar imaging, handheld SAR/autofocus, FMCW/MIMO-SAR, 4D radar, through-occlusion reconstruction, surface normals, and radar scene understanding. Nature-family mapping includes Communications Engineering.",
   "mmwave_allowlist_final_groups": [
@@ -65,12 +65,6 @@
       "venue_group": "Other"
     },
     {
-      "id": "2026-poster-twinfocus-autofocus-for-handheld-mmwave-sar-imaging-via-physical-and-4cef334e5a84",
-      "title": "Poster: TwinFocus: Autofocus for Handheld mmWave SAR Imaging via Physical and Digital Twin References",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
       "id": "2026-og-pcl-efficient-sparse-radar-point-cloud-processing-for-human-activity-rec-4b6fc985be6a",
       "title": "OG-PCL: Efficient Sparse Radar Point Cloud Processing for Human Activity Recognition",
       "venue": "OpenAlex indexed work",
@@ -89,75 +83,9 @@
       "venue_group": "Science family"
     },
     {
-      "id": "2026-deep-learning-based-dynamic-environment-reconstruction-for-vehicular-isac-s-d5785497a507",
-      "title": "Deep Learning-Based Dynamic Environment Reconstruction for Vehicular ISAC Scenarios",
-      "venue": "IEEE Transactions on Wireless Communications",
-      "venue_group": "Other"
-    },
-    {
       "id": "2025-toward-adaptive-person-re-identification-via-mmwave-radar-point-clouds-02371d2254b9",
       "title": "Toward Adaptive Person Re-Identification via mmWave Radar Point Clouds",
       "venue": "IEEE Transactions on Networking",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2025-unsupervised-sparse-imaging-in-3d-mmwave-sar-with-physical-priors-7ba26fb5e91d",
-      "title": "Unsupervised Sparse Imaging in 3D mmWave SAR with Physical Priors",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2025-high-resolution-mmwave-imaging-using-mimo-antenna-arrays-for-non-invasive-d-784278af338e",
-      "title": "High-Resolution mmWave Imaging Using MIMO Antenna Arrays for Non-Invasive Diagnostics",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2025-ragnnarok-a-light-weight-graph-neural-network-for-enhancing-radar-point-clo-fbda75cbbc73",
-      "title": "RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2025-mmprism-high-throughput-perception-aware-mmwave-radar-object-recognition-in-d568b8a61819",
-      "title": "mmPrism: High-Throughput Perception-Aware mmWave Radar Object Recognition in Contested Environments",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2025-mems-assisted-handheld-mimo-sar-3d-security-imaging-method-c667d267b784",
-      "title": "MEMS-Assisted Handheld MIMO-SAR 3D Security Imaging Method",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2025-millimeter-wave-sar-imaging-of-sparse-trajectory-via-untrained-complex-valu-d60fc1342d2c",
-      "title": "Millimeter-Wave SAR Imaging of Sparse Trajectory via Untrained Complex-Valued Neural Network",
-      "venue": "IEEE Transactions on Aerospace and Electronic Systems",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2025-handheld-sar-with-learning-based-ego-motion-estimation-using-a-compact-mmwa-2b6822d47dbf",
-      "title": "Handheld SAR with Learning-Based Ego-Motion Estimation Using a Compact mmWave Sensor",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2025-specal-spatial-calibration-based-on-self-pose-estimation-between-mmwave-rad-80c4f64c68c4",
-      "title": "SPECal: Spatial Calibration Based on Self-Pose-Estimation Between mmWave Radar and Camera",
-      "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2025-non-line-of-sight-mmw-radar-imaging-with-adaptive-artifact-cancellation-and-fc8b4514f71f",
-      "title": "Non-Line-of-Sight mmW Radar Imaging With Adaptive Artifact Cancellation and Target Enhancement",
-      "venue": "IEEE Transactions on Antennas and Propagation",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2025-non-line-of-sight-3d-object-reconstruction-via-mmwave-surface-normal-estima-5814e4dd3d26",
-      "title": "Non-Line-of-Sight 3D Object Reconstruction via mmWave Surface Normal Estimation",
-      "venue": "OpenAlex indexed work",
       "venue_group": "Other"
     },
     {
@@ -167,33 +95,9 @@
       "venue_group": "Other"
     },
     {
-      "id": "2025-radartrack-enhancing-ego-vehicle-speed-estimation-with-single-chip-mmwave-r-94034d7ecaaf",
-      "title": "RadarTrack: Enhancing Ego-Vehicle Speed Estimation with Single-chip mmWave Radar",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2025-cubedn-real-time-drone-detection-in-3d-space-from-dual-mmwave-radar-cubes-ff60153fcd45",
-      "title": "CubeDN: Real-Time Drone Detection in 3D Space from Dual mmWave Radar Cubes",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2025-ultra-high-frequency-harmony-mmwave-radar-and-event-camera-orchestrate-accu-cab351748321",
-      "title": "Ultra-High-Frequency Harmony: mmWave Radar and Event Camera Orchestrate Accurate Drone Landing",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
       "id": "2025-indoor-personnel-detection-and-tracking-of-millimeter-wave-radar-based-on-i-b405bcb45a6d",
       "title": "Indoor personnel detection and tracking of millimeter-wave radar based on improved DBSCAN algorithm",
       "venue": "Engineering Research Express",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2025-review-on-mmwave-radar-sensor-for-3-d-mapping-be049aee010f",
-      "title": "Review on mmWave Radar Sensor for 3-D Mapping",
-      "venue": "OpenAlex indexed work",
       "venue_group": "Other"
     },
     {
@@ -203,27 +107,9 @@
       "venue_group": "Other"
     },
     {
-      "id": "2025-cross-medium-multi-carrier-communication-method-based-on-millimeter-wave-ra-c9d35cfe2a4b",
-      "title": "Cross-medium multi-carrier communication method based on millimeter-wave radar",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
       "id": "2025-skeleton-aware-radar-based-gait-recognition-network-with-cross-modal-superv-26da5cfbd1da",
       "title": "Skeleton-Aware Radar-Based Gait Recognition Network With Cross-Modal Supervision",
       "venue": "IEEE Sensors Journal",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2025-mapping-the-unseen-ground-a-survey-on-dense-mapping-and-traversability-meth-931f6aaac9d4",
-      "title": "Mapping the Unseen Ground: A Survey on Dense Mapping and Traversability Methods for Agricultural and Forestry Robots",
-      "venue": "IEEE Access",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2025-attacking-mmwave-imaging-with-neural-meta-material-rendering-d522c293a893",
-      "title": "Attacking mmWave Imaging With Neural Meta-Material Rendering",
-      "venue": "IEEE Transactions on Information Forensics and Security",
       "venue_group": "Other"
     },
     {
@@ -233,52 +119,10 @@
       "venue_group": "Other"
     },
     {
-      "id": "2024-demo-enabling-visual-recognition-at-radio-frequency-dc4554b7a38d",
-      "title": "Demo: Enabling Visual Recognition at Radio Frequency",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2024-around-the-corner-mmwave-imaging-in-practical-environments-5ba7c82cfadb",
-      "title": "Around the Corner mmWave Imaging in Practical Environments",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2024-3d-bounding-box-estimation-based-on-cots-mmwave-radar-via-moving-scanning-cd49632e9bba",
-      "title": "3D Bounding Box Estimation Based on COTS mmWave Radar via Moving Scanning",
-      "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2024-towards-handheld-millimetre-wave-scanners-challenges-and-opportunities-of-f-a4ba10e6fb23",
-      "title": "Towards Handheld Millimetre-Wave Scanners: Challenges and Opportunities of Freehand Imaging Systems",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
       "id": "2024-milliflow-scene-flow-estimation-on-mmwave-radar-point-cloud-for-human-motio-1dd8a0ed0444",
       "title": "milliFlow: Scene Flow Estimation on mmWave Radar Point Cloud for Human Motion Sensing",
       "venue": "Lecture notes in computer science",
       "venue_group": "Science family"
-    },
-    {
-      "id": "2024-zero-doppler-clutter-analysis-and-imaging-algorithm-design-for-near-range-m-5783e2c7f1de",
-      "title": "Zero-Doppler Clutter Analysis and Imaging Algorithm Design for Near-Range Microwave Imaging With Elliptic Trajectories",
-      "venue": "IEEE Transactions on Microwave Theory and Techniques",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2024-rmap-millimeter-wave-radar-mapping-through-volumetric-upsampling-683380854ce8",
-      "title": "RMap: Millimeter-Wave Radar Mapping Through Volumetric Upsampling",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2024-dense-3d-point-cloud-environmental-mapping-using-millimeter-wave-radar-46740424c147",
-      "title": "Dense 3D Point Cloud Environmental Mapping Using Millimeter-Wave Radar",
-      "venue": "Sensors",
-      "venue_group": "Other"
     },
     {
       "id": "2024-advancements-in-radar-point-cloud-processing-for-macro-human-movements-in-h-5de4da12d7b0",
@@ -293,18 +137,6 @@
       "venue_group": "Other"
     },
     {
-      "id": "2024-design-of-a-near-field-synthetic-aperture-radar-imaging-system-based-on-imp-58dc56f4ea2f",
-      "title": "Design of a Near-Field Synthetic Aperture Radar Imaging System Based on Improved RMA",
-      "venue": "Remote Sensing",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2024-high-speed-millimeter-wave-beam-steering-for-on-line-industrial-non-destruc-6e9cb59a37f1",
-      "title": "High Speed Millimeter Wave Beam Steering for On-Line Industrial Non Destructive Testing",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
       "id": "2024-radro-indoor-drone-tracking-using-millimeter-wave-radar-d6bf83ae5576",
       "title": "RaDro: Indoor Drone Tracking Using Millimeter Wave Radar",
       "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
@@ -314,18 +146,6 @@
       "id": "2024-centroid-based-security-monitoring-for-indoor-elderly-care-with-millimeter-5ce6fe74f2d8",
       "title": "Centroid-Based Security Monitoring for Indoor Elderly Care with Millimeter Wave Radar",
       "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2024-radar-fields-frequency-space-neural-scene-representations-for-fmcw-radar-62fbf653ae50",
-      "title": "Radar Fields: Frequency-Space Neural Scene Representations for FMCW Radar",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    },
-    {
-      "id": "2024-towards-dense-and-accurate-radar-perception-via-efficient-cross-modal-diffu-c260147b13de",
-      "title": "Towards Dense and Accurate Radar Perception via Efficient Cross-Modal Diffusion Model",
-      "venue": "IEEE Robotics and Automation Letters",
       "venue_group": "Other"
     }
   ],
