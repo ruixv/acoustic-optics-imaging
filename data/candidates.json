@@ -868,8 +868,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": "Science family",
     "topics": [
       "3D reconstruction"
@@ -1382,8 +1382,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -1699,8 +1699,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -2532,8 +2532,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 16,
+    "last_seen": "2026-06-28",
+    "times_seen": 18,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -2581,8 +2581,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 8,
+    "last_seen": "2026-06-28",
+    "times_seen": 10,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -2788,8 +2788,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging"
@@ -3143,8 +3143,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 8,
+    "last_seen": "2026-06-28",
+    "times_seen": 10,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -3248,8 +3248,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": null,
     "topics": [
       "cites",
@@ -4441,8 +4441,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": null,
     "topics": [
       "imaging sonar",
@@ -4731,8 +4731,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 10,
+    "last_seen": "2026-06-28",
+    "times_seen": 11,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -4777,8 +4777,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 10,
+    "last_seen": "2026-06-28",
+    "times_seen": 11,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -5216,8 +5216,8 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
@@ -5317,8 +5317,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 10,
+    "last_seen": "2026-06-28",
+    "times_seen": 11,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -5430,113 +5430,6 @@
       "confidence": 0.72,
       "checks": {
         "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2025-mmweaver-environment-specific-mmwave-signal-synthesis-from-a-photo-and-acti-b634b74b59b2",
-    "title": "mmWEAVER: Environment-Specific mmWave Signal Synthesis from a Photo and Activity Description",
-    "authors": "Mahathir Monjur; Shahriar Nirjon",
-    "year": 2026,
-    "publication_date": "2026-03-06",
-    "venue": "2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
-    "doi": "10.1109/wacv61042.2026.00187",
-    "primary_url": "https://doi.org/10.1109/wacv61042.2026.00187",
-    "pdf_url": "https://arxiv.org/pdf/2512.11894v1",
-    "source": "Crossref-final-version",
-    "matched_query": "mmWave radar imaging TMC",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 3,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/wacv61042.2026.00187",
-      "http://arxiv.org/abs/2512.11894v1",
-      "https://arxiv.org/pdf/2512.11894v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "mmWave radar imaging"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2025-a-240-elements-matrix-probe-with-aberration-mask-for-4d-carotid-artery-comp-9799317c2136",
-    "title": "A 240-Element Matrix Probe With Aberration Mask for 4-D Carotid Artery Computational Ultrasound Imaging",
-    "authors": "Yuyang Hu; Michael Brown; Didem Dogan; Mahé Bulot; Maxime Cheppe; Guillaume Ferin; Geert Leus; Antonius F. W. van der Steen; Pieter Kruizinga; Johannes G. Bosch",
-    "year": 2026,
-    "publication_date": "2026-03-01",
-    "venue": "IEEE Transactions on Ultrasonics",
-    "doi": "10.1109/tuson.2025.3648199",
-    "primary_url": "https://doi.org/10.1109/tuson.2025.3648199",
-    "pdf_url": "https://arxiv.org/pdf/2508.10527v2",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 0.99,
-    "sources": [
-      "https://doi.org/10.1109/tuson.2025.3648199",
-      "http://arxiv.org/abs/2508.10527v2",
-      "https://arxiv.org/pdf/2508.10527v2"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -5733,8 +5626,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": null,
     "topics": [
       "acoustic holography"
@@ -6163,59 +6056,6 @@
     }
   },
   {
-    "id": "2025-millimeter-wave-inverse-pinhole-imaging-2a8fb31bb50d",
-    "title": "Millimeter Wave Inverse Pinhole Imaging",
-    "authors": "Akarsh Prabhakara; Yawen Liu; Aswin C. Sankaranarayanan; Anthony Rowe; Swarun Kumar",
-    "year": 2026,
-    "publication_date": "2026-01-01",
-    "venue": "IEEE Sensors Journal",
-    "doi": "10.1109/jsen.2026.3693172",
-    "primary_url": "https://doi.org/10.1109/jsen.2026.3693172",
-    "pdf_url": "https://arxiv.org/pdf/2510.13904v1",
-    "source": "Crossref-final-version",
-    "matched_query": "mmWave radar imaging TMC",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 3,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/jsen.2026.3693172",
-      "http://arxiv.org/abs/2510.13904v1",
-      "https://arxiv.org/pdf/2510.13904v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "mmWave radar imaging"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
     "id": "2025-wavelet-based-multi-view-fusion-of-4d-radar-tensor-and-camera-for-robust-3d-572b6b6abe50",
     "title": "Wavelet-based Multi-View Fusion of 4D Radar Tensor and Camera for Robust 3D Object Detection",
     "authors": "Runwei Guan; Jianan Liu; Shaofeng Liang; Fangqiang Ding; Shanliang Yao; Xiaokai Bai; Daizong Liu; Tao Huang; Guoqiang Mao; Hui Xiong",
@@ -6312,59 +6152,6 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2025-rad-gs-radar-vision-integration-for-3d-gaussian-splatting-slam-in-outdoor-e-ae30daf39d5c",
-    "title": "Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments",
-    "authors": "Renxiang Xiao; Wei Liu; Yuanfan Zhang; Yushuai Chen; Jinming Chen; Zilu Wang; Liang Hu",
-    "year": 2025,
-    "publication_date": "2025-12-01",
-    "venue": "IEEE Robotics and Automation Letters",
-    "doi": "10.1109/lra.2025.3630875",
-    "primary_url": "https://doi.org/10.1109/lra.2025.3630875",
-    "pdf_url": "https://arxiv.org/pdf/2511.16091v1",
-    "source": "Crossref-final-version",
-    "matched_query": "mmWave radar imaging TMC",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 3,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/lra.2025.3630875",
-      "http://arxiv.org/abs/2511.16091v1",
-      "https://arxiv.org/pdf/2511.16091v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "mmWave radar imaging"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -6643,8 +6430,8 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
     "times_seen": 2,
     "venue_group": "Other",
     "final_version_resolved": true,
@@ -6697,8 +6484,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 10,
+    "last_seen": "2026-06-28",
+    "times_seen": 11,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -6944,8 +6731,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 2,
+    "last_seen": "2026-06-28",
+    "times_seen": 3,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -7355,112 +7142,6 @@
       "https://doi.org/10.1109/cvprw67362.2025.00362",
       "http://arxiv.org/abs/2504.03438v2",
       "https://arxiv.org/pdf/2504.03438v2"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "4D radar point cloud"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2025-zfusion-an-effective-fuser-of-camera-and-4d-radar-for-3d-object-perception-7ea0247f38c7",
-    "title": "Zfusion: an Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving",
-    "authors": "Sheng Yang; Tong Zhan; Shichen Qiao; Jicheng Gong; Qing Yang; Jian Wang; Yanfeng Lu",
-    "year": 2025,
-    "publication_date": "2025-06-11",
-    "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
-    "doi": "10.1109/cvprw67362.2025.00362",
-    "primary_url": "https://doi.org/10.1109/cvprw67362.2025.00362",
-    "pdf_url": "https://arxiv.org/pdf/2504.03438v2",
-    "source": "Crossref-final-version",
-    "matched_query": "4D radar point cloud CVPR",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
-    "venue_group": "CVPR",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/cvprw67362.2025.00362",
-      "http://arxiv.org/abs/2504.03438v2",
-      "https://arxiv.org/pdf/2504.03438v2"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "4D radar point cloud"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2025-tacodepth-towards-efficient-radar-camera-depth-estimation-with-one-stage-fu-c46e08da6984",
-    "title": "TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion",
-    "authors": "Yiran Wang; Jiaqi Li; Chaoyi Hong; Ruibo Li; Liusheng Sun; Xiao Song; Zhe Wang; Zhiguo Cao; Guosheng Lin",
-    "year": 2025,
-    "publication_date": "2025-06-10",
-    "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    "doi": "10.1109/cvpr52734.2025.00984",
-    "primary_url": "https://doi.org/10.1109/cvpr52734.2025.00984",
-    "pdf_url": "https://arxiv.org/pdf/2504.11773v1",
-    "source": "Crossref-final-version",
-    "matched_query": "4D radar point cloud CVPR",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
-    "venue_group": "CVPR",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/cvpr52734.2025.00984",
-      "http://arxiv.org/abs/2504.11773v1",
-      "https://arxiv.org/pdf/2504.11773v1"
     ],
     "final_version_status": "resolved-from-arxiv-to-final-venue",
     "topics": [
@@ -8526,60 +8207,6 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 3,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/icc51166.2024.10622791",
-      "http://arxiv.org/abs/2603.08551v1",
-      "https://arxiv.org/pdf/2603.08551v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "mmWave radar imaging",
-      "4D radar point cloud"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2026-mmgat-pose-estimation-by-graph-attention-with-mutual-features-from-mmwave-r-59a354cb5c2c",
-    "title": "mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud",
-    "authors": "Masud Abdullah Al; Xintong Shi; Bouazizi Mondher; Tomoaki Ohtsuki",
-    "year": 2024,
-    "publication_date": "2024-06-09",
-    "venue": "ICC 2024 - IEEE International Conference on Communications",
-    "doi": "10.1109/icc51166.2024.10622791",
-    "primary_url": "https://doi.org/10.1109/icc51166.2024.10622791",
-    "pdf_url": "https://arxiv.org/pdf/2603.08551v1",
-    "source": "Crossref-final-version",
-    "matched_query": "mmWave radar imaging TMC",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
     "times_seen": 3,
@@ -8892,8 +8519,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 2,
+    "last_seen": "2026-06-28",
+    "times_seen": 4,
     "venue_group": null,
     "topics": [
       "acoustic holography"
@@ -8942,8 +8569,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 2,
+    "last_seen": "2026-06-28",
+    "times_seen": 3,
     "venue_group": null,
     "topics": [
       "camera-sonar fusion"
@@ -9345,8 +8972,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 2,
+    "last_seen": "2026-06-28",
+    "times_seen": 3,
     "venue_group": null,
     "topics": [
       "camera-sonar fusion"
@@ -9953,11 +9580,64 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": null,
     "topics": [
       "3D reconstruction"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.6,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2026-a-physics-assisted-deep-learning-method-for-high-fidelity-breast-microwave-cbb5a7cfec17",
+    "title": "A physics-assisted deep learning method for high-fidelity breast microwave image reconstruction in electromagnetic inverse scattering",
+    "authors": "Min Lu; Chen Wang; Xia Xiao; Lei Yuan; Yuan Yang",
+    "year": 2026,
+    "publication_date": "2026-05-11",
+    "venue": "Journal of Applied Physics",
+    "doi": "10.1063/5.0326725",
+    "primary_url": "https://doi.org/10.1063/5.0326725",
+    "pdf_url": "",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Hybrid ResNet–UNet method for multi-parameter acoustic hologram",
+    "score": 9,
+    "reasons": [
+      "imaging/reconstruction term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-hybrid-resnet-unet-method-for-multi-parameter-acoustic-hologram-0bbcc0e64bd6",
+    "cited_core_title": "Hybrid ResNet–UNet method for multi-parameter acoustic hologram",
+    "cited_core_doi": "10.1063/5.0298573",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Hybrid",
+      "ResNet",
+      "method"
     ],
     "track": "main",
     "agent_audit": {
@@ -10003,8 +9683,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 2,
+    "last_seen": "2026-06-28",
+    "times_seen": 3,
     "venue_group": null,
     "topics": [
       "camera-sonar fusion"
@@ -10103,8 +9783,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 2,
+    "last_seen": "2026-06-28",
+    "times_seen": 3,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -10411,56 +10091,6 @@
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.6,
-      "checks": {
-        "track": "main",
-        "primary_scope": false,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2025-full-autonomy-in-underwater-robotics-systems-a-realistic-prospect-39627d887fc3",
-    "title": "Full autonomy in underwater robotics systems: A realistic prospect?",
-    "authors": "Ali Rohan; Hamidreza Farhadi Tolie; Md Junayed Hasan; Somasundar Kannan",
-    "year": 2025,
-    "publication_date": "2025-10-07",
-    "venue": "Engineering Applications of Artificial Intelligence",
-    "doi": "10.1016/j.engappai.2025.112638",
-    "primary_url": "https://doi.org/10.1016/j.engappai.2025.112638",
-    "pdf_url": "https://doi.org/10.1016/j.engappai.2025.112638",
-    "source": "OpenAlex cited-by",
-    "matched_query": "cites core: Multi-Sonar Fusion-Based Precision Underwater 3D Reconstruction for Optimal Scan Path Planning of AUV",
-    "score": 9,
-    "reasons": [
-      "imaging/reconstruction term",
-      "recent",
-      "cites-core-paper"
-    ],
-    "status": "agent-watchlist",
-    "cites_core": true,
-    "cited_core_paper": "2025-multi-sonar-fusion-based-precision-underwater-3d-reconstruction-for-optimal-cb5ecd64bd30",
-    "cited_core_title": "Multi-Sonar Fusion-Based Precision Underwater 3D Reconstruction for Optimal Scan Path Planning of AUV",
-    "cited_core_doi": "10.1109/access.2025.3542084",
-    "citation_source": "OpenAlex cited-by graph",
-    "metadata_verified_from": "OpenAlex",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 2,
-    "venue_group": null,
-    "topics": [
-      "3D reconstruction"
     ],
     "track": "main",
     "agent_audit": {
@@ -10906,8 +10536,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 52,
+    "last_seen": "2026-06-28",
+    "times_seen": 59,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction",
@@ -10951,8 +10581,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 52,
+    "last_seen": "2026-06-28",
+    "times_seen": 59,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction",
@@ -10996,8 +10626,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 40,
+    "last_seen": "2026-06-28",
+    "times_seen": 44,
     "venue_group": "Science family",
     "topics": [
       "mmWave radar imaging"
@@ -11040,8 +10670,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 74,
+    "last_seen": "2026-06-28",
+    "times_seen": 82,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction"
@@ -11084,8 +10714,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 30,
+    "last_seen": "2026-06-28",
+    "times_seen": 33,
     "venue_group": "Science family",
     "topics": [
       "camera-sonar fusion",
@@ -11176,8 +10806,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 10,
+    "last_seen": "2026-06-28",
+    "times_seen": 11,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -11278,8 +10908,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 2,
+    "last_seen": "2026-06-28",
+    "times_seen": 3,
     "venue_group": null,
     "topics": [
       "camera-sonar fusion"
@@ -11438,60 +11068,6 @@
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
-      }
-    }
-  },
-  {
-    "id": "2025-multiharmonic-algorithms-for-contrast-enhanced-ultrasound-97c6df81eef4",
-    "title": "Multiharmonic Algorithms for Contrast-Enhanced Ultrasound",
-    "authors": "Vanja Nikolić; Teresa Rauscher",
-    "year": 2026,
-    "publication_date": "2026-05-01",
-    "venue": "Journal of Scientific Computing",
-    "doi": "10.1007/s10915-026-03247-2",
-    "primary_url": "https://doi.org/10.1007/s10915-026-03247-2",
-    "pdf_url": "https://arxiv.org/pdf/2504.13335v2",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1007/s10915-026-03247-2",
-      "http://arxiv.org/abs/2504.13335v2",
-      "https://arxiv.org/pdf/2504.13335v2"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -11884,6 +11460,56 @@
     }
   },
   {
+    "id": "2026-a-review-of-sonar-based-bridge-underwater-scour-inspection-and-identificati-98d378138f06",
+    "title": "A review of sonar based bridge underwater scour inspection and identification",
+    "authors": "Wen Xiong; Jing Yan; Yanjie Zhu",
+    "year": 2026,
+    "publication_date": "2026-03-24",
+    "venue": "Ocean Engineering",
+    "doi": "10.1016/j.oceaneng.2026.125084",
+    "primary_url": "https://doi.org/10.1016/j.oceaneng.2026.125084",
+    "pdf_url": "",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Aqua-Splat: Physically-Informed Sonar-Camera Gaussian Splatting for Underwater 3D Reconstruction",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-aqua-splat-physically-informed-sonar-camera-gaussian-splatting-for-underwat-ce79a80e823f",
+    "cited_core_title": "Aqua-Splat: Physically-Informed Sonar-Camera Gaussian Splatting for Underwater 3D Reconstruction",
+    "cited_core_doi": "10.1109/lra.2025.3615528",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "3D reconstruction"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
     "id": "2026-coordinated-non-contact-transport-of-multiple-objects-via-ultrasonic-roboti-d774ceeb7a0d",
     "title": "Coordinated non-contact transport of multiple objects via ultrasonic robotic manipulation",
     "authors": "ZongQi Bai; E Ren; Junfan Zhou; Guojun Liu; Xinbo Li; Liangxu Jiang",
@@ -12004,8 +11630,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 10,
+    "last_seen": "2026-06-28",
+    "times_seen": 11,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -12407,8 +12033,8 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
     "times_seen": 1,
     "venue_group": "Science family",
     "final_version_resolved": true,
@@ -12421,60 +12047,6 @@
     "final_version_status": "resolved-from-arxiv-to-final-venue",
     "topics": [
       "acoustic coded imaging"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2025-optimization-based-calibration-for-intravascular-ultrasound-volume-reconstr-b9c6535b4518",
-    "title": "Optimization-Based Calibration for Intravascular Ultrasound Volume Reconstruction",
-    "authors": "Karl-Philippe Beaudet; Sidaty El Hadramy; Philippe C. Cattin; Juan Verde; Stéphane Cotin",
-    "year": 2026,
-    "publication_date": "2026-01-01",
-    "venue": "Lecture Notes in Computer Science Simplifying Medical Ultrasound",
-    "doi": "10.1007/978-3-032-06329-8_6",
-    "primary_url": "https://doi.org/10.1007/978-3-032-06329-8_6",
-    "pdf_url": "https://arxiv.org/pdf/2508.20605v1",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
-    "venue_group": "Science family",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1007/978-3-032-06329-8_6",
-      "http://arxiv.org/abs/2508.20605v1",
-      "https://arxiv.org/pdf/2508.20605v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
     ],
     "track": "main",
     "agent_audit": {
@@ -12761,8 +12333,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": null,
     "topics": [
       "acoustic holography"
@@ -12910,8 +12482,8 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
@@ -12992,60 +12564,6 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2024-high-quality-passive-acoustic-mapping-with-the-cross-correlated-angular-spe-7187da195da1",
-    "title": "High-Quality Passive Acoustic Mapping With the Cross-Correlated Angular Spectrum Method",
-    "authors": "Yi Zeng; Shixiao W. Jiang; Hui Zhu; Jinwei Li; Jianfeng Li; Fei Li; Shukuan Lu; Xiran Cai",
-    "year": 2025,
-    "publication_date": "2025-10-01",
-    "venue": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
-    "doi": "10.1109/tuffc.2025.3586460",
-    "primary_url": "https://doi.org/10.1109/tuffc.2025.3586460",
-    "pdf_url": "https://arxiv.org/pdf/2412.02413v1",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/tuffc.2025.3586460",
-      "http://arxiv.org/abs/2412.02413v1",
-      "https://arxiv.org/pdf/2412.02413v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -13371,60 +12889,6 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 0.996,
-    "sources": [
-      "https://doi.org/10.1109/tvlsi.2025.3559403",
-      "http://arxiv.org/abs/2509.03201v1",
-      "https://arxiv.org/pdf/2509.03201v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2025-capsbeam-accelerating-capsule-network-based-beamformer-for-ultrasound-non-s-f4919b35e0e8",
-    "title": "CapsBeam: Accelerating Capsule Network-Based Beamformer for Ultrasound Nonsteered Plane-Wave Imaging on Field-Programmable Gate Array",
-    "authors": "Abdul Rahoof; Vivek Chaturvedi; Mahesh Raveendranatha Panicker; Muhammad Shafique",
-    "year": 2025,
-    "publication_date": "2025-07-01",
-    "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
-    "doi": "10.1109/tvlsi.2025.3559403",
-    "primary_url": "https://doi.org/10.1109/tvlsi.2025.3559403",
-    "pdf_url": "https://arxiv.org/pdf/2509.03201v1",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
     "times_seen": 1,
@@ -13606,59 +13070,6 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2024-a-roadmap-to-holographic-focused-ultrasound-approaches-to-generate-thermal-be1af410621c",
-    "title": "A Roadmap to Holographic Focused Ultrasound Approaches for Generating Gradient Thermal Patterns",
-    "authors": "Ceren Cengiz; Zekeriya Ender Eger; Mihir Pewekar; Pinar Acar; Wynn Legon; Shima Shahab",
-    "year": 2025,
-    "publication_date": "2025-06-01",
-    "venue": "International Journal for Numerical Methods in Biomedical Engineering",
-    "doi": "10.1002/cnm.70055",
-    "primary_url": "https://doi.org/10.1002/cnm.70055",
-    "pdf_url": "https://arxiv.org/pdf/2409.01323v1",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "primary imaging/radar term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 0.921,
-    "sources": [
-      "https://doi.org/10.1002/cnm.70055",
-      "http://arxiv.org/abs/2409.01323v1",
-      "https://arxiv.org/pdf/2409.01323v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -13916,60 +13327,6 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2025-spatiotemporal-learning-with-context-aware-video-tubelets-for-ultrasound-vi-2d411e66ce88",
-    "title": "Spatiotemporal Learning with Context-Aware Video Tubelets for Ultrasound Video Analysis",
-    "authors": "Gary Y. Li; Li Chen; Bryson Hicks; Nikolai Schnittke; David O. Kessler; Jeffrey Shunp; Maria Parker; Cristiana Baloescu; Christopher Moore; Cynthia Gregory; Kenton Gregory; Balasundar Raju; Jochen Kruecker; Alvin Chen",
-    "year": 2025,
-    "publication_date": "2025-04-14",
-    "venue": "2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)",
-    "doi": "10.1109/isbi60581.2025.10981242",
-    "primary_url": "https://doi.org/10.1109/isbi60581.2025.10981242",
-    "pdf_url": "https://arxiv.org/pdf/2503.17475v1",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/isbi60581.2025.10981242",
-      "http://arxiv.org/abs/2503.17475v1",
-      "https://arxiv.org/pdf/2503.17475v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -14695,8 +14052,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 10,
+    "last_seen": "2026-06-28",
+    "times_seen": 11,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -15143,8 +14500,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 10,
+    "last_seen": "2026-06-28",
+    "times_seen": 11,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -15165,59 +14522,6 @@
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
-      }
-    }
-  },
-  {
-    "id": "2026-radarcnn-learning-based-indoor-object-classification-from-iq-imaging-radar-a962e46af62d",
-    "title": "RadarCNN: Learning-Based Indoor Object Classification from IQ Imaging Radar Data",
-    "authors": "Stefan Hägele; Fabian Seguel; Driton Salihu; Marsil Zakour; Eckehard Steinbach",
-    "year": 2024,
-    "publication_date": "2024-05-06",
-    "venue": "2024 IEEE Radar Conference (RadarConf24)",
-    "doi": "10.1109/radarconf2458775.2024.10548874",
-    "primary_url": "https://doi.org/10.1109/radarconf2458775.2024.10548874",
-    "pdf_url": "https://arxiv.org/pdf/2604.06842v1",
-    "source": "Crossref-final-version",
-    "matched_query": "mmWave radar imaging TMC",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 3,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/radarconf2458775.2024.10548874",
-      "http://arxiv.org/abs/2604.06842v1",
-      "https://arxiv.org/pdf/2604.06842v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "mmWave radar imaging"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -15294,8 +14598,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 160,
+    "last_seen": "2026-06-28",
+    "times_seen": 176,
     "venue_group": "Science family",
     "topics": [
       "mmWave radar imaging"
@@ -15338,8 +14642,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-06-27",
-    "times_seen": 19,
+    "last_seen": "2026-06-28",
+    "times_seen": 21,
     "venue_group": "Science family",
     "topics": [
       "vectorial",
@@ -15445,8 +14749,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": "Science family",
     "topics": [
       "3D reconstruction"
@@ -15460,6 +14764,60 @@
         "primary_scope": false,
         "core_term": false,
         "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2026-auv-pose-correction-via-underwater-object-recognition-using-synthetic-data-f2bddbbeb66b",
+    "title": "AUV pose correction via underwater object recognition using synthetic data",
+    "authors": "Jaemin Ha; Heekyu Kweon; 심현민; Son-Cheol Yu; Hangil Joe",
+    "year": 2026,
+    "publication_date": "2026-05-20",
+    "venue": "Intelligent Service Robotics",
+    "doi": "10.1007/s11370-026-00719-0",
+    "primary_url": "https://doi.org/10.1007/s11370-026-00719-0",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11370-026-00719-0.pdf",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Sonar Image Datasets: A Comprehensive Survey of Resources, Challenges, and Applications",
+    "score": 14,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-sonar-image-datasets-a-comprehensive-survey-of-resources-challenges-and-app-7bd5d3be7148",
+    "cited_core_title": "Sonar Image Datasets: A Comprehensive Survey of Resources, Challenges, and Applications",
+    "cited_core_doi": "10.1109/sibgrapi67909.2025.11223279",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Sonar",
+      "Image",
+      "Datasets"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
         "source_ok": true,
         "mmwave_preprint_ok": false,
         "manual_seed": false,
@@ -15496,8 +14854,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": null,
     "topics": [
       "cites",
@@ -15575,6 +14933,115 @@
     }
   },
   {
+    "id": "2025-a-hybrid-optimization-design-method-based-on-toa-and-gd-for-improving-the-d-e419833b5c50",
+    "title": "A Hybrid Optimization Design Method Based on TOA and GD for Improving the Diffuse Reflection Uniformity of Acoustic Metasurfaces",
+    "authors": "Junxia Ma; Zhifeng Zhang; Yangyang Chu",
+    "year": 2025,
+    "publication_date": "2025-05-30",
+    "venue": "Materials",
+    "doi": "10.3390/ma18112562",
+    "primary_url": "https://doi.org/10.3390/ma18112562",
+    "pdf_url": "https://www.mdpi.com/1996-1944/18/11/2562/pdf?version=1748590458",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Machine learning for inverse design of acoustic and elastic metamaterials",
+    "score": 14,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-machine-learning-for-inverse-design-of-acoustic-and-elastic-metamaterials-50c49b996bbc",
+    "cited_core_title": "Machine learning for inverse design of acoustic and elastic metamaterials",
+    "cited_core_doi": "10.1016/j.cossms.2025.101218",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Machine",
+      "learning",
+      "inverse"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2026-active-learning-guided-acoustic-metamaterial-resonators-for-low-frequency-n-1971793fe49f",
+    "title": "Active-Learning-Guided Acoustic Metamaterial Resonators for Low-Frequency Noise Suppression and Piezoelectric Energy Harvesting",
+    "authors": "Syed Muhammad Ibrahim; Jungyul Park",
+    "year": 2026,
+    "publication_date": "2026-05-31",
+    "venue": "Micromachines",
+    "doi": "10.3390/mi17060685",
+    "primary_url": "https://doi.org/10.3390/mi17060685",
+    "pdf_url": "https://doi.org/10.3390/mi17060685",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Machine learning for inverse design of acoustic and elastic metamaterials",
+    "score": 13,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-machine-learning-for-inverse-design-of-acoustic-and-elastic-metamaterials-50c49b996bbc",
+    "cited_core_title": "Machine learning for inverse design of acoustic and elastic metamaterials",
+    "cited_core_doi": "10.1016/j.cossms.2025.101218",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Machine",
+      "learning",
+      "inverse"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
     "id": "2026-reconstructing-the-seawater-temperature-field-of-the-yellow-sea-using-tcn-u-7357f2c75359",
     "title": "Reconstructing the Seawater Temperature Field of the Yellow Sea Using TCN-U-Net++",
     "authors": "Jiapeng Bu; Zi Guo; Junqi Cui; Shuyi Zhou; Lin Lei; Shaolei Lu; Xiaodong Liu; Xiaoqian Gao",
@@ -15601,8 +15068,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -15655,8 +15122,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": "Nature Portfolio",
     "topics": [
       "3D reconstruction"
@@ -15706,8 +15173,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -15724,6 +15191,116 @@
         "primary_scope": false,
         "core_term": false,
         "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2025-physics-informed-acoustic-metamaterials-design-via-forward-inverse-surrogat-a70e66a227d7",
+    "title": "Physics-informed acoustic metamaterials design via forward-inverse surrogate modelling for gearbox weak signal detection",
+    "authors": "Yaqin Wang; Xiaoxi Ding; Zhiming Wang; Lepeng Zhao; Jiaheng Gao; Z Li; Miao Zheng",
+    "year": 2025,
+    "publication_date": "2025-10-29",
+    "venue": "Nondestructive Testing And Evaluation",
+    "doi": "10.1080/10589759.2025.2577836",
+    "primary_url": "https://doi.org/10.1080/10589759.2025.2577836",
+    "pdf_url": "",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Machine learning for inverse design of acoustic and elastic metamaterials",
+    "score": 13,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-machine-learning-for-inverse-design-of-acoustic-and-elastic-metamaterials-50c49b996bbc",
+    "cited_core_title": "Machine learning for inverse design of acoustic and elastic metamaterials",
+    "cited_core_doi": "10.1016/j.cossms.2025.101218",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Machine",
+      "learning",
+      "inverse"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2025-an-efficient-acoustic-metamaterial-design-approach-integrating-attention-me-17657d03c0fb",
+    "title": "An Efficient Acoustic Metamaterial Design Approach Integrating Attention Mechanisms and Autoencoder Networks",
+    "authors": "Yangyang Chu; Yiping Liu; Bo Wang; Zhifeng Zhang",
+    "year": 2025,
+    "publication_date": "2025-05-23",
+    "venue": "Crystals",
+    "doi": "10.3390/cryst15060499",
+    "primary_url": "https://doi.org/10.3390/cryst15060499",
+    "pdf_url": "https://www.mdpi.com/2073-4352/15/6/499/pdf?version=1748012259",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Machine learning for inverse design of acoustic and elastic metamaterials",
+    "score": 13,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-machine-learning-for-inverse-design-of-acoustic-and-elastic-metamaterials-50c49b996bbc",
+    "cited_core_title": "Machine learning for inverse design of acoustic and elastic metamaterials",
+    "cited_core_doi": "10.1016/j.cossms.2025.101218",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Machine",
+      "learning",
+      "inverse"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
         "source_ok": true,
         "mmwave_preprint_ok": false,
         "manual_seed": false,
@@ -15760,8 +15337,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -15820,6 +15397,60 @@
     "venue_group": null,
     "topics": [
       "acoustic holography"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2026-active-sonar-target-detection-in-low-sir-complex-marine-environments-via-co-25ce279e6ec3",
+    "title": "Active Sonar Target Detection in Low-SIR Complex Marine Environments via Controllable Simulation and Spatiotemporal Energy Structure Feature Perception",
+    "authors": "Nan Lu; Yongmeng Zhu; Xionghui Li; Zailei Luo; Tongsheng Shen",
+    "year": 2026,
+    "publication_date": "2026-03-06",
+    "venue": "Journal of Marine Science and Engineering",
+    "doi": "10.3390/jmse14050501",
+    "primary_url": "https://doi.org/10.3390/jmse14050501",
+    "pdf_url": "https://www.mdpi.com/2077-1312/14/5/501/pdf?version=1772801904",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Sonar Image Datasets: A Comprehensive Survey of Resources, Challenges, and Applications",
+    "score": 12,
+    "reasons": [
+      "top-venue",
+      "core wave-sensing term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-sonar-image-datasets-a-comprehensive-survey-of-resources-challenges-and-app-7bd5d3be7148",
+    "cited_core_title": "Sonar Image Datasets: A Comprehensive Survey of Resources, Challenges, and Applications",
+    "cited_core_doi": "10.1109/sibgrapi67909.2025.11223279",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": "Science family",
+    "topics": [
+      "cites",
+      "Sonar",
+      "Image",
+      "Datasets"
     ],
     "track": "main",
     "agent_audit": {
@@ -15941,6 +15572,60 @@
     }
   },
   {
+    "id": "2026-deep-learning-for-data-driven-metamaterial-design-optimization-0092e556b242",
+    "title": "Deep Learning for Data-Driven Metamaterial Design Optimization",
+    "authors": "Riccardo Grammatico; Giuseppe Quaranta; Walter Lacarbonara",
+    "year": 2026,
+    "publication_date": "2026-05-14",
+    "venue": "Journal of Computational and Nonlinear Dynamics",
+    "doi": "10.1115/1.4071925",
+    "primary_url": "https://doi.org/10.1115/1.4071925",
+    "pdf_url": "",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Machine learning for inverse design of acoustic and elastic metamaterials",
+    "score": 11,
+    "reasons": [
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-machine-learning-for-inverse-design-of-acoustic-and-elastic-metamaterials-50c49b996bbc",
+    "cited_core_title": "Machine learning for inverse design of acoustic and elastic metamaterials",
+    "cited_core_doi": "10.1016/j.cossms.2025.101218",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Machine",
+      "learning",
+      "inverse"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
     "id": "2026-reconfigurable-metasurfaces-and-meta-devices-with-multi-domain-multiplexing-5441cb785004",
     "title": "Reconfigurable metasurfaces and meta-devices with multi-domain multiplexing",
     "authors": "Feng-An Li; Gaobiao Xiao; Ping Li; Weiren Zhu",
@@ -15967,8 +15652,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": null,
     "topics": [
       "cites",
@@ -16169,62 +15854,6 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/lra.2026.3706932",
-      "http://arxiv.org/abs/2601.06285v1",
-      "https://arxiv.org/pdf/2601.06285v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "noise",
-      "aware",
-      "sonar",
-      "Gaussian"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "reject-like",
-      "confidence": 0.2,
-      "checks": {
-        "track": "main",
-        "primary_scope": false,
-        "core_term": true,
-        "imaging_term": false,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2026-nas-gs-noise-aware-sonar-gaussian-splatting-d1d55a81921c",
-    "title": "NAS-GS: Noise-Aware Sonar Gaussian Splatting",
-    "authors": "Shida Xu; Jingqi Jiang; Jonatan Scharff Willners; Sen Wang",
-    "year": 2026,
-    "publication_date": "2026-01-01",
-    "venue": "IEEE Robotics and Automation Letters",
-    "doi": "10.1109/lra.2026.3706932",
-    "primary_url": "https://doi.org/10.1109/lra.2026.3706932",
-    "pdf_url": "https://arxiv.org/pdf/2601.06285v1",
-    "source": "Crossref-final-version",
-    "matched_query": "NAS-GS noise-aware sonar Gaussian splatting",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
     "times_seen": 2,
@@ -16289,8 +15918,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": null,
     "topics": [
       "cites",
@@ -16368,6 +15997,167 @@
     }
   },
   {
+    "id": "2026-heuristic-algorithm-enhanced-inverse-design-of-deep-subwavelength-hybrid-me-59c7a684c16f",
+    "title": "Heuristic algorithm-enhanced inverse design of deep-subwavelength hybrid metamaterials for ultra-broadband underwater sound absorption",
+    "authors": "Ming Li; Fengxian Xin",
+    "year": 2026,
+    "publication_date": "2026-04-15",
+    "venue": "Materials & Design",
+    "doi": "10.1016/j.matdes.2026.116031",
+    "primary_url": "https://doi.org/10.1016/j.matdes.2026.116031",
+    "pdf_url": "https://doi.org/10.1016/j.matdes.2026.116031",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Machine learning for inverse design of acoustic and elastic metamaterials",
+    "score": 10,
+    "reasons": [
+      "core wave-sensing term",
+      "query-title/abstract match",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-machine-learning-for-inverse-design-of-acoustic-and-elastic-metamaterials-50c49b996bbc",
+    "cited_core_title": "Machine learning for inverse design of acoustic and elastic metamaterials",
+    "cited_core_doi": "10.1016/j.cossms.2025.101218",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Machine",
+      "learning",
+      "inverse"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2026-design-properties-and-applications-of-additively-manufactured-functional-hi-c80f66c5db81",
+    "title": "Design, properties and applications of additively-manufactured functional hierarchical structure",
+    "authors": "Gengchen Zheng; Zhenyang Gao; Pengyuan Ren; Yi Wu; Hua Sun; Shaojia Wang; Yongbing Li; Xinyu Liu; Yu Zou; Kun Zhou; Yang Lu; Haowei Wang; et al.",
+    "year": 2026,
+    "publication_date": "2026-04-08",
+    "venue": "Progress in Materials Science",
+    "doi": "10.1016/j.pmatsci.2026.101725",
+    "primary_url": "https://doi.org/10.1016/j.pmatsci.2026.101725",
+    "pdf_url": "",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Machine learning for inverse design of acoustic and elastic metamaterials",
+    "score": 10,
+    "reasons": [
+      "top-venue",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-machine-learning-for-inverse-design-of-acoustic-and-elastic-metamaterials-50c49b996bbc",
+    "cited_core_title": "Machine learning for inverse design of acoustic and elastic metamaterials",
+    "cited_core_doi": "10.1016/j.cossms.2025.101218",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": "Science family",
+    "topics": [
+      "cites",
+      "Machine",
+      "learning",
+      "inverse"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2026-low-frequency-acoustic-metamaterials-mechanisms-designs-and-broadband-absor-fe24f4312844",
+    "title": "Low‐Frequency Acoustic Metamaterials: Mechanisms, Designs, and Broadband Absorption Strategies",
+    "authors": "Jiahui Chai; Jie Chen; Lisi Liang; Lixing Zhang; Zhongyi Cui; Zhuyue Zhang; Zeming Wang; Gexuan Ning; Jiajun Xi",
+    "year": 2026,
+    "publication_date": "2026-02-08",
+    "venue": "Advanced Engineering Materials",
+    "doi": "10.1002/adem.202502352",
+    "primary_url": "https://doi.org/10.1002/adem.202502352",
+    "pdf_url": "",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Machine learning for inverse design of acoustic and elastic metamaterials",
+    "score": 10,
+    "reasons": [
+      "core wave-sensing term",
+      "query-title/abstract match",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-machine-learning-for-inverse-design-of-acoustic-and-elastic-metamaterials-50c49b996bbc",
+    "cited_core_title": "Machine learning for inverse design of acoustic and elastic metamaterials",
+    "cited_core_doi": "10.1016/j.cossms.2025.101218",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Machine",
+      "learning",
+      "inverse"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
     "id": "2026-track-almost-everything-underwater-evaluating-visual-registration-in-marine-edcd21ffa265",
     "title": "Track Almost Everything Underwater: Evaluating Visual Registration in Marine Robotics",
     "authors": "Muhammad Waqar Mughal; Muhammad Hamza Hussain; Arturo Gomez Chavez; Andreas Birk; Francesco Maurelli",
@@ -16421,6 +16211,59 @@
     }
   },
   {
+    "id": "2026-artificial-incorrectness-smt-and-llms-in-hardware-synthesis-474606856df8",
+    "title": "Artificial Incorrectness: SMT and LLMs in Hardware Synthesis",
+    "authors": "Edward Wang; Joe Walston; Luca Daniel; Tony Tan; Yoni Zohar; Clark Barrett",
+    "year": 2026,
+    "publication_date": "2026-01-01",
+    "venue": "Lecture notes in computer science",
+    "doi": "10.1007/978-3-032-28079-4_12",
+    "primary_url": "https://doi.org/10.1007/978-3-032-28079-4_12",
+    "pdf_url": "",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Machine learning for inverse design of acoustic and elastic metamaterials",
+    "score": 10,
+    "reasons": [
+      "top-venue",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-machine-learning-for-inverse-design-of-acoustic-and-elastic-metamaterials-50c49b996bbc",
+    "cited_core_title": "Machine learning for inverse design of acoustic and elastic metamaterials",
+    "cited_core_doi": "10.1016/j.cossms.2025.101218",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": "Science family",
+    "topics": [
+      "cites",
+      "Machine",
+      "learning",
+      "inverse"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
     "id": "2025-physics-constrained-ensemble-learning-modeling-of-nonstationary-tidal-chara-7705437a51bc",
     "title": "Physics-Constrained Ensemble-Learning Modeling of Nonstationary Tidal Characteristics",
     "authors": "Yang Li; Wen Du; Min Xu",
@@ -16446,8 +16289,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -16499,8 +16342,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": "Nature Portfolio",
     "topics": [
       "cites",
@@ -16517,6 +16360,60 @@
         "primary_scope": false,
         "core_term": false,
         "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2025-tandem-neural-network-based-design-of-acoustic-metamaterials-for-low-freque-2aaab2e7249c",
+    "title": "Tandem Neural Network Based Design of Acoustic Metamaterials for Low-Frequency Vibration Reduction in Automobiles",
+    "authors": "Jianjiao Deng; Jiawei Wu; Xi Chen; Xinpeng Zhang; Shoukui Li; Song Yu; Jian Wu; Jing Xu; S Deng; Yudong Wu",
+    "year": 2025,
+    "publication_date": "2025-07-24",
+    "venue": "Crystals",
+    "doi": "10.3390/cryst15080676",
+    "primary_url": "https://doi.org/10.3390/cryst15080676",
+    "pdf_url": "https://www.mdpi.com/2073-4352/15/8/676/pdf?version=1753370324",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Machine learning for inverse design of acoustic and elastic metamaterials",
+    "score": 10,
+    "reasons": [
+      "core wave-sensing term",
+      "query-title/abstract match",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-machine-learning-for-inverse-design-of-acoustic-and-elastic-metamaterials-50c49b996bbc",
+    "cited_core_title": "Machine learning for inverse design of acoustic and elastic metamaterials",
+    "cited_core_doi": "10.1016/j.cossms.2025.101218",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Machine",
+      "learning",
+      "inverse"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
         "source_ok": true,
         "mmwave_preprint_ok": false,
         "manual_seed": false,
@@ -16756,8 +16653,111 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
+    "venue_group": null,
+    "topics": [
+      "3D reconstruction"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": false,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2025-navigating-the-sim-to-real-gap-a-critical-analysis-of-underwater-robotics-s-97dc585f06e0",
+    "title": "Navigating the Sim-to-Real Gap: A Critical Analysis of Underwater Robotics Simulators",
+    "authors": "Larissa e Silva Gomes; Paulo L. J. Drews",
+    "year": 2025,
+    "publication_date": "2025-12-02",
+    "venue": "OpenAlex indexed work",
+    "doi": "10.1109/icar65334.2025.11338622",
+    "primary_url": "https://doi.org/10.1109/icar65334.2025.11338622",
+    "pdf_url": "",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Sonar Image Datasets: A Comprehensive Survey of Resources, Challenges, and Applications",
+    "score": 9,
+    "reasons": [
+      "imaging/reconstruction term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-sonar-image-datasets-a-comprehensive-survey-of-resources-challenges-and-app-7bd5d3be7148",
+    "cited_core_title": "Sonar Image Datasets: A Comprehensive Survey of Resources, Challenges, and Applications",
+    "cited_core_doi": "10.1109/sibgrapi67909.2025.11223279",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
     "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Sonar",
+      "Image",
+      "Datasets"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2025-full-autonomy-in-underwater-robotics-systems-a-realistic-prospect-39627d887fc3",
+    "title": "Full autonomy in underwater robotics systems: A realistic prospect?",
+    "authors": "Ali Rohan; Hamidreza Farhadi Tolie; Md Junayed Hasan; Somasundar Kannan",
+    "year": 2025,
+    "publication_date": "2025-10-07",
+    "venue": "Engineering Applications of Artificial Intelligence",
+    "doi": "10.1016/j.engappai.2025.112638",
+    "primary_url": "https://doi.org/10.1016/j.engappai.2025.112638",
+    "pdf_url": "https://doi.org/10.1016/j.engappai.2025.112638",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: NeuRSS: Enhancing AUV Localization and Bathymetric Mapping With Neural Rendering for Sidescan SLAM",
+    "score": 9,
+    "reasons": [
+      "imaging/reconstruction term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-neurss-enhancing-auv-localization-and-bathymetric-mapping-with-neural-rende-4519b938fbfd",
+    "cited_core_title": "NeuRSS: Enhancing AUV Localization and Bathymetric Mapping With Neural Rendering for Sidescan SLAM",
+    "cited_core_doi": "10.1109/joe.2024.3501317",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-28",
+    "times_seen": 3,
     "venue_group": null,
     "topics": [
       "3D reconstruction"
@@ -16856,8 +16856,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": null,
     "topics": [
       "cites",
@@ -16909,8 +16909,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": null,
     "topics": [
       "cites",
@@ -16962,8 +16962,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": null,
     "topics": [
       "cites",
@@ -17065,8 +17065,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": null,
     "topics": [
       "cites",
@@ -17083,6 +17083,59 @@
         "primary_scope": false,
         "core_term": false,
         "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2026-reliability-driven-inverse-design-of-solder-joints-using-a-two-stage-machin-15c715f0fb20",
+    "title": "Reliability-Driven Inverse Design of Solder Joints Using a Two-Stage Machine Learning-Assisted Framework",
+    "authors": "Hao Wu; Ruixiao Duan",
+    "year": 2026,
+    "publication_date": "2026-01-26",
+    "venue": "OpenAlex indexed work",
+    "doi": "10.1109/rams50514.2026.11424472",
+    "primary_url": "https://doi.org/10.1109/rams50514.2026.11424472",
+    "pdf_url": "",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Machine learning for inverse design of acoustic and elastic metamaterials",
+    "score": 8,
+    "reasons": [
+      "query-title/abstract match",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-machine-learning-for-inverse-design-of-acoustic-and-elastic-metamaterials-50c49b996bbc",
+    "cited_core_title": "Machine learning for inverse design of acoustic and elastic metamaterials",
+    "cited_core_doi": "10.1016/j.cossms.2025.101218",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Machine",
+      "learning",
+      "inverse"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
         "source_ok": true,
         "mmwave_preprint_ok": false,
         "manual_seed": false,
@@ -17118,8 +17171,8 @@
     "citation_source": "OpenAlex cited-by graph",
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 1,
+    "last_seen": "2026-06-28",
+    "times_seen": 2,
     "venue_group": null,
     "topics": [
       "cites",
@@ -17136,6 +17189,59 @@
         "primary_scope": false,
         "core_term": false,
         "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2025-on-demand-design-of-two-dimensional-phononic-crystal-bandgap-based-on-machi-8b7788c18614",
+    "title": "On demand design of two-dimensional phononic crystal bandgap based on machine learning and multi-objective topology optimization",
+    "authors": "Nansha Gao; Jiacheng Guo; Mou Wang; Yilin Qu; X Peng; Ye Tang; Xiao Liang; Guang Pan",
+    "year": 2025,
+    "publication_date": "2025-11-26",
+    "venue": "Mechanical Systems and Signal Processing",
+    "doi": "10.1016/j.ymssp.2025.113670",
+    "primary_url": "https://doi.org/10.1016/j.ymssp.2025.113670",
+    "pdf_url": "https://doi.org/10.1016/j.ymssp.2025.113670",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Machine learning for inverse design of acoustic and elastic metamaterials",
+    "score": 8,
+    "reasons": [
+      "query-title/abstract match",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-machine-learning-for-inverse-design-of-acoustic-and-elastic-metamaterials-50c49b996bbc",
+    "cited_core_title": "Machine learning for inverse design of acoustic and elastic metamaterials",
+    "cited_core_doi": "10.1016/j.cossms.2025.101218",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Machine",
+      "learning",
+      "inverse"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
         "source_ok": true,
         "mmwave_preprint_ok": false,
         "manual_seed": false,
@@ -17296,6 +17402,59 @@
     }
   },
   {
+    "id": "2025-acoustic-metamaterials-an-alternate-for-noise-vibration-and-harshness-probl-1c4c5ce6fd6d",
+    "title": "Acoustic metamaterials: An alternate for noise, vibration, and harshness problems",
+    "authors": "Annapurna J. K; Lokavarapu Bhaskara Rao",
+    "year": 2025,
+    "publication_date": "2025-08-06",
+    "venue": "Sensors and Actuators A Physical",
+    "doi": "10.1016/j.sna.2025.116937",
+    "primary_url": "https://doi.org/10.1016/j.sna.2025.116937",
+    "pdf_url": "",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Machine learning for inverse design of acoustic and elastic metamaterials",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-machine-learning-for-inverse-design-of-acoustic-and-elastic-metamaterials-50c49b996bbc",
+    "cited_core_title": "Machine learning for inverse design of acoustic and elastic metamaterials",
+    "cited_core_doi": "10.1016/j.cossms.2025.101218",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Machine",
+      "learning",
+      "inverse"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
     "id": "2025-improvement-of-subjective-impact-perception-in-airborne-ultrasound-tactile-677474283f6b",
     "title": "Improvement of Subjective Impact Perception in Airborne Ultrasound Tactile Display",
     "authors": "Daisuke Sasaki; Atsushi Matsubayashi; Yasutoshi Makino; Hiroyuki Shinoda",
@@ -17376,6 +17535,59 @@
     "venue_group": null,
     "topics": [
       "acoustic holography"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2025-inverse-design-of-non-parameterized-ventilated-acoustic-resonator-via-varia-a3f43e01df2b",
+    "title": "Inverse design of non-parameterized ventilated acoustic resonator via variational autoencoder with acoustic response-encoded latent space",
+    "authors": "Min Woo Cho; Seok Hyeon Hwang; Jun-Young Jang; Jin Yeong Song; S. Hwang; Kyoung Je; Dong Yong Park; Kyungjun Song; Sang Min Park; Sang Min Park",
+    "year": 2025,
+    "publication_date": "2025-06-09",
+    "venue": "Materials Today Communications",
+    "doi": "10.1016/j.mtcomm.2025.113055",
+    "primary_url": "https://doi.org/10.1016/j.mtcomm.2025.113055",
+    "pdf_url": "",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Machine learning for inverse design of acoustic and elastic metamaterials",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-machine-learning-for-inverse-design-of-acoustic-and-elastic-metamaterials-50c49b996bbc",
+    "cited_core_title": "Machine learning for inverse design of acoustic and elastic metamaterials",
+    "cited_core_doi": "10.1016/j.cossms.2025.101218",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Machine",
+      "learning",
+      "inverse"
     ],
     "track": "main",
     "agent_audit": {
@@ -17526,6 +17738,59 @@
     "venue_group": null,
     "topics": [
       "acoustic holography"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2025-development-of-a-low-frequency-acoustic-energy-harvester-and-passive-noise-ee610637eb72",
+    "title": "Development of a Low-Frequency Acoustic Energy Harvester and Passive Noise Suppressor Using Active Machine Learning",
+    "authors": "Syed Muhammad Ibrahim; Jungyul Park",
+    "year": 2025,
+    "publication_date": "2025-01-01",
+    "venue": "SSRN Electronic Journal",
+    "doi": "10.2139/ssrn.5830027",
+    "primary_url": "https://doi.org/10.2139/ssrn.5830027",
+    "pdf_url": "https://doi.org/10.2139/ssrn.5830027",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Machine learning for inverse design of acoustic and elastic metamaterials",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2025-machine-learning-for-inverse-design-of-acoustic-and-elastic-metamaterials-50c49b996bbc",
+    "cited_core_title": "Machine learning for inverse design of acoustic and elastic metamaterials",
+    "cited_core_doi": "10.1016/j.cossms.2025.101218",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Machine",
+      "learning",
+      "inverse"
     ],
     "track": "main",
     "agent_audit": {
@@ -17714,8 +17979,8 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
