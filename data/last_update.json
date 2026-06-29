@@ -1,10 +1,166 @@
 {
-  "last_run": "2026-06-28T18:46:10.077979+00:00",
-  "since_date": "2024-06-28",
-  "raw_candidates_seen": 1774,
-  "saved_candidates_total": 381,
+  "last_run": "2026-06-29T01:49:18.521555+00:00",
+  "since_date": "2024-06-29",
+  "raw_candidates_seen": 1717,
+  "saved_candidates_total": 369,
   "citation_graph_seed_count": 50,
-  "errors": [],
+  "errors": [
+    {
+      "source": "arXiv",
+      "query": "imaging sonar differentiable rendering",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "neural implicit surface reconstruction imaging sonar",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "neural volume rendering imaging sonar",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "forward-looking sonar 3D reconstruction differentiable",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "synthetic aperture sonar neural reconstruction",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "coherent synthetic aperture sonar reconstruction",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "camera sonar fusion 3D reconstruction",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "opti acoustic sensor fusion volumetric mapping",
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22opti%22+AND+all%3A%22acoustic%22+AND+all%3A%22sensor%22+AND+all%3A%22fusion%22+AND+all%3A%22volumetric%22+AND+all%3A%22mapping%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "sonar visual dataset cross modal underwater perception",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22sonar%22+AND+all%3A%22visual%22+AND+all%3A%22dataset%22+AND+all%3A%22cross%22+AND+all%3A%22modal%22+AND+all%3A%22underwater%22+AND+all%3A%22perception%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "visual inertial sonar SLAM photometric rendering",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22visual%22+AND+all%3A%22inertial%22+AND+all%3A%22sonar%22+AND+all%3A%22SLAM%22+AND+all%3A%22photometric%22+AND+all%3A%22rendering%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "VISO Robust Underwater Visual-Inertial-Sonar SLAM",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "SonarSweep Fusing Sonar Vision Robust 3D Reconstruction",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "Towards Realistic 3D Sonar Simulation",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "volumetric 3D sonar simulation acoustic propagation",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "ultrasound synthetic aperture non-line-of-sight imaging",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "acoustic holography phased array computation",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22acoustic%22+AND+all%3A%22holography%22+AND+all%3A%22phased%22+AND+all%3A%22array%22+AND+all%3A%22computation%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "acoustic disguising cloaking holography",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "acoustic cloning holographic scattering object",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "coded acoustic imaging computational acoustics",
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22coded%22+AND+all%3A%22acoustic%22+AND+all%3A%22imaging%22+AND+all%3A%22computational%22+AND+all%3A%22acoustics%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "computational ultrasound complex fields imaging",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22computational%22+AND+all%3A%22ultrasound%22+AND+all%3A%22complex%22+AND+all%3A%22fields%22+AND+all%3A%22imaging%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "acousto-optic imaging speckle decorrelation",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "photoacoustic imaging acoustic hologram",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22photoacoustic%22+AND+all%3A%22imaging%22+AND+all%3A%22acoustic%22+AND+all%3A%22hologram%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "NAS-GS noise-aware sonar Gaussian splatting",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22NAS-GS%22+AND+all%3A%22noise-aware%22+AND+all%3A%22sonar%22+AND+all%3A%22Gaussian%22+AND+all%3A%22splatting%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "circular synthetic aperture sonar shadows 3D reconstruction",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22circular%22+AND+all%3A%22synthetic%22+AND+all%3A%22aperture%22+AND+all%3A%22sonar%22+AND+all%3A%22shadows%22+AND+all%3A%22reconstruction%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "skull-conforming acoustic holographic lenses",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "vectorial acoustic multiplexed holography",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "compact optical-resolution photoacoustic microscopy reflective objective transducer",
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22compact%22+AND+all%3A%22optical-resolution%22+AND+all%3A%22photoacoustic%22+AND+all%3A%22microscopy%22+AND+all%3A%22reflective%22+AND+all%3A%22objective%22+AND+all%3A%22transducer%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging CVPR",
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22CVPR%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging ICCV",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ICCV%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging NeurIPS",
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: RISE: Single Static Radar-based Indoor Scene Understanding",
+      "error": "504 Server Error: Gateway Timeout for url: https://api.openalex.org/works?search=RISE%3A+Single+Static+Radar-based+Indoor+Scene+Understanding&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
+    }
+  ],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
   "mmwave_seed_queries": [
     "high resolution handheld millimeter wave imaging phase error estimation compensation",
@@ -27,10 +183,10 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-06-28T18:47:53.217747+00:00",
+  "agent_audit_last_run": "2026-06-29T01:52:29.261031+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 1,
-  "resolved_final_versions": 41,
+  "resolved_final_versions": 28,
   "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion; hidden mmWave track covers radar imaging, handheld SAR/autofocus, FMCW/MIMO-SAR, 4D radar, through-occlusion reconstruction, surface normals, and radar scene understanding. Nature-family mapping includes Communications Engineering.",
   "mmwave_allowlist_final_groups": [
     "ACM TOG / SIGGRAPH",
