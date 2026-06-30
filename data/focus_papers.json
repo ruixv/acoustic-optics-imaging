@@ -184,5 +184,69 @@
     ],
     "last_verified": "2026-06-26",
     "curation_origin": "focus-profile-public"
+  },
+  {
+    "id": "vengurlekar2026-sh-sas-3dv",
+    "title": "SH-SAS: An Implicit Neural Representation for Complex Spherical-Harmonic Scattering Fields for 3D Synthetic Aperture Sonar",
+    "authors": "Omkar Shailendra Vengurlekar; Adithya Pediredla; Suren Jayasuriya",
+    "year": 2026,
+    "publication_date": "2026-03-20",
+    "venue": "2026 International Conference on 3D Vision (3DV)",
+    "venue_group": "3DV",
+    "venue_type": "conference",
+    "doi": "10.1109/3dv69130.2026.00097",
+    "primary_url": "https://doi.org/10.1109/3dv69130.2026.00097",
+    "pdf_url": "https://arxiv.org/pdf/2509.11087",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "synthetic aperture sonar",
+      "implicit neural representation",
+      "spherical harmonic scattering fields",
+      "differentiable acoustic rendering",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_cn": "用球谐系数表示合成孔径声呐中的复声学散射场，直接从一维 ToF 信号训练隐式神经场，以建模各向异性散射并提升三维 SAS 重建质量。",
+    "why_include_cn": "这是成像声呐/合成孔径声呐与 neural field、可微声学 forward model 的直接交叉，且已解析到 3DV 2026 final-version 记录，适合作为 core 收录。",
+    "download_note": "Crossref/DOI final-version metadata was resolved by the updater; arXiv preprint and PDF are available.",
+    "sources": [
+      "https://doi.org/10.1109/3dv69130.2026.00097",
+      "https://arxiv.org/abs/2509.11087"
+    ],
+    "last_verified": "2026-06-30",
+    "curation_origin": "automation-verified"
+  },
+  {
+    "id": "hu2026-240-element-aberration-mask-cusi",
+    "title": "A 240-Element Matrix Probe With Aberration Mask for 4-D Carotid Artery Computational Ultrasound Imaging",
+    "authors": "Yuyang Hu; Michael Brown; Didem Dogan; Mahé Bulot; Maxime Cheppe; Guillaume Ferin; Geert Leus; Antonius F. W. van der Steen; Pieter Kruizinga; Johannes G. Bosch",
+    "year": 2026,
+    "publication_date": "2026-03-01",
+    "venue": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
+    "venue_group": "IEEE TUFFC",
+    "venue_type": "journal",
+    "doi": "10.1109/tuson.2025.3648199",
+    "primary_url": "https://doi.org/10.1109/tuson.2025.3648199",
+    "pdf_url": "https://arxiv.org/pdf/2508.10527",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic coded imaging",
+      "computational ultrasound",
+      "spatial encoding mask",
+      "4D ultrasound imaging",
+      "model-based reconstruction"
+    ],
+    "relevance": "related",
+    "summary_cn": "提出带空间编码/aberration mask 的 240 阵元矩阵探头，用模型驱动重建改善 4D 颈动脉超声成像，是声学编码成像硬件与反演结合的代表性系统工作。",
+    "why_include_cn": "主题直接落在 acoustic coded imaging 和 computational ultrasound，但偏医学超声系统而非声光融合主线，因此建议作为 related 收录。",
+    "download_note": "Crossref/DOI final-version metadata was resolved by the updater; arXiv preprint and PDF are available.",
+    "sources": [
+      "https://doi.org/10.1109/tuson.2025.3648199",
+      "https://arxiv.org/abs/2508.10527"
+    ],
+    "last_verified": "2026-06-30",
+    "curation_origin": "automation-verified"
   }
 ]
