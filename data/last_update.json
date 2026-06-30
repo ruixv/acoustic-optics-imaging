@@ -1,74 +1,19 @@
 {
-  "last_run": "2026-06-30T01:35:53.734927+00:00",
+  "last_run": "2026-06-30T07:47:27.340061+00:00",
   "since_date": "2024-06-30",
-  "raw_candidates_seen": 1719,
-  "saved_candidates_total": 381,
+  "raw_candidates_seen": 1690,
+  "saved_candidates_total": 382,
   "citation_graph_seed_count": 50,
   "errors": [
     {
-      "source": "arXiv",
-      "query": "skull-conforming acoustic holographic lenses",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "source": "Crossref",
+      "query": "Towards Realistic 3D Sonar Simulation",
+      "error": "500 Server Error: Server Error for url: https://api.crossref.org/works?query.bibliographic=Towards+Realistic+3D+Sonar+Simulation&rows=30&sort=published&order=desc&filter=from-pub-date%3A2024-06-30&select=DOI%2Ctitle%2Cauthor%2Ccontainer-title%2Cpublished-print%2Cpublished-online%2Cpublished%2Cissued%2Ccreated%2CURL%2Ctype%2Cabstract&mailto=raygeng%40hku.hk"
     },
     {
-      "source": "arXiv",
-      "query": "vectorial acoustic multiplexed holography",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging NeurIPS",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22NeurIPS%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging ECCV",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ECCV%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging ICLR",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging ICML",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging ICCP",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging MobiSys",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging MobiCom",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22MobiCom%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging SenSys",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22SenSys%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging TPAMI",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22TPAMI%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging TOG",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging TIP",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "source": "Crossref",
+      "query": "acousto-optic imaging speckle decorrelation",
+      "error": "500 Server Error: Server Error for url: https://api.crossref.org/works?query.bibliographic=acousto-optic+imaging+speckle+decorrelation&rows=30&sort=published&order=desc&filter=from-pub-date%3A2024-06-30&select=DOI%2Ctitle%2Cauthor%2Ccontainer-title%2Cpublished-print%2Cpublished-online%2Cpublished%2Cissued%2Ccreated%2CURL%2Ctype%2Cabstract&mailto=raygeng%40hku.hk"
     }
   ],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
@@ -93,10 +38,10 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 2,
-  "agent_audit_last_run": "2026-06-30T01:41:38.605333+00:00",
+  "agent_audit_last_run": "2026-06-30T07:57:26.770424+00:00",
   "promoted_count": 0,
-  "promoted_mmwave_count": 2,
-  "resolved_final_versions": 41,
+  "promoted_mmwave_count": 1,
+  "resolved_final_versions": 40,
   "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion; hidden mmWave track covers radar imaging, handheld SAR/autofocus, FMCW/MIMO-SAR, 4D radar, through-occlusion reconstruction, surface normals, and radar scene understanding. Nature-family mapping includes Communications Engineering.",
   "mmwave_allowlist_final_groups": [
     "ACM TOG / SIGGRAPH",
