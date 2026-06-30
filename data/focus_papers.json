@@ -248,5 +248,67 @@
     ],
     "last_verified": "2026-06-30",
     "curation_origin": "automation-verified"
+  },
+  {
+    "id": "wang2026-gpair-ultrafast-photoacoustic-iterative-reconstruction",
+    "title": "GPAIR: Gaussian-Kernel-Based Ultrafast 3D Photoacoustic Iterative Reconstruction",
+    "authors": "Yibing Wang; Shuang Li; Tingting Huang; Yu Zhang; Chulhong Kim; Seongwook Choi; Changhui Li",
+    "year": 2026,
+    "publication_date": "2026-02-03",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "",
+    "primary_url": "https://arxiv.org/abs/2602.03893",
+    "pdf_url": "https://arxiv.org/pdf/2602.03893",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic imaging",
+      "3D photoacoustic tomography",
+      "iterative reconstruction",
+      "Gaussian kernel representation",
+      "differentiable reconstruction"
+    ],
+    "relevance": "core",
+    "summary_cn": "提出 GPAIR，用连续各向同性 Gaussian kernel 表示 3D PACT 体素，并推导解析压力波表达与 GPU/Triton 可微算子，实现大规模 3D photoacoustic iterative reconstruction 的显著加速。",
+    "why_include_cn": "直接对应 photoacoustic imaging reconstruction 和声学反演计算框架，尤其适合跟踪可微/神经化 3D 光声重建方向。",
+    "download_note": "No final venue was verified at the time of curation; arXiv is recorded as the preprint source.",
+    "sources": [
+      "https://arxiv.org/abs/2602.03893"
+    ],
+    "last_verified": "2026-06-30",
+    "curation_origin": "automation-verified"
+  },
+  {
+    "id": "keenlyside2026-sub-acoustic-photoacoustic-speckle-correlations",
+    "title": "Sub-acoustic resolution photoacoustic imaging through scattering layers using speckle correlations",
+    "authors": "Benjamin Keenlyside; Arnon A. B.; Dylan Marques; Ivo Vellekoop; James Guggenheim",
+    "year": 2026,
+    "publication_date": "2026-04-27",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "",
+    "primary_url": "https://arxiv.org/abs/2604.24168",
+    "pdf_url": "https://arxiv.org/pdf/2604.24168",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic imaging",
+      "sub-acoustic resolution",
+      "speckle correlations",
+      "imaging through scattering layers",
+      "optical-acoustic inverse imaging"
+    ],
+    "relevance": "core",
+    "summary_cn": "利用相干散射光产生的 speckle pattern correlation 与 photoacoustic detection，在声学选通区域内恢复光学分辨率图像，实现穿过散射层的 sub-acoustic-resolution photoacoustic imaging。",
+    "why_include_cn": "这是光学散射、speckle correlation 与光声成像的直接交叉，贴合 acoustic-optics imaging 与 photoacoustic super-resolution 主线。",
+    "download_note": "No final venue was verified at the time of curation; arXiv is recorded as the preprint source.",
+    "sources": [
+      "https://arxiv.org/abs/2604.24168"
+    ],
+    "last_verified": "2026-06-30",
+    "curation_origin": "automation-verified"
   }
 ]
