@@ -310,5 +310,68 @@
     ],
     "last_verified": "2026-06-30",
     "curation_origin": "automation-verified"
+  },
+  {
+    "id": "li2025-slingbag-photoacoustic-3d-reconstruction",
+    "title": "SlingBAG: point cloud-based iterative algorithm for large-scale 3D photoacoustic imaging",
+    "authors": "Shuang Li; Yibing Wang; Jian Gao; Chulhong Kim; Seongwook Choi; Bowen Zhang; Qian Chen; Yao Yao; Changhui Li",
+    "year": 2025,
+    "publication_date": "2025-12-06",
+    "venue": "Nature Communications",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal",
+    "doi": "10.1038/s41467-025-66855-w",
+    "primary_url": "https://doi.org/10.1038/s41467-025-66855-w",
+    "pdf_url": "https://doi.org/10.1038/s41467-025-66855-w",
+    "project_url": "https://github.com/JaegerCQ/SlingBAG",
+    "code_url": "https://github.com/JaegerCQ/SlingBAG",
+    "topics": [
+      "photoacoustic imaging",
+      "large-scale 3D photoacoustic tomography",
+      "iterative reconstruction",
+      "point-cloud reconstruction",
+      "Gaussian ball representation"
+    ],
+    "relevance": "core",
+    "summary_cn": "提出 SlingBAG，把大规模 3D photoacoustic 场景表示为可自适应增删/分裂的 Gaussian ball 点云，显著降低传统迭代重建的内存和时间开销。",
+    "why_include_cn": "Nature Communications final-version；主题直接对应 3D photoacoustic reconstruction、连续/点云表示和可扩展迭代反演，是光声成像算法主线核心论文。",
+    "download_note": "Nature Communications DOI/final-version metadata was resolved through the repository candidate tracker; arXiv preprint is also available.",
+    "sources": [
+      "https://doi.org/10.1038/s41467-025-66855-w",
+      "https://arxiv.org/abs/2407.11781"
+    ],
+    "last_verified": "2026-06-30",
+    "curation_origin": "automation-verified"
+  },
+  {
+    "id": "zhang2025-ar-pam-group-sparsity-denoiser-prior",
+    "title": "Acoustic Resolution Photoacoustic Microscopy Imaging Enhancement: Integration of Group Sparsity With Deep Denoiser Prior",
+    "authors": "Zhengyuan Zhang; Zuozhou Pan; Zhuoyi Lin; Arunima Sharma; Chia-Wen Lin; Manojit Pramanik; Yuanjin Zheng",
+    "year": 2025,
+    "publication_date": "2025-01-01",
+    "venue": "IEEE Transactions on Image Processing",
+    "venue_group": "IEEE TIP",
+    "venue_type": "journal",
+    "doi": "10.1109/tip.2025.3526065",
+    "primary_url": "https://doi.org/10.1109/tip.2025.3526065",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic imaging",
+      "acoustic-resolution photoacoustic microscopy",
+      "image enhancement",
+      "group sparsity",
+      "deep denoiser prior"
+    ],
+    "relevance": "core",
+    "summary_cn": "将 group sparsity 与 deep denoiser prior 结合，用于 acoustic-resolution photoacoustic microscopy 的图像增强/反演，属于模型先验与深度先验融合的光声成像重建方向。",
+    "why_include_cn": "IEEE TIP final-version，且主题直接落在 photoacoustic microscopy enhancement / reconstruction，应作为光声成像算法主线核心论文跟踪。",
+    "download_note": "OpenAlex/DOI metadata was resolved by the repository candidate tracker.",
+    "sources": [
+      "https://doi.org/10.1109/tip.2025.3526065"
+    ],
+    "last_verified": "2026-06-30",
+    "curation_origin": "automation-verified"
   }
 ]
