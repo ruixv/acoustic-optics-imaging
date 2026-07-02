@@ -373,5 +373,69 @@
     ],
     "last_verified": "2026-06-30",
     "curation_origin": "automation-verified"
+  },
+  {
+    "id": "slobodkin2026-natural-fluctuations-photoacoustic-aberration-correction",
+    "title": "Leveraging natural fluctuations for matrix-based aberration correction in photoacoustic imaging",
+    "authors": "Yevgeny Slobodkin; Ori Katz",
+    "year": 2026,
+    "publication_date": "2026-04-30",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2604.27774",
+    "primary_url": "https://arxiv.org/abs/2604.27774",
+    "pdf_url": "https://arxiv.org/pdf/2604.27774",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic imaging",
+      "acoustic aberration correction",
+      "reflection matrix",
+      "covariance matrix",
+      "dynamic absorbers",
+      "computational wavefront correction"
+    ],
+    "relevance": "core",
+    "summary_cn": "利用动态光声目标的自然涨落构建 virtual reflection matrix / covariance matrix，将反射矩阵散射补偿方法引入 photoacoustic imaging，用于校正由声速非均匀性导致的声学像差。",
+    "why_include_cn": "直接对应光声成像中的声学像差校正、矩阵成像和计算波前补偿，且有仿真与实验验证，适合作为 photoacoustic computational imaging 主线 core 收录。",
+    "download_note": "No final venue was verified at the time of curation; arXiv is recorded as the authoritative preprint source.",
+    "sources": [
+      "https://arxiv.org/abs/2604.27774"
+    ],
+    "last_verified": "2026-07-02",
+    "curation_origin": "automation-verified"
+  },
+  {
+    "id": "franceschin2026-aprecot-msot-anatomical-priors",
+    "title": "Conditioning Deep Anatomical Prior Knowledge for Reconstruction of Multispectral Optoacoustic Tomography Images",
+    "authors": "Sarah Franceschin; Lukas Imanuel Scheel-Platz; Philipp Haim; Guillaume Zahnd; Vasilis Ntziachristos; Dominik Jüstel",
+    "year": 2026,
+    "publication_date": "2026-06-15",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2606.16835",
+    "primary_url": "https://arxiv.org/abs/2606.16835",
+    "pdf_url": "https://arxiv.org/pdf/2606.16835",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "multispectral optoacoustic tomography",
+      "photoacoustic reconstruction",
+      "anatomical priors",
+      "chromophore reconstruction",
+      "segmentation",
+      "inverse problems"
+    ],
+    "relevance": "related",
+    "summary_cn": "提出 APRECOT，将概率解剖结构与组织属性先验注入 multispectral optoacoustic tomography，实现组织分割与 chromophore composition reconstruction 的联合估计。",
+    "why_include_cn": "主题直接落在 optoacoustic reconstruction 和深度/概率先验约束的反问题上；由于目前是 in-silico proof-of-concept 且未核验到 final venue，建议 related / near-core 收录。",
+    "download_note": "No final venue was verified at the time of curation; arXiv is recorded as the authoritative preprint source.",
+    "sources": [
+      "https://arxiv.org/abs/2606.16835"
+    ],
+    "last_verified": "2026-07-02",
+    "curation_origin": "automation-verified"
   }
 ]
