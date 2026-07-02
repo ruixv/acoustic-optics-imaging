@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-07-02T01:47:25.962881+00:00",
+  "last_run": "2026-07-02T09:51:06.933891+00:00",
   "since_date": "2024-07-02",
-  "raw_candidates_seen": 1674,
-  "saved_candidates_total": 446,
+  "raw_candidates_seen": 1622,
+  "saved_candidates_total": 448,
   "citation_graph_seed_count": 50,
   "errors": [
     {
@@ -13,12 +13,12 @@
     {
       "source": "arXiv",
       "query": "neural implicit surface reconstruction imaging sonar",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22neural%22+AND+all%3A%22implicit%22+AND+all%3A%22surface%22+AND+all%3A%22reconstruction%22+AND+all%3A%22imaging%22+AND+all%3A%22sonar%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22neural%22+AND+all%3A%22implicit%22+AND+all%3A%22surface%22+AND+all%3A%22reconstruction%22+AND+all%3A%22imaging%22+AND+all%3A%22sonar%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "neural volume rendering imaging sonar",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22neural%22+AND+all%3A%22volume%22+AND+all%3A%22rendering%22+AND+all%3A%22imaging%22+AND+all%3A%22sonar%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -28,22 +28,27 @@
     {
       "source": "arXiv",
       "query": "synthetic aperture sonar neural reconstruction",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22synthetic%22+AND+all%3A%22aperture%22+AND+all%3A%22sonar%22+AND+all%3A%22neural%22+AND+all%3A%22reconstruction%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "coherent synthetic aperture sonar reconstruction",
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22coherent%22+AND+all%3A%22synthetic%22+AND+all%3A%22aperture%22+AND+all%3A%22sonar%22+AND+all%3A%22reconstruction%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "camera sonar fusion 3D reconstruction",
       "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
     },
     {
       "source": "arXiv",
       "query": "acoustic optical sensor fusion sonar",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22acoustic%22+AND+all%3A%22optical%22+AND+all%3A%22sensor%22+AND+all%3A%22fusion%22+AND+all%3A%22sonar%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
     },
     {
       "source": "arXiv",
       "query": "opti acoustic sensor fusion volumetric mapping",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22opti%22+AND+all%3A%22acoustic%22+AND+all%3A%22sensor%22+AND+all%3A%22fusion%22+AND+all%3A%22volumetric%22+AND+all%3A%22mapping%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -58,7 +63,7 @@
     {
       "source": "arXiv",
       "query": "VISO Robust Underwater Visual-Inertial-Sonar SLAM",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22VISO%22+AND+all%3A%22Robust%22+AND+all%3A%22Underwater%22+AND+all%3A%22Visual-Inertial-Sonar%22+AND+all%3A%22SLAM%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -78,12 +83,12 @@
     {
       "source": "arXiv",
       "query": "acoustic non-line-of-sight imaging",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22acoustic%22+AND+all%3A%22non-line-of-sight%22+AND+all%3A%22imaging%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22acoustic%22+AND+all%3A%22non-line-of-sight%22+AND+all%3A%22imaging%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "ultrasound synthetic aperture non-line-of-sight imaging",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22ultrasound%22+AND+all%3A%22synthetic%22+AND+all%3A%22aperture%22+AND+all%3A%22non-line-of-sight%22+AND+all%3A%22imaging%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22ultrasound%22+AND+all%3A%22synthetic%22+AND+all%3A%22aperture%22+AND+all%3A%22non-line-of-sight%22+AND+all%3A%22imaging%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -93,27 +98,17 @@
     {
       "source": "arXiv",
       "query": "acoustic disguising cloaking holography",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22acoustic%22+AND+all%3A%22disguising%22+AND+all%3A%22cloaking%22+AND+all%3A%22holography%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "acoustic cloning holographic scattering object",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22acoustic%22+AND+all%3A%22cloning%22+AND+all%3A%22holographic%22+AND+all%3A%22scattering%22+AND+all%3A%22object%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "coded acoustic imaging computational acoustics",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22coded%22+AND+all%3A%22acoustic%22+AND+all%3A%22imaging%22+AND+all%3A%22computational%22+AND+all%3A%22acoustics%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
     },
     {
       "source": "arXiv",
       "query": "computational ultrasound complex fields imaging",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22computational%22+AND+all%3A%22ultrasound%22+AND+all%3A%22complex%22+AND+all%3A%22fields%22+AND+all%3A%22imaging%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
     },
     {
       "source": "arXiv",
       "query": "acousto-optic imaging speckle decorrelation",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22acousto-optic%22+AND+all%3A%22imaging%22+AND+all%3A%22speckle%22+AND+all%3A%22decorrelation%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22acousto-optic%22+AND+all%3A%22imaging%22+AND+all%3A%22speckle%22+AND+all%3A%22decorrelation%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -121,79 +116,9 @@
       "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
     },
     {
-      "source": "arXiv",
-      "query": "NAS-GS noise-aware sonar Gaussian splatting",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "circular synthetic aperture sonar shadows 3D reconstruction",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22circular%22+AND+all%3A%22synthetic%22+AND+all%3A%22aperture%22+AND+all%3A%22sonar%22+AND+all%3A%22shadows%22+AND+all%3A%22reconstruction%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "differentiable structural optimization acoustic holography",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "skull-conforming acoustic holographic lenses",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22skull-conforming%22+AND+all%3A%22acoustic%22+AND+all%3A%22holographic%22+AND+all%3A%22lenses%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "vectorial acoustic multiplexed holography",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "compact optical-resolution photoacoustic microscopy reflective objective transducer",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging ICCV",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ICCV%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging NeurIPS",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22NeurIPS%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging ECCV",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ECCV%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging ICLR",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ICLR%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging ICML",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging ICCP",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging MobiSys",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging MobiCom",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
-    },
-    {
-      "source": "arXiv",
-      "query": "mmWave radar imaging SenSys",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "source": "Crossref",
+      "query": "mmWave surface normal estimation through-occlusion 3D reconstruction",
+      "error": "500 Server Error: Server Error for url: https://api.crossref.org/works?query.bibliographic=mmWave+surface+normal+estimation+through-occlusion+3D+reconstruction&rows=30&sort=published&order=desc&filter=from-pub-date%3A2024-07-02&select=DOI%2Ctitle%2Cauthor%2Ccontainer-title%2Cpublished-print%2Cpublished-online%2Cpublished%2Cissued%2Ccreated%2CURL%2Ctype%2Cabstract&mailto=raygeng%40hku.hk"
     },
     {
       "source": "OpenAlex cited-by",
@@ -263,10 +188,10 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-07-02T01:54:37.705090+00:00",
+  "agent_audit_last_run": "2026-07-02T10:00:02.433637+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 0,
-  "resolved_final_versions": 29,
+  "resolved_final_versions": 32,
   "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion; hidden mmWave track covers radar imaging, handheld SAR/autofocus, FMCW/MIMO-SAR, 4D radar, through-occlusion reconstruction, surface normals, and radar scene understanding. Nature-family mapping includes Communications Engineering.",
   "mmwave_allowlist_final_groups": [
     "ACM TOG / SIGGRAPH",
