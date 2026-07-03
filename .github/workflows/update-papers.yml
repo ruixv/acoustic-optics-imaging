@@ -49,6 +49,9 @@ jobs:
           CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
         run: python scripts/update_candidates.py --since-days 730 --rows 30 --min-score 7
 
+      - name: Merge manual DOI seeds
+        run: python scripts/add_manual_doi_seeds.py
+
       - name: Search targeted mmWave seeds
         env:
           CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
