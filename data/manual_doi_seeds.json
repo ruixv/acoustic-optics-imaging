@@ -2,15 +2,16 @@
   {
     "id": "acm3730900-differentiable-geometric-acoustic-path-tracing",
     "title": "Differentiable Geometric Acoustic Path Tracing using Time-Resolved Path Replay Backpropagation",
-    "authors": "",
-    "year": null,
-    "publication_date": "",
-    "venue": "ACM DL DOI metadata pending",
+    "authors": "Ugo Finnendahl; Markus Worchel; Tobias Jüterbock; Daniel Wujecki; Fabian Brinkmann; Stefan Weinzierl; Marc Alexa",
+    "year": 2025,
+    "publication_date": "2025-08",
+    "venue": "ACM Transactions on Graphics 44(4) (Proceedings of SIGGRAPH 2025)",
     "venue_group": "ACM TOG / SIGGRAPH",
-    "venue_type": "conference/journal metadata pending",
+    "venue_type": "journal article / conference proceedings",
     "doi": "10.1145/3730900",
     "primary_url": "https://dl.acm.org/doi/10.1145/3730900",
-    "pdf_url": "",
+    "pdf_url": "https://cybertron.cg.tu-berlin.de/projects/diff-acoustic-pt/media/paper.pdf",
+    "code_url": "https://github.com/misuka-renderer/misuka",
     "source": "Manual-ACM-DOI-seed",
     "matched_query": "differentiable geometric acoustic path tracing time-resolved path replay backpropagation acoustic rendering geometric acoustics",
     "score": 11,
@@ -19,22 +20,25 @@
       "acoustic path tracing",
       "geometric acoustics",
       "differentiable acoustic rendering",
-      "metadata pending because ACM DL blocks automated fetch"
+      "authoritative metadata verified from the author-hosted ACM paper and TU Berlin project page"
     ],
     "topics": [
       "geometric acoustics",
       "acoustic path tracing",
       "differentiable acoustic rendering",
       "time-resolved simulation",
-      "path replay backpropagation"
+      "path replay backpropagation",
+      "inverse acoustics"
     ],
-    "status": "metadata-pending-acm-doi",
+    "status": "metadata-verified",
     "relevance": "core",
-    "needs_metadata_verification": true,
-    "metadata_verified_from": "ACM DOI URL reachable only as DOI target; title supplied by manual curator; full ACM metadata pending",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Author-hosted ACM paper; TU Berlin project page; ACM DOI",
     "sources": [
-      "https://dl.acm.org/doi/10.1145/3730900"
+      "https://dl.acm.org/doi/10.1145/3730900",
+      "https://cybertron.cg.tu-berlin.de/projects/diff-acoustic-pt/",
+      "https://cybertron.cg.tu-berlin.de/projects/diff-acoustic-pt/media/paper.pdf"
     ],
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-07-17"
   }
 ]
