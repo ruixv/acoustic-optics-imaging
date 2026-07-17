@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-07-17T01:00:09.730737+00:00",
+  "last_run": "2026-07-17T03:38:41.644222+00:00",
   "since_date": "2024-07-17",
   "raw_candidates_seen": 1774,
-  "saved_candidates_total": 466,
+  "saved_candidates_total": 467,
   "citation_graph_seed_count": 50,
   "errors": [
     {
@@ -252,10 +252,10 @@
     }
   ],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
-  "manual_doi_seed_last_run": "2026-07-17T01:00:09.809010+00:00",
+  "manual_doi_seed_last_run": "2026-07-17T03:38:41.758077+00:00",
   "manual_doi_seed_count": 2,
-  "manual_doi_seed_added": 1,
-  "manual_doi_seed_updated": 1,
+  "manual_doi_seed_added": 0,
+  "manual_doi_seed_updated": 2,
   "mmwave_seed_queries": [
     "high resolution handheld millimeter wave imaging phase error estimation compensation",
     "A high-resolution handheld millimeter-wave imaging system with phase error estimation and compensation",
@@ -277,7 +277,7 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-07-17T01:00:58.329387+00:00",
+  "agent_audit_last_run": "2026-07-17T03:39:18.161630+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 1,
   "resolved_final_versions": 35,
