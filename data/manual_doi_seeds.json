@@ -40,5 +40,48 @@
       "https://cybertron.cg.tu-berlin.de/projects/diff-acoustic-pt/media/paper.pdf"
     ],
     "last_verified": "2026-07-17"
+  },
+  {
+    "id": "nature-s41598-026-61671-8-forward-looking-sonar-target-detection",
+    "title": "Research on forward-looking sonar target detection algorithm based on edge enhancement and multi-scale feature fusion",
+    "authors": "Yonglin Xiao; Changgeng Shuai; Buyun Li; Chengren Yuan; Jianguo Ma; Yuqiang Cheng; Ruoqin Liu",
+    "year": 2026,
+    "publication_date": "2026-07-16",
+    "venue": "Scientific Reports",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "doi": "10.1038/s41598-026-61671-8",
+    "primary_url": "https://www.nature.com/articles/s41598-026-61671-8",
+    "pdf_url": "https://www.nature.com/articles/s41598-026-61671-8.pdf",
+    "source": "Manual-Nature-DOI-seed",
+    "matched_query": "forward-looking sonar acoustic imaging small target detection edge enhancement multi-scale feature fusion",
+    "score": 8,
+    "reasons": [
+      "manual-doi-seed",
+      "Nature Portfolio publication",
+      "forward-looking sonar imagery",
+      "small-target detection in noisy acoustic images",
+      "authoritative metadata verified from the Scientific Reports article page"
+    ],
+    "topics": [
+      "forward-looking sonar",
+      "sonar image analysis",
+      "underwater small-target detection",
+      "edge enhancement",
+      "multi-scale feature fusion",
+      "YOLOv11"
+    ],
+    "status": "metadata-verified",
+    "relevance": "related",
+    "paper_type": "original research",
+    "recommendation": "add-to-candidates",
+    "summary_en": "ESBN-YOLO improves small-target detection in noisy forward-looking sonar images using bidirectional multi-scale feature fusion, explicit Sobel edge features, and an NWD-plus-CIoU localization loss. It reports 88.67% mAP@0.5 on UATD and additional generalization tests on MDD and FDD.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Nature / Scientific Reports article page",
+    "sources": [
+      "https://www.nature.com/articles/s41598-026-61671-8",
+      "https://doi.org/10.1038/s41598-026-61671-8"
+    ],
+    "last_verified": "2026-07-17"
   }
 ]
