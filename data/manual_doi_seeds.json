@@ -83,5 +83,92 @@
       "https://doi.org/10.1038/s41598-026-61671-8"
     ],
     "last_verified": "2026-07-17"
+  },
+  {
+    "id": "nature-s41467-026-75603-7-integrated-two-photon-photoacoustic-microscopy",
+    "title": "Integrated two-photon and photoacoustic microscopy for single-cell neurometabolic imaging",
+    "authors": "Jiaxiao Han; Youngseop Lee; Ziang Feng; Yue Wu; Zhuoying Wang; Allison Martinez Mejia; Adam Bauer; Manu Goyal; Jin-Moo Lee; Peinan Zhao; Hao F. Zhang; Cheng Sun; Song Hu",
+    "year": 2026,
+    "publication_date": "2026-07-15",
+    "venue": "Nature Communications",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "doi": "10.1038/s41467-026-75603-7",
+    "primary_url": "https://www.nature.com/articles/s41467-026-75603-7",
+    "pdf_url": "https://www.nature.com/articles/s41467-026-75603-7.pdf",
+    "source": "Manual-Nature-DOI-seed",
+    "matched_query": "integrated two-photon photoacoustic microscopy single-cell neurometabolic imaging optical acoustic multimodal microscopy",
+    "score": 13,
+    "reasons": [
+      "manual-doi-seed",
+      "Nature Communications original research",
+      "integrated optical and photoacoustic microscopy",
+      "single-cell multimodal imaging",
+      "authoritative metadata verified from the Nature Communications article page"
+    ],
+    "topics": [
+      "photoacoustic microscopy",
+      "two-photon microscopy",
+      "acoustic-optical imaging",
+      "multimodal microscopy",
+      "single-cell imaging",
+      "neurometabolic imaging",
+      "micro-ring resonator ultrasound sensor"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "An integrated two-photon and photoacoustic microscopy platform that simultaneously measures single-neuron calcium activity and oxygen release from individual red blood cells in awake mice. A transparent micro-ring resonator ultrasound sensor preserves optical access while maintaining acoustic sensitivity, enabling real-time cellular-scale neurometabolic imaging.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Nature Communications article page",
+    "sources": [
+      "https://www.nature.com/articles/s41467-026-75603-7",
+      "https://doi.org/10.1038/s41467-026-75603-7"
+    ],
+    "last_verified": "2026-07-17"
+  },
+  {
+    "id": "arxiv2607-02936-optomechanical-transducers-sub-micron-ultrasound-imaging",
+    "title": "Design of optomechanical transducers for sub-micron resolution ultrasound imaging",
+    "authors": "Lisa Hackett; Chang Ge; Alex Miera; Brandon Smith; Matt Eichenfield",
+    "year": 2026,
+    "publication_date": "2026-07-03",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2607.02936",
+    "primary_url": "https://arxiv.org/abs/2607.02936",
+    "pdf_url": "https://arxiv.org/pdf/2607.02936",
+    "source": "Manual-arXiv-DOI-seed",
+    "matched_query": "optomechanical transducer sub-micron ultrasound imaging acoustic optical sensor nano-optomechanical cavity",
+    "score": 10,
+    "reasons": [
+      "manual-arxiv-doi-seed",
+      "optical transduction of ultrasound",
+      "sub-micron acoustic imaging",
+      "acoustic-optical sensor design",
+      "authoritative metadata verified from the official arXiv record"
+    ],
+    "topics": [
+      "optomechanical ultrasound transducer",
+      "sub-micron ultrasound imaging",
+      "nano-optomechanical cavity",
+      "acoustic-optical sensing",
+      "cellular imaging",
+      "high-frequency ultrasound"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core-adjacent",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "A nano-optomechanical cavity platform designed to generate and detect approximately 5 GHz ultrasound in aqueous media, targeting sub-micron, label-free imaging at cellular and sub-cellular scales. The analysis predicts signal-to-noise ratios in the thousands under diffraction and thermal-acoustic noise limits.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv record",
+    "sources": [
+      "https://arxiv.org/abs/2607.02936",
+      "https://doi.org/10.48550/arXiv.2607.02936"
+    ],
+    "last_verified": "2026-07-17"
   }
 ]
