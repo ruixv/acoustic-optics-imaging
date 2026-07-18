@@ -1,0 +1,91 @@
+[
+  {
+    "id": "optica-ol603035-non-contact-photoacoustic-pmut-refraction",
+    "title": "Non-contact Photoacoustic Imaging Empowered with PMUT Sensor and Refraction Correction",
+    "authors": "Arijit Paramanick; Akshay Kumar; Antony Jeyaseelan; Deepayan Samanta; Rudra Pratap; Mayanglambam Singh",
+    "year": 2026,
+    "publication_date": "2026-07-09",
+    "venue": "Optics Letters (Early Posting)",
+    "venue_group": "Optica / Optics Letters",
+    "venue_type": "journal article (accepted early posting)",
+    "doi": "10.1364/OL.603035",
+    "primary_url": "https://doi.org/10.1364/OL.603035",
+    "source": "Manual-Optica-DOI-seed",
+    "matched_query": "non-contact photoacoustic imaging PMUT refraction correction beamforming acoustic optical imaging",
+    "score": 12,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed Optics Letters article",
+      "contact-free photoacoustic imaging",
+      "PMUT-based acoustic detection",
+      "refraction-corrected reconstruction",
+      "authoritative metadata verified from Optica Early Posting"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "non-contact acoustic detection",
+      "PMUT",
+      "refraction-correction beamforming",
+      "acoustic-optical imaging",
+      "biomedical imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-candidates",
+    "summary_en": "A contact-free photoacoustic imaging system combining a MEMS piezoelectric micromachined ultrasound transducer, Snell's-law refraction-correction beamforming, and signal averaging. Phantom and tissue experiments report approximately 0.6 mm spatial resolution, 40 dB SNR, and 45 dB contrast at approximately 2.5 mm tissue depth.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Optica Publishing Group / Optics Letters Early Posting",
+    "sources": [
+      "https://opg.optica.org/ol/upcoming.cfm/upcoming_pdf.cfm?id=586972",
+      "https://doi.org/10.1364/OL.603035"
+    ],
+    "last_verified": "2026-07-19"
+  },
+  {
+    "id": "elsevier-eswa132159-rethinking-acoustic-image-enhancement",
+    "title": "Re-thinking acoustic image enhancement across underwater sonar and medical ultrasound",
+    "authors": "Taihong Yang; Yiqing Yao; Long Zhuang; Nuo Li; Tao Zhang; Shede Liu",
+    "year": 2026,
+    "publication_date": "2026-03-22",
+    "issue_date": "2026-07-15",
+    "venue": "Expert Systems with Applications 320, 132159",
+    "venue_group": "Elsevier / Expert Systems with Applications",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.eswa.2026.132159",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S0957417426010729",
+    "code_url": "https://github.com/yangtaihong59/Rethink_Acoustic_Image_Enhancement",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "acoustic image enhancement underwater sonar medical ultrasound optical RGB-D simulation acoustic image denoising",
+    "score": 11,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed acoustic imaging research",
+      "forward-looking sonar and medical ultrasound",
+      "optical RGB-D to acoustic benchmark simulation",
+      "authoritative metadata verified from ScienceDirect"
+    ],
+    "topics": [
+      "acoustic image enhancement",
+      "forward-looking sonar",
+      "medical ultrasound",
+      "acoustic image simulation",
+      "RGB-D to acoustic rendering",
+      "knowledge distillation",
+      "acoustic image quality assessment"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "A unified acoustic-image enhancement framework spanning forward-looking sonar and medical ultrasound. It constructs high-fidelity acoustic benchmarks from optical RGB-D point clouds, simulates physically grounded noise, trains a teacher-student denoiser, and introduces an acoustic-specific no-reference evaluator.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Elsevier / ScienceDirect version-of-record page",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0957417426010729",
+      "https://doi.org/10.1016/j.eswa.2026.132159",
+      "https://github.com/yangtaihong59/Rethink_Acoustic_Image_Enhancement"
+    ],
+    "last_verified": "2026-07-19"
+  }
+]
