@@ -170,5 +170,90 @@
       "https://doi.org/10.48550/arXiv.2607.02936"
     ],
     "last_verified": "2026-07-17"
+  },
+  {
+    "id": "bmef0292-edge-aware-short-chain-diffusion-optoacoustic-tomography",
+    "title": "Edge-aware short-chain diffusion enables high-fidelity sparse-sampling optoacoustic tomography",
+    "authors": "Ying Fan; Ting Feng; Yangkun Liu; Abdula Aji; Libo Jiang; Dean Ta; et al.",
+    "year": 2026,
+    "publication_date": "2026-07-09",
+    "venue": "BME Frontiers (Article in Press)",
+    "venue_group": "Science / AAAS Partner Journal",
+    "venue_type": "journal article",
+    "doi": "10.34133/bmef.0292",
+    "primary_url": "https://spj.science.org/doi/10.34133/bmef.0292",
+    "source": "Manual-Science-DOI-seed",
+    "matched_query": "edge-aware short-chain diffusion sparse-sampling optoacoustic tomography photoacoustic reconstruction",
+    "score": 12,
+    "reasons": [
+      "manual-science-doi-seed",
+      "Science Partner Journal publication",
+      "sparse-sampling optoacoustic tomography",
+      "diffusion-based image reconstruction",
+      "title, DOI, publication date, and article status verified from official BME Frontiers pages"
+    ],
+    "topics": [
+      "optoacoustic tomography",
+      "photoacoustic reconstruction",
+      "sparse-sampling imaging",
+      "diffusion model",
+      "edge-aware reconstruction"
+    ],
+    "status": "metadata-partially-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-candidates-pending-full-author-list",
+    "summary_en": "An edge-aware short-chain diffusion approach for high-fidelity reconstruction in sparse-sampling optoacoustic tomography.",
+    "needs_metadata_verification": true,
+    "metadata_verified_from": "Official BME Frontiers article and Articles in Press pages; accessible metadata truncates two author names",
+    "sources": [
+      "https://spj.science.org/doi/10.34133/bmef.0292",
+      "https://spj.science.org/aip/bmef",
+      "https://doi.org/10.34133/bmef.0292"
+    ],
+    "last_verified": "2026-07-18"
+  },
+  {
+    "id": "arxiv2606-09197-compact-or-pam-reflective-objective-transducer",
+    "title": "Compact Optical-Resolution Photoacoustic Microscopy System with Reflective Objective-Based Transducer Integration",
+    "authors": "Albano Tabacchi; Bhanu Pratap Singh; Michael Jaeger; Damien Guignet; Mirjam Schenk; Pavel Subochev; Martin Frenz; Andre Stefanov",
+    "year": 2026,
+    "publication_date": "2026-06-08",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2606.09197",
+    "primary_url": "https://arxiv.org/abs/2606.09197",
+    "pdf_url": "https://arxiv.org/pdf/2606.09197",
+    "source": "Manual-arXiv-DOI-seed",
+    "matched_query": "compact optical-resolution photoacoustic microscopy reflective objective transducer integration OR-PAM optical acoustic confocal",
+    "score": 11,
+    "reasons": [
+      "manual-arxiv-doi-seed",
+      "direct optical-acoustic imaging system",
+      "reflective-objective transducer integration",
+      "photoacoustic microscopy",
+      "authoritative metadata verified from the official arXiv record"
+    ],
+    "topics": [
+      "optical-resolution photoacoustic microscopy",
+      "optoacoustic imaging",
+      "reflective objective",
+      "PVDF transducer",
+      "optical-acoustic integration",
+      "biomedical microscopy"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "A compact reflection-mode OR-PAM system that places a large-area PVDF transducer within the obscuration zone of a reflective objective, preserving optical performance while improving acoustic collection. The system demonstrates 0.67 micrometer lateral resolution and label-free melanin imaging in tumor sections.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv record",
+    "sources": [
+      "https://arxiv.org/abs/2606.09197",
+      "https://doi.org/10.48550/arXiv.2606.09197"
+    ],
+    "last_verified": "2026-07-18"
   }
 ]
