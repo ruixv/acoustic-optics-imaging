@@ -5,6 +5,10 @@ This is intentionally conservative: manual DOI seeds are not promoted directly.
 They enter data/candidates.json with explicit metadata-pending status, then the
 normal audit and future metadata-resolution passes can upgrade them once ACM,
 Crossref, OpenAlex, DBLP, or other authoritative sources expose full metadata.
+
+The loader accepts the canonical data/manual_doi_seeds.json file and dated
+incremental files named data/manual_doi_seeds_*.json. This avoids risky
+whole-file replacement when adding newly verified records.
 """
 from __future__ import annotations
 import datetime as dt
@@ -15,7 +19,7 @@ from typing import Any, Dict, List
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'data'
-SEEDS = DATA / 'manual_doi_seeds.json'
+SEED_FILES = sorted(DATA.glob('manual_doi_seeds*.json'))
 CANDIDATES = DATA / 'candidates.json'
 PAPERS = DATA / 'papers.json'
 FOCUS = DATA / 'focus_papers.json'
@@ -59,7 +63,13 @@ def normalize_seed(seed: Dict[str, Any]) -> Dict[str, Any]:
 
 
 def main() -> int:
-    seeds: List[Dict[str, Any]] = load(SEEDS, [])
+    seeds: List[Dict[str, Any]] = []
+    for seed_file in SEED_FILES:
+        loaded = load(seed_file, [])
+        if not isinstance(loaded, list):
+            raise ValueError(f'{seed_file} must contain a JSON list')
+        seeds.extend(loaded)
+
     candidates: List[Dict[str, Any]] = load(CANDIDATES, [])
     verified = load(PAPERS, []) + load(FOCUS, []) + load(MMWAVE, [])
 
@@ -89,12 +99,17 @@ def main() -> int:
     log = load(LOG, {})
     log.update({
         'manual_doi_seed_last_run': dt.datetime.now(dt.timezone.utc).isoformat(),
+        'manual_doi_seed_file_count': len(SEED_FILES),
+        'manual_doi_seed_files': [path.name for path in SEED_FILES],
         'manual_doi_seed_count': len(seeds),
         'manual_doi_seed_added': added,
         'manual_doi_seed_updated': updated,
     })
     dump(LOG, log)
-    print(f'manual DOI seeds merged: {added} added, {updated} updated, {len(seeds)} configured')
+    print(
+        f'manual DOI seeds merged: {added} added, {updated} updated, '
+        f'{len(seeds)} configured across {len(SEED_FILES)} files'
+    )
     return 0
 
 
