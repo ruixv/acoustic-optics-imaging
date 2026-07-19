@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-19T03:55:23.681902+00:00",
+  "last_run": "2026-07-19T07:02:03.682947+00:00",
   "since_date": "2024-07-19",
   "raw_candidates_seen": 1756,
   "saved_candidates_total": 472,
@@ -267,15 +267,16 @@
     }
   ],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
-  "manual_doi_seed_last_run": "2026-07-19T03:55:23.778029+00:00",
-  "manual_doi_seed_file_count": 3,
+  "manual_doi_seed_last_run": "2026-07-19T07:02:03.783363+00:00",
+  "manual_doi_seed_file_count": 4,
   "manual_doi_seed_files": [
     "manual_doi_seeds.json",
     "manual_doi_seeds_2026-07-19.json",
-    "manual_doi_seeds_2026-07-19_0054Z.json"
+    "manual_doi_seeds_2026-07-19_0054Z.json",
+    "manual_doi_seeds_2026-07-19_0653Z.json"
   ],
-  "manual_doi_seed_count": 14,
-  "manual_doi_seed_added": 0,
+  "manual_doi_seed_count": 18,
+  "manual_doi_seed_added": 4,
   "manual_doi_seed_updated": 12,
   "mmwave_seed_queries": [
     "high resolution handheld millimeter wave imaging phase error estimation compensation",
@@ -298,7 +299,7 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-07-19T03:55:59.318079+00:00",
+  "agent_audit_last_run": "2026-07-19T07:02:34.567188+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 1,
   "resolved_final_versions": 27,
