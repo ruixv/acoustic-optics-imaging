@@ -1,0 +1,88 @@
+[
+  {
+    "id": "elsevier-apacoust111341-dost-time-domain-pnah",
+    "title": "Time-domain broadband planar nearfield acoustic holography based on the discrete orthonormal stockwell transform",
+    "authors": "Hefeng Zhou; Kun Song; Haoran Gu; Yongxian Wang; Pan Xu; Yun Zhao",
+    "year": 2026,
+    "publication_date": "2026-07-05",
+    "venue": "Applied Acoustics 251, 111341",
+    "venue_group": "Elsevier / Applied Acoustics",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.apacoust.2026.111341",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S0003682X26001222",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "time-domain broadband planar nearfield acoustic holography DOST sound field reconstruction",
+    "score": 12,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed acoustic holography research",
+      "time-domain sound-field reconstruction",
+      "broadband nonstationary acoustic imaging",
+      "authoritative metadata verified from Elsevier ScienceDirect"
+    ],
+    "topics": [
+      "nearfield acoustic holography",
+      "time-domain acoustic imaging",
+      "sound field reconstruction",
+      "discrete orthonormal Stockwell transform",
+      "broadband acoustics",
+      "nonstationary sound visualization"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "A broadband time-domain planar nearfield acoustic holography method based on the discrete orthonormal Stockwell transform. It reconstructs nonstationary sound fields jointly across space, time, and one-third-octave bands while substantially reducing storage and computation relative to STFT-based time-domain PNAH, with numerical and engine/tire experiments.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Elsevier / ScienceDirect version-of-record page",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0003682X26001222",
+      "https://doi.org/10.1016/j.apacoust.2026.111341"
+    ],
+    "last_verified": "2026-07-19"
+  },
+  {
+    "id": "elsevier-pacs100827-realtime-photoacoustic-ar-guidance",
+    "title": "Real-time photoacoustic imaging with freehand light delivery and augmented reality guidance",
+    "authors": "Junhao Zhang; Cynthia Li; Muyinatu A. Lediju Bell",
+    "year": 2026,
+    "publication_date": "2026-04-28",
+    "issue_date": "2026-08",
+    "venue": "Photoacoustics 50, 100827",
+    "venue_group": "Elsevier / Photoacoustics",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.pacs.2026.100827",
+    "primary_url": "https://pubmed.ncbi.nlm.nih.gov/42255998/",
+    "source": "Manual-PubMed-Elsevier-DOI-seed",
+    "matched_query": "real-time photoacoustic imaging augmented reality freehand light delivery ultrasound transducer tracking",
+    "score": 12,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed photoacoustic imaging research",
+      "optical source and ultrasound receiver spatial registration",
+      "augmented-reality-guided acoustic-optical imaging",
+      "authoritative metadata verified from PubMed and Elsevier"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "augmented reality guidance",
+      "freehand light delivery",
+      "ultrasound transducer tracking",
+      "acoustic-optical registration",
+      "surgical guidance"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "A real-time augmented-reality guidance system that jointly tracks a freehand laser source and ultrasound transducer for photoacoustic imaging. The system renders the laser beam and live acoustic image in a shared spatial frame, reducing mean static targeting error by 58% and enabling tissue-hidden vessel visualization for surgical guidance.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PubMed / NCBI and Elsevier Photoacoustics",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42255998/",
+      "https://www.sciencedirect.com/science/article/pii/S2213597926000339",
+      "https://doi.org/10.1016/j.pacs.2026.100827"
+    ],
+    "last_verified": "2026-07-19"
+  }
+]
