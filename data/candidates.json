@@ -803,60 +803,6 @@
     }
   },
   {
-    "id": "2026-three-dimensional-aperture-driven-photoacoustic-tomography-3d-adpat-d6f644cc6a4f",
-    "title": "Three-dimensional aperture-driven photoacoustic tomography (3D-ADPAT)",
-    "authors": "Xuanhao Wang; Yang Xiao; Yuqi Wang; Xiali Gao; Yongdu Ruan; X Y Yang; Yiyin Su; Dikui Zhou; Xiangdi Li; Yuqian Meng; Zhibo Xiao; Fan Meng; et al.",
-    "year": 2026,
-    "publication_date": "2026-06-26",
-    "venue": "Science Advances",
-    "doi": "10.1126/sciadv.aeb7362",
-    "primary_url": "https://doi.org/10.1126/sciadv.aeb7362",
-    "pdf_url": "https://doi.org/10.1126/sciadv.aeb7362",
-    "source": "OpenAlex cited-by",
-    "matched_query": "cites core: A fast all-optical 3D photoacoustic scanner for clinical vascular imaging",
-    "score": 15,
-    "reasons": [
-      "top-venue",
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "recent",
-      "cites-core-paper"
-    ],
-    "status": "agent-watchlist",
-    "cites_core": true,
-    "cited_core_paper": "huynh2025-all-optical-3d-photoacoustic-scanner",
-    "cited_core_title": "A fast all-optical 3D photoacoustic scanner for clinical vascular imaging",
-    "cited_core_doi": "10.1038/s41551-024-01247-x",
-    "citation_source": "OpenAlex cited-by graph",
-    "metadata_verified_from": "OpenAlex",
-    "first_seen": "2026-06-27",
-    "last_seen": "2026-06-27",
-    "times_seen": 2,
-    "venue_group": "Science family",
-    "topics": [
-      "photoacoustic imaging",
-      "3D reconstruction"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.75,
-      "checks": {
-        "track": "main",
-        "primary_scope": false,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
     "id": "2026-de-aberration-for-noninvasive-transcranial-photoacoustic-computed-tomograph-a17e4dd4f33f",
     "title": "De-aberration for noninvasive transcranial photoacoustic computed tomography through an adult human skull",
     "authors": "Yousuf Aborahama; Karteekeya Sastry; Manxiu Cui; Yang Zhang; Yilin Luo; Rui Cao; Geng Ku; Jigmi Basumatary; Junhao Zhu; Siying Kong; Lihong V. Wang",
@@ -1174,6 +1120,77 @@
     }
   },
   {
+    "id": "science-advances2026-3d-adpat",
+    "title": "Three-dimensional aperture-driven photoacoustic tomography (3D-ADPAT)",
+    "authors": "Xuanhao Wang; Yang Xiao; Yuqi Wang; Xiali Gao; Yongdu Ruan; Xiaohui Yang; Yiyin Su; Dikui Zhou; Xiangdi Li; Yuqian Meng; Zhibo Xiao; Fan Meng; Ruofan Wang; Junhui Shi",
+    "year": 2026,
+    "publication_date": "2026-06-26",
+    "venue": "Science Advances 12(26), eaeb7362",
+    "doi": "10.1126/sciadv.aeb7362",
+    "primary_url": "https://www.science.org/doi/10.1126/sciadv.aeb7362",
+    "pdf_url": "https://doi.org/10.1126/sciadv.aeb7362",
+    "source": "Manual-Science-Advances-DOI-seed",
+    "matched_query": "three-dimensional aperture-driven photoacoustic tomography focused transducer phase-inverted reconstruction",
+    "score": 14,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed Science Advances photoacoustic tomography research",
+      "new acquisition and reconstruction architecture",
+      "authoritative DOI and publication metadata verified from Science Advances"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "huynh2025-all-optical-3d-photoacoustic-scanner",
+    "cited_core_title": "A fast all-optical 3D photoacoustic scanner for clinical vascular imaging",
+    "cited_core_doi": "10.1038/s41551-024-01247-x",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "Science Advances version-of-record metadata and the authors' Figshare research-data record",
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "times_seen": 1,
+    "venue_group": "Science family / Science Advances",
+    "topics": [
+      "photoacoustic tomography",
+      "3D photoacoustic imaging",
+      "aperture-driven reconstruction",
+      "focused ultrasound transducer",
+      "phase-inverted reconstruction",
+      "whole-body imaging",
+      "dynamic photoacoustic imaging"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.75,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "manual-doi-metadata-pending"
+      }
+    },
+    "venue_type": "journal article",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "3D-ADPAT combines a high-numerical-aperture focused ultrasonic detector with phase-inverted focusing-equivalent reconstruction to address the aperture-sensitivity trade-off in photoacoustic computed tomography. The paper reports improved resolution and contrast and demonstrates whole-body and dynamic volumetric imaging.",
+    "needs_metadata_verification": false,
+    "sources": [
+      "https://www.science.org/doi/10.1126/sciadv.aeb7362",
+      "https://doi.org/10.1126/sciadv.aeb7362",
+      "https://doi.org/10.6084/m9.figshare.c.8397414.v1"
+    ],
+    "last_verified": "2026-07-19",
+    "final_version_status": "manual-doi-metadata-pending"
+  },
+  {
     "id": "2026-ultraviolet-attenuation-absorption-microscopy-with-an-opto-acoustic-confoca-b894b68258eb",
     "title": "Ultraviolet attenuation–absorption microscopy with an opto-acoustic confocal dual-sensitive sensor and its application in pathological diagnosis",
     "authors": "Jiaye Xu; Tianxiang Zuo; Zha Yang; Yi Yang; Huang X; Runzhi Deng; Chao Tao; Yanhong Ni; Xiaojun Liu",
@@ -1224,6 +1241,135 @@
         "final_version_status": "not-needed"
       }
     }
+  },
+  {
+    "id": "science-advances2026-glymphatic-3d-paulm",
+    "title": "Noninvasive whole-brain imaging of glymphatic dynamics",
+    "authors": "Nanchao Wang; Xinyuan Yu; Matthew Lowerison; Qinzhe Li; Aidan J. Canning; Peibang He; Lihong Dang; S. Degan; B. Mace; Y. Xu; R. Yao; J. Li; T. Zhou; J. Luo; B.-Z. Lin; D. A. Turner; X. Liu; D. Ta; J. Lovell; T. Vo-Dinh; W. Feng; P. Song; W. Yang; J. Yao",
+    "year": 2026,
+    "publication_date": "2026-06-19",
+    "venue": "Science Advances 12(25), eaee4926",
+    "venue_group": "Science family / Science Advances",
+    "venue_type": "journal article",
+    "doi": "10.1126/sciadv.aee4926",
+    "primary_url": "https://www.science.org/doi/10.1126/sciadv.aee4926",
+    "source": "Manual-Science-Advances-Duke-DOI-seed",
+    "matched_query": "whole-brain glymphatic dynamics integrated photoacoustic tomography ultrasound localization microscopy 3D-PAULM",
+    "score": 14,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed Science Advances hybrid photoacoustic-ultrasound imaging",
+      "integrated volumetric photoacoustic tomography and ultrasound localization microscopy",
+      "authoritative metadata verified from Science DOI and Duke institutional records"
+    ],
+    "topics": [
+      "photoacoustic tomography",
+      "ultrasound localization microscopy",
+      "hybrid photoacoustic-ultrasound imaging",
+      "whole-brain imaging",
+      "super-resolution vasculature imaging",
+      "glymphatic imaging",
+      "NIR-II contrast"
+    ],
+    "status": "agent-watchlist",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "The 3D-PAULM platform integrates three-dimensional photoacoustic tomography with ultrasound localization microscopy and an NIR-II photoacoustic dye. It enables noninvasive intact-skull whole-brain imaging, combining super-resolution vascular mapping with sensitive tracing of glymphatic transport.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Science Advances DOI record, PubMed-indexed citation, and Duke institutional publication pages",
+    "sources": [
+      "https://www.science.org/doi/10.1126/sciadv.aee4926",
+      "https://pubmed.ncbi.nlm.nih.gov/42308292/",
+      "https://scholars.duke.edu/publication/1907646",
+      "https://doi.org/10.1126/sciadv.aee4926"
+    ],
+    "last_verified": "2026-07-19",
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "times_seen": 1,
+    "final_version_status": "manual-doi-metadata-pending",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.75,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "manual-doi-metadata-pending"
+      }
+    },
+    "track": "main"
+  },
+  {
+    "id": "science-advances2026-all-fiber-photoacoustic-endomicroscopy",
+    "title": "All-fiber photoacoustic endomicroscopy reveals layer-specific angiogenesis-oxygenation uncoupling in experimental colitis",
+    "authors": "Jinying Li; Junye Bi; Di Zhang; Sheng Zeng; Fuwuxing Liu; Peixuan Zou; Ying Shi; Pengqing Sun; Ziyi Ji; Hongxue Jiang; Jian Hong; Long Jin; Yizhi Liang; Wei Huang; Bai-Ou Guan",
+    "year": 2026,
+    "publication_date": "2026-05-15",
+    "venue": "Science Advances 12(20), eaec5942",
+    "venue_group": "Science family / Science Advances",
+    "venue_type": "journal article",
+    "doi": "10.1126/sciadv.aec5942",
+    "primary_url": "https://www.science.org/doi/10.1126/sciadv.aec5942",
+    "source": "Manual-Science-Advances-DOI-seed",
+    "matched_query": "all-fiber photoacoustic endomicroscopy fiber-optic ultrasound detection dual-wavelength oxygenation imaging",
+    "score": 14,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed Science Advances photoacoustic imaging research",
+      "all-fiber optical excitation and optical ultrasound detection",
+      "authoritative metadata verified from Science Advances"
+    ],
+    "topics": [
+      "photoacoustic endomicroscopy",
+      "fiber-optic ultrasound detection",
+      "dual-wavelength photoacoustic imaging",
+      "volumetric oxygenation mapping",
+      "biomedical acousto-optic imaging",
+      "endoscopic imaging"
+    ],
+    "status": "agent-watchlist",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "An all-fiber photoacoustic endomicroscopy platform combines high-density fiber-bundle scanning with broadband fiber-optic ultrasound detection for fast dual-wavelength volumetric oxygenation mapping. The system achieves micrometer-scale resolution and reveals layer-specific vascular and metabolic changes in experimental colitis.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Science Advances version-of-record page",
+    "sources": [
+      "https://www.science.org/doi/10.1126/sciadv.aec5942",
+      "https://doi.org/10.1126/sciadv.aec5942"
+    ],
+    "last_verified": "2026-07-19",
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "times_seen": 1,
+    "final_version_status": "manual-doi-metadata-pending",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.75,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "manual-doi-metadata-pending"
+      }
+    },
+    "track": "main"
   },
   {
     "id": "2026-photoacoustic-imaging-for-women-s-gynecological-health-advances-and-clinica-f8f11847c41e",
@@ -2130,6 +2276,71 @@
         "final_version_status": "not-needed"
       }
     }
+  },
+  {
+    "id": "nature-scidata2026-maoud-acousto-optic-dataset",
+    "title": "A Multimodal Acousto-Optic Dataset for Underwater Image Enhancement, Detection, and Reconstruction",
+    "authors": "Xuanhe Chu; Shijian Zhou; Junwen Tian; Dehua Zou; Xinyu Zhao; Ruixue Wang; Bin Cheng; Yuhan Dong; Songhao Zhao; Han Chen; Zhiying Jiang; Jie An; Minyi Xu; Xianping Fu; Siyuan Liu",
+    "year": 2026,
+    "publication_date": "2026-04-06",
+    "venue": "Scientific Data 13, 822",
+    "venue_group": "Nature Portfolio / Scientific Data",
+    "venue_type": "data descriptor",
+    "doi": "10.1038/s41597-026-07116-3",
+    "primary_url": "https://www.nature.com/articles/s41597-026-07116-3",
+    "source": "Manual-Nature-Portfolio-DOI-seed",
+    "matched_query": "multimodal acousto-optic dataset underwater image enhancement detection reconstruction camera laser multibeam sonar",
+    "score": 13,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed Nature Portfolio acousto-optic dataset",
+      "synchronized camera laser and multibeam-sonar acquisition",
+      "supports underwater enhancement detection and 3D reconstruction",
+      "authoritative metadata verified from Nature"
+    ],
+    "topics": [
+      "acoustic-optical imaging",
+      "camera-sonar fusion",
+      "multibeam sonar",
+      "underwater multimodal dataset",
+      "laser point clouds",
+      "underwater 3D reconstruction",
+      "acoustic image enhancement"
+    ],
+    "status": "agent-watchlist",
+    "relevance": "core",
+    "paper_type": "data descriptor",
+    "recommendation": "add-to-main-library",
+    "summary_en": "MAOUD provides synchronized optical RGB images, multibeam-sonar images and videos, laser point clouds, annotations, sensor extrinsics, and reconstruction-ready sequences acquired with an integrated image-laser-sonar platform. The dataset directly supports acoustic-optical enhancement, detection, and underwater 3D reconstruction research.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Nature Portfolio Scientific Data version-of-record page",
+    "sources": [
+      "https://www.nature.com/articles/s41597-026-07116-3",
+      "https://doi.org/10.1038/s41597-026-07116-3"
+    ],
+    "last_verified": "2026-07-19",
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "times_seen": 1,
+    "final_version_status": "manual-doi-metadata-pending",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.75,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "manual-doi-metadata-pending"
+      }
+    },
+    "track": "main"
   },
   {
     "id": "springer-ijcas2026-two-stage-probabilistic-sonar-optical-fusion",
@@ -4064,7 +4275,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-07-19",
-    "times_seen": 198,
+    "times_seen": 200,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -4114,7 +4325,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-27",
     "last_seen": "2026-07-19",
-    "times_seen": 190,
+    "times_seen": 192,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -5155,7 +5366,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-27",
     "last_seen": "2026-07-19",
-    "times_seen": 188,
+    "times_seen": 190,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -8813,7 +9024,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-07-19",
-    "times_seen": 101,
+    "times_seen": 102,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -9263,7 +9474,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-07-19",
-    "times_seen": 100,
+    "times_seen": 101,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -9377,61 +9588,6 @@
       "confidence": 0.72,
       "checks": {
         "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2025-a-240-elements-matrix-probe-with-aberration-mask-for-4d-carotid-artery-comp-9799317c2136",
-    "title": "A 240-Element Matrix Probe With Aberration Mask for 4-D Carotid Artery Computational Ultrasound Imaging",
-    "authors": "Yuyang Hu; Michael Brown; Didem Dogan; Mahé Bulot; Maxime Cheppe; Guillaume Ferin; Geert Leus; Antonius F. W. van der Steen; Pieter Kruizinga; Johannes G. Bosch",
-    "year": 2026,
-    "publication_date": "2026-03-01",
-    "venue": "IEEE Transactions on Ultrasonics",
-    "doi": "10.1109/tuson.2025.3648199",
-    "primary_url": "https://doi.org/10.1109/tuson.2025.3648199",
-    "pdf_url": "https://arxiv.org/pdf/2508.10527v2",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-07-19",
-    "last_seen": "2026-07-19",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 0.99,
-    "sources": [
-      "https://doi.org/10.1109/tuson.2025.3648199",
-      "http://arxiv.org/abs/2508.10527v2",
-      "https://arxiv.org/pdf/2508.10527v2"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "main",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -10562,7 +10718,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-07-19",
-    "times_seen": 101,
+    "times_seen": 102,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -15997,7 +16153,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-07-19",
-    "times_seen": 687,
+    "times_seen": 693,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction",
@@ -16043,7 +16199,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-07-19",
-    "times_seen": 643,
+    "times_seen": 649,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction",
@@ -16089,7 +16245,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-07-19",
-    "times_seen": 389,
+    "times_seen": 392,
     "venue_group": "Science family",
     "topics": [
       "mmWave radar imaging"
@@ -16134,7 +16290,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-03",
     "last_seen": "2026-07-19",
-    "times_seen": 575,
+    "times_seen": 580,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -16179,7 +16335,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-10",
     "last_seen": "2026-07-19",
-    "times_seen": 325,
+    "times_seen": 330,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -16224,7 +16380,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-10",
     "last_seen": "2026-07-19",
-    "times_seen": 262,
+    "times_seen": 267,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -16270,7 +16426,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-11",
     "last_seen": "2026-07-19",
-    "times_seen": 252,
+    "times_seen": 258,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -16316,7 +16472,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-19",
-    "times_seen": 72,
+    "times_seen": 78,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction"
@@ -16361,7 +16517,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-07-19",
-    "times_seen": 463,
+    "times_seen": 464,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction"
@@ -16453,7 +16609,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-16",
     "last_seen": "2026-07-19",
-    "times_seen": 351,
+    "times_seen": 366,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging",
@@ -16613,7 +16769,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-07",
     "last_seen": "2026-07-19",
-    "times_seen": 59,
+    "times_seen": 60,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -16974,61 +17130,6 @@
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
-      }
-    }
-  },
-  {
-    "id": "2025-multiharmonic-algorithms-for-contrast-enhanced-ultrasound-97c6df81eef4",
-    "title": "Multiharmonic Algorithms for Contrast-Enhanced Ultrasound",
-    "authors": "Vanja Nikolić; Teresa Rauscher",
-    "year": 2026,
-    "publication_date": "2026-05-01",
-    "venue": "Journal of Scientific Computing",
-    "doi": "10.1007/s10915-026-03247-2",
-    "primary_url": "https://doi.org/10.1007/s10915-026-03247-2",
-    "pdf_url": "https://arxiv.org/pdf/2504.13335v2",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-07-19",
-    "last_seen": "2026-07-19",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1007/s10915-026-03247-2",
-      "http://arxiv.org/abs/2504.13335v2",
-      "https://arxiv.org/pdf/2504.13335v2"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -18147,115 +18248,6 @@
     }
   },
   {
-    "id": "2025-us-x-complete-a-multi-modal-approach-to-anatomical-3d-shape-recovery-c00166ed7122",
-    "title": "US-X Complete: A Multi-modal Approach to Anatomical 3D Shape Recovery",
-    "authors": "Miruna-Alexandra Gafencu; Yordanka Velikova; Nassir Navab; Mohammad Farid Azampour",
-    "year": 2026,
-    "publication_date": "2026-01-01",
-    "venue": "Lecture Notes in Computer Science Shape in Medical Imaging",
-    "doi": "10.1007/978-3-032-06774-6_17",
-    "primary_url": "https://doi.org/10.1007/978-3-032-06774-6_17",
-    "pdf_url": "https://arxiv.org/pdf/2511.15600v1",
-    "source": "Crossref-final-version",
-    "matched_query": "coded acoustic imaging computational acoustics",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-07-19",
-    "last_seen": "2026-07-19",
-    "times_seen": 1,
-    "venue_group": "Science family",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1007/978-3-032-06774-6_17",
-      "http://arxiv.org/abs/2511.15600v1",
-      "https://arxiv.org/pdf/2511.15600v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2025-optimization-based-calibration-for-intravascular-ultrasound-volume-reconstr-b9c6535b4518",
-    "title": "Optimization-Based Calibration for Intravascular Ultrasound Volume Reconstruction",
-    "authors": "Karl-Philippe Beaudet; Sidaty El Hadramy; Philippe C. Cattin; Juan Verde; Stéphane Cotin",
-    "year": 2026,
-    "publication_date": "2026-01-01",
-    "venue": "Lecture Notes in Computer Science Simplifying Medical Ultrasound",
-    "doi": "10.1007/978-3-032-06329-8_6",
-    "primary_url": "https://doi.org/10.1007/978-3-032-06329-8_6",
-    "pdf_url": "https://arxiv.org/pdf/2508.20605v1",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-07-19",
-    "last_seen": "2026-07-19",
-    "times_seen": 1,
-    "venue_group": "Science family",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1007/978-3-032-06329-8_6",
-      "http://arxiv.org/abs/2508.20605v1",
-      "https://arxiv.org/pdf/2508.20605v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
     "id": "2025-quasi-optical-millimeter-wave-filters-fabricated-using-copper-coated-perfor-87637b106ce6",
     "title": "Quasi Optical Millimeter Wave Filters Fabricated Using Copper Coated Perforated Brass Sheet",
     "authors": "Sambit Kumar Ghosh; Ethan Kepros; Premjeet Chahal",
@@ -18924,61 +18916,6 @@
     }
   },
   {
-    "id": "2024-high-quality-passive-acoustic-mapping-with-the-cross-correlated-angular-spe-7187da195da1",
-    "title": "High-Quality Passive Acoustic Mapping With the Cross-Correlated Angular Spectrum Method",
-    "authors": "Yi Zeng; Shixiao W. Jiang; Hui Zhu; Jinwei Li; Jianfeng Li; Fei Li; Shukuan Lu; Xiran Cai",
-    "year": 2025,
-    "publication_date": "2025-10-01",
-    "venue": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
-    "doi": "10.1109/tuffc.2025.3586460",
-    "primary_url": "https://doi.org/10.1109/tuffc.2025.3586460",
-    "pdf_url": "https://arxiv.org/pdf/2412.02413v1",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-07-19",
-    "last_seen": "2026-07-19",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/tuffc.2025.3586460",
-      "http://arxiv.org/abs/2412.02413v1",
-      "https://arxiv.org/pdf/2412.02413v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
     "id": "2025-llm4mg-adapting-large-language-model-for-multipath-generation-via-synesthes-568b347e52ad",
     "title": "LLM4MG: Adapting Large Language Model for Multipath Generation via Synesthesia of Machines",
     "authors": "Ziwei Huang; Shiliang Lu; Lu Bai; Xuesong Cai; Xiang Cheng",
@@ -19302,61 +19239,6 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-07-19",
-    "last_seen": "2026-07-19",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 0.996,
-    "sources": [
-      "https://doi.org/10.1109/tvlsi.2025.3559403",
-      "http://arxiv.org/abs/2509.03201v1",
-      "https://arxiv.org/pdf/2509.03201v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2025-capsbeam-accelerating-capsule-network-based-beamformer-for-ultrasound-non-s-f4919b35e0e8",
-    "title": "CapsBeam: Accelerating Capsule Network-Based Beamformer for Ultrasound Nonsteered Plane-Wave Imaging on Field-Programmable Gate Array",
-    "authors": "Abdul Rahoof; Vivek Chaturvedi; Mahesh Raveendranatha Panicker; Muhammad Shafique",
-    "year": 2025,
-    "publication_date": "2025-07-01",
-    "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
-    "doi": "10.1109/tvlsi.2025.3559403",
-    "primary_url": "https://doi.org/10.1109/tvlsi.2025.3559403",
-    "pdf_url": "https://arxiv.org/pdf/2509.03201v1",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
     "times_seen": 1,
@@ -19651,60 +19533,6 @@
     }
   },
   {
-    "id": "2024-a-roadmap-to-holographic-focused-ultrasound-approaches-to-generate-thermal-be1af410621c",
-    "title": "A Roadmap to Holographic Focused Ultrasound Approaches for Generating Gradient Thermal Patterns",
-    "authors": "Ceren Cengiz; Zekeriya Ender Eger; Mihir Pewekar; Pinar Acar; Wynn Legon; Shima Shahab",
-    "year": 2025,
-    "publication_date": "2025-06-01",
-    "venue": "International Journal for Numerical Methods in Biomedical Engineering",
-    "doi": "10.1002/cnm.70055",
-    "primary_url": "https://doi.org/10.1002/cnm.70055",
-    "pdf_url": "https://arxiv.org/pdf/2409.01323v1",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "primary imaging/radar term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-07-19",
-    "last_seen": "2026-07-19",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 0.921,
-    "sources": [
-      "https://doi.org/10.1002/cnm.70055",
-      "http://arxiv.org/abs/2409.01323v1",
-      "https://arxiv.org/pdf/2409.01323v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
     "id": "2025-the-application-of-acoustics-for-sample-manipulation-and-delivery-at-x-ray-f83e98824525",
     "title": "The application of acoustics for sample manipulation and delivery at X-Ray Light Sources",
     "authors": "Peter Docker; Danny Axford; Mark R. Warren; Beth Galtry; Mark D. Frogley; Gianfelice Cinque; Gabriel Leen; Nikolay G. Pavlov; Romain Bordes",
@@ -19909,61 +19737,6 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2025-spatiotemporal-learning-with-context-aware-video-tubelets-for-ultrasound-vi-2d411e66ce88",
-    "title": "Spatiotemporal Learning with Context-Aware Video Tubelets for Ultrasound Video Analysis",
-    "authors": "Gary Y. Li; Li Chen; Bryson Hicks; Nikolai Schnittke; David O. Kessler; Jeffrey Shunp; Maria Parker; Cristiana Baloescu; Christopher Moore; Cynthia Gregory; Kenton Gregory; Balasundar Raju; Jochen Kruecker; Alvin Chen",
-    "year": 2025,
-    "publication_date": "2025-04-14",
-    "venue": "2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)",
-    "doi": "10.1109/isbi60581.2025.10981242",
-    "primary_url": "https://doi.org/10.1109/isbi60581.2025.10981242",
-    "pdf_url": "https://arxiv.org/pdf/2503.17475v1",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-07-19",
-    "last_seen": "2026-07-19",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/isbi60581.2025.10981242",
-      "http://arxiv.org/abs/2503.17475v1",
-      "https://arxiv.org/pdf/2503.17475v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -20806,7 +20579,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-07-19",
-    "times_seen": 102,
+    "times_seen": 103,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -21456,7 +21229,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-07",
     "last_seen": "2026-07-19",
-    "times_seen": 148,
+    "times_seen": 150,
     "venue_group": "Science family",
     "topics": [
       "vectorial",
@@ -22414,63 +22187,6 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2026-nas-gs-noise-aware-sonar-gaussian-splatting-d1d55a81921c",
-    "title": "NAS-GS: Noise-Aware Sonar Gaussian Splatting",
-    "authors": "Shida Xu; Jingqi Jiang; Jonatan Scharff Willners; Sen Wang",
-    "year": 2026,
-    "publication_date": "2026-08-01",
-    "venue": "IEEE Robotics and Automation Letters",
-    "doi": "10.1109/lra.2026.3706932",
-    "primary_url": "https://doi.org/10.1109/lra.2026.3706932",
-    "pdf_url": "https://arxiv.org/pdf/2601.06285v1",
-    "source": "Crossref-final-version",
-    "matched_query": "NAS-GS noise-aware sonar Gaussian splatting",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-07-19",
-    "last_seen": "2026-07-19",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/lra.2026.3706932",
-      "http://arxiv.org/abs/2601.06285v1",
-      "https://arxiv.org/pdf/2601.06285v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "noise",
-      "aware",
-      "sonar",
-      "Gaussian"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "reject-like",
-      "confidence": 0.2,
-      "checks": {
-        "track": "main",
-        "primary_scope": false,
-        "core_term": true,
-        "imaging_term": false,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -25402,8 +25118,8 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-07-19",
-    "last_seen": "2026-07-19",
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-06-28",
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
@@ -25442,12 +25158,12 @@
   {
     "id": "2026-acoustic-cloning-0a3f9d638876",
     "title": "Acoustic cloning",
-    "authors": "Jonas Müller; Theodor S. Becker; Xun Li; Johannes Aichele; Marc Serra-Garcia; Johan O.A. Robertsson; Dirk-Jan van Manen",
+    "authors": "Dirk-Jan van Manen; Jonas Müller; Theodor Becker; Xun Li; Johannes Aichele; Marc Serra-Garcia; Johan Robertsson",
     "year": 2023,
-    "publication_date": "2023-12-08",
-    "venue": "Physical Review Applied",
-    "doi": "10.1103/physrevapplied.20.064014",
-    "primary_url": "https://doi.org/10.1103/physrevapplied.20.064014",
+    "publication_date": "2023-10-01",
+    "venue": "The Journal of the Acoustical Society of America",
+    "doi": "10.1121/10.0023109",
+    "primary_url": "https://doi.org/10.1121/10.0023109",
     "pdf_url": "https://arxiv.org/pdf/2606.08614v1",
     "source": "Crossref-final-version",
     "matched_query": "acoustic cloning holographic scattering object",
@@ -25458,14 +25174,14 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-06-28",
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
     "final_version_similarity": 1.0,
     "sources": [
-      "https://doi.org/10.1103/physrevapplied.20.064014",
+      "https://doi.org/10.1121/10.0023109",
       "http://arxiv.org/abs/2606.08614v1",
       "https://arxiv.org/pdf/2606.08614v1"
     ],

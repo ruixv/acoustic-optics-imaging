@@ -1,10 +1,115 @@
 {
-  "last_run": "2026-07-19T13:55:13.447601+00:00",
+  "last_run": "2026-07-19T19:00:21.063322+00:00",
   "since_date": "2024-07-19",
-  "raw_candidates_seen": 1782,
-  "saved_candidates_total": 489,
+  "raw_candidates_seen": 1630,
+  "saved_candidates_total": 479,
   "citation_graph_seed_count": 50,
   "errors": [
+    {
+      "source": "arXiv",
+      "query": "coded acoustic imaging computational acoustics",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22coded%22+AND+all%3A%22acoustic%22+AND+all%3A%22imaging%22+AND+all%3A%22computational%22+AND+all%3A%22acoustics%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "computational ultrasound complex fields imaging",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22computational%22+AND+all%3A%22ultrasound%22+AND+all%3A%22complex%22+AND+all%3A%22fields%22+AND+all%3A%22imaging%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "acousto-optic imaging speckle decorrelation",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22acousto-optic%22+AND+all%3A%22imaging%22+AND+all%3A%22speckle%22+AND+all%3A%22decorrelation%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "photoacoustic imaging acoustic hologram",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22photoacoustic%22+AND+all%3A%22imaging%22+AND+all%3A%22acoustic%22+AND+all%3A%22hologram%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "NAS-GS noise-aware sonar Gaussian splatting",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22NAS-GS%22+AND+all%3A%22noise-aware%22+AND+all%3A%22sonar%22+AND+all%3A%22Gaussian%22+AND+all%3A%22splatting%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "circular synthetic aperture sonar shadows 3D reconstruction",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22circular%22+AND+all%3A%22synthetic%22+AND+all%3A%22aperture%22+AND+all%3A%22sonar%22+AND+all%3A%22shadows%22+AND+all%3A%22reconstruction%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "differentiable structural optimization acoustic holography",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22differentiable%22+AND+all%3A%22structural%22+AND+all%3A%22optimization%22+AND+all%3A%22acoustic%22+AND+all%3A%22holography%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "skull-conforming acoustic holographic lenses",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22skull-conforming%22+AND+all%3A%22acoustic%22+AND+all%3A%22holographic%22+AND+all%3A%22lenses%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "vectorial acoustic multiplexed holography",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22vectorial%22+AND+all%3A%22acoustic%22+AND+all%3A%22multiplexed%22+AND+all%3A%22holography%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "compact optical-resolution photoacoustic microscopy reflective objective transducer",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22compact%22+AND+all%3A%22optical-resolution%22+AND+all%3A%22photoacoustic%22+AND+all%3A%22microscopy%22+AND+all%3A%22reflective%22+AND+all%3A%22objective%22+AND+all%3A%22transducer%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging CVPR",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22CVPR%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging ICCV",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ICCV%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging NeurIPS",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22NeurIPS%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging ECCV",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ECCV%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging ICLR",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ICLR%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging ICML",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ICML%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging ICCP",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ICCP%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging MobiSys",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22MobiSys%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging MobiCom",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22MobiCom%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging SenSys",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22SenSys%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging TPAMI",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22TPAMI%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
     {
       "source": "arXiv",
       "query": "mmWave radar imaging TOG",
@@ -91,6 +196,256 @@
       "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22Nature%22+AND+all%3A%22Portfolio%22+AND+all%3A%22Communications%22+AND+all%3A%22Engineering%22+AND+all%3A%22millimeter-wave%22+AND+all%3A%22imaging%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Non-contact Photoacoustic Imaging Empowered with PMUT Sensor and Refraction Correction",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW7167784465%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Neural Augmentation of MIMO-OFDM Receivers for Universal LLR Reconstruction",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=Neural+Augmentation+of+MIMO-OFDM+Receivers+for+Universal+LLR+Reconstruction&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Seafloor imagery with an advanced imaging sonar system",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW7165474147%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Single-View Seafloor Recovery from Imaging Sonar via Differentiable Rendering",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=Single-View+Seafloor+Recovery+from+Imaging+Sonar+via+Differentiable+Rendering&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Imaging hidden objects with consumer LiDAR via motion-induced sampling",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW7161825915%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Leveraging natural fluctuations for matrix-based aberration correction in photoacoustic imaging",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW7159676718%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Sub-acoustic resolution photoacoustic imaging through scattering layers using speckle correlations",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=Sub-acoustic+resolution+photoacoustic+imaging+through+scattering+layers+using+speckle+correlations&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: From Traditional Methods to Artificial Intelligence: A Review of Non-Line-of-Sight Analysis Techniques",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW7143284341%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Range-doppler algorithm of multireceiver synthetic aperture sonar using nonuniform signal",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW7140163174%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: SH-SAS: An Implicit Neural Representation for Complex Spherical-Harmonic Scattering Fields for 3D Synthetic Aperture Sonar",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4415087812%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Towards Versatile Opti-Acoustic Sensor Fusion and Volumetric Mapping",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=Towards+Versatile+Opti-Acoustic+Sensor+Fusion+and+Volumetric+Mapping&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Non-convex <i>ℓ</i> <sub>1</sub> -Cauchy hybrid penalty for sparse sound field reconstruction",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW7134983105%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: mmE-Loc: Facilitating Accurate Drone Landing With Ultra-High-Frequency Localization",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW7130562114%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Adaptive Path Planning for Autonomous Underwater Vehicle (AUV) Based on Spatio-Temporal Graph Neural Networks and Conditional Normalizing Flow Probabilistic Reconstruction",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW7128600765%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Noninvasive photoacoustic computed mesoscopy for longitudinal brain imaging",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW7127576892%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: GPAIR: Gaussian-Kernel-Based Ultrafast 3D Photoacoustic Iterative Reconstruction",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=GPAIR%3A+Gaussian-Kernel-Based+Ultrafast+3D+Photoacoustic+Iterative+Reconstruction&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Underwater Target Tracking Based on Acoustic-Optical Fusion for Multi-AUV Systems",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW7131284932%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Splatting SA: Direct Rendering of Synthetic Aperture Imagery",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW7123350814%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Focus Improvement of Multireceiver SAS Based on Range-Doppler Algorithm",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW7128820596%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: TwinFocus: Autofocus for Handheld mmWave SAR Imaging via Physical and Digital Twin References",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=TwinFocus%3A+Autofocus+for+Handheld+mmWave+SAR+Imaging+via+Physical+and+Digital+Twin+References&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Hybrid ResNet–UNet method for multi-parameter acoustic hologram",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4417324016%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: SlingBAG: point cloud-based iterative algorithm for large-scale 3D photoacoustic imaging",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4417077066%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Photoacoustic microscopy with meta-optics",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4416389353%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Wave-Former: Through-Occlusion 3D Reconstruction via Wireless Shape Completion",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=Wave-Former%3A+Through-Occlusion+3D+Reconstruction+via+Wireless+Shape+Completion&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: RISE: Single Static Radar-based Indoor Scene Understanding",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=RISE%3A+Single+Static+Radar-based+Indoor+Scene+Understanding&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Ultrasound synthetic aperture non-line-of-sight imaging",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4416291893%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Explainable machine learning for bathymetric mapping: adaptive normalization and feature engineering in complex seabed terrains",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4416200981%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Systems analysis of feature extraction and matching methods in opt acoustic data for navigation and mapping tasks",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4416137491%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Reconstructing Microwave Synthetic Aperture Images Using Neural Fields",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW7117680136%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: SonarSweep: Fusing Sonar and Vision for Robust 3D Reconstruction via Plane Sweeping",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=SonarSweep%3A+Fusing+Sonar+and+Vision+for+Robust+3D+Reconstruction+via+Plane+Sweeping&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: A self-controlled reconfigurable intelligent surface inspired by optical holography",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4415655426%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Opti-Acoustic Scene Reconstruction in Highly Turbid Underwater Environments",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4416748177%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: OASIS: Real-Time Opti-Acoustic Sensing for Intervention Systems in Unstructured Environments",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4416748770%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: DRACo-SLAM2: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar Equipped Underwater Robot Teams with Object Graph Matching",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4416749309%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Acoustic Neural 3D Reconstruction Under Pose Drift",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4416749382%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Underwater Sonar Fusion for Enhanced 3D Reconstruction using Background Data and Voxel Initializer Mapping for AUV",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4415216922%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Reconstruction Fidelity of Acoustic Holograms Across 0.75–4.0 MHz Excitation Frequencies: A Simulation Study",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4415137965%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Sonar Image Datasets: A Comprehensive Survey of Resources, Challenges, and Applications",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4416183284%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: On Using Simulated Synthetic Aperture Sonar Data to Train CNNs",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4416726072%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Low-Shot Learning for Synthetic Aperture Sonar Image Classification Using Hierarchical Pretraining &amp; AirSAS",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4416725415%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Considerations for Modeling Backgrounds in Synthetic Aperture Sonar Imagery",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4416726851%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Aqua-Splat: Physically-Informed Sonar-Camera Gaussian Splatting for Underwater 3D Reconstruction",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4414603176%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4402732997%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Pseudo Forward Depth Estimation for Imaging Sonar Using Diffusion Models",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4417249300%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Occlusion and height estimation using the coherence of multi-static synthetic aperture sonar images",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4410975684%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Three-Dimensional Reconstruction of Satellites Using Dual-Branch NeRF with ISAR and Optical Fusion",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4411800285%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: VAIR: Visuo-Acoustic Implicit Representations for Low-Cost, Multi-Modal Transparent Surface Reconstruction in Indoor Scenes",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4413918637%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: I Sense You Fast: Simultaneous Action and Identity Inference by Slimming Multi-Branch RadarNet",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4410393321%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: NeST: Neural Stress Tensor Tomography by leveraging 3D Photoelasticity",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4408738879%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
+      "source": "OpenAlex cited-by",
+      "query": "cites core: Multiangle Sonar Imaging for 3-D Reconstruction of Underwater Objects in Shadowless Environments",
+      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?filter=cites%3AW4408710115%2Cfrom_publication_date%3A2024-07-19&sort=publication_date%3Adesc&per-page=80&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Copen_access&mailto=raygeng%40hku.hk"
+    },
+    {
       "query": "high resolution handheld millimeter wave imaging phase error estimation compensation",
       "source": "arxiv",
       "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22high%22+OR+all%3A%22resolution%22+OR+all%3A%22handheld%22+OR+all%3A%22millimeter%22+OR+all%3A%22wave%22+OR+all%3A%22imaging%22+OR+all%3A%22phase%22+OR+all%3A%22error%22+OR+all%3A%22estimation%22+OR+all%3A%22compensation%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
@@ -162,18 +517,19 @@
     }
   ],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
-  "manual_doi_seed_last_run": "2026-07-19T13:55:13.563026+00:00",
-  "manual_doi_seed_file_count": 5,
+  "manual_doi_seed_last_run": "2026-07-19T19:00:21.169615+00:00",
+  "manual_doi_seed_file_count": 6,
   "manual_doi_seed_files": [
     "manual_doi_seeds.json",
     "manual_doi_seeds_2026-07-19.json",
     "manual_doi_seeds_2026-07-19_0054Z.json",
     "manual_doi_seeds_2026-07-19_0653Z.json",
-    "manual_doi_seeds_2026-07-19_1305Z.json"
+    "manual_doi_seeds_2026-07-19_1305Z.json",
+    "manual_doi_seeds_2026-07-19_1852Z.json"
   ],
-  "manual_doi_seed_count": 23,
-  "manual_doi_seed_added": 0,
-  "manual_doi_seed_updated": 21,
+  "manual_doi_seed_count": 27,
+  "manual_doi_seed_added": 3,
+  "manual_doi_seed_updated": 22,
   "mmwave_seed_queries": [
     "high resolution handheld millimeter wave imaging phase error estimation compensation",
     "A high-resolution handheld millimeter-wave imaging system with phase error estimation and compensation",
@@ -195,10 +551,10 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-07-19T13:55:48.064690+00:00",
+  "agent_audit_last_run": "2026-07-19T19:00:52.676792+00:00",
   "promoted_count": 0,
-  "promoted_mmwave_count": 1,
-  "resolved_final_versions": 36,
+  "promoted_mmwave_count": 0,
+  "resolved_final_versions": 27,
   "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion, geometric acoustic rendering/path tracing, acoustic holography, and photoacoustic/acousto-optic imaging; hidden mmWave track covers radar imaging, handheld SAR/autofocus, FMCW/MIMO-SAR, 4D radar, through-occlusion reconstruction, surface normals, and radar scene understanding. Nature-family mapping includes Communications Engineering.",
   "mmwave_allowlist_final_groups": [
     "ACM TOG / SIGGRAPH",
@@ -225,13 +581,6 @@
     "SenSys"
   ],
   "mmwave_track_total": 13,
-  "mmwave_track_removed_non_policy": [
-    {
-      "id": "2026-towards-mobile-high-resolution-mmwave-sar-imaging-via-prior-guided-autofocu-fd539467bb0b",
-      "title": "Towards Mobile High-Resolution mmWave SAR Imaging via Prior-Guided Autofocus",
-      "venue": "OpenAlex indexed work",
-      "venue_group": "Other"
-    }
-  ],
+  "mmwave_track_removed_non_policy": [],
   "mmwave_track_policy": "Hidden mmWave side track keeps final top-venue papers, high-relevance mmWave arXiv/preprints, and explicitly marked manual tracking seeds. Nature Portfolio includes Communications Engineering and other Nature-family journals through the curation group mapping."
 }
