@@ -1,0 +1,173 @@
+[
+  {
+    "id": "nature-scidata2026-maoud-acousto-optic-dataset",
+    "title": "A Multimodal Acousto-Optic Dataset for Underwater Image Enhancement, Detection, and Reconstruction",
+    "authors": "Xuanhe Chu; Shijian Zhou; Junwen Tian; Dehua Zou; Xinyu Zhao; Ruixue Wang; Bin Cheng; Yuhan Dong; Songhao Zhao; Han Chen; Zhiying Jiang; Jie An; Minyi Xu; Xianping Fu; Siyuan Liu",
+    "year": 2026,
+    "publication_date": "2026-04-06",
+    "venue": "Scientific Data 13, 822",
+    "venue_group": "Nature Portfolio / Scientific Data",
+    "venue_type": "data descriptor",
+    "doi": "10.1038/s41597-026-07116-3",
+    "primary_url": "https://www.nature.com/articles/s41597-026-07116-3",
+    "source": "Manual-Nature-Portfolio-DOI-seed",
+    "matched_query": "multimodal acousto-optic dataset underwater image enhancement detection reconstruction camera laser multibeam sonar",
+    "score": 13,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed Nature Portfolio acousto-optic dataset",
+      "synchronized camera laser and multibeam-sonar acquisition",
+      "supports underwater enhancement detection and 3D reconstruction",
+      "authoritative metadata verified from Nature"
+    ],
+    "topics": [
+      "acoustic-optical imaging",
+      "camera-sonar fusion",
+      "multibeam sonar",
+      "underwater multimodal dataset",
+      "laser point clouds",
+      "underwater 3D reconstruction",
+      "acoustic image enhancement"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "data descriptor",
+    "recommendation": "add-to-main-library",
+    "summary_en": "MAOUD provides synchronized optical RGB images, multibeam-sonar images and videos, laser point clouds, annotations, sensor extrinsics, and reconstruction-ready sequences acquired with an integrated image-laser-sonar platform. The dataset directly supports acoustic-optical enhancement, detection, and underwater 3D reconstruction research.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Nature Portfolio Scientific Data version-of-record page",
+    "sources": [
+      "https://www.nature.com/articles/s41597-026-07116-3",
+      "https://doi.org/10.1038/s41597-026-07116-3"
+    ],
+    "last_verified": "2026-07-19"
+  },
+  {
+    "id": "science-advances2026-3d-adpat",
+    "title": "Three-dimensional aperture-driven photoacoustic tomography (3D-ADPAT)",
+    "authors": "Xuanhao Wang; Yang Xiao; Yuqi Wang; Xiali Gao; Yongdu Ruan; Xiaohui Yang; Yiyin Su; Dikui Zhou; Xiangdi Li; Yuqian Meng; Zhibo Xiao; Fan Meng; Ruofan Wang; Junhui Shi",
+    "year": 2026,
+    "publication_date": "2026-06-26",
+    "venue": "Science Advances 12(26), eaeb7362",
+    "venue_group": "Science family / Science Advances",
+    "venue_type": "journal article",
+    "doi": "10.1126/sciadv.aeb7362",
+    "primary_url": "https://www.science.org/doi/10.1126/sciadv.aeb7362",
+    "source": "Manual-Science-Advances-DOI-seed",
+    "matched_query": "three-dimensional aperture-driven photoacoustic tomography focused transducer phase-inverted reconstruction",
+    "score": 14,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed Science Advances photoacoustic tomography research",
+      "new acquisition and reconstruction architecture",
+      "authoritative DOI and publication metadata verified from Science Advances"
+    ],
+    "topics": [
+      "photoacoustic tomography",
+      "3D photoacoustic imaging",
+      "aperture-driven reconstruction",
+      "focused ultrasound transducer",
+      "phase-inverted reconstruction",
+      "whole-body imaging",
+      "dynamic photoacoustic imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "3D-ADPAT combines a high-numerical-aperture focused ultrasonic detector with phase-inverted focusing-equivalent reconstruction to address the aperture-sensitivity trade-off in photoacoustic computed tomography. The paper reports improved resolution and contrast and demonstrates whole-body and dynamic volumetric imaging.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Science Advances version-of-record metadata and the authors' Figshare research-data record",
+    "sources": [
+      "https://www.science.org/doi/10.1126/sciadv.aeb7362",
+      "https://doi.org/10.1126/sciadv.aeb7362",
+      "https://doi.org/10.6084/m9.figshare.c.8397414.v1"
+    ],
+    "last_verified": "2026-07-19"
+  },
+  {
+    "id": "science-advances2026-glymphatic-3d-paulm",
+    "title": "Noninvasive whole-brain imaging of glymphatic dynamics",
+    "authors": "Nanchao Wang; Xinyuan Yu; Matthew Lowerison; Qinzhe Li; Aidan J. Canning; Peibang He; Lihong Dang; S. Degan; B. Mace; Y. Xu; R. Yao; J. Li; T. Zhou; J. Luo; B.-Z. Lin; D. A. Turner; X. Liu; D. Ta; J. Lovell; T. Vo-Dinh; W. Feng; P. Song; W. Yang; J. Yao",
+    "year": 2026,
+    "publication_date": "2026-06-19",
+    "venue": "Science Advances 12(25), eaee4926",
+    "venue_group": "Science family / Science Advances",
+    "venue_type": "journal article",
+    "doi": "10.1126/sciadv.aee4926",
+    "primary_url": "https://www.science.org/doi/10.1126/sciadv.aee4926",
+    "source": "Manual-Science-Advances-Duke-DOI-seed",
+    "matched_query": "whole-brain glymphatic dynamics integrated photoacoustic tomography ultrasound localization microscopy 3D-PAULM",
+    "score": 14,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed Science Advances hybrid photoacoustic-ultrasound imaging",
+      "integrated volumetric photoacoustic tomography and ultrasound localization microscopy",
+      "authoritative metadata verified from Science DOI and Duke institutional records"
+    ],
+    "topics": [
+      "photoacoustic tomography",
+      "ultrasound localization microscopy",
+      "hybrid photoacoustic-ultrasound imaging",
+      "whole-brain imaging",
+      "super-resolution vasculature imaging",
+      "glymphatic imaging",
+      "NIR-II contrast"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "The 3D-PAULM platform integrates three-dimensional photoacoustic tomography with ultrasound localization microscopy and an NIR-II photoacoustic dye. It enables noninvasive intact-skull whole-brain imaging, combining super-resolution vascular mapping with sensitive tracing of glymphatic transport.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Science Advances DOI record, PubMed-indexed citation, and Duke institutional publication pages",
+    "sources": [
+      "https://www.science.org/doi/10.1126/sciadv.aee4926",
+      "https://pubmed.ncbi.nlm.nih.gov/42308292/",
+      "https://scholars.duke.edu/publication/1907646",
+      "https://doi.org/10.1126/sciadv.aee4926"
+    ],
+    "last_verified": "2026-07-19"
+  },
+  {
+    "id": "science-advances2026-all-fiber-photoacoustic-endomicroscopy",
+    "title": "All-fiber photoacoustic endomicroscopy reveals layer-specific angiogenesis-oxygenation uncoupling in experimental colitis",
+    "authors": "Jinying Li; Junye Bi; Di Zhang; Sheng Zeng; Fuwuxing Liu; Peixuan Zou; Ying Shi; Pengqing Sun; Ziyi Ji; Hongxue Jiang; Jian Hong; Long Jin; Yizhi Liang; Wei Huang; Bai-Ou Guan",
+    "year": 2026,
+    "publication_date": "2026-05-15",
+    "venue": "Science Advances 12(20), eaec5942",
+    "venue_group": "Science family / Science Advances",
+    "venue_type": "journal article",
+    "doi": "10.1126/sciadv.aec5942",
+    "primary_url": "https://www.science.org/doi/10.1126/sciadv.aec5942",
+    "source": "Manual-Science-Advances-DOI-seed",
+    "matched_query": "all-fiber photoacoustic endomicroscopy fiber-optic ultrasound detection dual-wavelength oxygenation imaging",
+    "score": 14,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed Science Advances photoacoustic imaging research",
+      "all-fiber optical excitation and optical ultrasound detection",
+      "authoritative metadata verified from Science Advances"
+    ],
+    "topics": [
+      "photoacoustic endomicroscopy",
+      "fiber-optic ultrasound detection",
+      "dual-wavelength photoacoustic imaging",
+      "volumetric oxygenation mapping",
+      "biomedical acousto-optic imaging",
+      "endoscopic imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "An all-fiber photoacoustic endomicroscopy platform combines high-density fiber-bundle scanning with broadband fiber-optic ultrasound detection for fast dual-wavelength volumetric oxygenation mapping. The system achieves micrometer-scale resolution and reveals layer-specific vascular and metabolic changes in experimental colitis.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Science Advances version-of-record page",
+    "sources": [
+      "https://www.science.org/doi/10.1126/sciadv.aec5942",
+      "https://doi.org/10.1126/sciadv.aec5942"
+    ],
+    "last_verified": "2026-07-19"
+  }
+]
