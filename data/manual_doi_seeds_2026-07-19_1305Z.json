@@ -1,0 +1,214 @@
+[
+  {
+    "id": "springer-ijcas2026-two-stage-probabilistic-sonar-optical-fusion",
+    "title": "Two-Stage Probabilistic 3D Reconstruction of Underwater Objects via Range-Adaptive Sonar and Optical Fusion in Turbid Environments",
+    "authors": "Jason Kim; Geonwoo Park; Seong-min Park; Seungmin Kim; Son-Cheol Yu",
+    "year": 2026,
+    "publication_date": "2026-04-01",
+    "venue": "International Journal of Control, Automation, and Systems 24, 1083-1101",
+    "venue_group": "Springer Nature / International Journal of Control, Automation, and Systems",
+    "venue_type": "journal article",
+    "doi": "10.1007/s12555-026-00045-2",
+    "primary_url": "https://link.springer.com/article/10.1007/s12555-026-00045-2",
+    "source": "Manual-Springer-Nature-DOI-seed",
+    "matched_query": "range-adaptive sonar optical fusion probabilistic underwater 3D reconstruction turbid environments",
+    "score": 13,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed sonar-optical fusion research",
+      "probabilistic 3D reconstruction from forward-looking sonar and stereo vision",
+      "authoritative metadata verified from Springer Nature"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "sonar-optical 3D reconstruction",
+      "forward-looking sonar",
+      "stereo vision",
+      "probabilistic occupancy mapping",
+      "underwater imaging",
+      "turbid-water perception"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "A two-stage probabilistic reconstruction method that first builds a volumetric occupancy prior from forward-looking sonar and then refines it with stereo-optical constraints when the target enters visual range. The method explicitly models sonar elevation ambiguity, occlusion, and partial optical visibility.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Springer Nature version-of-record page",
+    "sources": [
+      "https://link.springer.com/article/10.1007/s12555-026-00045-2",
+      "https://doi.org/10.1007/s12555-026-00045-2"
+    ],
+    "last_verified": "2026-07-19"
+  },
+  {
+    "id": "elsevier-photoacoustics100846-pit-net-qpat",
+    "title": "PIT-Net: Physics-informed transformer with differentiable diffusion constraints for quantitative photoacoustic tomography of deep tissues",
+    "authors": "Ying Fan; Yangkun Liu; Abdula Aji; Ting Feng; Dean Ta",
+    "year": 2026,
+    "publication_date": "2026-06-08",
+    "venue": "Photoacoustics 50, 100846",
+    "venue_group": "Elsevier / Photoacoustics",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.pacs.2026.100846",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S2213597926000522",
+    "source": "Manual-Elsevier-PubMed-DOI-seed",
+    "matched_query": "physics-informed transformer differentiable diffusion quantitative photoacoustic tomography deep tissue",
+    "score": 13,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed quantitative photoacoustic tomography research",
+      "physics-constrained reconstruction",
+      "authoritative metadata verified from Elsevier and PubMed"
+    ],
+    "topics": [
+      "quantitative photoacoustic tomography",
+      "photoacoustic reconstruction",
+      "physics-informed learning",
+      "differentiable photon diffusion",
+      "transformer",
+      "deep-tissue imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "A physics-informed Swin-Transformer framework for multi-wavelength quantitative photoacoustic tomography. It embeds a differentiable photon-diffusion solver and acoustic residual feedback to improve physical consistency and synthetic-to-in-vivo transfer.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Elsevier ScienceDirect version-of-record page and PubMed",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S2213597926000522",
+      "https://pubmed.ncbi.nlm.nih.gov/42326603/",
+      "https://doi.org/10.1016/j.pacs.2026.100846"
+    ],
+    "last_verified": "2026-07-19"
+  },
+  {
+    "id": "elsevier-photoacoustics100844-ingestible-light-source",
+    "title": "An ingestible light source for deep photoacoustic imaging",
+    "authors": "David C. Garrett; Lihong V. Wang",
+    "year": 2026,
+    "publication_date": "2026-06-02",
+    "venue": "Photoacoustics 50, 100844",
+    "venue_group": "Elsevier / Photoacoustics",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.pacs.2026.100844",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S2213597926000509",
+    "source": "Manual-Elsevier-PubMed-DOI-seed",
+    "matched_query": "ingestible light source deep photoacoustic imaging acoustically powered laser diode",
+    "score": 13,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed photoacoustic imaging research",
+      "novel internal optical-excitation architecture",
+      "authoritative metadata verified from Elsevier, PubMed, and Caltech"
+    ],
+    "topics": [
+      "photoacoustic tomography",
+      "deep-tissue imaging",
+      "ingestible light source",
+      "acoustically powered device",
+      "internal optical excitation",
+      "wireless ultrasound power transfer"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "An acoustically powered ingestible device that places a pulsed laser source inside the target medium, overcoming external-light attenuation. The authors demonstrate photoacoustic imaging through a 12-cm-thick phantom.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Elsevier ScienceDirect version-of-record page, PubMed, and Caltech Optical Imaging Laboratory",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S2213597926000509",
+      "https://pubmed.ncbi.nlm.nih.gov/42292766/",
+      "https://coilab.caltech.edu/publications/journal-articles",
+      "https://doi.org/10.1016/j.pacs.2026.100844"
+    ],
+    "last_verified": "2026-07-19"
+  },
+  {
+    "id": "elsevier-photoacoustics100847-hybrid-pam3-breast-tomography",
+    "title": "Hybrid three-dimensional full-view multi-wavelength photoacoustic and ultrasound breast tomography",
+    "authors": "M. Dantuma; F. Lucka; S. C. Kruitwagen; L. Alink; R. P. Pompe van Meerdervoort; M. Nanninga; T. J. P. M. Op 't Root; B. De Santi; E. Bosman; J. Budisky; G. Bordovsky; E. Coffy; M. Wilm; T. Kasponas; S. H. Aarnink; L. F. de Geus-Oei; F. Brochin; T. Martinez; A. Michailovas; W. Muller Kobold; J. Jaros; J. Veltman; B. Cox; S. Manohar",
+    "year": 2026,
+    "publication_date": "2026-06-13",
+    "venue": "Photoacoustics 50, 100847",
+    "venue_group": "Elsevier / Photoacoustics",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.pacs.2026.100847",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S2213597926000534",
+    "source": "Manual-Elsevier-PubMed-UTwente-DOI-seed",
+    "matched_query": "hybrid 3D full-view multi-wavelength photoacoustic ultrasound breast tomography PAM3",
+    "score": 13,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed hybrid photoacoustic-ultrasound tomography",
+      "full-view multi-wavelength 3D breast imaging",
+      "authoritative metadata verified from Elsevier, PubMed, and University of Twente"
+    ],
+    "topics": [
+      "photoacoustic tomography",
+      "ultrasound tomography",
+      "hybrid acoustic-optical imaging",
+      "full-waveform inversion",
+      "multi-wavelength imaging",
+      "3D breast imaging",
+      "sound-speed correction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "The PAM3 system combines full-view, multi-wavelength 3D photoacoustic breast tomography with reflected and transmitted ultrasound tomography. Fully 3D ultrasound full-waveform inversion provides sound-speed maps that correct acoustic heterogeneity in the photoacoustic reconstruction.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Elsevier ScienceDirect version-of-record page, PubMed, and University of Twente Research Information",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S2213597926000534",
+      "https://pubmed.ncbi.nlm.nih.gov/42376497/",
+      "https://research.utwente.nl/en/publications/hybrid-three-dimensional-full-view-multi-wavelength-photoacoustic/",
+      "https://doi.org/10.1016/j.pacs.2026.100847"
+    ],
+    "last_verified": "2026-07-19"
+  },
+  {
+    "id": "mdpi-jmse14121094-chrs-net-rgb-sonar-detection",
+    "title": "Chrs-Net: A Dual-Stream YOLO Network for Underwater RGB-Sonar Object Detection",
+    "authors": "Chuheng Zhang; Hongli Xu; Pangyi Xiao; Han Wang; Jingyu Ru; Hongxu Yang",
+    "year": 2026,
+    "publication_date": "2026-06-13",
+    "venue": "Journal of Marine Science and Engineering 14(12), 1094",
+    "venue_group": "MDPI / Journal of Marine Science and Engineering",
+    "venue_type": "journal article",
+    "doi": "10.3390/jmse14121094",
+    "primary_url": "https://www.mdpi.com/2077-1312/14/12/1094",
+    "source": "Manual-MDPI-DOI-seed",
+    "matched_query": "dual-stream YOLO underwater RGB sonar object detection cross-modal fusion",
+    "score": 10,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed RGB-sonar fusion research",
+      "cross-modal feature communication",
+      "authoritative metadata verified from the publisher"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "RGB-sonar object detection",
+      "underwater perception",
+      "cross-modal feature fusion",
+      "forward-looking sonar",
+      "multimodal detection"
+    ],
+    "status": "metadata-verified",
+    "relevance": "related",
+    "paper_type": "original research",
+    "recommendation": "add-to-candidates",
+    "summary_en": "A dual-stream RGB-sonar detector with Transformer-based cross-modal communication and modality-specific enhancement modules. It is relevant to camera-sonar fusion, but its contribution is downstream object detection rather than acoustic image formation or reconstruction.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Journal of Marine Science and Engineering publisher page",
+    "sources": [
+      "https://www.mdpi.com/2077-1312/14/12/1094",
+      "https://doi.org/10.3390/jmse14121094"
+    ],
+    "last_verified": "2026-07-19"
+  }
+]
