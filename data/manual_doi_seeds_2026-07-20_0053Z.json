@@ -1,0 +1,91 @@
+[
+  {
+    "id": "elsevier-matdes116497-conformal-acoustic-holographic-lenses",
+    "title": "Conformal acoustic holographic lenses for wavefront control via geometry-encoded design",
+    "authors": "Ceren Cengiz; Mihir Pewekar; Hrishikesh Kulkarni; Yunruo Ni; Nathan Sambo; Adam Maxwell; Eli Vlaisavljevich; Wynn Legon; Shima Shahab",
+    "year": 2026,
+    "publication_date": "2026-08",
+    "venue": "Materials & Design 268, 116497",
+    "venue_group": "Elsevier / Materials & Design",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.matdes.2026.116497",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S0264127526010701",
+    "pdf_url": "",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "conformal acoustic holographic lens geometry-encoded wavefront control transcranial ultrasound holography",
+    "score": 11,
+    "reasons": [
+      "manual-doi-seed",
+      "acoustic holography",
+      "geometry-aware wavefront reconstruction",
+      "subject-specific transcranial acoustic lens",
+      "final journal version verified from the official Elsevier article page"
+    ],
+    "topics": [
+      "acoustic holography",
+      "holographic acoustic lens",
+      "wavefront control",
+      "transcranial focused ultrasound",
+      "geometry-aware inverse design",
+      "patient-specific acoustics"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "A subject-specific design and fabrication framework for skull-conformal acoustic holographic lenses. The method jointly incorporates anatomical geometry, target constraints, and wavefront optimization, with simulations across 20 cases and ex vivo human-skull validation of the reconstructed acoustic fields.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Elsevier ScienceDirect article page; official arXiv preprint",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0264127526010701",
+      "https://doi.org/10.1016/j.matdes.2026.116497",
+      "https://arxiv.org/abs/2604.21207"
+    ],
+    "last_verified": "2026-07-20"
+  },
+  {
+    "id": "elsevier-oceaneng126328-svfnet-rgb-sonar-fusion-classification",
+    "title": "SVFNet: Underwater RGB-Sonar fusion classification via cross-modal contrastive learning and Global Query Spatial Attention",
+    "authors": "Xiangyue Zhang; Yao Zhao; Junlin Li; Hongli Xu; Lu Liu; Haitao Gu",
+    "year": 2026,
+    "publication_date": "2026-07-30",
+    "venue": "Ocean Engineering 362, Part 2, 126328",
+    "venue_group": "Elsevier / Ocean Engineering",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.oceaneng.2026.126328",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S0029801826021621",
+    "pdf_url": "",
+    "code_url": "https://github.com/VIP-Lab-NEU/SVFNet",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "underwater RGB sonar fusion classification cross-modal contrastive learning aligned sonar optical dataset",
+    "score": 8,
+    "reasons": [
+      "manual-doi-seed",
+      "camera-sonar fusion",
+      "real-world paired RGB-sonar benchmark",
+      "cross-modal representation learning",
+      "authoritative metadata verified from the official Elsevier article page"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "RGB-sonar classification",
+      "cross-modal contrastive learning",
+      "underwater perception",
+      "multimodal dataset",
+      "forward-looking sonar"
+    ],
+    "status": "metadata-verified-online-ahead-of-issue",
+    "relevance": "related",
+    "paper_type": "original research",
+    "recommendation": "add-to-candidates",
+    "summary_en": "A dual-stream RGB-sonar classification framework combining cross-modal contrastive learning with Global Query Spatial Attention. It also introduces R-S9, a real-world benchmark containing 3,732 spatiotemporally aligned RGB-sonar pairs across nine classes.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Elsevier ScienceDirect article page",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0029801826021621",
+      "https://doi.org/10.1016/j.oceaneng.2026.126328",
+      "https://github.com/VIP-Lab-NEU/SVFNet"
+    ],
+    "last_verified": "2026-07-20"
+  }
+]
