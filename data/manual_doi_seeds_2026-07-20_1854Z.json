@@ -1,0 +1,47 @@
+[
+  {
+    "id": "nature-sensors-s44460-026-00071-x-deep-learning-codesign-optoacoustic-imaging",
+    "title": "Deep learning codesign for ultrasparse, high-performance optoacoustic imaging",
+    "authors": "Xuyang Chang; Xiang Liu; Federico Villani; Quanyu Zhou; Tian Jin; Lin Tang; Luca Benini; Xosé Luís Deán-Ben; Liheng Bian; Zhenyue Chen; Daniel Razansky",
+    "year": 2026,
+    "publication_date": "2026-05-07",
+    "venue": "Nature Sensors 1, 524–534",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "doi": "10.1038/s44460-026-00071-x",
+    "primary_url": "https://www.nature.com/articles/s44460-026-00071-x",
+    "pdf_url": "https://www.nature.com/articles/s44460-026-00071-x.pdf",
+    "code_url": "https://github.com/changxuyang/CodesignOAT",
+    "source": "Manual-Nature-DOI-seed",
+    "matched_query": "deep learning codesign ultrasparse optoacoustic imaging differentiable detector layout reconstruction",
+    "score": 15,
+    "reasons": [
+      "manual-doi-seed",
+      "priority Nature Portfolio venue",
+      "direct optoacoustic imaging contribution",
+      "joint coded acquisition and reconstruction design",
+      "final version verified from the official Nature Sensors article page"
+    ],
+    "topics": [
+      "optoacoustic imaging",
+      "photoacoustic tomography",
+      "differentiable codesign",
+      "ultrasparse detector arrays",
+      "learned acquisition geometry",
+      "handheld volumetric imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "A differentiable hardware-algorithm codesign framework that jointly optimizes optoacoustic detector layouts and reconstruction networks. The learned circular and hemispherical arrays use only 0.8–12.5% of conventional detector counts while retaining strong spatial and temporal fidelity; the authors also demonstrate a 32-element low-cost handheld system with volumetric imaging at 2 kHz.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Nature Sensors article page",
+    "sources": [
+      "https://www.nature.com/articles/s44460-026-00071-x",
+      "https://doi.org/10.1038/s44460-026-00071-x",
+      "https://github.com/changxuyang/CodesignOAT"
+    ],
+    "last_verified": "2026-07-20"
+  }
+]
