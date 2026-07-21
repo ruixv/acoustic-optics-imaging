@@ -1,0 +1,175 @@
+[
+  {
+    "id": "dia2026-ultrasound-specularity-cortical-bone",
+    "title": "Imaging of ultrasound specularity at cortical bone interfaces to detect unbalanced remodeling: A preliminary study",
+    "authors": "Amadou S. Dia; Salomé Vignat; Guillaume Renaud; Quentin Grimal",
+    "year": 2026,
+    "publication_date": "2026-07-21",
+    "venue": "Ultrasonics 168, 108213",
+    "venue_group": "Ultrasonics",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ultras.2026.108213",
+    "primary_url": "https://doi.org/10.1016/j.ultras.2026.108213",
+    "pdf_url": "https://arxiv.org/pdf/2607.16791",
+    "arxiv_id": "2607.16791",
+    "source": "Manual-arXiv-journal-seed",
+    "matched_query": "ultrasound specularity imaging cortical bone remodeling beamforming refraction",
+    "score": 10,
+    "reasons": [
+      "manual-doi-seed",
+      "newly indexed on arXiv on 2026-07-21",
+      "direct ultrasound image reconstruction and quantitative biomarker mapping",
+      "journal metadata and DOI cross-checked against the arXiv journal reference"
+    ],
+    "topics": [
+      "ultrasound imaging",
+      "specularity imaging",
+      "cortical bone",
+      "refraction-aware beamforming",
+      "quantitative acoustic biomarkers"
+    ],
+    "status": "metadata-verified",
+    "relevance": "related",
+    "paper_type": "original research",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Reconstructs cortical-bone endosteal specularity maps by combining specular-reflector enhancement with refraction-aware beamforming. Numerical and ex vivo experiments show a strong association between reduced specularity and enlarged pores or surface roughness linked to unbalanced bone remodeling.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv new listing and journal reference; DOI cross-check",
+    "sources": [
+      "https://arxiv.org/abs/2607.16791",
+      "https://doi.org/10.1016/j.ultras.2026.108213"
+    ],
+    "last_verified": "2026-07-21"
+  },
+  {
+    "id": "burchner2026-effective-ultrasound-transducer-distributed-source-inversion",
+    "title": "Reconstructing effective ultrasound transducer models via distributed source inversion",
+    "authors": "Tim Bürchner; Simon Schmid; Ernst Rank; Stefan Kollmannsberger; Andreas Fichtner",
+    "year": 2026,
+    "publication_date": "2026-12-01",
+    "venue": "Ultrasonics 168, 108221",
+    "venue_group": "Ultrasonics",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ultras.2026.108221",
+    "primary_url": "https://doi.org/10.1016/j.ultras.2026.108221",
+    "pdf_url": "https://arxiv.org/pdf/2603.24415",
+    "arxiv_id": "2603.24415",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "ultrasound transducer source inversion full waveform imaging reconstruction",
+    "score": 11,
+    "reasons": [
+      "manual-doi-seed",
+      "directly improves simulation-based ultrasound imaging and inversion",
+      "version-of-record metadata verified from the official Elsevier page",
+      "exact DOI and title absent from the repository search"
+    ],
+    "topics": [
+      "ultrasound imaging",
+      "distributed source inversion",
+      "transducer calibration",
+      "reverse time migration",
+      "full-waveform inversion",
+      "non-destructive testing"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core-adjacent",
+    "paper_type": "original research",
+    "recommendation": "add-to-candidates",
+    "summary_en": "An adjoint-based distributed source inversion method that reconstructs effective spatiotemporal ultrasound-transducer models from measured wavefields. The calibrated sources improve directivity and waveform reproduction and substantially improve reverse-time-migration and full-waveform-inversion reconstructions.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Elsevier Ultrasonics article page and TUM research portal",
+    "publication_note": "Version of record is online ahead of the December 2026 issue; the exact online-first date was not independently resolved.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0041624X26002738",
+      "https://doi.org/10.1016/j.ultras.2026.108221",
+      "https://arxiv.org/abs/2603.24415"
+    ],
+    "last_verified": "2026-07-21"
+  },
+  {
+    "id": "gu2026-fast-wavenumber-domain-3d-plane-wave-rca",
+    "title": "Fast wavenumber-domain reconstruction for 3-D plane wave imaging with row–column addressed arrays",
+    "authors": "Xu Gu; Mu Chen; Letian Gan; Zhixuan Chang; Xinzhi Ma; Yang Liu; Fanghao Zhou; Tiefeng Li",
+    "year": 2026,
+    "publication_date": "2026-12-01",
+    "venue": "Ultrasonics 168, 108230",
+    "venue_group": "Ultrasonics",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ultras.2026.108230",
+    "primary_url": "https://doi.org/10.1016/j.ultras.2026.108230",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "3D plane wave ultrasound row column array wavenumber reconstruction Stolt",
+    "score": 13,
+    "reasons": [
+      "manual-doi-seed",
+      "direct computational acoustic-imaging reconstruction contribution",
+      "fast volumetric ultrasound imaging with measured validation",
+      "version-of-record metadata verified from the official Elsevier page",
+      "exact DOI and title absent from the repository search"
+    ],
+    "topics": [
+      "3D ultrasound imaging",
+      "plane-wave imaging",
+      "row-column addressed arrays",
+      "wavenumber-domain reconstruction",
+      "Stolt migration",
+      "real-time volumetric imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Derives a wave-based forward model and inverse Stolt mapping for 3-D plane-wave imaging with row–column addressed arrays. Angular spectrum completion and conjugate cross-correlation compounding improve image quality, while FFT-domain reconstruction is reported to be about 231 times faster than delay-and-sum for a 256×256×512 volume.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Elsevier Ultrasonics article page",
+    "publication_note": "Version of record is online ahead of the December 2026 issue; the exact online-first date was not independently resolved.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0041624X26002829",
+      "https://doi.org/10.1016/j.ultras.2026.108230"
+    ],
+    "last_verified": "2026-07-21"
+  },
+  {
+    "id": "cheong2026-hadamard-encoded-acoustoelectric-imaging",
+    "title": "Hadamard-encoded synthetic beamforming for high frame rate acoustoelectric current source imaging",
+    "authors": "YeonJoon Cheong; Jinbum Kang; Nadia Abu Farha; Margaret Miles Allard; Kunal Sharma; Parker Jai-Carver Harris; Russell S. Witte; Matthew O'Donnell",
+    "year": 2026,
+    "publication_date": "2026-12-01",
+    "venue": "Ultrasonics 168, 108229",
+    "venue_group": "Ultrasonics",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ultras.2026.108229",
+    "primary_url": "https://doi.org/10.1016/j.ultras.2026.108229",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "Hadamard encoded acoustic imaging coded ultrasound synthetic beamforming acoustoelectric",
+    "score": 14,
+    "reasons": [
+      "manual-doi-seed",
+      "direct acoustic coded-imaging contribution",
+      "Hadamard spatial encoding and synthetic-aperture reconstruction",
+      "version-of-record metadata verified from the official Elsevier page",
+      "exact DOI and title absent from the repository search"
+    ],
+    "topics": [
+      "acoustic coded imaging",
+      "acoustoelectric imaging",
+      "Hadamard encoding",
+      "synthetic beamforming",
+      "current source density imaging",
+      "ultrafast ultrasound"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces Hadamard-encoded full-aperture transmissions and synthetic beamforming for high-frame-rate acoustoelectric current-source imaging. Using 16 transmit events, the system images single and distributed dipole sources at 500 Hz and reports about a 5 dB SNR improvement over focused-beam scanning after pressure equalization.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Elsevier Ultrasonics article page",
+    "publication_note": "Version of record is online ahead of the December 2026 issue; the exact online-first date was not independently resolved.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0041624X26002817",
+      "https://doi.org/10.1016/j.ultras.2026.108229"
+    ],
+    "last_verified": "2026-07-21"
+  }
+]
