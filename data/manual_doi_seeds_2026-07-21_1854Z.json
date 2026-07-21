@@ -1,0 +1,95 @@
+[
+  {
+    "id": "fujita2026-spatially-selective-ultrasound-acoustic-holography",
+    "title": "Spatially selective ultrasound field formation using acoustic holography for cultured-cell applications",
+    "authors": "Haruto Fujita; Toshihiko Shiraishi",
+    "year": 2026,
+    "publication_date": "2026-07-10",
+    "venue": "Journal of Biomechanics",
+    "venue_group": "Other",
+    "venue_type": "journal article",
+    "volume": "205",
+    "article_number": "113466",
+    "doi": "10.1016/j.jbiomech.2026.113466",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S0021929026003210",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "acoustic holography ultrasound field formation spatially selective phased array",
+    "score": 12,
+    "reasons": [
+      "manual-doi-seed",
+      "direct acoustic-holography contribution",
+      "phase-and-amplitude holographic field optimization with experimental hydrophone validation",
+      "exact DOI and title absent from repository search",
+      "metadata verified from the official ScienceDirect record"
+    ],
+    "topics": [
+      "acoustic holography",
+      "ultrasound phased array",
+      "spatially selective sound-field formation",
+      "iterative angular spectrum approach",
+      "gradient-based acoustic optimization",
+      "cell-culture ultrasound stimulation"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core-adjacent",
+    "paper_type": "original research",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Presents an acoustic-holography framework that combines the Iterative Angular Spectrum Approach with Adam-based phase and amplitude optimization for a 4 x 4 ultrasound phased array. Hydrophone measurements and standing-wave reconstruction show localized acoustic-intensity formation in a cell-culture-compatible geometry, with all measured non-target regions below the specified exposure criterion.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect article record",
+    "publication_note": "Available online on 2026-07-10; the official record lists Journal of Biomechanics volume 205, article 113466.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0021929026003210",
+      "https://doi.org/10.1016/j.jbiomech.2026.113466"
+    ],
+    "last_verified": "2026-07-21"
+  },
+  {
+    "id": "he2026-scfusion-sonar-camera-object-detection",
+    "title": "SCFusion: Cross-modality underwater object detection via vision guided sonar-camera feature fusion",
+    "authors": "Ju He; Changsong Pang; Zhuofan He; Hu Xu; Yang Yu",
+    "year": 2026,
+    "publication_date": "2026-08-15",
+    "venue": "Ocean Engineering",
+    "venue_group": "Other",
+    "venue_type": "journal article",
+    "volume": "363",
+    "issue": "Part 4",
+    "article_number": "126793",
+    "doi": "10.1016/j.oceaneng.2026.126793",
+    "primary_url": "https://www.sciencedirect.com/science/article/abs/pii/S0029801826026272",
+    "code_url": "https://github.com/NWPU-ASVLab/SCFusion",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "camera sonar fusion underwater object detection forward-looking sonar",
+    "score": 11,
+    "reasons": [
+      "manual-doi-seed",
+      "genuine sonar-camera cross-modal fusion",
+      "uses vision-guided context aggregation and camera-sonar complementary reasoning",
+      "exact DOI and title absent from repository search",
+      "metadata verified from the official ScienceDirect record"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "forward-looking sonar",
+      "underwater object detection",
+      "cross-modal feature fusion",
+      "vision-guided sonar perception",
+      "underwater robotics"
+    ],
+    "status": "metadata-verified",
+    "relevance": "related",
+    "paper_type": "original research",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Introduces SCFusion, a forward-looking-sonar and optical-camera fusion network for underwater object detection. The method uses vision-guided context aggregation and camera-sonar complementary reasoning to combine visual semantics with sonar geometry, and is evaluated on the multimodal UMOD dataset.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect article record",
+    "publication_note": "The official record assigns the paper to Ocean Engineering volume 363, Part 4, dated 2026-08-15; the exact online-first date was not independently resolved.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/abs/pii/S0029801826026272",
+      "https://doi.org/10.1016/j.oceaneng.2026.126793",
+      "https://github.com/NWPU-ASVLab/SCFusion"
+    ],
+    "last_verified": "2026-07-21"
+  }
+]
