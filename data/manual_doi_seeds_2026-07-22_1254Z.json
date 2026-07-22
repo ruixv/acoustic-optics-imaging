@@ -1,0 +1,54 @@
+[
+  {
+    "id": "acm3799902-3811214-reciprocal-latent-fields-sound-propagation",
+    "title": "Reciprocal Latent Fields for Precomputed Sound Propagation",
+    "authors": "Hugo Seuté; Pranai Vasudev; Etienne Richan; Louis-Xavier Buffoni",
+    "year": 2026,
+    "publication_date": "2026-07-19",
+    "venue": "SIGGRAPH Conference Papers 2026",
+    "venue_group": "ACM SIGGRAPH",
+    "venue_type": "conference paper",
+    "article_number": "191",
+    "pages": "1-11",
+    "doi": "10.1145/3799902.3811214",
+    "primary_url": "https://dl.acm.org/doi/10.1145/3799902.3811214",
+    "arxiv_id": "2602.06937",
+    "arxiv_url": "https://arxiv.org/abs/2602.06937",
+    "pdf_url": "https://arxiv.org/pdf/2602.06937",
+    "source": "Manual-ACM-DOI-seed",
+    "matched_query": "reciprocal latent fields precomputed sound propagation wave coding acoustic rendering SIGGRAPH 2026",
+    "score": 11,
+    "reasons": [
+      "manual-acm-doi-seed",
+      "ACM SIGGRAPH 2026 technical paper",
+      "wave-based acoustic propagation and rendering",
+      "memory-efficient physically reciprocal acoustic-field representation",
+      "exact title, DOI, and arXiv identifier absent from repository search",
+      "metadata verified from the official ACM Digital Library and SIGGRAPH schedule"
+    ],
+    "topics": [
+      "acoustic rendering",
+      "sound propagation",
+      "wave field coding",
+      "reciprocal latent fields",
+      "Riemannian metric learning",
+      "room impulse response compression",
+      "real-time simulation"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces Reciprocal Latent Fields, a volumetric latent representation with symmetric decoders that enforces acoustic reciprocity while compressing precomputed wave-based sound-propagation parameters by several orders of magnitude. A Riemannian decoder improves reproduction of path distances and acoustic quantities, enabling near-instant runtime inference with perceptual quality reported as indistinguishable from ground-truth wave coding.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ACM Digital Library record; official SIGGRAPH 2026 conference schedule; official arXiv record",
+    "publication_note": "The final ACM SIGGRAPH 2026 version was published on 2026-07-19; the work previously appeared as arXiv:2602.06937.",
+    "sources": [
+      "https://dl.acm.org/doi/10.1145/3799902.3811214",
+      "https://doi.org/10.1145/3799902.3811214",
+      "https://s2026.conference-schedule.org/presentation/?id=papers_1402&sess=sess101",
+      "https://arxiv.org/abs/2602.06937"
+    ],
+    "last_verified": "2026-07-22"
+  }
+]
