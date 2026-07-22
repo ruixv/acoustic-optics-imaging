@@ -1,0 +1,135 @@
+[
+  {
+    "id": "khishkhah2026-kalman-virtual-sensor-photoacoustic-imaging",
+    "title": "A Kalman filtering framework for virtual sensor–enhanced photoacoustic imaging",
+    "authors": "Bahareh Khishkhah; Rasoul Sadighi-Bonabi; M. Reza Rahimi Tabar",
+    "year": 2026,
+    "publication_date": "2026-06-26",
+    "venue": "Scientific Reports",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "volume": "16",
+    "doi": "10.1038/s41598-026-53324-7",
+    "primary_url": "https://www.nature.com/articles/s41598-026-53324-7",
+    "source": "Manual-Nature-DOI-seed",
+    "matched_query": "photoacoustic imaging virtual sensor Kalman angular sampling reconstruction",
+    "score": 13,
+    "reasons": [
+      "manual-doi-seed",
+      "direct photoacoustic acquisition and reconstruction contribution",
+      "model-based virtual sensing enriches sparse angular measurements without hardware changes",
+      "exact DOI and title absent from repository search",
+      "metadata verified from the official Nature article record"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "virtual sensors",
+      "Kalman filtering",
+      "sparse angular sampling",
+      "photoacoustic reconstruction",
+      "k-Wave simulation"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces a model-based Kalman filtering framework that estimates statistically consistent virtual photoacoustic measurements between physical detector positions. By exploiting acoustic propagation directionality and temporal signal coherence, it improves reconstruction under incomplete angular sampling and noise without adding detector hardware.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Scientific Reports article record",
+    "publication_note": "Published on 2026-06-26 and newly surfaced through the closed Nature Portfolio Photoacoustic Imaging collection.",
+    "sources": [
+      "https://www.nature.com/articles/s41598-026-53324-7",
+      "https://doi.org/10.1038/s41598-026-53324-7"
+    ],
+    "last_verified": "2026-07-22"
+  },
+  {
+    "id": "said2026-diffusion-frameworks-photoacoustic-tomography",
+    "title": "A comparative study of diffusion-based reconstruction frameworks for photoacoustic tomography",
+    "authors": "Shibili Said; Imad Barhumi",
+    "year": 2026,
+    "publication_date": "2026-06-15",
+    "venue": "Scientific Reports",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "volume": "16",
+    "doi": "10.1038/s41598-026-57923-2",
+    "primary_url": "https://www.nature.com/articles/s41598-026-57923-2",
+    "source": "Manual-Nature-DOI-seed",
+    "matched_query": "photoacoustic tomography diffusion reconstruction limited view score based model",
+    "score": 13,
+    "reasons": [
+      "manual-doi-seed",
+      "direct computational photoacoustic tomography reconstruction study",
+      "systematic comparison of DDPM, DDIM and score-based inverse reconstruction",
+      "exact DOI and title absent from repository search",
+      "metadata verified from the official Nature article record"
+    ],
+    "topics": [
+      "photoacoustic tomography",
+      "diffusion reconstruction",
+      "limited-view imaging",
+      "score-based models",
+      "measurement consistency",
+      "inverse problems"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Systematically compares DDPM, DDIM and score-based generative reconstruction for full-view and limited-view photoacoustic tomography, including physics-informed measurement-consistency refinement. Score-based models provide the strongest structural fidelity across acquisition settings, while DDIM offers a lower-step alternative.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Scientific Reports article record",
+    "publication_note": "Published on 2026-06-15 and newly surfaced through the closed Nature Portfolio Photoacoustic Imaging collection.",
+    "sources": [
+      "https://www.nature.com/articles/s41598-026-57923-2",
+      "https://doi.org/10.1038/s41598-026-57923-2"
+    ],
+    "last_verified": "2026-07-22"
+  },
+  {
+    "id": "bender2026-photoacoustic-device-fingerprints-bias",
+    "title": "Photoacoustic device fingerprints induce bias in deep learning models",
+    "authors": "Christoph J. Bender; Marcel Knopp; Niklas Holzwarth; Tom Rix; Jan-Hinrich Nölke; Kris K. Dreher; Yi Li; Julius Kempf; Milenko Caranovic; Fabian Schneider; Melanie Schellenberg; Leonie Boland; Briain Haney; Ferdinand Knieling; Ulrich Rother; Alexander Seitel; Lena Maier-Hein",
+    "year": 2026,
+    "publication_date": "2026-06-13",
+    "venue": "Scientific Reports",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "volume": "16",
+    "article_number": "18695",
+    "doi": "10.1038/s41598-026-53468-6",
+    "primary_url": "https://www.nature.com/articles/s41598-026-53468-6",
+    "source": "Manual-Nature-DOI-seed",
+    "matched_query": "photoacoustic device fingerprint hardware bias deep learning multicenter",
+    "score": 10,
+    "reasons": [
+      "manual-doi-seed",
+      "directly addresses reliability and generalization of photoacoustic image analysis",
+      "multicentric evidence of device-specific shortcut learning",
+      "exact DOI and title absent from repository search",
+      "metadata verified from the official Nature article record"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "hardware bias",
+      "device fingerprints",
+      "shortcut learning",
+      "multicenter imaging",
+      "deep learning reliability"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core-adjacent",
+    "paper_type": "original research",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Provides a multicentric analysis showing that nominally identical photoacoustic devices leave identifiable image fingerprints. Deep models can exploit correlations between device instance and health status as shortcuts, producing biased disease predictions and overstated internal performance.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Scientific Reports article record",
+    "publication_note": "Published on 2026-06-13, with the version of record dated 2026-06-16; newly surfaced through the closed Nature Portfolio Photoacoustic Imaging collection.",
+    "sources": [
+      "https://www.nature.com/articles/s41598-026-53468-6",
+      "https://doi.org/10.1038/s41598-026-53468-6"
+    ],
+    "last_verified": "2026-07-22"
+  }
+]
