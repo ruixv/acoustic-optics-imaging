@@ -1,0 +1,51 @@
+[
+  {
+    "id": "nature-s41377-026-02401-7-paatam-freehand-photoacoustic-mapping",
+    "title": "Robust hybrid feature-driven on-the-fly mapping enables freehand 3D panoramic photoacoustic angiography",
+    "authors": "Haishu Xin; Erqi Wang; Rui Ma; Xin Chen; Yanshen Guo; Xinyue Huang; Fanjia Zeng; Yuanzheng Ma; Kaipeng Zhang; Ting Guo; Zhiyang Wang; Wuyu Zhang; Fei Yang; Yuqin Zhang; Sihua Yang",
+    "year": 2026,
+    "publication_date": "2026-07-22",
+    "venue": "Light: Science & Applications",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "volume": "15",
+    "article_number": "328",
+    "doi": "10.1038/s41377-026-02401-7",
+    "primary_url": "https://www.nature.com/articles/s41377-026-02401-7",
+    "pdf_url": "https://www.nature.com/articles/s41377-026-02401-7.pdf",
+    "source": "Manual-Nature-DOI-seed",
+    "matched_query": "photoacoustic angiography freehand 3D panoramic mapping SLAM Light Science Applications 2026",
+    "score": 12,
+    "reasons": [
+      "manual-nature-doi-seed",
+      "Nature Portfolio original research article",
+      "direct photoacoustic imaging and reconstruction contribution",
+      "real-time six-degree-of-freedom tracking and panoramic 3D vascular mapping",
+      "exact title and DOI absent from repository search",
+      "metadata verified from the official publisher record"
+    ],
+    "topics": [
+      "photoacoustic angiography",
+      "freehand 3D imaging",
+      "panoramic vascular mapping",
+      "photoacoustic SLAM",
+      "handheld imaging",
+      "hybrid geometric-intensity features",
+      "surgical guidance",
+      "hemodynamic imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces PAATAM, a real-time freehand photoacoustic angiography tracking-and-mapping framework that estimates six-degree-of-freedom handheld-probe motion from complementary vascular geometry and absorption-intensity features. The system reconstructs field-of-view-unconstrained panoramic 3D vascular maps at 10 volumes per second, reports sub-1% relative tracking error in general and 99.67% accuracy under dynamic motion, and expands the imaged vascular volume 42.3-fold during a rat gastrectomy experiment.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Light: Science & Applications / Nature Portfolio article record",
+    "publication_note": "Published and version of record on 2026-07-22 in Light: Science & Applications, volume 15, article 328.",
+    "sources": [
+      "https://www.nature.com/articles/s41377-026-02401-7",
+      "https://doi.org/10.1038/s41377-026-02401-7"
+    ],
+    "last_verified": "2026-07-23"
+  }
+]
