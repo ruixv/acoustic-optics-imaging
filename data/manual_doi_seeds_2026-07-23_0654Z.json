@@ -1,0 +1,53 @@
+[
+  {
+    "id": "elsevier-pacs-2026-100798-laser-ultrasound-tomography-cnn",
+    "title": "Neural networks for faster laser ultrasound tomography in tissue phantoms",
+    "authors": "Ahmed Al Fuwaires; Peter Lukacs; Don Pieris; Geo Davis; Helen Mulvana; Katherine Tant; Theodosia Stratoudaki",
+    "year": 2026,
+    "publication_date": "2026-01-13",
+    "venue": "Photoacoustics",
+    "venue_group": "Photoacoustics",
+    "venue_type": "journal article",
+    "volume": "48",
+    "article_number": "100798",
+    "doi": "10.1016/j.pacs.2026.100798",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S2213597926000042",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "laser ultrasound tomography neural network speed of sound photoacoustics 2026",
+    "score": 12,
+    "reasons": [
+      "manual-elsevier-doi-seed",
+      "peer-reviewed original research in Photoacoustics",
+      "direct acoustic imaging and tomographic reconstruction contribution",
+      "fully non-contact optical generation and detection of ultrasound",
+      "CNN reconstructs quantitative speed-of-sound maps from experimentally acquired data",
+      "exact title and DOI absent from repository search",
+      "metadata verified from the official publisher record and PubMed"
+    ],
+    "topics": [
+      "laser ultrasound tomography",
+      "all-optical ultrasound imaging",
+      "speed-of-sound reconstruction",
+      "convolutional neural network",
+      "non-contact acoustic imaging",
+      "biomedical tomography",
+      "simulation-to-experiment reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Presents a fully non-contact laser-ultrasound tomography system for quantitative speed-of-sound mapping. An end-to-end convolutional neural network, trained on simulated time-of-flight matrices and speed-of-sound maps, reconstructs a 77 mm × 77 mm field in under 6 ms and is experimentally validated on heterogeneous tissue-mimicking phantoms. A two-stage time-of-flight picker improves travel-time estimation before CNN reconstruction.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Elsevier ScienceDirect article record, PubMed, and PubMed Central",
+    "publication_note": "Published online on 2026-01-13 in Photoacoustics, volume 48, article 100798; collected in the April 2026 issue.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S2213597926000042",
+      "https://pubmed.ncbi.nlm.nih.gov/41716222/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12915219/",
+      "https://doi.org/10.1016/j.pacs.2026.100798",
+      "https://doi.org/10.15129/7b0f8b08-4183-4259-9092-4e4274c13852"
+    ],
+    "last_verified": "2026-07-23"
+  }
+]
