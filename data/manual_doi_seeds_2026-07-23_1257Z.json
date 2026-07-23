@@ -1,0 +1,55 @@
+[
+  {
+    "id": "biorxiv-2026-pa-sfm-tracker-free-3d-photoacoustic-imaging",
+    "title": "PA-SfM: Tracker-free freehand 3D photoacoustic imaging via differentiable acoustic radiation",
+    "authors": "Shuang Li; Jian Gao; Chulhong Kim; Seongwook Choi; Hao Huang; Xuanhao Wang; Junhui Shi; Qian Chen; Yibing Wang; Shuang Wu; Yu Zhang; Yucheng Zhou; Yao Yao; Changhui Li",
+    "year": 2026,
+    "publication_date": "2026-07-22",
+    "venue": "bioRxiv preprint",
+    "venue_group": "bioRxiv",
+    "venue_type": "preprint",
+    "doi": "10.64898/2026.04.06.716718",
+    "arxiv_id": "2604.09643",
+    "primary_url": "https://www.biorxiv.org/content/10.64898/2026.04.06.716718v5",
+    "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.04.06.716718v5.full.pdf",
+    "code_url": "https://github.com/JaegerCQ/PA-SfM",
+    "source": "Manual-bioRxiv-arXiv-seed",
+    "matched_query": "tracker-free freehand 3D photoacoustic imaging differentiable acoustic radiation",
+    "score": 12,
+    "reasons": [
+      "manual-biorxiv-arxiv-seed",
+      "direct computational photoacoustic imaging and 3D reconstruction contribution",
+      "jointly estimates sensor pose and reconstructs multi-view 3D photoacoustic volumes without an external tracker",
+      "uses differentiable acoustic radiation modeling with hierarchical optimization and rigid-array constraints",
+      "validated with simulations, in-vivo imaging, mechanically scanned imaging, and genuine freehand human-hand vascular imaging",
+      "open source implementation is available",
+      "exact title, DOI, and arXiv identifier absent from repository search",
+      "latest metadata verified from the official bioRxiv v5 record and the official arXiv record"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "freehand 3D photoacoustic imaging",
+      "differentiable acoustic radiation",
+      "tracker-free pose recovery",
+      "multi-view reconstruction",
+      "structure from motion",
+      "expanded field of view",
+      "computational imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Introduces PA-SfM, a tracker-free differentiable acoustic structure-from-motion framework that recovers relative sensor-array poses directly from photoacoustic measurements and jointly reconstructs multi-view 3D photoacoustic volumes. The latest bioRxiv revision reports genuine freehand human-hand vascular imaging, in-vivo rat validation, mechanically scanned experiments, expanded-field-of-view mapping, and open-source code.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official bioRxiv v5 record, official arXiv record, and public code repository",
+    "publication_note": "The substantially revised bioRxiv v5 was posted on 2026-07-22. An earlier arXiv version, arXiv:2604.09643, was submitted on 2026-03-23. No final peer-reviewed venue was verified, so retain as a candidate preprint.",
+    "sources": [
+      "https://www.biorxiv.org/content/10.64898/2026.04.06.716718v5",
+      "https://doi.org/10.64898/2026.04.06.716718",
+      "https://arxiv.org/abs/2604.09643",
+      "https://github.com/JaegerCQ/PA-SfM"
+    ],
+    "last_verified": "2026-07-23"
+  }
+]
