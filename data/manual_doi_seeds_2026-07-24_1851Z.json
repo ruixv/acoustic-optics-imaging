@@ -1,0 +1,54 @@
+[
+  {
+    "id": "doi-10-1016-j-ultras-2026-108001-optimal-transport-ultrasound-tomography",
+    "title": "Waveform inversion of sound speed and acoustic attenuation for ring-array ultrasound tomography based on optimal transport framework",
+    "authors": "Dan Gao; Xiaoyan Tao; Fansheng Meng; Guojun Zhang; Licheng Jia; RenXin Wang; Changde He; Yuhua Yang; Wendong Zhang; Xingling Shao",
+    "year": 2026,
+    "publication_date": "2026-02-14",
+    "venue": "Ultrasonics",
+    "venue_group": "Elsevier",
+    "venue_type": "journal",
+    "volume": "163",
+    "article_number": "108001",
+    "issue_date": "2026-07",
+    "doi": "10.1016/j.ultras.2026.108001",
+    "primary_url": "https://doi.org/10.1016/j.ultras.2026.108001",
+    "source": "Manual-DOI-seed",
+    "matched_query": "acoustic imaging ultrasound tomography full waveform inversion optimal transport",
+    "score": 9,
+    "reasons": [
+      "manual-DOI-seed",
+      "newly surfaced repository gap during the 2026-07-24 publisher and PubMed sweep",
+      "direct quantitative acoustic-imaging and inverse-reconstruction contribution",
+      "jointly reconstructs sound speed and acoustic attenuation from ring-array ultrasound measurements",
+      "uses a 2-Wasserstein optimal-transport objective and Sigmoid regularization to mitigate cycle skipping",
+      "reports simulation and experimental validation with lesion-region agreement against reference imaging",
+      "metadata verified from the official ScienceDirect article page and PubMed",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "ultrasound computed tomography",
+      "full-waveform inversion",
+      "optimal transport",
+      "sound-speed imaging",
+      "acoustic attenuation imaging",
+      "ring-array ultrasound",
+      "breast imaging",
+      "quantitative acoustic imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Proposes a Sigmoid-regularized optimal-transport full-waveform inversion framework for ring-array ultrasound computed tomography. The method jointly reconstructs sound speed and attenuation, uses a 2-Wasserstein misfit to reduce cycle skipping, and reports maximum relative errors of 3.8% and 5.1% for sound speed and attenuation together with experimental lesion-region agreement of 92.6% Dice against reference imaging.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect article page and PubMed",
+    "publication_note": "Published online on 2026-02-14 and assigned to Ultrasonics volume 163 (July 2026). Newly surfaced as a repository backfill; add to the main library as a core quantitative acoustic-imaging paper.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0041624X26000533",
+      "https://pubmed.ncbi.nlm.nih.gov/41702271/",
+      "https://doi.org/10.1016/j.ultras.2026.108001"
+    ],
+    "last_verified": "2026-07-24"
+  }
+]
