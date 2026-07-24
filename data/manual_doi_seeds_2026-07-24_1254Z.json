@@ -1,0 +1,97 @@
+[
+  {
+    "id": "arxiv-2607-21373-3d-uq-photoacoustic-tomography",
+    "title": "3D Uncertainty Quantification for the Photo-Acoustic Tomography",
+    "authors": "Babak Maboudi Afkham; Amal Mohammed A Alghami; Hassan Yazdanian; Tanja Tarvainen",
+    "year": 2026,
+    "publication_date": "2026-07-23",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2607.21373",
+    "arxiv_id": "2607.21373",
+    "primary_url": "https://arxiv.org/abs/2607.21373",
+    "pdf_url": "https://arxiv.org/pdf/2607.21373",
+    "source": "Manual-arXiv-seed",
+    "matched_query": "photoacoustic tomography uncertainty quantification Bayesian reconstruction",
+    "score": 9,
+    "reasons": [
+      "manual-arXiv-seed",
+      "newly listed on arXiv on 2026-07-24 and submitted on 2026-07-23",
+      "direct computational photoacoustic tomography contribution",
+      "introduces matrix-free Bayesian randomize-then-optimize sampling using forward and adjoint wave propagation",
+      "demonstrates large-scale three-dimensional uncertainty quantification on a general finite-element domain with approximately 200,000 unknowns",
+      "high-confidence metadata verified from the official arXiv record",
+      "exact title and arXiv identifier were absent from repository search"
+    ],
+    "topics": [
+      "photoacoustic tomography",
+      "uncertainty quantification",
+      "Bayesian inverse problems",
+      "finite-element reconstruction",
+      "randomize-then-optimize",
+      "adjoint wave propagation",
+      "computational photoacoustics"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Develops a matrix-free finite-element Bayesian uncertainty-quantification framework for realistic three-dimensional photoacoustic tomography. The method reformulates randomize-then-optimize sampling to generate independent posterior samples using only forward and adjoint wave propagations, carefully enforces discrete adjoint consistency, and validates posterior statistics on a general-domain problem with roughly 200,000 unknowns.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv record",
+    "publication_note": "Submitted to arXiv on 2026-07-23 and newly listed on 2026-07-24. Add to candidates as a core computational photoacoustic-imaging preprint; promote after a peer-reviewed venue is verified.",
+    "sources": [
+      "https://arxiv.org/abs/2607.21373",
+      "https://doi.org/10.48550/arXiv.2607.21373"
+    ],
+    "last_verified": "2026-07-24"
+  },
+  {
+    "id": "arxiv-2607-20989-few-shot-acoustic-impedance-imaging",
+    "title": "Latent Variable-Mediated Cross-Learning for Few-Shot Acoustic Impedance Imaging",
+    "authors": "Junheng Peng; Yong Li; Mingwei Wang; Yi Bao",
+    "year": 2026,
+    "publication_date": "2026-07-23",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2607.20989",
+    "arxiv_id": "2607.20989",
+    "primary_url": "https://arxiv.org/abs/2607.20989",
+    "pdf_url": "https://arxiv.org/pdf/2607.20989",
+    "source": "Manual-arXiv-seed",
+    "matched_query": "acoustic imaging acoustic impedance inversion few-shot physics-guided",
+    "score": 7,
+    "reasons": [
+      "manual-arXiv-seed",
+      "newly listed on arXiv on 2026-07-24 and submitted on 2026-07-23",
+      "direct acoustic-impedance imaging and inverse-reconstruction contribution",
+      "uses differentiable closed-form Tikhonov deconvolution to estimate an unknown seismic wavelet during training",
+      "combines physics-guided deconvolution with semi-supervised cross-learning under extremely sparse well-log supervision",
+      "high-confidence metadata verified from the official arXiv record",
+      "exact title and arXiv identifier were absent from repository search"
+    ],
+    "topics": [
+      "acoustic impedance imaging",
+      "seismic inversion",
+      "few-shot reconstruction",
+      "regularized deconvolution",
+      "semi-supervised cross-learning",
+      "physics-guided imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core-adjacent",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Introduces RD-SCL for few-shot subsurface acoustic-impedance imaging. A differentiable first-order Tikhonov deconvolution operator estimates the latent seismic wavelet in the frequency domain, while symmetric cross-learning exploits labeled and unlabeled traces. The method is evaluated on SEAM and Marmousi 2 and is relevant to broad computational acoustic imaging, though outside the repository's central acoustic-optical and biomedical focus.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv record",
+    "publication_note": "Submitted to arXiv on 2026-07-23 and newly listed on 2026-07-24. Keep in candidates as core-adjacent because it is subsurface seismic acoustic imaging rather than acoustic-optical, sonar-camera, or biomedical imaging.",
+    "sources": [
+      "https://arxiv.org/abs/2607.20989",
+      "https://doi.org/10.48550/arXiv.2607.20989"
+    ],
+    "last_verified": "2026-07-24"
+  }
+]
