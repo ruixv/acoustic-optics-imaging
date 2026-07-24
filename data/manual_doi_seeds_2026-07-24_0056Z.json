@@ -1,0 +1,48 @@
+[
+  {
+    "id": "natureprotocols-2026-lipid-shelled-nanobubble-ultrasound-contrast-agents",
+    "title": "Formulation and activation of lipid-shelled nanobubble ultrasound contrast agents",
+    "authors": "Michaela B. Cooley; Theresa Kosmides; Pinunta Nittayacharn; Felipe M. Berg; Dana Wegierak; Dorian Durig; Agata A. Exner",
+    "year": 2026,
+    "publication_date": "2026-07-23",
+    "venue": "Nature Protocols",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal protocol",
+    "doi": "10.1038/s41596-026-01411-4",
+    "primary_url": "https://www.nature.com/articles/s41596-026-01411-4",
+    "pdf_url": "",
+    "source": "Manual-Nature-Portfolio-seed",
+    "matched_query": "ultrasound contrast agents acoustic imaging nanobubbles",
+    "score": 8,
+    "reasons": [
+      "manual-Nature-Portfolio-seed",
+      "newly published protocol directly supporting contrast-enhanced ultrasound imaging",
+      "standardizes nanobubble formulation, activation, quality control, echogenicity, and acoustic-performance characterization",
+      "high-confidence metadata verified from the official Nature Protocols record",
+      "borderline for the main tracker because it is an imaging-agent protocol rather than an image-formation, reconstruction, holography, or fusion method",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "ultrasound imaging",
+      "contrast-enhanced ultrasound",
+      "ultrasound contrast agents",
+      "lipid-shelled nanobubbles",
+      "echogenicity characterization",
+      "acoustic performance",
+      "molecular imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "related",
+    "paper_type": "protocol",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Provides a standardized protocol for producing plain and functionalized lipid-shelled nanobubbles for contrast-enhanced ultrasound imaging and therapy. The workflow covers formulation, activation, purification, quality control, size and concentration measurements, buoyancy, echogenicity, acoustic performance, and common failure modes affecting reproducibility.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Nature Protocols article record",
+    "publication_note": "Published as a Nature Protocols article on 2026-07-23. Retain as a related candidate because the contribution is a contrast-agent preparation and characterization protocol rather than a new acoustic imaging, reconstruction, holography, or sensor-fusion method.",
+    "sources": [
+      "https://www.nature.com/articles/s41596-026-01411-4",
+      "https://doi.org/10.1038/s41596-026-01411-4"
+    ],
+    "last_verified": "2026-07-24"
+  }
+]
