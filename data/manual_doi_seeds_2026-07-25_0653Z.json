@@ -1,0 +1,52 @@
+[
+  {
+    "id": "doi-10-1016-j-optlaseng-2026-109879-rsfnet-rgb-sonar-depth",
+    "title": "An RGB-sonar fusion framework for underwater depth estimation enabled by cross-modal alignment",
+    "authors": "Pin Lv; Yuanjie Liu; Zefan Jiang; Shangkun Chai; Fusheng Zha; Pengfei Wang; Wei Guo",
+    "year": 2026,
+    "publication_date": "2026-10",
+    "venue": "Optics and Lasers in Engineering",
+    "venue_group": "Elsevier",
+    "venue_type": "journal",
+    "volume": "205",
+    "article_number": "109879",
+    "doi": "10.1016/j.optlaseng.2026.109879",
+    "primary_url": "https://doi.org/10.1016/j.optlaseng.2026.109879",
+    "source": "Manual-DOI-seed",
+    "matched_query": "camera-sonar fusion RGB-sonar underwater depth estimation cross-modal alignment acoustic-optical reconstruction",
+    "score": 13,
+    "reasons": [
+      "manual-DOI-seed",
+      "official Elsevier record lists Optics and Lasers in Engineering volume 205, article 109879, October 2026",
+      "direct camera-sonar fusion method for metric underwater depth estimation and 3D perception",
+      "introduces a sonar modality alignment module to map imaging-sonar measurements into the RGB image frame",
+      "uses sonar absolute-range priors to address monocular scale ambiguity",
+      "introduces both synthetic and real paired RGB-sonar depth datasets",
+      "metadata verified from the official ScienceDirect article page",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "acoustic-optical imaging",
+      "underwater depth estimation",
+      "cross-modal alignment",
+      "multibeam imaging sonar",
+      "3D reconstruction",
+      "underwater robotics",
+      "multimodal datasets"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "RSFNet is a supervised RGB-sonar fusion framework for underwater depth estimation. A geometry-aware Sonar Modality Alignment Module transforms multibeam-sonar measurements into an RGB-aligned coarse range representation, which supplies absolute-distance priors that reduce monocular scale ambiguity. The paper also contributes a Gazebo-based synthetic dataset (RSSUD) and a real water-tank dataset (RSRUD), then fuses RGB texture and sonar range features through a dual-branch encoder, multi-scale decoder, and global-context module. It is a direct camera-sonar imaging and reconstruction contribution and should be included in the core library.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect article page",
+    "publication_note": "The official Elsevier page lists the version of record in volume 205 (October 2026), article 109879. The precise online-first date was not exposed in the accessible metadata, so the month-level issue date is retained.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0143816626002836",
+      "https://doi.org/10.1016/j.optlaseng.2026.109879"
+    ],
+    "last_verified": "2026-07-25"
+  }
+]
