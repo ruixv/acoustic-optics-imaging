@@ -42,6 +42,50 @@
     }
   },
   {
+    "id": "doi-10-1016-j-optlaseng-2026-109879-rsfnet-rgb-sonar-depth",
+    "title": "An RGB-sonar fusion framework for underwater depth estimation enabled by cross-modal alignment",
+    "authors": "Pin Lv; Yuanjie Liu; Zefan Jiang; Shangkun Chai; Fusheng Zha; Pengfei Wang; Wei Guo",
+    "year": 2026,
+    "publication_date": "2026-10",
+    "venue": "Optics and Lasers in Engineering",
+    "venue_group": "Elsevier",
+    "venue_type": "conference",
+    "doi": "10.1016/j.optlaseng.2026.109879",
+    "primary_url": "https://doi.org/10.1016/j.optlaseng.2026.109879",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "camera-sonar fusion",
+      "acoustic-optical imaging",
+      "underwater depth estimation",
+      "cross-modal alignment",
+      "multibeam imaging sonar",
+      "3D reconstruction",
+      "underwater robotics",
+      "multimodal datasets"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on camera-sonar fusion, acoustic-optical imaging, underwater depth estimation, cross-modal alignment, multibeam imaging sonar, 3D reconstruction, underwater robotics, multimodal datasets.",
+    "summary_cn": "自动审核收录的论文，主题包括 camera-sonar fusion、acoustic-optical imaging、underwater depth estimation、cross-modal alignment、multibeam imaging sonar、3D reconstruction、underwater robotics、multimodal datasets。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1016/j.optlaseng.2026.109879",
+      "https://www.sciencedirect.com/science/article/pii/S0143816626002836"
+    ],
+    "last_verified": "2026-07-25",
+    "curation_origin": "Manual-DOI-seed",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "Manual-DOI-seed",
+      "final_version_status": "manual-doi-metadata-pending",
+      "track": "main"
+    }
+  },
+  {
     "id": "fujita2026-spatially-selective-ultrasound-acoustic-holography",
     "title": "Spatially selective ultrasound field formation using acoustic holography for cultured-cell applications",
     "authors": "Haruto Fujita; Toshihiko Shiraishi",
