@@ -1,0 +1,54 @@
+[
+  {
+    "id": "doi-10-1016-j-ultras-2026-108041-dual-frequency-ultrasonic-holography",
+    "title": "Dual-frequency ultrasonic holography by binary aperture plates",
+    "authors": "Wen-Na Hu; Xing-Feng Zhu; Jie Yao; Qi Wei; Da-Jian Wu",
+    "year": 2026,
+    "publication_date": "2026-03-04",
+    "venue": "Ultrasonics",
+    "venue_group": "Elsevier",
+    "venue_type": "journal",
+    "volume": "164",
+    "issue_date": "2026-08",
+    "article_number": "108041",
+    "doi": "10.1016/j.ultras.2026.108041",
+    "primary_url": "https://doi.org/10.1016/j.ultras.2026.108041",
+    "pubmed_id": "41812466",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41812466/",
+    "source": "Manual-DOI-seed",
+    "matched_query": "acoustic holography acoustic coded imaging dual-frequency ultrasonic holography binary aperture underwater",
+    "score": 11,
+    "reasons": [
+      "manual-DOI-seed",
+      "official PubMed record verifies the complete author list, DOI, electronic publication date, volume, and article number",
+      "official ScienceDirect record verifies the journal metadata and experimental dual-frequency holography contribution",
+      "direct acoustic-holography and coded-wavefield contribution using a binary aperture plate",
+      "multi-frequency optimal accumulation adds a frequency coding degree of freedom to binary-amplitude holograms",
+      "theoretical, simulation, and water-tank experimental validation are all reported",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "acoustic holography",
+      "ultrasonic holography",
+      "acoustic coded imaging",
+      "binary aperture",
+      "multi-frequency coding",
+      "underwater acoustics",
+      "wavefront engineering"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This work introduces dual-frequency ultrasonic holography using a single binary aperture plate optimized by a multi-frequency optimal accumulation algorithm. The added frequency degree of freedom lets one passive binary-amplitude element encode distinct acoustic intensity patterns at two operating frequencies. The authors validate geometric, letter, and numeral projections theoretically, numerically, and experimentally in water using a drilled stainless-steel plate. Because the contribution directly advances coded acoustic holography and multi-frequency wavefield synthesis, it is a core repository addition.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official PubMed record and official ScienceDirect article record",
+    "publication_note": "PubMed lists electronic publication on 4 March 2026 and the final Ultrasonics issue assignment as volume 164, August 2026, article 108041. The record was newly surfaced during this repository audit rather than newly published on the audit date.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41812466/",
+      "https://www.sciencedirect.com/science/article/pii/S0041624X26000934",
+      "https://doi.org/10.1016/j.ultras.2026.108041"
+    ],
+    "last_verified": "2026-07-25"
+  }
+]
