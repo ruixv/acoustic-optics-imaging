@@ -1,0 +1,56 @@
+[
+  {
+    "id": "doi-10-1016-j-dsp-2026-106399-cpsnet-lung-ultrasound",
+    "title": "CPSNet: Physics-Inspired Label-Free Deep Unfolding for Lung Ultrasound B-Line Detection",
+    "authors": "Tianqi Yang; Oktay Karakuş; Nantheera Anantrasirichai; Marco Allinovi; Alin Achim",
+    "year": 2026,
+    "publication_date": "2026-07-15",
+    "venue": "Digital Signal Processing",
+    "venue_group": "Elsevier",
+    "venue_type": "journal",
+    "volume": "184",
+    "article_number": "106399",
+    "doi": "10.1016/j.dsp.2026.106399",
+    "primary_url": "https://doi.org/10.1016/j.dsp.2026.106399",
+    "arxiv_id": "2407.10667",
+    "arxiv_url": "https://arxiv.org/abs/2407.10667",
+    "code_url": "https://github.com/TQ-001/DUCPS",
+    "source": "Manual-DOI-seed",
+    "matched_query": "acoustic imaging ultrasound reconstruction deep unfolding lung ultrasound B-line label-free inverse problem",
+    "score": 11,
+    "reasons": [
+      "manual-DOI-seed",
+      "official ScienceDirect record lists the article online on 15 July 2026 with DOI 10.1016/j.dsp.2026.106399",
+      "arXiv v3 posted on 23 July 2026 adds the final journal reference and related DOI",
+      "direct computational acoustic-imaging contribution for label-free lung-ultrasound reconstruction",
+      "unfolds Cauchy proximal splitting and trains through a Radon-domain neighbor reconstruction loss without clean ground truth",
+      "includes B-line detection as a downstream clinical demonstration while retaining image reconstruction as a central method contribution",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "ultrasound imaging",
+      "lung ultrasound",
+      "deep unfolding",
+      "inverse problems",
+      "self-supervised reconstruction",
+      "Radon-domain reconstruction",
+      "B-line detection"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "CPSNet is a label-free deep-unfolding framework for lung-ultrasound reconstruction and B-line analysis. It unfolds Cauchy proximal splitting into a forward-backward network and introduces a Radon-Based Neighbor Reconstruction Loss that trains from subsampled measurement consistency rather than paired clean images. The method preserves line structures under noise, runs at approximately 0.01 seconds per frame, and uses B-line detection to demonstrate clinical utility. Because reconstruction and acoustic image formation are central to the contribution, it belongs in the core library rather than only the downstream-analysis candidate set.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect article page and official arXiv record with final journal reference",
+    "publication_note": "ScienceDirect lists the article as available online on 15 July 2026. The arXiv record was revised on 23 July 2026 to include the final Digital Signal Processing reference: volume 184, article 106399.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S1051200426005178",
+      "https://doi.org/10.1016/j.dsp.2026.106399",
+      "https://arxiv.org/abs/2407.10667",
+      "https://github.com/TQ-001/DUCPS"
+    ],
+    "last_verified": "2026-07-25"
+  }
+]
