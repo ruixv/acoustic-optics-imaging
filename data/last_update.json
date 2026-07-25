@@ -1,10 +1,50 @@
 {
-  "last_run": "2026-07-24T19:48:27.298987+00:00",
-  "since_date": "2024-07-24",
-  "raw_candidates_seen": 1795,
+  "last_run": "2026-07-25T00:58:07.460294+00:00",
+  "since_date": "2024-07-25",
+  "raw_candidates_seen": 1794,
   "saved_candidates_total": 521,
   "citation_graph_seed_count": 50,
   "errors": [
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging NeurIPS",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22NeurIPS%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging ECCV",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ECCV%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging ICLR",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ICLR%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging ICML",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ICML%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging ICCP",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ICCP%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging MobiSys",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22MobiSys%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging MobiCom",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22MobiCom%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "mmWave radar imaging SenSys",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22SenSys%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
     {
       "source": "arXiv",
       "query": "mmWave radar imaging TPAMI",
@@ -167,8 +207,8 @@
     }
   ],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
-  "manual_doi_seed_last_run": "2026-07-24T19:48:27.405361+00:00",
-  "manual_doi_seed_file_count": 21,
+  "manual_doi_seed_last_run": "2026-07-25T00:58:07.560637+00:00",
+  "manual_doi_seed_file_count": 22,
   "manual_doi_seed_files": [
     "manual_doi_seeds.json",
     "manual_doi_seeds_2026-07-19.json",
@@ -190,10 +230,11 @@
     "manual_doi_seeds_2026-07-24_0056Z.json",
     "manual_doi_seeds_2026-07-24_0658Z.json",
     "manual_doi_seeds_2026-07-24_1254Z.json",
-    "manual_doi_seeds_2026-07-24_1851Z.json"
+    "manual_doi_seeds_2026-07-24_1851Z.json",
+    "manual_doi_seeds_2026-07-25_0051Z.json"
   ],
-  "manual_doi_seed_count": 56,
-  "manual_doi_seed_added": 0,
+  "manual_doi_seed_count": 57,
+  "manual_doi_seed_added": 1,
   "manual_doi_seed_updated": 52,
   "mmwave_seed_queries": [
     "high resolution handheld millimeter wave imaging phase error estimation compensation",
@@ -216,10 +257,10 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-07-24T19:49:06.881411+00:00",
+  "agent_audit_last_run": "2026-07-25T00:58:41.497573+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 1,
-  "resolved_final_versions": 36,
+  "resolved_final_versions": 35,
   "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion, geometric acoustic rendering/path tracing, acoustic holography, and photoacoustic/acousto-optic imaging; hidden mmWave track covers radar imaging, handheld SAR/autofocus, FMCW/MIMO-SAR, 4D radar, through-occlusion reconstruction, surface normals, and radar scene understanding. Nature-family mapping includes Communications Engineering.",
   "mmwave_allowlist_final_groups": [
     "ACM TOG / SIGGRAPH",
