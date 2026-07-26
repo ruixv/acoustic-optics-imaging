@@ -1,0 +1,54 @@
+[
+  {
+    "id": "doi-10-3390-diagnostics16152329-tomographic-3d-ultrasound-thyroid-volumetry",
+    "title": "Tomographic 3D Ultrasound for Thyroid Volumetry—A Comparison Between Multiplanar 2D and 3D Imaging Methods",
+    "authors": "Robert Roth; Zoe Reinke; Martin Siedlecki; Jan Luitjens; Martin Hügle; Johanna S. Enke; Christian Liska; Laura-Marie Feitelson; Constantin Lapa; Thomas Kroencke; Robert Bauer; Thomas Wendler",
+    "year": 2026,
+    "publication_date": "2026-07-25",
+    "venue": "Diagnostics",
+    "venue_group": "MDPI",
+    "venue_type": "journal",
+    "volume": "16",
+    "issue": "15",
+    "article_number": "2329",
+    "doi": "10.3390/diagnostics16152329",
+    "primary_url": "https://doi.org/10.3390/diagnostics16152329",
+    "source": "Manual-DOI-seed",
+    "matched_query": "acoustic imaging tracked 3D ultrasound tomographic ultrasound optical tracking thyroid volumetry",
+    "score": 7,
+    "reasons": [
+      "manual-DOI-seed",
+      "version of record published on 2026-07-25",
+      "official publisher metadata verifies the complete author list, journal, volume, issue, article number, DOI, and publication date",
+      "compares electromagnetically, inertially, and optically tracked three-dimensional ultrasound with conventional two-dimensional B-mode ultrasound, CT, and MRI",
+      "uses an anatomically realistic multimodality phantom with independently verified ground-truth volumes",
+      "finds that tracked 3D ultrasound reduces inter- and intraobserver variability and achieves accuracy comparable to CT",
+      "exact title and DOI were absent from repository search",
+      "the primary contribution is controlled clinical-method validation rather than a new image-formation or reconstruction algorithm, so candidate status is appropriate"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "three-dimensional ultrasound",
+      "tomographic ultrasound",
+      "optically tracked ultrasound",
+      "multimodal imaging",
+      "thyroid volumetry",
+      "medical imaging",
+      "tracking-assisted reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core-adjacent",
+    "paper_type": "original research",
+    "recommendation": "add-to-candidates",
+    "summary_en": "This controlled phantom study compares conventional 2D B-mode thyroid volumetry with electromagnetically tracked, inertially tracked, and optically tracked 3D ultrasound, alongside CT and MRI. Across six observers, all tracked 3D-ultrasound variants reduced observer dependence and achieved accuracy comparable to CT. The paper is relevant to acoustic imaging and optical-tracking-assisted 3D reconstruction, but it primarily validates established acquisition workflows rather than introducing a new sensing or reconstruction method; candidate status is therefore recommended.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Diagnostics article page, publisher citation metadata, and version-of-record history",
+    "publication_note": "Published on 2026-07-25. Add to candidates as a core-adjacent tracked 3D-ultrasound validation study; do not promote directly to the main methods library.",
+    "sources": [
+      "https://www.mdpi.com/2075-4418/16/15/2329",
+      "https://www.mdpi.com/2075-4418/16/15/2329/notes",
+      "https://doi.org/10.3390/diagnostics16152329"
+    ],
+    "last_verified": "2026-07-26"
+  }
+]
