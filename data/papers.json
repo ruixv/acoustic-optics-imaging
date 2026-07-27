@@ -248,6 +248,52 @@
     }
   },
   {
+    "id": "wiley-adfm-2026-76440-single-signal-acoustic-imaging",
+    "title": "Single-Signal Acoustic Imaging by AI-Assisted Synthesized Frequency Codec Beyond Limitation of Spatial and Temporal Dimensions",
+    "authors": "Wei Wang; Jie Hu; Bin Li; Jingjing Liu; Yang Tan; Chengyu Zhao; Rong Wang; Jing Yang; Bin Liang; Johan Christensen; Jian-Chun Cheng",
+    "year": 2026,
+    "publication_date": "2026-06-11",
+    "venue": "Advanced Functional Materials 36(52), e76440",
+    "venue_group": "Wiley / Advanced Functional Materials",
+    "venue_type": "conference",
+    "doi": "10.1002/adfm.76440",
+    "primary_url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.76440",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic coded imaging",
+      "single-signal acoustic imaging",
+      "single-sensor imaging",
+      "synthesized frequency codec",
+      "disordered acoustic metasurface",
+      "computational acoustic imaging",
+      "neural reconstruction"
+    ],
+    "relevance": "related",
+    "summary_en": "Automatically audited paper on acoustic coded imaging, single-signal acoustic imaging, single-sensor imaging, synthesized frequency codec, disordered acoustic metasurface, computational acoustic imaging, neural reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic coded imaging、single-signal acoustic imaging、single-sensor imaging、synthesized frequency codec、disordered acoustic metasurface、computational acoustic imaging、neural reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.76440",
+      "https://doi.org/10.1002/adfm.76440",
+      "https://materials.imdea.org/instant-ultrasound-imaging-with-a-single-sensor-enabled-by-ai/",
+      "https://materials.imdea.org/?anio=&author=Christensen&post_type=publication",
+      "https://arxiv.org/abs/2307.07364"
+    ],
+    "last_verified": "2026-07-27",
+    "curation_origin": "Manual-Wiley-DOI-seed",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "Manual-Wiley-DOI-seed",
+      "final_version_status": "manual-doi-metadata-pending",
+      "track": "main"
+    }
+  },
+  {
     "id": "2026-imaging-hidden-objects-with-consumer-lidar-via-motion-induced-sampling-ac530193e497",
     "title": "Imaging hidden objects with consumer LiDAR via motion-induced sampling",
     "authors": "Siddharth Somasundaram; Aaron Young; Akshat Dave; Adithya Pediredla; Ramesh Raskar",
