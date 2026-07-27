@@ -5075,6 +5075,80 @@
     "track": "main"
   },
   {
+    "id": "arxiv-2607-22351-iq-jepa-ultrasound-quantitative-imaging",
+    "title": "IQ-JEPA: A Joint-Embedding Predictive Architecture with a Hermitian Vision Transformer for Sound Speed and Attenuation Estimation from Ultrasound IQ Data",
+    "authors": "Masashi Sode; Gianmarco Pinton",
+    "year": 2026,
+    "publication_date": "2026-07-24",
+    "indexed_date": "2026-07-27",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "arxiv_id": "2607.22351",
+    "doi": "10.48550/arXiv.2607.22351",
+    "primary_url": "https://arxiv.org/abs/2607.22351",
+    "pdf_url": "https://arxiv.org/pdf/2607.22351",
+    "source": "Manual-arXiv-DOI-seed",
+    "matched_query": "quantitative ultrasound imaging sound speed attenuation estimation raw IQ data self-supervised learning Hermitian transformer",
+    "score": 11,
+    "reasons": [
+      "manual-arXiv-DOI-seed",
+      "newly indexed in the official Monday 2026-07-27 arXiv medical-physics listing",
+      "direct inverse-imaging contribution from raw pulse-echo IQ channel data",
+      "estimates quantitative sound-speed maps and exposes attenuation information",
+      "introduces complex-valued phase-equivariant and phase-invariant transformer operations grounded in ultrasound signal structure",
+      "official arXiv record verifies title, complete author list, submission timestamp, subjects, identifier, and abstract",
+      "exact title and arXiv identifier were absent from repository search",
+      "manual-doi-seed"
+    ],
+    "topics": [
+      "quantitative ultrasound imaging",
+      "sound-speed imaging",
+      "attenuation estimation",
+      "pulse-echo IQ data",
+      "self-supervised learning",
+      "joint-embedding predictive architecture",
+      "complex-valued transformer",
+      "inverse problems"
+    ],
+    "status": "agent-watchlist",
+    "relevance": "core",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "IQ-JEPA pretrains a joint-embedding predictive encoder on unlabeled complex ultrasound IQ data and fine-tunes it for quantitative sound-speed reconstruction. Its Hermitian vision transformer is designed around the phase structure of pulse-echo measurements. The paper reports roughly threefold label-efficiency improvement at 10,000 labels and shows frozen features containing both sound-speed and attenuation information. It is a strong core acoustic-imaging candidate, but should remain in candidates until a peer-reviewed venue is verified.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv abstract and submission-history page; official arXiv medical-physics new-listing page",
+    "publication_note": "Submitted on 2026-07-24 and first surfaced in the official Monday 2026-07-27 arXiv listings.",
+    "sources": [
+      "https://arxiv.org/abs/2607.22351",
+      "https://arxiv.org/list/physics.med-ph/new",
+      "https://doi.org/10.48550/arXiv.2607.22351"
+    ],
+    "last_verified": "2026-07-27",
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27",
+    "times_seen": 1,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.7333333333333333,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    },
+    "track": "main"
+  },
+  {
     "id": "doi-10-1016-j-dsp-2026-106399-cpsnet-lung-ultrasound",
     "title": "CPSNet: Physics-Inspired Label-Free Deep Unfolding for Lung Ultrasound B-Line Detection",
     "authors": "Tianqi Yang; Oktay Karakuş; Nantheera Anantrasirichai; Marco Allinovi; Alin Achim",
@@ -10091,53 +10165,6 @@
     }
   },
   {
-    "id": "2026-synergistic-blood-pressure-estimation-via-contactless-mmwave-radar-and-imag-343a8a62e58e",
-    "title": "Synergistic Blood Pressure Estimation via Contactless mmWave Radar and Imaging Photoplethysmography: A Feasibility Study",
-    "authors": "Boyuan Gu; Haiyang Sun; Yongjie Liu; Guangji Ma; Guanghao Sun; Xiaorong Ding",
-    "year": 2026,
-    "publication_date": "2026-06-07",
-    "venue": "arXiv preprint",
-    "doi": "",
-    "primary_url": "http://arxiv.org/abs/2606.13701v1",
-    "pdf_url": "https://arxiv.org/pdf/2606.13701v1",
-    "source": "arXiv",
-    "matched_query": "mmWave radar imaging TMC",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-27",
-    "times_seen": 3,
-    "final_version_status": "arxiv-only-no-final-version-found",
-    "venue_group": "arXiv",
-    "topics": [
-      "mmWave radar imaging"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": false,
-        "mmwave_preprint_ok": true,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": true,
-        "negative_filter": false,
-        "final_version_status": "arxiv-only-no-final-version-found"
-      }
-    }
-  },
-  {
     "id": "2026-ris-aided-sensing-experimental-validation-of-radar-3d-imaging-in-the-mmwave-8d6d25a94e4c",
     "title": "RIS-Aided Sensing: Experimental Validation of Radar 3D Imaging in the mmWave Band",
     "authors": "Sergio Micó-Rosa; Alvaro Villaescusa-Tebar; Saúl Fenollosa; Carlos Villena-Jiménez; Monika Drozdowska; Narcis Cardona",
@@ -11449,6 +11476,60 @@
         "final_version_status": "not-needed"
       }
     }
+  },
+  {
+    "id": "2026-synergistic-blood-pressure-estimation-via-contactless-mmwave-radar-and-imag-343a8a62e58e",
+    "title": "Synergistic Blood Pressure Estimation via Contactless mmWave Radar and Imaging Photoplethysmography: A Feasibility Study",
+    "authors": "Boyuan Gu; Haiyang Sun; Yongjie Liu; Guangji Ma; Guanghao Sun; Xiaorong Ding",
+    "year": 2026,
+    "publication_date": "2026-01-01",
+    "venue": "IEEE Sensors Journal",
+    "doi": "10.1109/jsen.2026.3706110",
+    "primary_url": "https://doi.org/10.1109/jsen.2026.3706110",
+    "pdf_url": "https://arxiv.org/pdf/2606.13701v1",
+    "source": "Crossref-final-version",
+    "matched_query": "mmWave radar imaging TMC",
+    "score": 11,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27",
+    "times_seen": 3,
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "venue_group": "Other",
+    "topics": [
+      "mmWave radar imaging"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    },
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/jsen.2026.3706110",
+      "http://arxiv.org/abs/2606.13701v1",
+      "https://arxiv.org/pdf/2606.13701v1"
+    ]
   },
   {
     "id": "2025-millimeter-wave-inverse-pinhole-imaging-2a8fb31bb50d",
@@ -18326,7 +18407,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-22",
     "last_seen": "2026-07-27",
-    "times_seen": 326,
+    "times_seen": 335,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -18371,7 +18452,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-07-27",
-    "times_seen": 999,
+    "times_seen": 1005,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction",
@@ -18417,7 +18498,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-07-27",
-    "times_seen": 946,
+    "times_seen": 951,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction",
@@ -18463,7 +18544,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-07-27",
-    "times_seen": 546,
+    "times_seen": 549,
     "venue_group": "Science family",
     "topics": [
       "mmWave radar imaging"
@@ -18508,7 +18589,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-03",
     "last_seen": "2026-07-27",
-    "times_seen": 812,
+    "times_seen": 815,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -18553,7 +18634,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-10",
     "last_seen": "2026-07-27",
-    "times_seen": 550,
+    "times_seen": 553,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -18598,7 +18679,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-10",
     "last_seen": "2026-07-27",
-    "times_seen": 492,
+    "times_seen": 496,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -18644,7 +18725,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-11",
     "last_seen": "2026-07-27",
-    "times_seen": 511,
+    "times_seen": 515,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -18690,7 +18771,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-27",
-    "times_seen": 343,
+    "times_seen": 348,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction"
@@ -18735,7 +18816,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-27",
-    "times_seen": 84,
+    "times_seen": 90,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -18873,7 +18954,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-16",
     "last_seen": "2026-07-27",
-    "times_seen": 1135,
+    "times_seen": 1150,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging",
@@ -18897,6 +18978,79 @@
         "final_version_status": "not-needed"
       }
     }
+  },
+  {
+    "id": "arxiv-2607-21918-action-conditioned-world-model-robotic-ultrasound",
+    "title": "Action-Conditioned World Model for Goal Plane Probe Guidance in Robotic Ultrasound",
+    "authors": "Siqi Fan; Mingcong Chen; Ran Liu; Zixuan Yang; Xiaoyu Fu; Xiaoqing Gao; Yunhui Liu; Hongbin Liu",
+    "year": 2026,
+    "publication_date": "2026-07-24",
+    "indexed_date": "2026-07-27",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "arxiv_id": "2607.21918",
+    "doi": "10.48550/arXiv.2607.21918",
+    "primary_url": "https://arxiv.org/abs/2607.21918",
+    "pdf_url": "https://arxiv.org/pdf/2607.21918",
+    "source": "Manual-arXiv-DOI-seed",
+    "matched_query": "robotic ultrasound acoustic imaging world model probe guidance conditional diffusion future ultrasound observations",
+    "score": 8,
+    "reasons": [
+      "manual-arXiv-DOI-seed",
+      "newly indexed in the official Monday 2026-07-27 arXiv robotics listing",
+      "models action-conditioned evolution of ultrasound observations rather than operating only on final diagnostic labels",
+      "uses a latent conditional diffusion world model to predict future ultrasound frames under probe motion",
+      "real closed-loop carotid and thyroid probe-guidance experiments",
+      "official arXiv record verifies title, complete author list, submission timestamp, identifier, subjects, and abstract",
+      "exact title and arXiv identifier were absent from repository search",
+      "manual-doi-seed"
+    ],
+    "topics": [
+      "robotic ultrasound",
+      "ultrasound image prediction",
+      "action-conditioned world models",
+      "probe guidance",
+      "conditional diffusion",
+      "goal-plane acquisition",
+      "medical robotics"
+    ],
+    "status": "agent-watchlist",
+    "relevance": "related",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "A two-stage robotic-ultrasound framework in which a latent conditional diffusion model predicts future ultrasound observations from recent frames and commanded probe motion, and a goal-conditioned transformer learns probe trajectories using rewards from the frozen world model. It is relevant because it explicitly models ultrasound image formation under contact and view changes, but the primary contribution is robotic acquisition control rather than acoustic reconstruction, so candidate status is appropriate.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv abstract and submission-history page; official arXiv robotics new-listing page",
+    "publication_note": "Submitted on 2026-07-24 and first surfaced in the official Monday 2026-07-27 arXiv listings.",
+    "sources": [
+      "https://arxiv.org/abs/2607.21918",
+      "https://arxiv.org/list/cs.RO/new",
+      "https://doi.org/10.48550/arXiv.2607.21918"
+    ],
+    "last_verified": "2026-07-27",
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27",
+    "times_seen": 1,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    },
+    "track": "main"
   },
   {
     "id": "natureprotocols-2026-lipid-shelled-nanobubble-ultrasound-contrast-agents",
@@ -21142,6 +21296,61 @@
     }
   },
   {
+    "id": "2024-high-quality-passive-acoustic-mapping-with-the-cross-correlated-angular-spe-7187da195da1",
+    "title": "High-Quality Passive Acoustic Mapping With the Cross-Correlated Angular Spectrum Method",
+    "authors": "Yi Zeng; Shixiao W. Jiang; Hui Zhu; Jinwei Li; Jianfeng Li; Fei Li; Shukuan Lu; Xiran Cai",
+    "year": 2025,
+    "publication_date": "2025-10-01",
+    "venue": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
+    "doi": "10.1109/tuffc.2025.3586460",
+    "primary_url": "https://doi.org/10.1109/tuffc.2025.3586460",
+    "pdf_url": "https://arxiv.org/pdf/2412.02413v1",
+    "source": "Crossref-final-version",
+    "matched_query": "computational ultrasound complex fields imaging",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-27",
+    "times_seen": 2,
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "venue_group": "Other",
+    "topics": [
+      "acoustic coded imaging",
+      "computational ultrasound"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "main",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    },
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/tuffc.2025.3586460",
+      "http://arxiv.org/abs/2412.02413v1",
+      "https://arxiv.org/pdf/2412.02413v1"
+    ]
+  },
+  {
     "id": "2025-llm4mg-adapting-large-language-model-for-multipath-generation-via-synesthes-568b347e52ad",
     "title": "LLM4MG: Adapting Large Language Model for Multipath Generation via Synesthesia of Machines",
     "authors": "Ziwei Huang; Shiliang Lu; Lu Bai; Xuesong Cai; Xiang Cheng",
@@ -21757,6 +21966,60 @@
         "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
+  },
+  {
+    "id": "2024-a-roadmap-to-holographic-focused-ultrasound-approaches-to-generate-thermal-be1af410621c",
+    "title": "A Roadmap to Holographic Focused Ultrasound Approaches for Generating Gradient Thermal Patterns",
+    "authors": "Ceren Cengiz; Zekeriya Ender Eger; Mihir Pewekar; Pinar Acar; Wynn Legon; Shima Shahab",
+    "year": 2025,
+    "publication_date": "2025-06-01",
+    "venue": "International Journal for Numerical Methods in Biomedical Engineering",
+    "doi": "10.1002/cnm.70055",
+    "primary_url": "https://doi.org/10.1002/cnm.70055",
+    "pdf_url": "https://arxiv.org/pdf/2409.01323v1",
+    "source": "Crossref-final-version",
+    "matched_query": "computational ultrasound complex fields imaging",
+    "score": 8,
+    "reasons": [
+      "primary imaging/radar term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-27",
+    "times_seen": 2,
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "venue_group": "Other",
+    "topics": [
+      "acoustic coded imaging",
+      "computational ultrasound"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "main",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    },
+    "final_version_resolved": true,
+    "final_version_similarity": 0.921,
+    "sources": [
+      "https://doi.org/10.1002/cnm.70055",
+      "http://arxiv.org/abs/2409.01323v1",
+      "https://arxiv.org/pdf/2409.01323v1"
+    ]
   },
   {
     "id": "2025-the-application-of-acoustics-for-sample-manipulation-and-delivery-at-x-ray-f83e98824525",
@@ -22882,54 +23145,6 @@
     }
   },
   {
-    "id": "2024-high-quality-passive-acoustic-mapping-with-the-cross-correlated-angular-spe-7187da195da1",
-    "title": "High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method",
-    "authors": "Yi Zeng; Hui Zhu; Jinwei Li; Jianfeng Li; Fei Li; Shukuan Lu; Xiran Cai",
-    "year": 2024,
-    "publication_date": "2024-12-03",
-    "venue": "arXiv preprint",
-    "doi": "",
-    "primary_url": "http://arxiv.org/abs/2412.02413v1",
-    "pdf_url": "https://arxiv.org/pdf/2412.02413v1",
-    "source": "arXiv",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-27",
-    "times_seen": 2,
-    "final_version_status": "arxiv-only-no-final-version-found",
-    "venue_group": "arXiv",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": false,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": true,
-        "negative_filter": false,
-        "final_version_status": "arxiv-only-no-final-version-found"
-      }
-    }
-  },
-  {
     "id": "2024-using-an-electrically-charged-mist-to-visualize-the-potential-wells-in-sono-77a5202aed11",
     "title": "Using an electrically charged mist to visualize the potential wells in “sonomaglev,” a combined diamagnetic-acoustic levitator",
     "authors": "George Hunter-Brown; Naresh Sampara; Matthew M. Scase; R. Hill",
@@ -23186,53 +23401,6 @@
     }
   },
   {
-    "id": "2024-a-roadmap-to-holographic-focused-ultrasound-approaches-to-generate-thermal-be1af410621c",
-    "title": "A Roadmap to Holographic Focused Ultrasound Approaches to Generate Thermal Patterns",
-    "authors": "Ceren Cengiz; Zekeriya Ender Eger; Pinar Acar; Wynn Legon; Shima Shahab",
-    "year": 2024,
-    "publication_date": "2024-09-02",
-    "venue": "arXiv preprint",
-    "doi": "",
-    "primary_url": "http://arxiv.org/abs/2409.01323v1",
-    "pdf_url": "https://arxiv.org/pdf/2409.01323v1",
-    "source": "arXiv",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "primary imaging/radar term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-27",
-    "times_seen": 2,
-    "final_version_status": "arxiv-only-no-final-version-found",
-    "venue_group": "arXiv",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": false,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": true,
-        "negative_filter": false,
-        "final_version_status": "arxiv-only-no-final-version-found"
-      }
-    }
-  },
-  {
     "id": "2024-safeguarding-humans-from-indoor-wireless-powering-via-radar-detection-cab30c80e8b9",
     "title": "Safeguarding Humans From Indoor Wireless Powering via Radar Detection",
     "authors": "Pouya Mehrjouseresht; Oluwatosin J. Babarinde; Vladimir Volski; Alexander Ye. Svezhentsev; Dominique Schreurs",
@@ -23457,7 +23625,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-27",
-    "times_seen": 96,
+    "times_seen": 104,
     "venue_group": "Science family",
     "topics": [
       "vectorial",
