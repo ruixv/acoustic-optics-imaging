@@ -1,0 +1,54 @@
+[
+  {
+    "id": "wiley-adfm-2026-76440-single-signal-acoustic-imaging",
+    "title": "Single-Signal Acoustic Imaging by AI-Assisted Synthesized Frequency Codec Beyond Limitation of Spatial and Temporal Dimensions",
+    "authors": "Wei Wang; Jie Hu; Bin Li; Jingjing Liu; Yang Tan; Chengyu Zhao; Rong Wang; Jing Yang; Bin Liang; Johan Christensen; Jian-Chun Cheng",
+    "year": 2026,
+    "publication_date": "2026-06-11",
+    "indexed_date": "2026-07-27",
+    "venue": "Advanced Functional Materials 36(52), e76440",
+    "venue_group": "Wiley / Advanced Functional Materials",
+    "venue_type": "journal article",
+    "doi": "10.1002/adfm.76440",
+    "arxiv_id": "2307.07364",
+    "primary_url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.76440",
+    "arxiv_url": "https://arxiv.org/abs/2307.07364",
+    "source": "Manual-Wiley-DOI-seed",
+    "matched_query": "single-signal acoustic imaging AI-assisted synthesized frequency codec disordered acoustic metasurface single fixed sensor coded acoustic imaging",
+    "score": 12,
+    "reasons": [
+      "manual-wiley-doi-seed",
+      "newly surfaced through the IMDEA Materials research announcement dated 2026-07-27",
+      "direct acoustic coded-imaging contribution that reconstructs complex objects from one signal acquired by one fixed sensor",
+      "uses a disordered dispersive artificial material as a synthesized frequency codec and a neural network as the decoder",
+      "experimentally validates high-precision real-time acoustic image reconstruction",
+      "title, author list, journal metadata, DOI, publication history, and abstract verified against the official Wiley record",
+      "exact title, DOI, and arXiv identifier were absent from repository search"
+    ],
+    "topics": [
+      "acoustic coded imaging",
+      "single-signal acoustic imaging",
+      "single-sensor imaging",
+      "synthesized frequency codec",
+      "disordered acoustic metasurface",
+      "computational acoustic imaging",
+      "neural reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "The paper combines a strongly dispersive disordered acoustic material with an AI decoder to encode an object's spatial information into a single measured frequency-domain signal. It experimentally reconstructs complex acoustic images from one acquisition by one stationary sensor, eliminating both phased-array acquisition and repeated mechanical or mask scanning. Because coded acquisition and physical image formation are the central contributions, it is a strong core addition to the acoustic coded-imaging collection.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Wiley / Advanced Functional Materials article record; IMDEA Materials publication and research-announcement pages; arXiv",
+    "publication_note": "Version of record published online on 2026-06-11; newly surfaced in this tracking run after an IMDEA Materials research announcement on 2026-07-27.",
+    "sources": [
+      "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.76440",
+      "https://materials.imdea.org/instant-ultrasound-imaging-with-a-single-sensor-enabled-by-ai/",
+      "https://materials.imdea.org/?anio=&author=Christensen&post_type=publication",
+      "https://arxiv.org/abs/2307.07364",
+      "https://doi.org/10.1002/adfm.76440"
+    ],
+    "last_verified": "2026-07-27"
+  }
+]
