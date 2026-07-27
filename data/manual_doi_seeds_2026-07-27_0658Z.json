@@ -1,0 +1,103 @@
+[
+  {
+    "id": "arxiv-2607-22351-iq-jepa-ultrasound-quantitative-imaging",
+    "title": "IQ-JEPA: A Joint-Embedding Predictive Architecture with a Hermitian Vision Transformer for Sound Speed and Attenuation Estimation from Ultrasound IQ Data",
+    "authors": "Masashi Sode; Gianmarco Pinton",
+    "year": 2026,
+    "publication_date": "2026-07-24",
+    "indexed_date": "2026-07-27",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "arxiv_id": "2607.22351",
+    "doi": "10.48550/arXiv.2607.22351",
+    "primary_url": "https://arxiv.org/abs/2607.22351",
+    "pdf_url": "https://arxiv.org/pdf/2607.22351",
+    "source": "Manual-arXiv-DOI-seed",
+    "matched_query": "quantitative ultrasound imaging sound speed attenuation estimation raw IQ data self-supervised learning Hermitian transformer",
+    "score": 11,
+    "reasons": [
+      "manual-arXiv-DOI-seed",
+      "newly indexed in the official Monday 2026-07-27 arXiv medical-physics listing",
+      "direct inverse-imaging contribution from raw pulse-echo IQ channel data",
+      "estimates quantitative sound-speed maps and exposes attenuation information",
+      "introduces complex-valued phase-equivariant and phase-invariant transformer operations grounded in ultrasound signal structure",
+      "official arXiv record verifies title, complete author list, submission timestamp, subjects, identifier, and abstract",
+      "exact title and arXiv identifier were absent from repository search"
+    ],
+    "topics": [
+      "quantitative ultrasound imaging",
+      "sound-speed imaging",
+      "attenuation estimation",
+      "pulse-echo IQ data",
+      "self-supervised learning",
+      "joint-embedding predictive architecture",
+      "complex-valued transformer",
+      "inverse problems"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "IQ-JEPA pretrains a joint-embedding predictive encoder on unlabeled complex ultrasound IQ data and fine-tunes it for quantitative sound-speed reconstruction. Its Hermitian vision transformer is designed around the phase structure of pulse-echo measurements. The paper reports roughly threefold label-efficiency improvement at 10,000 labels and shows frozen features containing both sound-speed and attenuation information. It is a strong core acoustic-imaging candidate, but should remain in candidates until a peer-reviewed venue is verified.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv abstract and submission-history page; official arXiv medical-physics new-listing page",
+    "publication_note": "Submitted on 2026-07-24 and first surfaced in the official Monday 2026-07-27 arXiv listings.",
+    "sources": [
+      "https://arxiv.org/abs/2607.22351",
+      "https://arxiv.org/list/physics.med-ph/new",
+      "https://doi.org/10.48550/arXiv.2607.22351"
+    ],
+    "last_verified": "2026-07-27"
+  },
+  {
+    "id": "arxiv-2607-21918-action-conditioned-world-model-robotic-ultrasound",
+    "title": "Action-Conditioned World Model for Goal Plane Probe Guidance in Robotic Ultrasound",
+    "authors": "Siqi Fan; Mingcong Chen; Ran Liu; Zixuan Yang; Xiaoyu Fu; Xiaoqing Gao; Yunhui Liu; Hongbin Liu",
+    "year": 2026,
+    "publication_date": "2026-07-24",
+    "indexed_date": "2026-07-27",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "arxiv_id": "2607.21918",
+    "doi": "10.48550/arXiv.2607.21918",
+    "primary_url": "https://arxiv.org/abs/2607.21918",
+    "pdf_url": "https://arxiv.org/pdf/2607.21918",
+    "source": "Manual-arXiv-DOI-seed",
+    "matched_query": "robotic ultrasound acoustic imaging world model probe guidance conditional diffusion future ultrasound observations",
+    "score": 8,
+    "reasons": [
+      "manual-arXiv-DOI-seed",
+      "newly indexed in the official Monday 2026-07-27 arXiv robotics listing",
+      "models action-conditioned evolution of ultrasound observations rather than operating only on final diagnostic labels",
+      "uses a latent conditional diffusion world model to predict future ultrasound frames under probe motion",
+      "real closed-loop carotid and thyroid probe-guidance experiments",
+      "official arXiv record verifies title, complete author list, submission timestamp, identifier, subjects, and abstract",
+      "exact title and arXiv identifier were absent from repository search"
+    ],
+    "topics": [
+      "robotic ultrasound",
+      "ultrasound image prediction",
+      "action-conditioned world models",
+      "probe guidance",
+      "conditional diffusion",
+      "goal-plane acquisition",
+      "medical robotics"
+    ],
+    "status": "metadata-verified",
+    "relevance": "related",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "A two-stage robotic-ultrasound framework in which a latent conditional diffusion model predicts future ultrasound observations from recent frames and commanded probe motion, and a goal-conditioned transformer learns probe trajectories using rewards from the frozen world model. It is relevant because it explicitly models ultrasound image formation under contact and view changes, but the primary contribution is robotic acquisition control rather than acoustic reconstruction, so candidate status is appropriate.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv abstract and submission-history page; official arXiv robotics new-listing page",
+    "publication_note": "Submitted on 2026-07-24 and first surfaced in the official Monday 2026-07-27 arXiv listings.",
+    "sources": [
+      "https://arxiv.org/abs/2607.21918",
+      "https://arxiv.org/list/cs.RO/new",
+      "https://doi.org/10.48550/arXiv.2607.21918"
+    ],
+    "last_verified": "2026-07-27"
+  }
+]
