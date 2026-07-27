@@ -1,0 +1,102 @@
+[
+  {
+    "id": "doi-10-1364-ol-607069-dispersion-matched-aotf-imaging",
+    "title": "Dispersion-matched compensation of polarization chromatic aberration in polarization-multiplexed AOTF imaging",
+    "authors": "Dong Xu; Huijie Zhao; Ran Li; Chi Zhang; Qi Guo",
+    "year": 2026,
+    "publication_date": "2026-07-23",
+    "venue": "Optics Letters",
+    "venue_group": "Optica",
+    "venue_type": "journal article",
+    "volume": "51",
+    "issue": "15",
+    "pages": "4228-4231",
+    "doi": "10.1364/OL.607069",
+    "primary_url": "https://opg.optica.org/ol/abstract.cfm?uri=ol-51-15-4228",
+    "source": "Manual-DOI-seed",
+    "matched_query": "acousto-optic imaging AOTF spectral imaging polarization multiplexing chromatic aberration compensation",
+    "score": 10,
+    "reasons": [
+      "manual-DOI-seed",
+      "newly published final version on 2026-07-23",
+      "direct contribution to acousto-optic tunable-filter spectral imaging",
+      "introduces passive dispersion-matched correction before image formation for polarization-multiplexed AOTF imagers",
+      "experimentally reduces ordinary/extraordinary-ray misregistration from 5.5 pixels to below 0.9 pixels across 3.7-4.8 micrometers",
+      "official Optica record verifies the complete author list, publication date, journal, volume, issue, pages, and DOI",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "acousto-optic imaging",
+      "AOTF imaging",
+      "spectral imaging",
+      "polarization multiplexing",
+      "chromatic aberration correction",
+      "mid-wave infrared imaging",
+      "image formation"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "A passive image-formation correction method for polarization-multiplexed acousto-optic tunable-filter spectral imagers. A quarter-wave plate and liquid-crystal polarization grating compensate the wavelength-dependent separation of the ordinary and extraordinary channels, substantially reducing registration error while increasing measured signal relative to single-polarization acquisition. It is a direct acousto-optic imaging contribution and should enter the core library.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Optica Publishing Group article record",
+    "publication_note": "Posted as an accepted paper on 2026-07-06 and published in final form on 2026-07-23 in Optics Letters 51(15), pages 4228-4231.",
+    "sources": [
+      "https://opg.optica.org/ol/abstract.cfm?uri=ol-51-15-4228",
+      "https://doi.org/10.1364/OL.607069"
+    ],
+    "last_verified": "2026-07-27"
+  },
+  {
+    "id": "doi-10-1016-j-neunet-2026-108664-sonar-neus",
+    "title": "Sonar-neus:voxel-based efficient neural implicit surface reconstruction for forward-looking sonar",
+    "authors": "Shiji Qiu; Zuoqi Hu; Tiange Zhang; Zhi Liu; Junyu Dong; Qing Cai",
+    "year": 2026,
+    "publication_date": "2026-01-29",
+    "venue": "Neural Networks",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "volume": "199",
+    "article_number": "108664",
+    "doi": "10.1016/j.neunet.2026.108664",
+    "pmid": "41621205",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S0893608026001267",
+    "source": "Manual-DOI-seed",
+    "matched_query": "forward-looking sonar 3D reconstruction neural implicit surface voxel SDF acoustic imaging",
+    "score": 11,
+    "reasons": [
+      "manual-DOI-seed",
+      "newly surfaced repository backfill",
+      "direct forward-looking-sonar 3D image-formation and reconstruction contribution",
+      "uses explicit signed-distance and feature voxel grids instead of an MLP-based scene representation",
+      "introduces hierarchical sampling along the sonar elevation arc and SDF Gaussian convolution",
+      "official ScienceDirect and PubMed records verify the title, complete author list, journal, volume, article number, DOI, PMID, and online publication date",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "forward-looking sonar",
+      "3D reconstruction",
+      "neural implicit surfaces",
+      "signed distance fields",
+      "voxel grids",
+      "underwater imaging",
+      "differentiable sonar rendering"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "An efficient neural implicit-surface reconstruction method for multi-view forward-looking sonar. Sonar-NeuS replaces slow MLP scene representations with explicit SDF and feature voxel grids, adds elevation-arc hierarchical sampling, and smooths the SDF through Gaussian convolution. The reported method reaches comparable reconstruction quality in about 10 minutes versus roughly 4 hours for prior neural approaches, making it a strong core acoustic-imaging and 3D-reconstruction paper.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect article page and PubMed record",
+    "publication_note": "Published online on 2026-01-29 and assigned to Neural Networks volume 199 (July 2026), article 108664. Newly surfaced as a repository gap during this run.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0893608026001267",
+      "https://pubmed.ncbi.nlm.nih.gov/41621205/",
+      "https://doi.org/10.1016/j.neunet.2026.108664"
+    ],
+    "last_verified": "2026-07-27"
+  }
+]
