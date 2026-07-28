@@ -1,0 +1,52 @@
+[
+  {
+    "id": "elsevier-ultrasonics-2026-108241-lsms-net-porous-photoacoustic",
+    "title": "LSMS-Net: Resolving multiple scattering via physics-constrained deep learning for photoacoustic imaging in porous media",
+    "authors": "Wenyi Xu; Renzhe Bi; Weiya Xie; Lifang Jin; Malini Olivo; Shengsong Huang; Ya Gao; Qian Cheng",
+    "year": 2026,
+    "publication_date": "2026-07-22",
+    "indexed_date": "2026-07-28",
+    "venue": "Ultrasonics, Article 108241 (journal pre-proof)",
+    "venue_group": "Elsevier / Ultrasonics",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ultras.2026.108241",
+    "primary_url": "https://doi.org/10.1016/j.ultras.2026.108241",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "LSMS-Net layer-stripping multiple scattering physics-constrained deep learning photoacoustic imaging porous heterogeneous media bone reconstruction",
+    "score": 13,
+    "reasons": [
+      "manual-elsevier-doi-seed",
+      "newly surfaced as a repository gap during the 2026-07-28 publisher-index audit",
+      "direct photoacoustic image-reconstruction contribution",
+      "models depth-dependent multiple scattering, non-local reverberation, wavefront distortion, and frequency-dependent attenuation",
+      "combines a recursive layer-stripping inverse formulation with differentiable physics-aware modules and spectral consistency",
+      "validated with numerical simulations and phantom experiments in strongly scattering porous media",
+      "title, author list, DOI, article number, online-publication date, abstract, and contribution details verified against the official ScienceDirect article record",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "photoacoustic reconstruction",
+      "multiple scattering",
+      "porous media",
+      "physics-constrained deep learning",
+      "layer stripping",
+      "wavefront distortion correction",
+      "spectral consistency",
+      "bone imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "LSMS-Net treats photoacoustic reconstruction in acoustically heterogeneous porous media as a recursive inverse multiple-scattering problem. Its layer-stripping pipeline progressively estimates and removes propagation effects, while a Ghost Network models non-local reverberation, an adaptive scattering point-spread-function layer captures wavefront distortion, and a spectral-consistency constraint compensates frequency-dependent attenuation. Simulation and phantom results show improved recovery of deep porous structures, making this a direct core contribution to computational photoacoustic imaging.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect / Ultrasonics article record",
+    "publication_note": "Available online on 2026-07-22 as an Ultrasonics journal pre-proof and newly surfaced as an unindexed repository gap on 2026-07-28.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0041624X26002933",
+      "https://doi.org/10.1016/j.ultras.2026.108241"
+    ],
+    "last_verified": "2026-07-28"
+  }
+]
