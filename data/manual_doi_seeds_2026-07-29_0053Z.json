@@ -1,0 +1,52 @@
+[
+  {
+    "id": "elsevier-bspc-2026-110089-adr-net-photoacoustic-enhancement",
+    "title": "ADR-Net: Selective enhancement of photoacoustic images by deep learning",
+    "authors": "Minjun Lee; Xinyi Lim; Shuyan Zhang; Jingtan Li; Kun Qian; Naidi Sun; Bin Hu",
+    "year": 2026,
+    "publication_date": "2026-07-01",
+    "indexed_date": "2026-07-29",
+    "venue": "Biomedical Signal Processing and Control, Volume 120, Part B, Article 110089",
+    "venue_group": "Elsevier / Biomedical Signal Processing and Control",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.bspc.2026.110089",
+    "primary_url": "https://doi.org/10.1016/j.bspc.2026.110089",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "ADR-Net selective enhancement out-of-focus photoacoustic microscopy anomaly detection reconstruction deep learning",
+    "score": 11,
+    "reasons": [
+      "manual-elsevier-doi-seed",
+      "newly surfaced as a repository gap during the 2026-07-29 publisher and bibliographic-index audit",
+      "direct computational photoacoustic image-enhancement and reconstruction contribution",
+      "uses an anomaly detector to localize out-of-focus regions and selectively reconstructs only degraded areas",
+      "integrates a U-Net anomaly-detection module with a fully dense U-Net reconstruction module",
+      "reports improvements over U-Net, FD U-Net, SRDiff, ESRGAN, and SwinIR across PSNR, SSIM, MSE, and anomaly-detection score",
+      "title, DOI, venue, volume, article number, abstract, and contribution details verified against the official ScienceDirect record; complete authorship corroborated by DBLP and the corresponding author's publication list",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "photoacoustic microscopy",
+      "image enhancement",
+      "image reconstruction",
+      "deep learning",
+      "anomaly detection",
+      "out-of-focus correction",
+      "fully dense U-Net"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "ADR-Net addresses spatially nonuniform degradation in photoacoustic microscopy by first detecting out-of-focus regions and then selectively enhancing only those regions. A U-Net-derived anomaly detector generates a degradation mask that guides a fully dense U-Net reconstruction module, preserving already focused structures while correcting blurred areas. The paper reports consistent gains over representative convolutional, transformer, GAN, and diffusion baselines, making it a direct computational contribution to photoacoustic image formation and enhancement.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect article record; DBLP; corresponding-author publication list",
+    "publication_note": "Assigned to Volume 120, Part B, dated 2026-07-01; newly surfaced as an absent repository record on 2026-07-29.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S1746809426006439",
+      "https://doi.org/10.1016/j.bspc.2026.110089",
+      "https://dblp.org/rec/journals/bspc/LeeLZLQSH26"
+    ],
+    "last_verified": "2026-07-29"
+  }
+]
