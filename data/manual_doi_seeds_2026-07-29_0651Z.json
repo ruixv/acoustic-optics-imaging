@@ -1,0 +1,52 @@
+[
+  {
+    "id": "arxiv2607-24979-spread-spectrum-color-doppler-ultrasound",
+    "title": "Conceptual and Signal Processing Principles of Spread-Spectrum Color Doppler Ultrasound",
+    "authors": "Kian Esmailian; James C. Lacefield",
+    "year": 2026,
+    "publication_date": "2026-07-27",
+    "indexed_date": "2026-07-29",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2607.24979",
+    "primary_url": "https://arxiv.org/abs/2607.24979",
+    "pdf_url": "https://arxiv.org/pdf/2607.24979",
+    "source": "Manual-arXiv-DOI-seed",
+    "matched_query": "spread-spectrum color Doppler ultrasound random plane-wave angle coding clutter suppression ultrafast blood-flow imaging",
+    "score": 11,
+    "reasons": [
+      "manual-arxiv-doi-seed",
+      "newly listed in the official arXiv Signal Processing feed for 2026-07-29",
+      "direct coded-acoustic imaging contribution using randomized plane-wave angle sequences",
+      "develops a signal model and comb-filter processing for clutter suppression and Doppler estimation",
+      "evaluates spatial localization and sensitivity to background tissue motion",
+      "title, authors, abstract, submission timestamp, subject classification, and arXiv identifier verified from the official arXiv record",
+      "exact title and arXiv identifier were absent from repository search"
+    ],
+    "topics": [
+      "acoustic coded imaging",
+      "Doppler ultrasound",
+      "spread-spectrum imaging",
+      "ultrafast ultrasound",
+      "plane-wave imaging",
+      "clutter suppression",
+      "blood-flow imaging",
+      "comb filtering"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "This work explains and analyzes spread-spectrum color Doppler ultrasound, in which plane waves are transmitted over repeated azimuth-angle sequences whose ordering is randomized between repetitions. The coding causes in-focus and off-focus echoes to have different slow-time modulation, enabling stationary clutter suppression with a notching comb filter without conventional compounding. The paper develops a simplified signal model, studies discrete-time comb-filter implementations, compares source-localization behavior with single-plane-wave Doppler imaging, and characterizes sensitivity to tissue motion. It is a direct acoustic-coded-imaging contribution, but should remain in the candidate collection until peer-reviewed publication metadata becomes available.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv abstract record and official arXiv 2026-07-29 Signal Processing new-listing page",
+    "publication_note": "Submitted to arXiv on 2026-07-27 at 18:30:50 UTC and first surfaced in the official 2026-07-29 new listings.",
+    "sources": [
+      "https://arxiv.org/abs/2607.24979",
+      "https://arxiv.org/list/eess.SP/new",
+      "https://doi.org/10.48550/arXiv.2607.24979"
+    ],
+    "last_verified": "2026-07-29"
+  }
+]
