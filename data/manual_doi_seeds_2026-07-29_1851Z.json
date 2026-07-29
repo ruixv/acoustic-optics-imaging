@@ -1,0 +1,100 @@
+[
+  {
+    "id": "doi10-1038-s41467-026-75603-7-integrated-tpm-pam",
+    "title": "Integrated two-photon and photoacoustic microscopy for single-cell neurometabolic imaging",
+    "authors": "Jiaxiao Han; Youngseop Lee; Ziang Feng; Yue Wu; Zhuoying Wang; Allison Martinez Mejia; Adam Bauer; Manu Goyal; Jin-Moo Lee; Peinan Zhao; Hao F. Zhang; Cheng Sun; Song Hu",
+    "year": 2026,
+    "publication_date": "2026-07-15",
+    "indexed_date": "2026-07-29",
+    "venue": "Nature Communications",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal",
+    "doi": "10.1038/s41467-026-75603-7",
+    "primary_url": "https://doi.org/10.1038/s41467-026-75603-7",
+    "source": "Manual-DOI-seed",
+    "matched_query": "integrated two-photon photoacoustic microscopy single-neuron red blood cell oxygen micro-ring resonator",
+    "score": 14,
+    "reasons": [
+      "manual-doi-seed",
+      "top-priority Nature Portfolio venue",
+      "direct hybrid photoacoustic and multiphoton image-formation contribution",
+      "transparent optical micro-ring resonator ultrasound sensor enables simultaneous optical access and acoustic detection",
+      "simultaneous real-time single-neuron calcium and single-red-blood-cell oxygen-release imaging in awake mice",
+      "title, complete author list, publication date, and DOI verified from the official Nature Communications record and Crossref Crossmark",
+      "DOI and exact title were absent from repository search"
+    ],
+    "topics": [
+      "photoacoustic microscopy",
+      "two-photon microscopy",
+      "acoustic-optical imaging",
+      "multimodal microscopy",
+      "optical micro-ring resonator",
+      "ultrasound detection",
+      "neurometabolic imaging",
+      "single-cell imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This paper integrates two-photon microscopy with photoacoustic microscopy to image neuronal calcium activity and red-blood-cell oxygen release simultaneously at single-cell resolution in awake mice. A transparent optical micro-ring resonator serves as the ultrasound detector while preserving optical access, and dual-wavelength photoacoustic kymography quantifies oxygen dynamics. The system is a direct acoustic-optical image-formation contribution and a strong core addition.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Nature Communications article record and Crossref Crossmark",
+    "publication_note": "Published online on 2026-07-15; newly surfaced as a verified repository gap on 2026-07-29. The Nature page currently labels the article as an unedited early-access version.",
+    "sources": [
+      "https://www.nature.com/articles/s41467-026-75603-7",
+      "https://doi.org/10.1038/s41467-026-75603-7",
+      "https://crossmark.crossref.org/dialog/?doi=10.1038%2Fs41467-026-75603-7"
+    ],
+    "last_verified": "2026-07-29"
+  },
+  {
+    "id": "doi10-34133-bmef-0292-edge-aware-short-chain-diffusion-msot",
+    "title": "Edge-Aware Short-Chain Diffusion Enables High-Fidelity Sparse-Sampling Optoacoustic Tomography",
+    "authors": "Ying Fan; Ting Feng; Yangkun Liu; Abdula Aji; Libo Jiang; Dean Ta",
+    "year": 2026,
+    "publication_date": "2026-07-09",
+    "version_of_record_date": "2026-07-23",
+    "indexed_date": "2026-07-29",
+    "venue": "BME Frontiers 7, 0292",
+    "venue_group": "Science Partner Journal",
+    "venue_type": "journal",
+    "doi": "10.34133/bmef.0292",
+    "primary_url": "https://doi.org/10.34133/bmef.0292",
+    "source": "Manual-DOI-seed",
+    "matched_query": "sparse-sampling multispectral optoacoustic tomography edge-aware short-chain diffusion strong noise",
+    "score": 13,
+    "reasons": [
+      "manual-doi-seed",
+      "Science Partner Journal and BME Frontiers priority venue",
+      "direct photoacoustic reconstruction contribution under extreme sparse sampling",
+      "edge-aware short-chain diffusion is designed for strong-noise multispectral optoacoustic tomography reconstruction",
+      "official Science Partner Journal article page verifies the title, DOI, article ID, authors, and initial online date",
+      "official BME Frontiers volume table of contents records the final article on 2026-07-23",
+      "DOI and exact title were absent from repository search"
+    ],
+    "topics": [
+      "optoacoustic tomography",
+      "photoacoustic tomography",
+      "multispectral optoacoustic tomography",
+      "sparse-view reconstruction",
+      "diffusion model",
+      "edge-aware reconstruction",
+      "computational acoustic imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This paper develops an edge-aware short-chain diffusion method for reconstructing multispectral optoacoustic tomography from extremely sparse and noisy measurements. The contribution directly targets photoacoustic image formation and preserves structural fidelity under aggressive acquisition reduction, making it a strong core addition for computational optoacoustic reconstruction.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official BME Frontiers and Science Partner Journal article page and volume 7 table of contents",
+    "publication_note": "First posted as an Article in Press on 2026-07-09; the official volume 7 table of contents lists the final article on 2026-07-23. Newly surfaced as a verified repository gap on 2026-07-29.",
+    "sources": [
+      "https://spj.science.org/doi/10.34133/bmef.0292",
+      "https://spj.science.org/toc/bmef/7",
+      "https://doi.org/10.34133/bmef.0292"
+    ],
+    "last_verified": "2026-07-29"
+  }
+]
