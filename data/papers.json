@@ -330,6 +330,50 @@
     }
   },
   {
+    "id": "doi10-1016-j-jsv-2026-119834-asp-net-near-field-acoustic-holography",
+    "title": "An acoustic spatial pattern based neural network for near-field acoustic holography",
+    "authors": "Haijun Wu; Shijun Dai; Yuhang Tang; Yinong Gou; Weikang Jiang",
+    "year": 2026,
+    "publication_date": "2026-04-23",
+    "venue": "Journal of Sound and Vibration 638, 119834",
+    "venue_group": "Elsevier / Journal of Sound and Vibration",
+    "venue_type": "journal",
+    "doi": "10.1016/j.jsv.2026.119834",
+    "primary_url": "https://doi.org/10.1016/j.jsv.2026.119834",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "near-field acoustic holography",
+      "acoustic imaging",
+      "sound-source reconstruction",
+      "acoustic spatial patterns",
+      "convolutional neural network",
+      "physics-informed learning",
+      "microphone array",
+      "noise-robust reconstruction"
+    ],
+    "relevance": "related",
+    "summary_en": "Automatically audited paper on near-field acoustic holography, acoustic imaging, sound-source reconstruction, acoustic spatial patterns, convolutional neural network, physics-informed learning, microphone array, noise-robust reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 near-field acoustic holography、acoustic imaging、sound-source reconstruction、acoustic spatial patterns、convolutional neural network、physics-informed learning、microphone array、noise-robust reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1016/j.jsv.2026.119834",
+      "https://www.sciencedirect.com/science/article/pii/S0022460X26001975"
+    ],
+    "last_verified": "2026-07-30",
+    "curation_origin": "Manual-DOI-seed",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "Manual-DOI-seed",
+      "final_version_status": "manual-doi-metadata-pending",
+      "track": "main"
+    }
+  },
+  {
     "id": "2026-from-traditional-methods-to-artificial-intelligence-a-review-of-non-line-of-c16d30085c79",
     "title": "From Traditional Methods to Artificial Intelligence: A Review of Non-Line-of-Sight Analysis Techniques",
     "authors": "Semra Çelebi; İbrahim Türkoğlu",
@@ -362,6 +406,50 @@
       "confidence": 0.9,
       "source": "OpenAlex cited-by",
       "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "doi10-1103-wyx5-7bcx-three-dimensional-underwater-acoustic-holography",
+    "title": "Three-dimensional underwater acoustic holography based on a genetic algorithm–optimized binary metasurface",
+    "authors": "Si-Hao Wang; Zi-Bin Lin; Long-Sheng Zeng; Yu-Gui Peng; Xue-Feng Zhu",
+    "year": 2026,
+    "publication_date": "2026-03-26",
+    "venue": "Physical Review Applied 25, 034082",
+    "venue_group": "APS / Physical Review Applied",
+    "venue_type": "conference",
+    "doi": "10.1103/wyx5-7bcx",
+    "primary_url": "https://doi.org/10.1103/wyx5-7bcx",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic holography",
+      "underwater acoustics",
+      "three-dimensional holography",
+      "binary metasurface",
+      "genetic algorithm",
+      "angular spectrum method",
+      "wavefront shaping",
+      "acoustic field reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on acoustic holography, underwater acoustics, three-dimensional holography, binary metasurface, genetic algorithm, angular spectrum method, wavefront shaping, acoustic field reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic holography、underwater acoustics、three-dimensional holography、binary metasurface、genetic algorithm、angular spectrum method、wavefront shaping、acoustic field reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1103/wyx5-7bcx",
+      "https://journals.aps.org/prapplied/abstract/10.1103/wyx5-7bcx"
+    ],
+    "last_verified": "2026-07-30",
+    "curation_origin": "Manual-DOI-seed",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "Manual-DOI-seed",
+      "final_version_status": "manual-doi-metadata-pending",
       "track": "main"
     }
   },
