@@ -1,0 +1,50 @@
+[
+  {
+    "id": "doi10-1038-s41378-026-01243-y-photoacoustic-microscopy-bioprinted-tumor-vessel-models",
+    "title": "Photoacoustic microscopy reveals deep angiogenic responses in 3D bioprinted tumor–vessel models",
+    "authors": "Yongjae Jo; Seokgyu Han; Hyunjun Kye; Jinhee Yoo; Junhyung Kim; Inki Kim; Sungsu Park; Byullee Park",
+    "year": 2026,
+    "publication_date": "2026-04-13",
+    "indexed_date": "2026-07-30",
+    "venue": "Microsystems & Nanoengineering 12, 129",
+    "venue_group": "Nature Portfolio / Microsystems & Nanoengineering",
+    "venue_type": "journal",
+    "doi": "10.1038/s41378-026-01243-y",
+    "primary_url": "https://doi.org/10.1038/s41378-026-01243-y",
+    "source": "Manual-DOI-seed",
+    "matched_query": "Nature Portfolio photoacoustic microscopy 3D bioprinted tumor vessel angiogenesis imaging",
+    "score": 10,
+    "reasons": [
+      "manual-doi-seed",
+      "direct high-resolution photoacoustic microscopy and volumetric acoustic-optical imaging contribution",
+      "uses a custom transmission-mode HR-PAM system for depth-resolved imaging and quantification of angiogenesis in optically scattering 3D bioprinted constructs",
+      "reports approximately 1.6-fold greater 1/e^2 penetration depth than confocal microscopy and visualization to approximately 1 mm depth",
+      "demonstrates longitudinal 3D vessel analysis and treatment-response imaging rather than only downstream analysis of externally acquired images",
+      "title, complete author list, journal, volume, article number, publication date, DOI, abstract, and article type verified from the official Nature Portfolio record",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "photoacoustic microscopy",
+      "acoustic-optical imaging",
+      "3D volumetric imaging",
+      "bioprinted tissue imaging",
+      "angiogenesis imaging",
+      "tumor-vessel models",
+      "deep-tissue microscopy",
+      "drug-response imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This Nature Portfolio paper applies a custom high-resolution transmission-mode photoacoustic microscopy system to 3D bioprinted tumor–vessel constructs. The system provides depth-resolved volumetric visualization and quantification of vascular maturation and anti-cancer treatment response, with an approximately 1.6-fold larger 1/e^2 penetration depth than confocal microscopy and imaging across roughly 1 mm of the construct. Because the work directly uses and characterizes photoacoustic image formation for deep 3D biological imaging, it is a core repository addition rather than a downstream-only analysis paper.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Nature Portfolio article record in Microsystems & Nanoengineering",
+    "publication_note": "Published on 2026-04-13; newly surfaced as a verified repository backfill during the 2026-07-30 search pass.",
+    "sources": [
+      "https://www.nature.com/articles/s41378-026-01243-y",
+      "https://doi.org/10.1038/s41378-026-01243-y"
+    ],
+    "last_verified": "2026-07-30"
+  }
+]
