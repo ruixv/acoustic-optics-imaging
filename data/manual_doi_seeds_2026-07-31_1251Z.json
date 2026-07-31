@@ -1,0 +1,100 @@
+[
+  {
+    "id": "doi10-1016-j-measurement-2026-122008-fp-acoustic-micro-defect-imaging",
+    "title": "Research on the application of F-P acoustic detection technology for subsurface micro-defect identification",
+    "authors": "Jianghao Zhao; Fei Wang; Lixia Xu; Yaodong Yang; Lixia Liu; Stefano Sfarra; Honghao Yue; Junyan Liu",
+    "year": 2026,
+    "publication_date": "2026-07-14",
+    "indexed_date": "2026-07-31",
+    "venue": "Measurement 282, 122008",
+    "venue_group": "Elsevier / Measurement",
+    "venue_type": "journal",
+    "doi": "10.1016/j.measurement.2026.122008",
+    "primary_url": "https://doi.org/10.1016/j.measurement.2026.122008",
+    "source": "Manual-DOI-seed",
+    "matched_query": "Fabry-Perot acoustic detection laser ultrasonics subsurface micro-defect imaging",
+    "score": 10,
+    "reasons": [
+      "manual-doi-seed",
+      "direct optical-acoustic non-contact imaging contribution",
+      "uses laser-induced ultrasound and a Fabry-Perot acoustic detector",
+      "introduces an adaptive weighted wavelet singular spectral entropy feature-imaging method",
+      "experimentally detects subsurface defects down to 0.2 mm in aluminum alloy specimens",
+      "official ScienceDirect record verifies title, complete authorship, publication date, DOI, article number, and technical scope",
+      "exact DOI and title were absent from repository search"
+    ],
+    "topics": [
+      "acousto-optic imaging",
+      "optical ultrasound detection",
+      "Fabry-Perot acoustic sensing",
+      "laser ultrasonics",
+      "non-destructive testing",
+      "subsurface defect imaging",
+      "computational acoustic imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This work develops a non-contact Fabry-Perot acoustic detection system for imaging subsurface micro-defects from laser-induced ultrasonic signals. It combines optical ultrasound sensing with an adaptive weighted wavelet singular spectral entropy feature-imaging algorithm and validates detection of 0.2 mm defects in aluminum alloy. The direct optical generation and optical detection of acoustic waves, followed by defect-image formation, place it squarely within the repository's acoustic-optics imaging scope.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect article record",
+    "publication_note": "Published online on 2026-07-14; newly surfaced as a verified repository backfill during the 2026-07-31 search pass.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0263224126017173",
+      "https://doi.org/10.1016/j.measurement.2026.122008"
+    ],
+    "last_verified": "2026-07-31"
+  },
+  {
+    "id": "doi10-1016-j-brs-2026-103158-physics-aware-transcranial-acoustic-hologram",
+    "title": "High-Fidelity Transcranial Ultrasound Multi-focal Stimulation via Physics-Aware Hologram Technique",
+    "authors": "Moon Hwan Lee; Mohd Afzal Khan; Akm Ashiquzzaman; Eunbin Lee; Jonghun Lee; Euiheon Chung; Hyuk-Sang Kwon; Jae Youn Hwang",
+    "year": 2026,
+    "publication_date": "2026-07-03",
+    "indexed_date": "2026-07-31",
+    "venue": "Brain Stimulation 19(4), 103158",
+    "venue_group": "Elsevier / Brain Stimulation",
+    "venue_type": "journal",
+    "doi": "10.1016/j.brs.2026.103158",
+    "arxiv_id": "2603.23475",
+    "primary_url": "https://doi.org/10.1016/j.brs.2026.103158",
+    "arxiv_url": "https://arxiv.org/abs/2603.23475",
+    "source": "Manual-DOI-seed",
+    "matched_query": "physics-aware acoustic hologram transcranial ultrasound multi-focal field reconstruction",
+    "score": 9,
+    "reasons": [
+      "manual-doi-seed",
+      "direct acoustic hologram design and experimental field-reconstruction contribution",
+      "optimizes fabrication-ready thickness-only holograms while modeling skull-induced aberration and full acoustic propagation",
+      "demonstrates single-, dual-, and tri-focal fields through skulls with in silico, ex vivo, and in vivo validation",
+      "official ScienceDirect record verifies title, online publication date, DOI, article number, and technical results",
+      "complete authorship and volume/issue metadata corroborated by the authors' institutional repository and arXiv record",
+      "exact DOI and title were absent from repository search"
+    ],
+    "topics": [
+      "acoustic holography",
+      "ultrasound holograms",
+      "transcranial ultrasound",
+      "multi-focal beamforming",
+      "wavefront synthesis",
+      "physics-aware optimization",
+      "acoustic field reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This paper presents a physics-aware, thickness-only acoustic hologram framework for generating high-fidelity multi-focal ultrasound fields through the skull. Rather than optimizing an ideal phase mask and converting it afterward, the method directly produces fabrication-ready holograms while accounting for transcranial propagation. Simulations, skull experiments, and in vivo validation show improved focal reconstruction, energy confinement, and reduced off-target leakage. Although the application is neuromodulation rather than diagnostic imaging, the central contribution is acoustic holographic field synthesis and reconstruction, making it a strong core acoustic-holography entry.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect article record; GIST institutional publication record; arXiv record",
+    "publication_note": "Available online on 2026-07-03 and assigned to Brain Stimulation volume 19, issue 4; newly surfaced as a verified repository backfill during the 2026-07-31 search pass.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S1935861X2600135X",
+      "https://doi.org/10.1016/j.brs.2026.103158",
+      "https://arxiv.org/abs/2603.23475",
+      "https://scholar.gist.ac.kr/handle/local/34319"
+    ],
+    "last_verified": "2026-07-31"
+  }
+]
