@@ -1,0 +1,55 @@
+[
+  {
+    "id": "doi10-1016-j-pacs-2026-100850-virtual-imaging-quantitative-optoacoustic-tomography",
+    "title": "A virtual imaging framework for three-dimensional quantitative optoacoustic tomography using stochastic numerical breast phantoms",
+    "authors": "Seonyeong Park; Gangwon Jeong; Umberto Villa; Mark A. Anastasio",
+    "year": 2026,
+    "publication_date": "2026-06-17",
+    "indexed_date": "2026-07-31",
+    "venue": "Photoacoustics, 100850 (journal pre-proof)",
+    "venue_group": "Elsevier / Photoacoustics",
+    "venue_type": "journal",
+    "doi": "10.1016/j.pacs.2026.100850",
+    "arxiv_id": "2510.00189",
+    "primary_url": "https://doi.org/10.1016/j.pacs.2026.100850",
+    "arxiv_url": "https://arxiv.org/abs/2510.00189",
+    "source": "Manual-DOI-seed",
+    "matched_query": "virtual imaging quantitative optoacoustic tomography numerical breast phantoms photoacoustic system design reconstruction",
+    "score": 10,
+    "reasons": [
+      "manual-doi-seed",
+      "direct end-to-end quantitative optoacoustic tomography virtual-imaging contribution",
+      "models optical fluence, induced initial pressure, transducer spatial response, and acousto-electric impulse response",
+      "extends stochastic three-dimensional breast phantoms with skin-tone variation and benign and malignant lesions",
+      "demonstrates system-design comparison and releases 1,020 numerical phantoms with associated measurement data",
+      "Photoacoustics journal article version superseding a 2025 arXiv preprint",
+      "title, complete authorship, article number, online publication date, DOI, and journal status verified from the official ScienceDirect record and corroborated by the University of Illinois dataset record",
+      "exact DOI, article number, title, and arXiv identifier were absent from repository search"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "optoacoustic tomography",
+      "quantitative optoacoustic tomography",
+      "virtual imaging",
+      "numerical breast phantoms",
+      "system design",
+      "image reconstruction",
+      "computational imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This work presents an end-to-end virtual imaging framework for three-dimensional quantitative optoacoustic tomography of the breast. It extends stochastic numerical breast phantoms with multiple skin tones and benign and malignant lesions, simulates optical fluence and initial-pressure generation, and models transducer spatial and acousto-electric responses to generate realistic measurement data. A system-design case study and the release of 1,020 phantoms make it directly useful for reconstruction-method development and objective optoacoustic imager evaluation.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect article record; University of Illinois dataset record; arXiv/PubMed preprint record for author and version linkage",
+    "publication_note": "Available online as a Photoacoustics journal pre-proof on 2026-06-17; newly surfaced as a verified final-version repository backfill during the 2026-07-31 search pass.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S221359792600056X",
+      "https://doi.org/10.1016/j.pacs.2026.100850",
+      "https://arxiv.org/abs/2510.00189",
+      "https://experts.illinois.edu/en/datasets/stochastic-optoacoustic-numerical-breast-phantoms-with-multiple-s/"
+    ],
+    "last_verified": "2026-07-31"
+  }
+]
