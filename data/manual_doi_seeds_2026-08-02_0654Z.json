@@ -1,0 +1,97 @@
+[
+  {
+    "id": "doi10-1016-j-pacs-2026-100860-robust-3d-sos-compensation-hemispherical-pact",
+    "title": "Robust automated three-dimensional speed-of-sound compensation for hemispherical photoacoustic computed tomography",
+    "authors": "Xuran Zhou; Xiali Gao; Fan Meng; Hao Huang; Zhibo Xiao; Xuanhao Wang; Junhui Shi",
+    "year": 2026,
+    "publication_date": "2026-10-01",
+    "indexed_date": "2026-08-02",
+    "venue": "Photoacoustics 51, 100860",
+    "venue_group": "Photoacoustics",
+    "venue_type": "journal",
+    "doi": "10.1016/j.pacs.2026.100860",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S2213597926000662",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "photoacoustic imaging hemispherical PACT automated three-dimensional speed-of-sound compensation",
+    "score": 13,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed original research directly addressing photoacoustic image reconstruction",
+      "introduces automated three-dimensional speed-of-sound compensation for a 1,024-element hemispherical PACT system",
+      "extracts irregular acoustic boundaries directly from raw signals without auxiliary ultrasound hardware",
+      "validates the method in simulations, irregular phantoms, and in vivo mouse-liver imaging",
+      "official ScienceDirect record verifies title, authorship, journal, volume, article number, DOI, and technical scope",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "photoacoustic computed tomography",
+      "speed-of-sound compensation",
+      "hemispherical array",
+      "wavefront aberration correction",
+      "automated boundary segmentation",
+      "signal-domain sensing",
+      "three-dimensional reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "The paper presents an automated signal-domain framework that estimates irregular tissue boundaries from raw measurements of a 1,024-element hemispherical PACT array and applies an equivalent dual-speed-of-sound temporal-compression model to realign aberrated wavefronts. Simulations, irregular phantoms, and in vivo mouse-liver experiments show improved vascular morphology and robustness under degraded signal-to-noise conditions.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Elsevier ScienceDirect article record",
+    "publication_note": "The article is already online and indexed and is assigned to Photoacoustics volume 51 (October 2026). The exact online-first date was not exposed in accessible publisher metadata; it was newly surfaced as a verified repository backfill on 2026-08-02.",
+    "sources": [
+      "https://doi.org/10.1016/j.pacs.2026.100860",
+      "https://www.sciencedirect.com/science/article/pii/S2213597926000662"
+    ],
+    "last_verified": "2026-08-02"
+  },
+  {
+    "id": "doi10-1016-j-ultrasmedbio-2026-06-018-subungual-pa-us-imaging",
+    "title": "Photoacoustic/Ultrasonic Dual-Modality Imaging in the Differential Diagnosis of Subungual Tumors",
+    "authors": "Ziyang Guo; Nan Li; Bingqing Yu; Xiangyu Wang; Yuhong Shao; Xiuming Sun; Jiajia Zhu; Menglong Ran; Luzeng Chen",
+    "year": 2026,
+    "publication_date": "2026-07-11",
+    "indexed_date": "2026-08-02",
+    "venue": "Ultrasound in Medicine & Biology, article in press",
+    "venue_group": "Ultrasound in Medicine & Biology",
+    "venue_type": "journal",
+    "doi": "10.1016/j.ultrasmedbio.2026.06.018",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S0301562926002528",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "photoacoustic ultrasound dual-modality imaging subungual tumors differential diagnosis",
+    "score": 12,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed clinical original research directly matching photoacoustic and ultrasound multimodal imaging",
+      "prospectively evaluates co-registered structural and functional imaging in 29 patients with subungual lesions",
+      "uses oxygen saturation, total hemoglobin, elasticity, and vascularity for benign-versus-malignant differentiation",
+      "reports an oxygen-saturation AUC of 0.980 with internally validated sensitivity and specificity of 85.7 percent",
+      "official ScienceDirect and journal Articles in Press records verify title, online date, DOI, article type, and study scope",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "clinical photoacoustic imaging",
+      "ultrasound-photoacoustic fusion",
+      "subungual tumors",
+      "oxygen saturation imaging",
+      "multimodal imaging",
+      "functional imaging",
+      "tumor diagnosis"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This prospective 29-patient study evaluates co-registered photoacoustic and ultrasound imaging for differentiating benign and malignant subungual tumors. Malignant lesions showed substantially lower oxygen saturation, and the oxygen-saturation metric achieved an AUC of 0.980, illustrating the value of combining ultrasound morphology with photoacoustic functional contrast.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Elsevier ScienceDirect record and Ultrasound in Medicine & Biology Articles in Press listing",
+    "publication_note": "Published online on 2026-07-11 as an in-press corrected proof and newly surfaced as a verified repository backfill on 2026-08-02.",
+    "sources": [
+      "https://doi.org/10.1016/j.ultrasmedbio.2026.06.018",
+      "https://www.sciencedirect.com/science/article/pii/S0301562926002528",
+      "https://www.umbjournal.org/inpress"
+    ],
+    "last_verified": "2026-08-02"
+  }
+]
