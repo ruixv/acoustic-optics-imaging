@@ -1,0 +1,97 @@
+[
+  {
+    "id": "doi10-1109-tmi-2025-3643618-multifocal-masked-single-element-pam",
+    "title": "Multifocal Optical-Resolution Photoacoustic Microscopy With a Masked Single-Element Transducer",
+    "authors": "Xiaofei Luo; Rui Cao; Peng Hu; Yilin Luo; Yushun Zeng; Yide Zhang; Manxiu Cui; Qifa Zhou; Geng Ku; Lihong V. Wang",
+    "year": 2026,
+    "publication_date": "2026-05-01",
+    "indexed_date": "2026-08-02",
+    "venue": "IEEE Transactions on Medical Imaging 45(5), 2015-2022",
+    "venue_group": "IEEE Transactions on Medical Imaging",
+    "venue_type": "journal",
+    "doi": "10.1109/TMI.2025.3643618",
+    "primary_url": "https://pubmed.ncbi.nlm.nih.gov/41385414/",
+    "source": "Manual-IEEE-TMI-DOI-seed",
+    "matched_query": "acoustic coded imaging masked single-element transducer multifocal optical-resolution photoacoustic microscopy",
+    "score": 13,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed IEEE Transactions on Medical Imaging original research",
+      "direct acoustic-coded photoacoustic image-formation contribution",
+      "uses a diffractive optical element and a custom acoustic encoding mask with a single-element detector",
+      "reports eightfold imaging-speed improvement while retaining approximately 3 micrometer optical foci",
+      "PubMed and PubMed Central verify final issue metadata, authorship, DOI, and technical scope",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "photoacoustic microscopy",
+      "acoustic coded imaging",
+      "acoustic encoding mask",
+      "multifocal excitation",
+      "single-element transducer",
+      "high-speed imaging",
+      "computational reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "MOR-PAM combines an eight-focus diffractive optical element with a custom acoustic mask that assigns distinguishable temporal responses to photoacoustic signals from different focal spots. A single-element detector can therefore recover the multiplexed measurements, yielding an eightfold speed increase over conventional point-scanned OR-PAM at the same laser repetition rate.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PubMed final citation and PubMed Central full text for the IEEE Transactions on Medical Imaging version of record",
+    "publication_note": "Published as IEEE early access in December 2025 and assigned to volume 45, issue 5 in May 2026; newly surfaced as a verified repository backfill on 2026-08-02.",
+    "sources": [
+      "https://doi.org/10.1109/TMI.2025.3643618",
+      "https://pubmed.ncbi.nlm.nih.gov/41385414/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13056231/"
+    ],
+    "last_verified": "2026-08-02"
+  },
+  {
+    "id": "doi10-1016-j-optlastec-2026-115881-2d-acoustic-encoding-parallel-pam",
+    "title": "Two-dimensional acoustic encoding for parallel optical-resolution photoacoustic imaging with a single-element transducer",
+    "authors": "Xiaofei Luo; Qibo Lin; Qingsong Zeng; Chenxue Hou; Yiqi Cai; Ling Tang; Zhaoxi Li; Chunlong Fei; Zeyu Chen; Hongwei Hu",
+    "year": 2026,
+    "publication_date": "2026-11-01",
+    "indexed_date": "2026-08-02",
+    "venue": "Optics & Laser Technology 203, 115881",
+    "venue_group": "Optics & Laser Technology",
+    "venue_type": "journal",
+    "doi": "10.1016/j.optlastec.2026.115881",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S0030399226012326",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "two-dimensional acoustic encoding parallel optical-resolution photoacoustic imaging single-element transducer",
+    "score": 12,
+    "reasons": [
+      "manual-doi-seed",
+      "peer-reviewed original research directly matching acoustic coded imaging and photoacoustic imaging",
+      "uses a two-dimensional optical focal array and an acoustic mask to multiplex spatial measurements into one detector waveform",
+      "model-based decoding separates the mixed measurements acquired by a single-element planar transducer",
+      "reports fourfold imaging-speed improvement with 3.3 micrometer lateral resolution",
+      "official ScienceDirect record verifies title, complete authorship, journal, article number, DOI, and technical scope",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "photoacoustic microscopy",
+      "two-dimensional acoustic encoding",
+      "acoustic mask",
+      "parallel optical excitation",
+      "single-element transducer",
+      "multiplexed detection",
+      "model-based reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "The paper introduces 2D-AE-PAM, in which a diffractive optical element generates a two-dimensional focal array and a compact acoustic mask encodes each focal position into a distinct temporal response. Model-based decoding recovers the multiplexed measurements from one planar transducer, providing fourfold faster optical-resolution photoacoustic imaging while maintaining 3.3 micrometer lateral resolution.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Elsevier ScienceDirect article record",
+    "publication_note": "The article is already available online and indexed, with assignment to Optics & Laser Technology volume 203, Part E (November 2026). The exact online-first date was not exposed in the accessible publisher metadata; it was newly surfaced as a verified repository backfill on 2026-08-02.",
+    "sources": [
+      "https://doi.org/10.1016/j.optlastec.2026.115881",
+      "https://www.sciencedirect.com/science/article/pii/S0030399226012326"
+    ],
+    "last_verified": "2026-08-02"
+  }
+]
