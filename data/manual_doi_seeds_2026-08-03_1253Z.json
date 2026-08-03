@@ -1,0 +1,141 @@
+[
+  {
+    "id": "doi10-1016-j-pacs-2026-100845-vital-photoacoustic-registration",
+    "title": "VITAL: Value-Invariant Transformation and Alignment Learning for quantitative photoacoustic microscopy",
+    "authors": "Shuocheng Qi; Mingxuan Wang; Yachao Zhang; Lidai Wang; Chao Liu",
+    "year": 2026,
+    "publication_date": "2026-06-08",
+    "indexed_date": "2026-08-03",
+    "venue": "Photoacoustics 50, 100845",
+    "venue_group": "Elsevier / Photoacoustics",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.pacs.2026.100845",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S2213597926000510",
+    "source": "Manual-Elsevier-PubMed-DOI-seed",
+    "matched_query": "photoacoustic microscopy registration value-invariant alignment learning",
+    "score": 13,
+    "reasons": [
+      "manual-doi-seed",
+      "original computational imaging contribution directly focused on quantitative photoacoustic microscopy",
+      "preserves discrete photoacoustic signal-amplitude distributions while correcting geometric misalignment",
+      "combines keypoint-based global alignment with topology-preserving dense refinement",
+      "official ScienceDirect, PubMed, and PubMed Central records verify title, authors, date, volume, article number, and DOI",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "photoacoustic microscopy",
+      "image registration",
+      "quantitative imaging",
+      "feature matching",
+      "thin-plate spline",
+      "functional imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "VITAL introduces a cascaded registration framework for fast optical-resolution photoacoustic microscopy that explicitly separates geometric alignment from preservation of measured photoacoustic amplitudes. It combines SuperPoint/LightGlue-based global alignment, thin-plate-spline warping, and topology-preserving dense refinement, reporting sub-pixel alignment while retaining 97.83% amplitude-distribution fidelity.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect, PubMed, and PubMed Central records",
+    "publication_note": "Published online on 2026-06-08 and newly surfaced as a metadata-verified repository backfill on 2026-08-03.",
+    "sources": [
+      "https://doi.org/10.1016/j.pacs.2026.100845",
+      "https://www.sciencedirect.com/science/article/pii/S2213597926000510",
+      "https://pubmed.ncbi.nlm.nih.gov/42317285/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13273772/"
+    ],
+    "last_verified": "2026-08-03"
+  },
+  {
+    "id": "doi10-1016-j-pacs-2026-100851-maximum-fluence-functional-pam",
+    "title": "Maximum fluence for accurate functional photoacoustic microscopy",
+    "authors": "Jingyi Zhu; Zhiwei Yao; Lidai Wang",
+    "year": 2026,
+    "publication_date": "2026-06",
+    "indexed_date": "2026-08-03",
+    "venue": "Photoacoustics 50, 100851",
+    "venue_group": "Elsevier / Photoacoustics",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.pacs.2026.100851",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S2213597926000571",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "maximum fluence accurate functional photoacoustic microscopy oxygen saturation",
+    "score": 12,
+    "reasons": [
+      "manual-doi-seed",
+      "original research directly addressing quantitative accuracy in fast functional photoacoustic microscopy",
+      "derives and experimentally validates a maximum-fluence model for reliable oxygen-saturation measurements",
+      "validated in a blood phantom and in vivo mouse brain imaging",
+      "official ScienceDirect record verifies title, authors, volume, article number, DOI, and technical results",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "photoacoustic microscopy",
+      "functional imaging",
+      "blood oxygen saturation",
+      "laser fluence",
+      "thermal accumulation",
+      "quantitative accuracy"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This study quantifies how repeated laser pulses can bias oxygen-saturation measurements in fast functional photoacoustic microscopy through transient thermal accumulation. It derives a practical maximum-fluence law, validates it in blood phantoms and the mouse brain, and provides acquisition guidance for accurate high-speed functional imaging.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect article record",
+    "publication_note": "Publisher and bibliographic records expose June 2026 as the online-first month and August 2026 as the issue assignment; the exact online-first day was not exposed in accessible authoritative metadata.",
+    "sources": [
+      "https://doi.org/10.1016/j.pacs.2026.100851",
+      "https://www.sciencedirect.com/science/article/pii/S2213597926000571"
+    ],
+    "last_verified": "2026-08-03"
+  },
+  {
+    "id": "doi10-1016-j-pacs-2026-100852-grating-fabry-perot-ultrasound-detector",
+    "title": "Ultra-sensitive wideband diffraction-grating-coupled-mode Fabry-Pérot resonators for ultrasound and photoacoustic detection",
+    "authors": "Xiaoping Jiang; Mengqi Shen; Shibiao Wei; Michael G. Somekh",
+    "year": 2026,
+    "publication_date": "2026-06-26",
+    "indexed_date": "2026-08-03",
+    "venue": "Photoacoustics 50, 100852",
+    "venue_group": "Elsevier / Photoacoustics",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.pacs.2026.100852",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S2213597926000583",
+    "source": "Manual-Elsevier-PubMed-DOI-seed",
+    "matched_query": "optical ultrasound detector Fabry-Perot resonator photoacoustic detection wideband",
+    "score": 13,
+    "reasons": [
+      "manual-doi-seed",
+      "direct acoustic-optical detector contribution for ultrasound and photoacoustic imaging",
+      "introduces a diffraction-grating-coupled Fabry-Pérot resonator with simple planar fabrication",
+      "demonstrates calibrated bandwidth above 130 MHz and approximately 72 Pa noise-equivalent pressure over 100 MHz",
+      "official ScienceDirect and PubMed Central records verify complete metadata, publication date, performance, and DOI",
+      "exact title and DOI were absent from repository search"
+    ],
+    "topics": [
+      "photoacoustic detection",
+      "optical ultrasound sensing",
+      "Fabry-Pérot resonator",
+      "diffraction grating",
+      "wideband detector",
+      "photoacoustic microscopy"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "The paper presents an optically interrogated diffraction-grating-coupled Fabry-Pérot ultrasound detector designed for photoacoustic and ultrasonic imaging. The resonator combines normal-incidence interrogation, scalable planar fabrication, bandwidths exceeding 130 MHz, and a tunable responsivity-bandwidth trade-off, with demonstration in an OR-PAM configuration.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect and PubMed Central records",
+    "publication_note": "Published online on 2026-06-26 and newly surfaced as a metadata-verified repository backfill on 2026-08-03.",
+    "sources": [
+      "https://doi.org/10.1016/j.pacs.2026.100852",
+      "https://www.sciencedirect.com/science/article/pii/S2213597926000583",
+      "https://pubmed.ncbi.nlm.nih.gov/42436672/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13355213/"
+    ],
+    "last_verified": "2026-08-03"
+  }
+]
