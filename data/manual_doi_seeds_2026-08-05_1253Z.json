@@ -1,0 +1,94 @@
+[
+  {
+    "id": "doi10-3934-ammc-2026004-deep-image-prior-limited-view-photoacoustic-tomography",
+    "title": "Deep image prior for photoacoustic tomography can mitigate limited-view artifacts",
+    "authors": "Hanna Pulkkinen; Jenni Poimala; Leonid Kunyansky; Janek Gröhl; Andreas Hauptmann",
+    "year": 2026,
+    "publication_date": "2026-06-25",
+    "indexed_date": "2026-08-05",
+    "venue": "Applied Mathematics for Modern Challenges 8, 54-79",
+    "venue_group": "Applied Mathematics for Modern Challenges",
+    "venue_type": "journal article",
+    "doi": "10.3934/ammc.2026004",
+    "primary_url": "https://www.aimsciences.org/article/doi/10.3934/ammc.2026004",
+    "source": "Manual-AIMS-ArXiv-DOI-seed",
+    "matched_query": "photoacoustic tomography deep image prior limited-view reconstruction acoustic inversion",
+    "score": 11,
+    "reasons": [
+      "manual-doi-seed",
+      "directly studies limited-view photoacoustic tomography reconstruction",
+      "uses an unsupervised deep image prior without external training data",
+      "evaluated on simulated measurements and experimental PAT data with digital-twin quality assessment",
+      "official AIMS publisher metadata and the authors' arXiv record agree on title, authors, DOI, and technical scope",
+      "exact DOI and title were absent from repository search"
+    ],
+    "topics": [
+      "photoacoustic tomography",
+      "deep image prior",
+      "limited-view reconstruction",
+      "acoustic inversion",
+      "unsupervised reconstruction",
+      "image restoration"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This work applies an untrained deep image prior to photoacoustic tomography under limited-view and noisy acquisition. Using fast forward and adjoint operators, initialization from a fast inverse, and total-variation regularization, the method improves several image-quality measures over classical TV reconstruction on simulations and experimental data, including digital-twin-based assessment.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "AIMS Sciences official article record and arXiv",
+    "publication_note": "Published online on 2026-06-25. Newly surfaced as a verified repository backfill on 2026-08-05.",
+    "sources": [
+      "https://doi.org/10.3934/ammc.2026004",
+      "https://www.aimsciences.org/article/doi/10.3934/ammc.2026004",
+      "https://arxiv.org/abs/2604.19176"
+    ],
+    "last_verified": "2026-08-05"
+  },
+  {
+    "id": "doi10-1121-10-0042406-single-snapshot-camp-active-sonar-imaging-shallow-water",
+    "title": "Single-snapshot complex approximate message passing method for active sonar imaging in shallow water",
+    "authors": "Fanchang Zeng; Lingji Xu; Zhixi Li; Jie Chen; Wei Liu; Zhenglin Li",
+    "year": 2026,
+    "publication_date": "2026-02-01",
+    "indexed_date": "2026-08-05",
+    "venue": "The Journal of the Acoustical Society of America 159(2), 1247-1262",
+    "venue_group": "The Journal of the Acoustical Society of America",
+    "venue_type": "journal article",
+    "doi": "10.1121/10.0042406",
+    "primary_url": "https://doi.org/10.1121/10.0042406",
+    "source": "Manual-JASA-PubMed-Institutional-DOI-seed",
+    "matched_query": "active sonar imaging shallow water complex approximate message passing beamforming",
+    "score": 12,
+    "reasons": [
+      "manual-doi-seed",
+      "directly advances active sonar image formation in reverberant shallow-water environments",
+      "reformulates single-snapshot beamforming as a complex-valued LASSO problem and solves it with complex approximate message passing",
+      "validated in an anechoic pool and in monostatic lake trials",
+      "PubMed and the authors' institutional publication record agree on title, authors, DOI, volume, issue, pages, and publication date",
+      "exact DOI and title were absent from repository search"
+    ],
+    "topics": [
+      "active sonar imaging",
+      "shallow water acoustics",
+      "complex approximate message passing",
+      "beamforming",
+      "sparse reconstruction",
+      "reverberation suppression"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "The paper formulates single-snapshot active-sonar beamforming as a complex LASSO reconstruction and introduces a complex approximate message-passing solver that avoids matrix inversion and uses an Onsager correction for efficient convergence. Pool and lake experiments show narrower sidelobes, improved image resolution, and stronger suppression of reverberation and background interference than conventional beamforming.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PubMed, Journal of the Acoustical Society of America DOI record, and Sun Yat-sen University institutional publication list",
+    "publication_note": "Published in JASA volume 159, issue 2 on 2026-02-01. Newly surfaced as a verified repository backfill on 2026-08-05.",
+    "sources": [
+      "https://doi.org/10.1121/10.0042406",
+      "https://pubmed.ncbi.nlm.nih.gov/41661028/",
+      "https://soet.sysu.edu.cn/zh-hans/node/336"
+    ],
+    "last_verified": "2026-08-05"
+  }
+]
