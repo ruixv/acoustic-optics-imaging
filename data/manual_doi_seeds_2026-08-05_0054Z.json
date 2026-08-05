@@ -1,0 +1,49 @@
+[
+  {
+    "id": "doi10-1109-access-2026-3672274-camera-sonar-extrinsic-calibration",
+    "title": "Mutual Information-Based Extrinsic Calibration of Camera-Sonar System Leveraging Sonar Pseudo-Pointcloud and Underwater Light Attenuation Prior",
+    "authors": "Nguyen Gia Bach; Phan Xuan Tan; Eiji Kamioka",
+    "year": 2026,
+    "publication_date": "2026-03",
+    "indexed_date": "2026-08-05",
+    "venue": "IEEE Access 14, 40229-40249",
+    "venue_group": "IEEE Access",
+    "venue_type": "journal article",
+    "doi": "10.1109/ACCESS.2026.3672274",
+    "primary_url": "https://ieeexplore.ieee.org/document/11426910",
+    "source": "Manual-IEEE-DOAJ-Institutional-DOI-seed",
+    "matched_query": "camera sonar fusion extrinsic calibration imaging sonar underwater perception",
+    "score": 12,
+    "reasons": [
+      "manual-doi-seed",
+      "directly addresses optical-camera and forward-looking imaging-sonar fusion",
+      "proposes markerless mutual-information-based extrinsic calibration using a sonar pseudo-pointcloud and an underwater light-attenuation prior",
+      "validated on simulated data spanning ten Jerlov water types and a real turbid pier-inspection camera-sonar dataset",
+      "IEEE Xplore record, DOAJ, and the authors' institutional publication record agree on the title, authors, DOI, volume, and page range",
+      "exact DOI and title were absent from repository search"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "imaging sonar",
+      "extrinsic calibration",
+      "underwater perception",
+      "mutual information",
+      "multimodal sensing"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "D2RM is a markerless extrinsic-calibration method for a monocular optical camera and a multi-beam forward-looking imaging sonar. It converts each ambiguous sonar return into a sampled pseudo-pointcloud, derives a lightweight camera depth proxy from an underwater light-attenuation prior, and maximizes mutual information between the two depth domains to estimate planar translation and yaw. Experiments on simulated water conditions and a real turbid pier-inspection dataset report improved projected-inlier scores over depth-to-depth baselines while avoiding heavy GPU depth models.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "IEEE Xplore record, DOAJ, and Shibaura Institute of Technology institutional publication record",
+    "publication_note": "Published in IEEE Access volume 14 in March 2026, pages 40229-40249. The accessible authoritative metadata did not expose the exact publication day. Newly surfaced as a verified repository backfill on 2026-08-05.",
+    "sources": [
+      "https://doi.org/10.1109/ACCESS.2026.3672274",
+      "https://ieeexplore.ieee.org/document/11426910",
+      "https://doaj.org/article/f61a4009340d42378184ad4abcf2d485",
+      "https://shibaura.elsevierpure.com/en/publications/mutual-information-based-extrinsic-calibration-of-camera-sonar-sy/"
+    ],
+    "last_verified": "2026-08-05"
+  }
+]
