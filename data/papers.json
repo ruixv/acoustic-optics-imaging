@@ -527,6 +527,50 @@
     }
   },
   {
+    "id": "doi10-1109-access-2026-3672274-camera-sonar-extrinsic-calibration",
+    "title": "Mutual Information-Based Extrinsic Calibration of Camera-Sonar System Leveraging Sonar Pseudo-Pointcloud and Underwater Light Attenuation Prior",
+    "authors": "Nguyen Gia Bach; Phan Xuan Tan; Eiji Kamioka",
+    "year": 2026,
+    "publication_date": "2026-03",
+    "venue": "IEEE Access 14, 40229-40249",
+    "venue_group": "IEEE Access",
+    "venue_type": "conference",
+    "doi": "10.1109/ACCESS.2026.3672274",
+    "primary_url": "https://ieeexplore.ieee.org/document/11426910",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "camera-sonar fusion",
+      "imaging sonar",
+      "extrinsic calibration",
+      "underwater perception",
+      "mutual information",
+      "multimodal sensing"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on camera-sonar fusion, imaging sonar, extrinsic calibration, underwater perception, mutual information, multimodal sensing.",
+    "summary_cn": "自动审核收录的论文，主题包括 camera-sonar fusion、imaging sonar、extrinsic calibration、underwater perception、mutual information、multimodal sensing。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://ieeexplore.ieee.org/document/11426910",
+      "https://doi.org/10.1109/ACCESS.2026.3672274",
+      "https://doaj.org/article/f61a4009340d42378184ad4abcf2d485",
+      "https://shibaura.elsevierpure.com/en/publications/mutual-information-based-extrinsic-calibration-of-camera-sonar-sy/"
+    ],
+    "last_verified": "2026-08-05",
+    "curation_origin": "Manual-IEEE-DOAJ-Institutional-DOI-seed",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "Manual-IEEE-DOAJ-Institutional-DOI-seed",
+      "final_version_status": "manual-doi-metadata-pending",
+      "track": "main"
+    }
+  },
+  {
     "id": "2026-adaptive-path-planning-for-autonomous-underwater-vehicle-auv-based-on-spati-a2c1090c3ae4",
     "title": "Adaptive Path Planning for Autonomous Underwater Vehicle (AUV) Based on Spatio-Temporal Graph Neural Networks and Conditional Normalizing Flow Probabilistic Reconstruction",
     "authors": "GuoShuai Li; Jinghua Wang; Jichuan Dai; Tian Zhao; Danqiang Chen; Cui Chen",
