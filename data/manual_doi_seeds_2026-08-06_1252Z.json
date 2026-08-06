@@ -1,0 +1,94 @@
+[
+  {
+    "id": "doi10-1039-d6mh00773b-high-fidelity-cross-media-acoustic-holography",
+    "title": "High-fidelity cross-media acoustic holography through a passive meta-projector with synergistic amplitude-phase control",
+    "authors": "Yifan Song; Yang Tan; Jingjing Liu; Bin Liang; Jianchun Cheng",
+    "year": 2026,
+    "publication_date": "2026-07-13",
+    "indexed_date": "2026-08-06",
+    "venue": "Materials Horizons, online ahead of print",
+    "venue_group": "Materials Horizons",
+    "venue_type": "journal article",
+    "doi": "10.1039/d6mh00773b",
+    "primary_url": "https://doi.org/10.1039/d6mh00773b",
+    "source": "Manual-RSC-PubMed-DOI-seed",
+    "matched_query": "cross-media acoustic holography passive meta-projector amplitude phase control",
+    "score": 12,
+    "reasons": [
+      "manual-doi-seed",
+      "directly advances acoustic holography across a heterogeneous water-air interface",
+      "introduces a passive subwavelength meta-projector that jointly controls acoustic amplitude and phase",
+      "includes numerical and experimental holographic reconstruction plus a cross-media particle-assembly demonstration",
+      "PubMed and the Royal Society of Chemistry DOI record verify title, complete authorship, DOI, journal, publication date, and online-ahead-of-print status",
+      "exact DOI and title were absent from repository search"
+    ],
+    "topics": [
+      "acoustic holography",
+      "cross-media acoustics",
+      "acoustic metamaterials",
+      "meta-projector",
+      "amplitude-phase control",
+      "wavefront shaping",
+      "particle manipulation"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This work demonstrates high-fidelity acoustic holography across a water-air interface using a passive, subwavelength acoustic meta-projector. A full-mode expansion model identifies a quasi-decoupled operating point that breaks the usual amplitude-phase locking of anti-reflection structures, enabling joint and effectively independent control of transmitted acoustic amplitude and phase. Numerical and experimental results reconstruct prescribed airborne patterns from an underwater incident wave, and the authors further demonstrate potential for contactless cross-media particle assembly.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PubMed record linked to the Royal Society of Chemistry version of record",
+    "publication_note": "Published online on 2026-07-13 and currently listed online ahead of print. Newly surfaced as a verified repository backfill on 2026-08-06.",
+    "sources": [
+      "https://doi.org/10.1039/d6mh00773b",
+      "https://pubmed.ncbi.nlm.nih.gov/42439224/"
+    ],
+    "last_verified": "2026-08-06"
+  },
+  {
+    "id": "doi10-1117-1-oe-65-5-050901-review-digital-acousto-optic-holography",
+    "title": "Review: Digital acousto-optic holography",
+    "authors": "Guangcai Huang; Wenjing Zhou; Yingjie Yu",
+    "year": 2026,
+    "publication_date": "2026-05-05",
+    "indexed_date": "2026-08-06",
+    "venue": "Optical Engineering 65(5), 050901",
+    "venue_group": "Optical Engineering",
+    "venue_type": "journal review",
+    "doi": "10.1117/1.OE.65.5.050901",
+    "primary_url": "https://doi.org/10.1117/1.OE.65.5.050901",
+    "source": "Manual-SPIE-DOI-seed",
+    "matched_query": "digital acousto-optic holography ultrasonic excitation digital holography subsurface defect imaging",
+    "score": 11,
+    "reasons": [
+      "manual-doi-seed",
+      "directly reviews a core acoustic-optics imaging modality combining ultrasonic excitation with full-field optical holographic measurement",
+      "covers television holography, digital shearography, and numerical volumetric reconstruction of subsurface discontinuities",
+      "surveys performance limits and recent advances in non-contact three-dimensional nondestructive imaging",
+      "official SPIE Digital Library records verify title, authorship, DOI, volume, issue, article number, date, and technical scope",
+      "exact DOI and title were absent from repository search"
+    ],
+    "topics": [
+      "acousto-optic imaging",
+      "digital holography",
+      "acoustic holography",
+      "shearography",
+      "nondestructive testing",
+      "subsurface defect imaging",
+      "volumetric reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "review",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This review surveys digital acousto-optic holography, in which ultrasonic excitation is measured through full-field, non-contact optical holography to image defects inside opaque solids. It compares television-holography displacement measurements with digital-shearography strain-gradient measurements, explains numerical propagation of the measured complex surface field into the material volume, and assesses trade-offs in sensitivity, fringe visibility, robustness, and depth resolution. It also summarizes recent progress in high-speed acquisition, multi-wavelength deformation measurement, and dual-mode architectures.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "SPIE Digital Library official article and issue records",
+    "publication_note": "Published on 2026-05-05. Newly surfaced as a verified repository backfill on 2026-08-06.",
+    "sources": [
+      "https://doi.org/10.1117/1.OE.65.5.050901",
+      "https://electronicimaging.spiedigitallibrary.org/journals/optical-engineering/volume-65/issue-5/050901/Review-Digital-acousto-optic-holography/10.1117/1.OE.65.5.050901.short"
+    ],
+    "last_verified": "2026-08-06"
+  }
+]
