@@ -1,10 +1,15 @@
 {
-  "last_run": "2026-08-06T03:37:53.456673+00:00",
+  "last_run": "2026-08-06T07:02:09.355239+00:00",
   "since_date": "2024-08-06",
-  "raw_candidates_seen": 1837,
-  "saved_candidates_total": 641,
+  "raw_candidates_seen": 1831,
+  "saved_candidates_total": 640,
   "citation_graph_seed_count": 50,
   "errors": [
+    {
+      "source": "arXiv",
+      "query": "coded acoustic imaging computational acoustics",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22coded%22+AND+all%3A%22acoustic%22+AND+all%3A%22imaging%22+AND+all%3A%22computational%22+AND+all%3A%22acoustics%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
     {
       "source": "arXiv",
       "query": "computational ultrasound complex fields imaging",
@@ -262,8 +267,8 @@
     }
   ],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
-  "manual_doi_seed_last_run": "2026-08-06T03:37:53.569056+00:00",
-  "manual_doi_seed_file_count": 65,
+  "manual_doi_seed_last_run": "2026-08-06T07:02:09.475707+00:00",
+  "manual_doi_seed_file_count": 66,
   "manual_doi_seed_files": [
     "manual_doi_seeds.json",
     "manual_doi_seeds_2026-07-19.json",
@@ -329,10 +334,11 @@
     "manual_doi_seeds_2026-08-05_0054Z.json",
     "manual_doi_seeds_2026-08-05_0654Z.json",
     "manual_doi_seeds_2026-08-05_1253Z.json",
-    "manual_doi_seeds_2026-08-06_0053Z.json"
+    "manual_doi_seeds_2026-08-06_0053Z.json",
+    "manual_doi_seeds_2026-08-06_0655Z.json"
   ],
-  "manual_doi_seed_count": 147,
-  "manual_doi_seed_added": 0,
+  "manual_doi_seed_count": 149,
+  "manual_doi_seed_added": 2,
   "manual_doi_seed_updated": 138,
   "mmwave_seed_queries": [
     "high resolution handheld millimeter wave imaging phase error estimation compensation",
@@ -355,7 +361,7 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-08-06T03:38:52.638482+00:00",
+  "agent_audit_last_run": "2026-08-06T07:03:06.563100+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 15,
   "resolved_final_versions": 27,
