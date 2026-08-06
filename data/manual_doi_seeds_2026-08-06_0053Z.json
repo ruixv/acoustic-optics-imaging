@@ -1,0 +1,97 @@
+[
+  {
+    "id": "doi10-1109-access-2026-3672694-mfdrnet-sparse-view-xact-reconstruction",
+    "title": "MFDRNet: A Self-Supervised Framework for Sparse-View XACT Image Reconstruction via Multi-View Fusion and Artifact Disentanglement",
+    "authors": "Xin Jiang; Zheng Sun; Hang Ren; Sitong Zhai",
+    "year": 2026,
+    "publication_date": "2026-03-10",
+    "indexed_date": "2026-08-06",
+    "venue": "IEEE Access 14, 44303-44316",
+    "venue_group": "IEEE Access",
+    "venue_type": "journal article",
+    "doi": "10.1109/ACCESS.2026.3672694",
+    "primary_url": "https://ieeexplore.ieee.org/document/11428182",
+    "source": "Manual-IEEE-Xplore-DBLP-DOI-seed",
+    "matched_query": "X-ray-induced acoustic computed tomography sparse-view acoustic image reconstruction self-supervised multi-view fusion",
+    "score": 12,
+    "reasons": [
+      "manual-doi-seed",
+      "directly advances acoustic computed-tomography image formation under severely sparse acquisition",
+      "uses self-supervised multi-view masking, attention-based feature fusion, and explicit artifact disentanglement",
+      "evaluated on phantom, animal, and clinical human XACT datasets",
+      "official IEEE Xplore metadata verifies the title, DOI, venue, pages, publication date, and technical scope",
+      "final authorship was cross-checked against DBLP",
+      "exact DOI and title were absent from repository search"
+    ],
+    "topics": [
+      "X-ray-induced acoustic computed tomography",
+      "acoustic imaging",
+      "sparse-view reconstruction",
+      "self-supervised learning",
+      "multi-view fusion",
+      "artifact disentanglement",
+      "radiotherapy dose imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "MFDRNet reconstructs sparse-view X-ray-induced acoustic computed-tomography images without paired ground-truth training data. It combines virtual multi-view masking, multi-scale attention fusion, and an artifact-disentangling block, and is evaluated on phantom, animal, and human datasets under 16- to 128-channel sampling. The work is directly relevant to computational acoustic image reconstruction and real-time dose-imaging systems.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "IEEE Xplore official article record and DBLP",
+    "publication_note": "Published in IEEE Access on 2026-03-10. Newly surfaced as a verified repository backfill on 2026-08-06.",
+    "sources": [
+      "https://doi.org/10.1109/ACCESS.2026.3672694",
+      "https://ieeexplore.ieee.org/document/11428182",
+      "https://dblp.org/rec/journals/access/JiangSRZ26"
+    ],
+    "last_verified": "2026-08-06"
+  },
+  {
+    "id": "doi10-1364-ol-593248-deep-learning-transparent-transducer-photoacoustic-microscopy",
+    "title": "Deep learning-enhanced transparent transducer-based photoacoustic microscopy with improved SNR and resolution",
+    "authors": "Haonan Li; Yu Feng; Hanxian Huang; Yuqi Liu; Fan Yang; Jinwei Li; Chao Zhang; Zhongwen Cheng; Zhiyang Wang",
+    "year": 2026,
+    "publication_date": "2026-04-14",
+    "indexed_date": "2026-08-06",
+    "venue": "Optics Letters 51(8), 2320-2323",
+    "venue_group": "Optics Letters",
+    "venue_type": "journal article",
+    "doi": "10.1364/OL.593248",
+    "primary_url": "https://opg.optica.org/ol/abstract.cfm?uri=ol-51-8-2320",
+    "source": "Manual-Optica-PubMed-DOI-seed",
+    "matched_query": "transparent ultrasound transducer photoacoustic microscopy deep learning SNR resolution aberration correction",
+    "score": 12,
+    "reasons": [
+      "manual-doi-seed",
+      "directly studies coaxial acoustic-optical photoacoustic microscopy using a transparent ultrasonic transducer",
+      "introduces separate deep networks for signal-to-noise enhancement and aberration correction",
+      "validated using simulations with known ground truth and experimental microvascular imaging",
+      "Optica and PubMed agree on title, authors, DOI, volume, issue, pages, and technical scope",
+      "exact DOI and title were absent from repository search"
+    ],
+    "topics": [
+      "photoacoustic microscopy",
+      "transparent ultrasound transducer",
+      "acoustic-optical integration",
+      "deep learning",
+      "SNR enhancement",
+      "aberration correction",
+      "microvascular imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This paper addresses the sensitivity and electrode-nonuniformity penalties of transparent-transducer photoacoustic microscopy with two task-specific neural networks: one for denoising and one for aberration correction. Simulated and experimental results show improved structural fidelity, vascular visibility, SNR, and spatial resolution, while supporting lower laser-energy operation and a simpler coaxial acoustic-optical system.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Optica Publishing Group official article record and PubMed",
+    "publication_note": "Published online by Optica on 2026-04-14 and assigned to the 2026-04-15 issue. Newly surfaced as a verified repository backfill on 2026-08-06.",
+    "sources": [
+      "https://doi.org/10.1364/OL.593248",
+      "https://opg.optica.org/ol/abstract.cfm?uri=ol-51-8-2320",
+      "https://pubmed.ncbi.nlm.nih.gov/41984723/"
+    ],
+    "last_verified": "2026-08-06"
+  }
+]
