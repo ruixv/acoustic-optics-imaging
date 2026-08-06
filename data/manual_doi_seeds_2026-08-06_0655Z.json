@@ -1,0 +1,93 @@
+[
+  {
+    "id": "doi10-1007-s44443-026-00789-1-same-self-supervised-sonar-despeckling",
+    "title": "SAME: a self-supervised sonar image despeckling framework via multi-scale mixture-of-experts and semantic guidance",
+    "authors": "Can Guo; Yuduo Zhang; Mianyu Jiang; Heran Xu; Kaijun Yue; Liang Li",
+    "year": 2026,
+    "publication_date": "2026-05-04",
+    "indexed_date": "2026-08-06",
+    "venue": "Journal of King Saud University - Computer and Information Sciences 38, Article 381",
+    "venue_group": "Journal of King Saud University - Computer and Information Sciences",
+    "venue_type": "journal article",
+    "doi": "10.1007/s44443-026-00789-1",
+    "primary_url": "https://link.springer.com/article/10.1007/s44443-026-00789-1",
+    "source": "Manual-Springer-Nature-DOI-seed",
+    "matched_query": "sonar acoustic image despeckling self-supervised mixture-of-experts semantic guidance",
+    "score": 11,
+    "reasons": [
+      "manual-doi-seed",
+      "directly improves acoustic sonar image formation quality by suppressing coherent multiplicative speckle",
+      "uses self-supervised blind-spot learning with multi-scale mixture-of-experts routing and frozen DINO semantic priors",
+      "evaluated on the DEBRIS and KLSG sonar datasets without clean ground-truth targets",
+      "official Springer Nature record verifies title, complete authorship, DOI, venue, article number, publication date, version-of-record date, and technical scope",
+      "exact DOI and title were absent from repository search"
+    ],
+    "topics": [
+      "sonar imaging",
+      "acoustic image restoration",
+      "despeckling",
+      "self-supervised learning",
+      "mixture-of-experts",
+      "semantic guidance",
+      "underwater perception"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "SAME is a self-supervised restoration framework for single-channel sonar images corrupted by spatially correlated multiplicative speckle. Its multi-scale mixture-of-experts module adaptively selects receptive fields to separate noise from structure, while a frozen DINO backbone supplies category-agnostic structural priors to recover details lost through blind-spot masking. Experiments on DEBRIS and KLSG report stronger speckle suppression and structural fidelity without requiring clean reference images.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Springer Nature official article record",
+    "publication_note": "First published on 2026-05-04; version of record dated 2026-07-24. Newly surfaced as a verified repository backfill on 2026-08-06.",
+    "sources": [
+      "https://doi.org/10.1007/s44443-026-00789-1",
+      "https://link.springer.com/article/10.1007/s44443-026-00789-1"
+    ],
+    "last_verified": "2026-08-06"
+  },
+  {
+    "id": "doi10-1007-s44163-026-00970-5-wideband-acoustic-imaging-sparse-bayesian-learning",
+    "title": "Research on wideband acoustic imaging method based on sparse Bayesian learning",
+    "authors": "Zhaoyi Liao; Qiang Zeng; Lirong Liu; Junda He; Yajie Zhang",
+    "year": 2026,
+    "publication_date": "2026-02-16",
+    "indexed_date": "2026-08-06",
+    "venue": "Discover Artificial Intelligence 6, Article 234",
+    "venue_group": "Discover Artificial Intelligence",
+    "venue_type": "journal article",
+    "doi": "10.1007/s44163-026-00970-5",
+    "primary_url": "https://link.springer.com/article/10.1007/s44163-026-00970-5",
+    "source": "Manual-Springer-Nature-DOI-seed",
+    "matched_query": "wideband acoustic imaging sparse Bayesian learning microphone array sound source localization",
+    "score": 10,
+    "reasons": [
+      "manual-doi-seed",
+      "directly addresses wideband acoustic image formation and sound-source localization with small microphone arrays",
+      "shares sparse Bayesian hyperparameters across frequency bands to exploit wideband coherence and spatial consistency",
+      "provides closed-form variational-Bayes updates and validates the method using simulations and measured array data",
+      "official Springer Nature record verifies title, authorship, DOI, venue, article number, publication date, and technical scope",
+      "exact DOI and title were absent from repository search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "microphone arrays",
+      "wideband source localization",
+      "sparse Bayesian learning",
+      "variational Bayes",
+      "sound source mapping"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This work proposes a sparse-Bayesian wideband acoustic-imaging method for small-aperture microphone arrays. A hierarchical conjugate-prior model shares sparsity parameters across frequency bands, enabling joint use of wideband observations and closed-form variational-Bayes updates. Simulated and measured experiments show improved source-map resolution and lower false detections compared with conventional beamforming and MUSIC, although the iterative matrix operations increase computational cost.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Springer Nature official article record",
+    "publication_note": "Published on 2026-02-16; version of record dated 2026-03-24. Newly surfaced as a verified repository backfill on 2026-08-06.",
+    "sources": [
+      "https://doi.org/10.1007/s44163-026-00970-5",
+      "https://link.springer.com/article/10.1007/s44163-026-00970-5"
+    ],
+    "last_verified": "2026-08-06"
+  }
+]
