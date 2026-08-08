@@ -1,0 +1,80 @@
+[
+  {
+    "id": "doi10-1038-s41597-026-08004-6-openqpaidata-quantitative-photoacoustic-imaging",
+    "title": "OpenQPAIData: Measurements of test objects with reference labels for quantitative photoacoustic imaging research",
+    "authors": "Janek Gröhl; Sandeep Kumar Kalva; Berkan Lafci; Francesca Di Cecio; Ran Tao; Thomas R. Else; Lorna Wright; Daniel Razansky; Sarah E. Bohndiek",
+    "year": 2026,
+    "publication_date": "2026-08-04",
+    "indexed_date": "2026-08-08",
+    "venue": "Scientific Data 13, 1127",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "data descriptor",
+    "doi": "10.1038/s41597-026-08004-6",
+    "primary_url": "https://doi.org/10.1038/s41597-026-08004-6",
+    "source": "Manual-Nature-DOI-seed",
+    "matched_query": "OpenQPAIData quantitative photoacoustic imaging Scientific Data 2026",
+    "score": 10,
+    "reasons": [
+      "manual-doi-seed",
+      "Nature Portfolio priority venue",
+      "direct quantitative photoacoustic imaging benchmark resource",
+      "contains raw measurements and reconstructions from three photoacoustic systems plus reference optical-property maps",
+      "supports benchmarking of both acoustic and optical inverse solvers and photoacoustic image-quality metrics",
+      "official Scientific Data record verifies title, authorship, volume, article number, DOI, publication date, and version-of-record date",
+      "exact DOI and title were absent from repository search"
+    ],
+    "topics": ["photoacoustic imaging", "quantitative photoacoustic imaging", "optoacoustic tomography", "benchmark dataset", "inverse problems", "image reconstruction", "multispectral optoacoustic tomography"],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "data descriptor",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This Scientific Data paper introduces OpenQPAIData, a benchmark dataset built from 30 tissue-mimicking phantoms measured on three photoacoustic systems (MSOT InVision, TROPUS, and SVOT). It provides raw signals, reconstructed images, annotations, and matched optical-property reference maps, making it a useful experimental benchmark for quantitative photoacoustic reconstruction and validation.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Scientific Data official Nature Portfolio article record",
+    "publication_note": "Published and version of record on 2026-08-04; newly surfaced in repository monitoring on 2026-08-08.",
+    "sources": [
+      "https://doi.org/10.1038/s41597-026-08004-6",
+      "https://www.nature.com/articles/s41597-026-08004-6"
+    ],
+    "last_verified": "2026-08-08"
+  },
+  {
+    "id": "doi10-1002-anie-7119524-zero-on-nir-ii-photoacoustic-dyes",
+    "title": "A General Design of Compact \"Zero-On\" NIR-II Photoacoustic Dyes for High-Fidelity Imaging",
+    "authors": "Chunxu He; Xi Li; Kai Chen; Qi Wang; Quli Fan; Xiaomei Lu; Yufu Tang",
+    "year": 2026,
+    "publication_date": "2026-08-06",
+    "indexed_date": "2026-08-08",
+    "venue": "Angewandte Chemie International Edition",
+    "venue_group": "Wiley-VCH",
+    "venue_type": "journal article",
+    "doi": "10.1002/anie.7119524",
+    "primary_url": "https://doi.org/10.1002/anie.7119524",
+    "source": "Manual-PubMed-DOI-seed",
+    "matched_query": "Zero-On NIR-II photoacoustic dyes high-fidelity imaging 2026",
+    "score": 8,
+    "reasons": [
+      "manual-doi-seed",
+      "direct molecular photoacoustic imaging contribution",
+      "newly published online ahead of print on 2026-08-06",
+      "introduces compact biomarker-activatable NIR-II dyes designed for near-zero background and high-fidelity in vivo photoacoustic signal output",
+      "reports an 89.8-fold 1064-nm photoacoustic signal increase after activation and blinded early-stage hepatotoxicity imaging in mice",
+      "PubMed verifies title, complete authorship, DOI, online-publication date, and abstract",
+      "exact DOI was absent from repository search"
+    ],
+    "topics": ["photoacoustic imaging", "NIR-II", "molecular imaging", "activatable probe", "photoacoustic contrast agent", "biomarker imaging", "high-fidelity imaging"],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "The paper presents a modular design for ultralow-molecular-weight NIR-II photoacoustic dyes whose biomarker-triggered conjugation transition produces near-zero background in the off state and strong 1064-nm signal after activation. The authors demonstrate an 89.8-fold signal enhancement and high-fidelity in vivo molecular imaging, including blinded early-stage hepatotoxicity detection in mice.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PubMed/National Library of Medicine publisher-linked record",
+    "publication_note": "Published online ahead of print on 2026-08-06; newly indexed/surfaced in monitoring on 2026-08-08.",
+    "sources": [
+      "https://doi.org/10.1002/anie.7119524",
+      "https://pubmed.ncbi.nlm.nih.gov/42559840/"
+    ],
+    "last_verified": "2026-08-08"
+  }
+]
