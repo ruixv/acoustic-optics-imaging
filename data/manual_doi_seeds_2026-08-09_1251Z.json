@@ -1,0 +1,94 @@
+[
+  {
+    "id": "arxiv2607-25576-matrix-free-photoacoustic-sensor-token-self-attention",
+    "title": "Matrix-Free Photoacoustic Image Reconstruction via Sensor-Token Self-Attention",
+    "authors": "Mary John; Shibili Said; Imad Barhumi; Sherzod Turaev; Mohamed Yahia",
+    "year": 2026,
+    "publication_date": "2026-07-28",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-09",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2607.25576",
+    "primary_url": "https://arxiv.org/abs/2607.25576",
+    "pdf_url": "https://arxiv.org/pdf/2607.25576",
+    "source": "Manual-arXiv-seed",
+    "matched_query": "photoacoustic tomography sparse-view reconstruction sensor-token self-attention matrix-free",
+    "score": 10,
+    "reasons": [
+      "manual-arxiv-seed",
+      "direct computational photoacoustic tomography reconstruction contribution",
+      "maps raw per-sensor time series directly to images without a system matrix at inference",
+      "official arXiv record verifies title, authors, date, and technical abstract",
+      "exact title and arXiv identifier were absent from repository search"
+    ],
+    "topics": [
+      "photoacoustic tomography",
+      "photoacoustic reconstruction",
+      "sparse-view imaging",
+      "transformer",
+      "sensor-token attention",
+      "inverse problems"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Introduces Sensor Attention Network (SAN), a Transformer that treats each PAT sensor time series as a token and reconstructs the initial pressure image directly from raw sparse-view measurements. The method removes system-matrix use at inference and reports improved reconstruction metrics and substantially faster inference than the tested iterative and learned baselines.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv abstract record",
+    "publication_note": "Submitted on 2026-07-28 and newly surfaced as a repository-absent preprint during the 2026-08-09 sweep. No final peer-reviewed venue was verified in this sweep.",
+    "sources": [
+      "https://arxiv.org/abs/2607.25576",
+      "https://doi.org/10.48550/arXiv.2607.25576"
+    ],
+    "last_verified": "2026-08-09"
+  },
+  {
+    "id": "arxiv2608-04145-simulation-based-imaging-acoustic-inverse-problems",
+    "title": "Simulation-Based Imaging: Learning Acoustic Inverse Problems from Simulated Data",
+    "authors": "Luke Bodmer; E. Bruce Pitman",
+    "year": 2026,
+    "publication_date": "2026-08-04",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-09",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2608.04145",
+    "primary_url": "https://arxiv.org/abs/2608.04145",
+    "pdf_url": "https://arxiv.org/pdf/2608.04145",
+    "source": "Manual-arXiv-seed",
+    "matched_query": "simulation-based acoustic imaging inverse problems simulated data boundary pressure reconstruction",
+    "score": 9,
+    "reasons": [
+      "manual-arxiv-seed",
+      "direct acoustic inverse-imaging contribution",
+      "learns 3D interior reconstruction from simulated boundary pressure measurements",
+      "official arXiv record verifies title, authors, date, and technical abstract",
+      "exact title and arXiv identifier were absent from repository search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "acoustic inverse problems",
+      "non-destructive imaging",
+      "simulation-based learning",
+      "3D reconstruction",
+      "computational acoustics"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Presents a simulation-trained acoustic inverse-imaging framework in which a discontinuous-Galerkin forward solver generates training measurements and a neural model reconstructs a 32×32×32 interior volume from boundary pressure data. The proof-of-concept reports robustness to measurement noise and substantial sensor-count reduction.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv abstract record",
+    "publication_note": "Submitted on 2026-08-04 and newly surfaced as a repository-absent preprint during the 2026-08-09 sweep. No final peer-reviewed venue was verified in this sweep.",
+    "sources": [
+      "https://arxiv.org/abs/2608.04145",
+      "https://doi.org/10.48550/arXiv.2608.04145"
+    ],
+    "last_verified": "2026-08-09"
+  }
+]
