@@ -1,0 +1,53 @@
+[
+  {
+    "id": "doi10-1016-j-advengsoft-2026-104197-physics-constrained-inverse-acoustic-reconstruction",
+    "title": "Physics-constrained inverse acoustic reconstruction via POCS-inspired relaxed projection–prox iterations",
+    "authors": "Chanho Park; Yeachan Kwak; Seongim Choi",
+    "year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_precision": "month",
+    "indexed_date": "2026-08-09",
+    "venue": "Advances in Engineering Software 219, 104197",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.advengsoft.2026.104197",
+    "primary_url": "https://doi.org/10.1016/j.advengsoft.2026.104197",
+    "source": "Manual-Elsevier-DOI-seed",
+    "matched_query": "physics-constrained inverse acoustic reconstruction POCS projection prox coherent acoustic field 2026",
+    "score": 8,
+    "reasons": [
+      "manual-doi-seed",
+      "direct computational acoustic-field reconstruction contribution",
+      "recovers physically missing regions of coherent acoustic measurements under contiguous aperture masking",
+      "training-free relaxed projection–prox solver couples measurement consistency with a wave-physics spectral prior",
+      "supports confidence-weighted noisy measurements and geometry-aware scattered-field refinement for known obstacles",
+      "official ScienceDirect record verifies title, authors, DOI, volume, article number, and August 2026 issue date",
+      "DBLP independently corroborates journal, volume, year, authors, and article number",
+      "exact DOI and title were absent from repository search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "acoustic reconstruction",
+      "computational acoustics",
+      "sound-field reconstruction",
+      "inverse problems",
+      "physics-constrained reconstruction",
+      "occluded aperture",
+      "wave-field completion"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "This paper proposes a training-free physics-constrained inverse solver for completing contiguous missing regions in coherent acoustic-field measurements. Its POCS-inspired relaxed projection–prox iterations alternate measurement consistency with a soft spectral wave-physics operator, and the method includes confidence weighting for noisy sensors plus an obstacle-aware scattered-field refinement. The work is directly relevant to computational acoustic imaging and incomplete-aperture sound-field reconstruction.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Advances in Engineering Software official ScienceDirect article record; DBLP volume record",
+    "publication_note": "ScienceDirect lists the paper in Volume 219 with an August 2026 issue date but does not expose a day-level online-publication date in the accessible metadata; publication_date is normalized to the first day of the issue month with month precision explicitly recorded. Newly surfaced as a verified repository backfill on 2026-08-09.",
+    "sources": [
+      "https://doi.org/10.1016/j.advengsoft.2026.104197",
+      "https://www.sciencedirect.com/science/article/pii/S0965997826001031",
+      "https://dblp.org/rec/journals/aes/ParkKC26"
+    ],
+    "last_verified": "2026-08-09"
+  }
+]
