@@ -1,0 +1,98 @@
+[
+  {
+    "id": "doi10-1016-j-ultras-2026-108039-sound-speed-profile-nonlinearity-phase-coherence-acoustic-imaging",
+    "title": "A nonlinearity index for sound speed profiles and its impact on phase coherence in acoustic imaging: An illustration using synthetic aperture sonar",
+    "authors": "Tran Trong Tai; Truong Van Tuan",
+    "year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_precision": "month",
+    "indexed_date": "2026-08-10",
+    "venue": "Ultrasonics 164, 108039",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ultras.2026.108039",
+    "primary_url": "https://doi.org/10.1016/j.ultras.2026.108039",
+    "source": "Manual-Elsevier-August-issue-backfill",
+    "matched_query": "sound speed profile nonlinearity phase coherence acoustic imaging synthetic aperture sonar 2026",
+    "score": 8,
+    "reasons": [
+      "manual-doi-seed",
+      "direct coherent acoustic-imaging and synthetic-aperture-sonar contribution",
+      "quantifies how depth-dependent sound-speed-profile nonlinearity induces two-way phase errors and coherence degradation",
+      "links environmental propagation structure to image gain, mainlobe distortion, and sidelobe behavior",
+      "official ScienceDirect record verifies title, authors, DOI, journal, volume, August 2026 issue assignment, article number, and technical scope",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "synthetic aperture sonar",
+      "sound speed profile",
+      "phase coherence",
+      "phase aberration",
+      "underwater acoustics",
+      "environment-aware imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces two scalar indices for sound-speed-profile nonlinearity and connects them quantitatively to two-way phase errors, inter-ping coherence loss, and synthetic-aperture acoustic image degradation. Ray-based simulations show strong coherence collapse as SSP curvature increases, providing a practical criterion for validating propagation assumptions and motivating environment-aware phase compensation in SAS and related coherent ultrasonic imaging systems.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect / Ultrasonics article record",
+    "publication_note": "ScienceDirect assigns the paper to Ultrasonics volume 164, August 2026. An authoritative exact day-level online-publication date was not exposed in the accessible primary metadata, so publication precision is intentionally stored at month level. Newly surfaced as a repository-absent August-issue backfill during the 2026-08-10 sweep.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0041624X26000910",
+      "https://doi.org/10.1016/j.ultras.2026.108039"
+    ],
+    "last_verified": "2026-08-10"
+  },
+  {
+    "id": "doi10-1016-j-sigpro-2026-110596-precise-imagery-multireceiver-synthetic-aperture-sonar-range-migration",
+    "title": "Precise imagery of multireceiver synthetic aperture sonar data based on range migration algorithm",
+    "authors": "Xuebo Zhang; Peixuan Yang; Junfeng Wang",
+    "year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_precision": "month",
+    "indexed_date": "2026-08-10",
+    "venue": "Signal Processing 245, 110596",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.sigpro.2026.110596",
+    "primary_url": "https://doi.org/10.1016/j.sigpro.2026.110596",
+    "source": "Manual-Elsevier-August-issue-backfill",
+    "matched_query": "multireceiver synthetic aperture sonar imagery range migration algorithm 2026",
+    "score": 9,
+    "reasons": [
+      "manual-doi-seed",
+      "direct high-resolution synthetic-aperture-sonar image-formation contribution",
+      "derives an azimuth-aware multireceiver SAS range-error model under phase-center approximation",
+      "precompensates range-error-induced Doppler phase and migration before modified range-migration focusing",
+      "official ScienceDirect record verifies title, authors, DOI, journal, volume, August 2026 issue assignment, article number, and experimental imaging scope",
+      "DBLP independently corroborates the bibliographic record",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "synthetic aperture sonar",
+      "multireceiver SAS",
+      "range migration algorithm",
+      "coherent imaging",
+      "phase error compensation",
+      "underwater imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Develops a higher-accuracy image-formation pipeline for multireceiver synthetic aperture sonar by modeling the double-trip slant-range error as a function of target range, bearing angle, and transmitter-receiver baseline. The method compensates the resulting Doppler phase and residual migration, forms quasi-monostatic data, and applies a modified range migration algorithm; simulation and experimental results report improved focusing quality over conventional approximations.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect / Signal Processing article record; DBLP",
+    "publication_note": "ScienceDirect assigns the paper to Signal Processing volume 245, August 2026. The accessible primary record did not expose a trustworthy exact day-level online-publication date, so publication precision is intentionally stored at month level. Newly surfaced as a repository-absent August-issue backfill during the 2026-08-10 sweep.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0165168426001106",
+      "https://dblp.org/rec/journals/sigpro/ZhangYW26",
+      "https://doi.org/10.1016/j.sigpro.2026.110596"
+    ],
+    "last_verified": "2026-08-10"
+  }
+]
