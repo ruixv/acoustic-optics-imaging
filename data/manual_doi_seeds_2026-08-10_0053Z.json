@@ -1,0 +1,54 @@
+[
+  {
+    "id": "doi10-1109-lra-2026-3706932-nas-gs-noise-aware-sonar-gaussian-splatting",
+    "title": "NAS-GS: Noise-Aware Sonar Gaussian Splatting",
+    "authors": "Shida Xu; Jingqi Jiang; Jonatan Scharff Willners; Sen Wang",
+    "year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_precision": "month",
+    "indexed_date": "2026-08-10",
+    "venue": "IEEE Robotics and Automation Letters 11(8), 9763-9770",
+    "venue_group": "IEEE",
+    "venue_type": "journal article",
+    "doi": "10.1109/LRA.2026.3706932",
+    "primary_url": "https://doi.org/10.1109/LRA.2026.3706932",
+    "source": "Manual-IEEE-journal-upgrade-seed",
+    "matched_query": "NAS-GS noise-aware sonar Gaussian splatting imaging sonar 2026",
+    "score": 9,
+    "reasons": [
+      "manual-doi-seed",
+      "direct imaging-sonar 3D reconstruction and novel-view-synthesis contribution",
+      "models sonar-specific intensity accumulation and transmittance with Two-Ways Splatting",
+      "explicit Gaussian-mixture noise model covers sidelobes, speckle, and multipath",
+      "validated on simulated and real-world large-scale offshore sonar data",
+      "DBLP now indexes the final IEEE Robotics and Automation Letters assignment as volume 11 issue 8 pages 9763-9770",
+      "coauthor publication page independently identifies the work as a 2026 IEEE RA-L article",
+      "IEEE DOI 10.1109/LRA.2026.3706932 is corroborated by the indexed journal record; exact title, DOI, and arXiv identifier were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "imaging sonar",
+      "sonar 3D reconstruction",
+      "Gaussian splatting",
+      "novel view synthesis",
+      "underwater perception",
+      "noise modeling"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces NAS-GS, a sonar-specific Gaussian Splatting framework for 3D reconstruction and novel-view synthesis. Two-Ways Splatting models the distinct sonar intensity-accumulation and transmittance directions, while a Gaussian-mixture noise model represents sidelobes, speckle, and multipath so that scene Gaussians do not overfit measurement noise. The method is evaluated on both simulated scenes and real offshore sonar data.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "DBLP final journal indexing; coauthor publication page; official author project page/arXiv for authors and technical content; DOI corroborated by indexed journal metadata",
+    "publication_note": "Originally posted as arXiv:2601.06285 on 2026-01-09. Newly surfaced as a final IEEE Robotics and Automation Letters journal assignment (vol. 11, no. 8, pp. 9763-9770) during the 2026-08-10 sweep. The accessible authoritative/curated records did not expose a trustworthy exact day-level IEEE publication date, so publication precision is intentionally stored as August 2026.",
+    "sources": [
+      "https://dblp.org/rec/journals/ral/XuJWW26",
+      "https://jjq7.github.io/publications.html",
+      "https://senseroboticslab.github.io/NAS-GS-Page/",
+      "https://arxiv.org/abs/2601.06285",
+      "https://doi.org/10.1109/LRA.2026.3706932"
+    ],
+    "last_verified": "2026-08-10"
+  }
+]
