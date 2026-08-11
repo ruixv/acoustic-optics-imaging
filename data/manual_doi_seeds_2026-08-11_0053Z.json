@@ -1,0 +1,100 @@
+[
+  {
+    "id": "doi10-1016-j-ultras-2026-108055-super-resolution-pulse-echo-imaging-3d-printed-acoustic-meta-lens",
+    "title": "Super-resolution pulse-echo imaging via 3D-printed phase-type acoustic meta-lens",
+    "authors": "Ji-Fan Qiu; Zong-Lin Li; Long-Sheng Zeng; Lai-Xin Huang; Zi-Bin Lin; Yong-Hao Wen; Jian-Ri Chen; Peng-Qi Li; Xue-Feng Zhu; Fei Li; Hai-Rong Zheng",
+    "year": 2026,
+    "publication_date": "2026-08-01",
+    "publication_date_precision": "month",
+    "indexed_date": "2026-08-11",
+    "venue": "Ultrasonics 164, 108055",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ultras.2026.108055",
+    "primary_url": "https://doi.org/10.1016/j.ultras.2026.108055",
+    "source": "Manual-Elsevier-August-issue-backfill",
+    "matched_query": "super-resolution pulse-echo acoustic imaging 3D-printed phase meta-lens 2026",
+    "score": 9,
+    "reasons": [
+      "manual-doi-seed",
+      "direct acoustic-imaging contribution with experimental pulse-echo reconstruction",
+      "genetic-algorithm-designed phase meta-lens enables far-field subwavelength focusing beyond 20 wavelengths",
+      "reports 0.46-lambda pulse-echo image FWHM versus 0.80-lambda for a conventional Fresnel lens",
+      "official ScienceDirect Ultrasonics record verifies title, DOI, venue, article number, August 2026 assignment, and technical scope",
+      "author list cross-checked against publisher CRediT/author metadata and bibliographic indexing",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "ultrasound imaging",
+      "pulse-echo imaging",
+      "super-resolution",
+      "acoustic meta-lens",
+      "acoustic metasurface",
+      "3D printing",
+      "nondestructive testing"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Demonstrates a genetic-algorithm-designed, tomographically 3D-printed phase-type acoustic meta-lens for far-field super-resolution pulse-echo ultrasound imaging. Experiments achieve a 0.42-lambda lateral focusing FWHM beyond 20 wavelengths and a 0.46-lambda pulse-echo imaging FWHM, compared with 0.80 lambda for a conventional Fresnel lens, making the work directly relevant to high-resolution computational acoustic imaging and nondestructive testing.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect / Ultrasonics article record; publisher CRediT/author metadata; bibliographic indexing",
+    "publication_note": "ScienceDirect assigns the paper to Ultrasonics volume 164, August 2026. The accessible primary record does not expose a trustworthy exact online-first date, so publication precision is intentionally stored at month level. Newly surfaced as a repository-absent August-issue backfill during the 2026-08-11 sweep.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0041624X26001071",
+      "https://doi.org/10.1016/j.ultras.2026.108055"
+    ],
+    "last_verified": "2026-08-11"
+  },
+  {
+    "id": "doi10-1016-j-ymssp-2026-114632-adaptive-bayesian-grid-free-3d-acoustic-source-imaging-nuts",
+    "title": "Adaptive Bayesian grid-free 3D acoustic source imaging for nose landing gear using No-U-Turn sampler",
+    "authors": "Daofang Feng; Liang Yu; Youtai Shi; Kuncheng Wang; Min Li",
+    "year": 2026,
+    "publication_date": "2026-08-15",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-11",
+    "venue": "Mechanical Systems and Signal Processing 258, 114632",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ymssp.2026.114632",
+    "primary_url": "https://doi.org/10.1016/j.ymssp.2026.114632",
+    "source": "Manual-Elsevier-August-issue-indexing",
+    "matched_query": "adaptive Bayesian grid-free 3D acoustic source imaging No-U-Turn sampler 2026",
+    "score": 8,
+    "reasons": [
+      "manual-doi-seed",
+      "direct 3D acoustic-source imaging and inverse-acoustics contribution",
+      "combines equivalent-source Bayesian inference with No-U-Turn posterior sampling in a continuous grid-free formulation",
+      "uses a potential-energy-based Bayesian Information Criterion for adaptive source enumeration",
+      "validated on simulations and experimental nose-landing-gear aeroacoustic measurements",
+      "official ScienceDirect record verifies title, authors, DOI, issue date, and technical scope; volume/article metadata independently corroborated",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "acoustic source localization",
+      "inverse acoustics",
+      "equivalent source method",
+      "Bayesian inference",
+      "No-U-Turn sampler",
+      "aeroacoustics",
+      "microphone arrays"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces GF-NUTS, an adaptive grid-free Bayesian method for three-dimensional acoustic source imaging. The approach uses equivalent-source physics, No-U-Turn sampling of continuous source positions, fixed-point strength/noise estimation, and a potential-energy-based Bayesian Information Criterion for source enumeration; simulations and nose-landing-gear experiments demonstrate improved localization and convergence over conventional grid-based and grid-free alternatives.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect / Mechanical Systems and Signal Processing article record; bibliographic index",
+    "publication_note": "ScienceDirect assigns this paper to an issue dated 15 August 2026. The article is already indexed online as of 11 August 2026, but the accessible primary record does not expose a separate authoritative online-first date. The stored date is therefore the journal issue date, not a claim that first online publication occurred on 15 August.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0888327026007892",
+      "https://doi.org/10.1016/j.ymssp.2026.114632"
+    ],
+    "last_verified": "2026-08-11"
+  }
+]
