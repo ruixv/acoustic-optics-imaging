@@ -96,5 +96,53 @@
       "https://doi.org/10.1016/j.ymssp.2026.114632"
     ],
     "last_verified": "2026-08-11"
+  },
+  {
+    "id": "doi10-1016-j-oceaneng-2026-126143-forward-looking-sonar-image-synthesis-auv-trajectory-cyclegan",
+    "title": "Research on forward-looking sonar image synthesis method based on the fusion of AUV detection trajectory and generative adversarial network",
+    "authors": "Zhikang Chi; Hongjian Wang; Yanhui Wei; Lihui Deng; Lei Wang; Hao Wu; Ziqi Shan",
+    "year": 2026,
+    "publication_date": "2026-08-15",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-11",
+    "venue": "Ocean Engineering 363, Part 1, 126143",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.oceaneng.2026.126143",
+    "primary_url": "https://doi.org/10.1016/j.oceaneng.2026.126143",
+    "source": "Manual-Elsevier-August-issue-indexing",
+    "matched_query": "forward-looking sonar image synthesis AUV trajectory CycleGAN shallow-water noise 2026",
+    "score": 7,
+    "reasons": [
+      "manual-doi-seed",
+      "direct forward-looking-sonar image-synthesis contribution using real sonar acquisitions",
+      "integrates six-degree-of-freedom AUV trajectory priors and a measured shallow-water noise model into CycleGAN",
+      "improves synthetic-image realism and downstream sonar target-detection performance",
+      "official ScienceDirect Ocean Engineering record verifies title, authors, issue assignment, article number, DOI, and technical results",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "forward-looking sonar",
+      "sonar image synthesis",
+      "generative adversarial networks",
+      "AUV trajectory",
+      "shallow-water acoustics",
+      "data augmentation",
+      "underwater perception"
+    ],
+    "status": "metadata-verified",
+    "relevance": "adjacent",
+    "paper_type": "original research",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Presents Sonar-CycleGAN, a forward-looking-sonar image-synthesis framework that incorporates six-degree-of-freedom AUV motion trajectories and a shallow-water noise-distribution model into CycleGAN. The method improves KID/FID-style realism metrics and yields measurable downstream object-detection gains when synthetic sonar imagery augments real training data, making it relevant as a computational sonar-imaging/data-generation paper but less central than direct image-formation work.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect / Ocean Engineering article record; bibliographic indexing",
+    "publication_note": "ScienceDirect assigns this paper to an issue dated 15 August 2026. The article is already indexed online as of 11 August 2026, while the accessible primary record does not expose a separate authoritative online-first date. Because its contribution is image synthesis and data augmentation rather than physical image formation, it is retained as an adjacent candidate rather than an unconditional main-library promotion.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0029801826019773",
+      "https://doi.org/10.1016/j.oceaneng.2026.126143"
+    ],
+    "last_verified": "2026-08-11"
   }
 ]
