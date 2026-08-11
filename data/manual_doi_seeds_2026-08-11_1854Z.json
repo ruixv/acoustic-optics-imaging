@@ -1,0 +1,54 @@
+[
+  {
+    "id": "doi10-1109-tmi-2026-3668711-dynamic-registration-photoacoustic-endoscopic-temperature-imaging",
+    "title": "Dynamic Registration-Based Photoacoustic Endoscopic Temperature Imaging for Precision Interventional Thermal Therapy and Monitoring",
+    "authors": "Dongjian Wu; Kaicheng Yu; Haokun Zhang; Rui Hua; Jianwu Zhu; Xiaojing Gong; Mingjian Sun",
+    "year": 2026,
+    "publication_date": "2026-06-01",
+    "publication_date_precision": "month",
+    "indexed_date": "2026-08-12",
+    "venue": "IEEE Transactions on Medical Imaging 45(6): 3191-3202",
+    "venue_group": "IEEE",
+    "venue_type": "journal article",
+    "doi": "10.1109/TMI.2026.3668711",
+    "primary_url": "https://doi.org/10.1109/TMI.2026.3668711",
+    "source": "Manual-IEEE-TMI-photoacoustic-backfill",
+    "matched_query": "photoacoustic endoscopic temperature imaging dynamic registration intravascular thermometry IEEE TMI 2026",
+    "score": 9,
+    "reasons": [
+      "manual-doi-seed",
+      "direct photoacoustic imaging contribution with dual-modality photoacoustic/ultrasound endoscopy",
+      "introduces dynamic registration-corrected photoacoustic endoscopic thermometry for angularly registered intravascular temperature mapping",
+      "phantom and ex vivo rabbit-aorta validation reports improved inter-frame consistency and sub-degree temperature error",
+      "PubMed verifies title, full authorship, DOI, journal, volume, issue, page range, and June 2026 publication assignment",
+      "DBLP independently corroborates the final IEEE Transactions on Medical Imaging bibliographic record",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "photoacoustic endoscopy",
+      "photoacoustic thermometry",
+      "photoacoustic-ultrasound imaging",
+      "multimodal imaging",
+      "intravascular imaging",
+      "image registration",
+      "image-guided intervention",
+      "thermal monitoring"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Presents PETI-DRC, a dynamic registration-corrected photoacoustic endoscopic thermometry method using a miniaturized dual-modality photoacoustic/ultrasound catheter. The approach registers rotational frames to form angularly consistent temperature maps for intravascular photothermal therapy monitoring, with phantom and ex vivo rabbit-aorta validation. PubMed reports average inter-frame SSIM of 0.9684 and temperature RMSE of 0.65 °C, making the work directly relevant to computational photoacoustic imaging and image-guided intervention.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PubMed final journal record; DBLP final bibliographic record; author institution publication list",
+    "publication_note": "PubMed and DBLP verify the final IEEE Transactions on Medical Imaging assignment as volume 45, issue 6, pages 3191-3202, June 2026. An author-affiliated institutional publication list gives 3 June 2026, but because an accessible IEEE day-level publication record was not available, publication_date is normalized to the first day of June with month precision. Newly surfaced as a verified repository-absent backfill during the 2026-08-12 sweep rather than as a paper first published on the sweep date.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41758853/",
+      "https://dblp.org/rec/journals/tmi/WuYZHZGS26.html",
+      "https://doi.org/10.1109/TMI.2026.3668711",
+      "https://bmo.siat.ac.cn/pages_18/"
+    ],
+    "last_verified": "2026-08-12"
+  }
+]
