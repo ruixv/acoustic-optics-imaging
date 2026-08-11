@@ -1,0 +1,50 @@
+[
+  {
+    "id": "doi10-1016-j-eswa-2026-131710-multimodal-underwater-object-detection-visual-sonar-dataset",
+    "title": "Towards multimodal underwater object detection: A bidirectional feature recomposition network and visual-sonar dataset",
+    "authors": "Yujie Wu; Wenling Wang; Cong Lin; Mingxin Hou; Mingxin Liu",
+    "year": 2026,
+    "publication_date": "2026-06-15",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-11",
+    "venue": "Expert Systems with Applications 316, 131710",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.eswa.2026.131710",
+    "primary_url": "https://doi.org/10.1016/j.eswa.2026.131710",
+    "source": "Manual-Elsevier-camera-sonar-backfill",
+    "matched_query": "visual sonar camera fusion underwater object detection VSAFDet UMOD 2026",
+    "score": 9,
+    "reasons": [
+      "manual-doi-seed",
+      "direct camera-sonar / acoustic-optical fusion contribution for underwater perception",
+      "proposes VSAFDet with visual-sonar adaptive attention fusion to handle heterogeneous and spatially misaligned modalities",
+      "introduces the UMOD synchronized visual-sonar dataset with 4,000 paired samples across nine underwater categories",
+      "official ScienceDirect / Expert Systems with Applications record verifies title, authors, DOI, volume, article number, issue date, and technical scope",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "acoustic-optical imaging",
+      "underwater perception",
+      "forward-looking sonar",
+      "multimodal object detection",
+      "cross-modal feature fusion",
+      "visual-sonar dataset",
+      "UMOD"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces VSAFDet, an underwater visual-sonar object-detection framework that uses adaptive cross-modal attention and feature reorganization to fuse highly heterogeneous, spatially misaligned camera and sonar observations. The paper also contributes UMOD, a synchronized visual-sonar benchmark with 4,000 paired samples spanning nine underwater categories, making it directly relevant to camera-sonar and acoustic-optical fusion research.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect / Expert Systems with Applications article record",
+    "publication_note": "ScienceDirect assigns the article to Expert Systems with Applications volume 316 dated 15 June 2026. The accessible publisher record does not expose a separate authoritative online-first date, so the stored date should be interpreted as the journal issue date. Newly surfaced as a repository-absent backfill during the 2026-08-11 sweep rather than as a paper first published on the sweep date.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S095741742600624X",
+      "https://doi.org/10.1016/j.eswa.2026.131710"
+    ],
+    "last_verified": "2026-08-11"
+  }
+]
