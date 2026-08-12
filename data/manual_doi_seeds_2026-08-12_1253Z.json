@@ -1,0 +1,49 @@
+[
+  {
+    "id": "doi10-3390-s26154713-sonarreg-gs-slam-visual-acoustic-gaussian-splatting",
+    "title": "SonarReg-GS SLAM: Sparse Sonar-Guided Depth Regularization for Underwater Gaussian Splatting SLAM",
+    "authors": "Wen Yang; Xiaolong Qian; Xulin Liu; Jianxing Leng",
+    "year": 2026,
+    "publication_date": "2026-07-24",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-12",
+    "venue": "Sensors 26(15): 4713",
+    "venue_group": "MDPI",
+    "venue_type": "journal article",
+    "doi": "10.3390/s26154713",
+    "primary_url": "https://doi.org/10.3390/s26154713",
+    "source": "Manual-MDPI-camera-sonar-fusion-backfill",
+    "matched_query": "underwater RGB sonar Gaussian Splatting SLAM sparse sonar depth regularization 2026",
+    "score": 8,
+    "reasons": [
+      "manual-doi-seed",
+      "direct visual-acoustic / camera-sonar fusion contribution",
+      "uses synchronized RGB and forward-looking sonar, converting filtered sonar returns into sparse metric depth anchors for monocular 3DGS SLAM",
+      "evaluated on two public RGB-sonar underwater datasets (UXO and OPTI) with improved tracking and rendering-based mapping quality over representative baselines",
+      "publisher page verifies title, complete author list, DOI, venue, article number, and 24 July 2026 publication date",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "acoustic-optical imaging",
+      "forward-looking sonar",
+      "underwater SLAM",
+      "3D Gaussian Splatting",
+      "depth regularization",
+      "3D reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Presents SonarReg-GS SLAM, a visual-acoustic underwater 3D Gaussian Splatting SLAM system in which object-conditioned forward-looking-sonar returns are filtered into sparse metric depth anchors. These anchors regularize monocular depth before Gaussian initialization, tracking, and mapping, while an object-aware RGB mask loss strengthens local supervision. Experiments on the UXO and OPTI RGB-sonar datasets report improved trajectory accuracy and rendering quality over classical and Gaussian-SLAM baselines.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Sensors (MDPI) publisher page",
+    "publication_note": "The publisher lists publication on 24 July 2026. This is a repository-absent recent backfill surfaced during the 2026-08-12 sweep rather than a paper first published on the sweep date.",
+    "sources": [
+      "https://www.mdpi.com/1424-8220/26/15/4713",
+      "https://doi.org/10.3390/s26154713"
+    ],
+    "last_verified": "2026-08-12"
+  }
+]
