@@ -1,0 +1,99 @@
+[
+  {
+    "id": "doi10-1109-tmm-2026-3673603-flsfusionnet-camera-sonar-segmentation",
+    "title": "Cross-Modality Feature Fusion for Forward-Looking Sonar Image Segmentation in Complex Underwater Environments",
+    "authors": "Hu Xu; Ju He; Changsong Pang; Yang Yu; Xudong Jiang",
+    "year": 2026,
+    "publication_date": "2026-01-01",
+    "publication_date_precision": "month",
+    "indexed_date": "2026-08-12",
+    "venue": "IEEE Transactions on Multimedia",
+    "venue_group": "IEEE",
+    "venue_type": "journal article",
+    "doi": "10.1109/TMM.2026.3673603",
+    "primary_url": "https://doi.org/10.1109/TMM.2026.3673603",
+    "source": "Manual-IEEE-camera-sonar-fusion-backfill",
+    "matched_query": "forward-looking sonar camera cross-modality feature fusion segmentation TMM 2026",
+    "score": 10,
+    "reasons": [
+      "manual-doi-seed",
+      "direct camera-sonar fusion and acoustic-imaging contribution",
+      "proposes FLSFusionNet with camera-sonar spatial transformation and adaptive cross-modal fusion for forward-looking sonar image segmentation",
+      "evaluated on a multimodal sonar-camera benchmark in complex underwater environments",
+      "IEEE TMM venue and DOI are independently corroborated by coauthor Xudong Jiang's NTU publication list and bibliographic indexing records",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "acoustic-optical imaging",
+      "forward-looking sonar",
+      "sonar image segmentation",
+      "cross-modal feature fusion",
+      "underwater perception",
+      "deep learning"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces FLSFusionNet for camera-sonar joint forward-looking-sonar segmentation. The framework uses separate sonar and camera backbones, a camera-sonar spatial transformer to bridge heterogeneous representations, adaptive cross-modal fusion for semantic consistency, and a fusion-based segmentation head, improving robustness in noisy and visually challenging underwater scenes.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Xudong Jiang's official NTU publication list; IEEE TMM DOI metadata corroborated by bibliographic indexing records",
+    "publication_note": "The accessible bibliographic record reports January 2026 and the official coauthor publication list confirms the IEEE Transactions on Multimedia venue and DOI. Because an authoritative IEEE day-level publication date was not exposed in the accessible sources, the date is stored at month precision. Newly surfaced as a repository-absent backfill during the 2026-08-12 sweep.",
+    "sources": [
+      "https://personal.ntu.edu.sg/exdjiang/Publication.htm",
+      "https://doi.org/10.1109/TMM.2026.3673603"
+    ],
+    "last_verified": "2026-08-12"
+  },
+  {
+    "id": "doi10-1016-j-neunet-2026-108975-aomnet-acoustic-optical-underwater-detection",
+    "title": "Acoustic-optical joint underwater object detection with multi-modality correlation features matching network",
+    "authors": "Meiyan Zhang; Yuxin Lin; Jifeng Zhu; Mai Wang; Wenyu Cai",
+    "year": 2026,
+    "publication_date": "2026-04-08",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-12",
+    "venue": "Neural Networks 201: 108975",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.neunet.2026.108975",
+    "primary_url": "https://doi.org/10.1016/j.neunet.2026.108975",
+    "source": "Manual-Elsevier-acoustic-optical-fusion-backfill",
+    "matched_query": "acoustic-optical underwater object detection sonar camera multimodality correlation feature matching 2026",
+    "score": 9,
+    "reasons": [
+      "manual-doi-seed",
+      "direct acoustic-optical / camera-sonar fusion contribution",
+      "proposes AOMNet for weakly aligned underwater sonar and camera observations with feature-level and decision-level multimodal matching",
+      "reports 81.3% mAP on a self-collected sonar-camera dataset",
+      "PubMed verifies title, complete author list, Neural Networks volume/article number, DOI, and 8 April 2026 electronic publication date",
+      "Elsevier ScienceDirect and DBLP independently corroborate the final journal record",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic-optical imaging",
+      "camera-sonar fusion",
+      "underwater object detection",
+      "multimodal detection",
+      "forward-looking sonar",
+      "cross-modal matching",
+      "deep learning"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Presents AOMNet for joint underwater object detection from weakly aligned sonar and optical-camera imagery. It combines a cross-feature and predicted-position middle-fusion module with decision-level registration and bounding-box refinement, explicitly addressing spatial, scale, and texture mismatch between acoustic and optical observations.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PubMed; Elsevier ScienceDirect; DBLP",
+    "publication_note": "PubMed lists electronic publication on 8 April 2026 and final assignment to Neural Networks volume 201 (September 2026), article 108975. Newly surfaced as a repository-absent backfill during the 2026-08-12 sweep rather than as a paper first published on the sweep date.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41990626/",
+      "https://www.sciencedirect.com/science/article/pii/S0893608026004363",
+      "https://dblp.org/rec/journals/nn/ZhangLZWC26",
+      "https://doi.org/10.1016/j.neunet.2026.108975"
+    ],
+    "last_verified": "2026-08-12"
+  }
+]
