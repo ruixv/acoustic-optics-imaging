@@ -1,13 +1,13 @@
 {
-  "last_run": "2026-08-12T07:53:56.450526+00:00",
+  "last_run": "2026-08-12T13:04:34.869765+00:00",
   "since_date": "2024-08-12",
-  "raw_candidates_seen": 1972,
-  "saved_candidates_total": 704,
+  "raw_candidates_seen": 1971,
+  "saved_candidates_total": 705,
   "citation_graph_seed_count": 50,
   "errors": [],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
-  "manual_doi_seed_last_run": "2026-08-12T07:53:56.547183+00:00",
-  "manual_doi_seed_file_count": 87,
+  "manual_doi_seed_last_run": "2026-08-12T13:04:34.988491+00:00",
+  "manual_doi_seed_file_count": 88,
   "manual_doi_seed_files": [
     "manual_doi_seeds.json",
     "manual_doi_seeds_2026-07-19.json",
@@ -95,11 +95,12 @@
     "manual_doi_seeds_2026-08-11_0653Z.json",
     "manual_doi_seeds_2026-08-11_1854Z.json",
     "manual_doi_seeds_2026-08-12_0053Z.json",
-    "manual_doi_seeds_2026-08-12_0654Z.json"
+    "manual_doi_seeds_2026-08-12_0654Z.json",
+    "manual_doi_seeds_2026-08-12_1253Z.json"
   ],
-  "manual_doi_seed_count": 208,
+  "manual_doi_seed_count": 209,
   "manual_doi_seed_added": 0,
-  "manual_doi_seed_updated": 195,
+  "manual_doi_seed_updated": 196,
   "mmwave_seed_queries": [
     "high resolution handheld millimeter wave imaging phase error estimation compensation",
     "A high-resolution handheld millimeter-wave imaging system with phase error estimation and compensation",
@@ -121,10 +122,10 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-08-12T07:55:14.839496+00:00",
-  "promoted_count": 0,
+  "agent_audit_last_run": "2026-08-12T13:09:59.245172+00:00",
+  "promoted_count": 1,
   "promoted_mmwave_count": 16,
-  "resolved_final_versions": 45,
+  "resolved_final_versions": 49,
   "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion, geometric acoustic rendering/path tracing, acoustic holography, and photoacoustic/acousto-optic imaging; hidden mmWave track covers radar imaging, handheld SAR/autofocus, FMCW/MIMO-SAR, 4D radar, through-occlusion reconstruction, surface normals, and radar scene understanding. Nature-family mapping includes Communications Engineering.",
   "mmwave_allowlist_final_groups": [
     "ACM TOG / SIGGRAPH",
