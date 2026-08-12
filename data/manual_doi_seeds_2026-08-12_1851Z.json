@@ -1,0 +1,98 @@
+[
+  {
+    "id": "doi10-1016-j-measurement-2026-121741-auv-active-perception-sonar-3d-reconstruction",
+    "title": "AUV active perception driven three-dimensional reconstruction for small underwater target with sonar images",
+    "authors": "Wenyu Cai; Wu Ouyang; Yupeng Pan; Meiyan Zhang",
+    "year": 2026,
+    "publication_date": "2026-06-30",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-12",
+    "venue": "Measurement 280, 121741",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.measurement.2026.121741",
+    "primary_url": "https://doi.org/10.1016/j.measurement.2026.121741",
+    "source": "Manual-Elsevier-imaging-sonar-backfill",
+    "matched_query": "forward-looking multibeam sonar active perception 3D reconstruction underwater target 2026",
+    "score": 8,
+    "reasons": [
+      "manual-doi-seed",
+      "direct computational acoustic-imaging / imaging-sonar 3D reconstruction contribution",
+      "uses multi-directional forward-looking multibeam-sonar images and active next-view trajectory feedback to recover small-target 3D geometry",
+      "integrates real-time reconstruction-quality evaluation with scanning-path optimization and incremental point-cloud fusion",
+      "validated in simulation and practical water-tank measurements",
+      "official ScienceDirect record verifies title, complete author list, DOI, volume, article number, issue date, and technical scope",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "imaging sonar",
+      "forward-looking sonar",
+      "3D reconstruction",
+      "active perception",
+      "underwater imaging",
+      "next-best-view"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Presents an active-perception framework for 3D reconstruction of small underwater targets from multi-directional forward-looking multibeam-sonar images. The method closes the loop between reconstruction quality and AUV scanning-path selection, triggers new views from sparse preliminary geometry, and incrementally fuses sonar-derived point clouds. Simulation and water-tank measurements validate improved reconstruction coverage and efficiency, making it directly relevant to computational acoustic imaging and sonar-based 3D reconstruction.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect / Measurement article record",
+    "publication_note": "ScienceDirect assigns the article to Measurement volume 280 dated 30 June 2026. Newly surfaced as a verified repository-absent backfill during the 2026-08-12 sweep rather than a paper first published on the sweep date.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0263224126014508",
+      "https://doi.org/10.1016/j.measurement.2026.121741"
+    ],
+    "last_verified": "2026-08-12"
+  },
+  {
+    "id": "doi10-1016-j-apor-2026-104959-high-resolution-underwater-mapping-imaging-sonar",
+    "title": "High-resolution underwater mapping in low-visibility and confined environments using imaging sonar",
+    "authors": "Xiaoteng Zhou; Yusheng Wang; Katsunori Mizuno; Kenichiro Tsutsumi; Hideki Sugimoto",
+    "year": 2026,
+    "publication_date": "2026-03",
+    "publication_date_precision": "month",
+    "indexed_date": "2026-08-12",
+    "venue": "Applied Ocean Research 168, 104959",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.apor.2026.104959",
+    "primary_url": "https://doi.org/10.1016/j.apor.2026.104959",
+    "source": "Manual-Elsevier-imaging-sonar-backfill",
+    "matched_query": "high-resolution underwater mapping imaging sonar low visibility confined environment 2026",
+    "score": 8,
+    "reasons": [
+      "manual-doi-seed",
+      "direct acoustic-imaging / imaging-sonar mapping contribution",
+      "uses acoustic mosaicking plus shadow geometry to recover a high-resolution 2.5D representation from a single imaging sonar",
+      "estimates target height from sonar-image geometric and shadow cues without requiring full 3D sonar elevation measurements",
+      "official ScienceDirect record verifies title, authors, DOI, volume, article number, March 2026 issue assignment, and technical scope",
+      "Crossref metadata surfaced through ORCID independently corroborates the bibliographic record",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "imaging sonar",
+      "underwater mapping",
+      "2.5D reconstruction",
+      "sonar mosaicking",
+      "shadow cues",
+      "low-visibility perception"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Develops a high-resolution 2.5D underwater mapping method using only a single imaging sonar. The approach forms an acoustic mosaic from 2D sonar imagery and exploits target-shadow geometry to estimate height, compensating for the missing elevation dimension without requiring a multi-sensor 3D sonar setup. The method targets low-visibility and spatially confined environments and is a direct match for computational acoustic imaging and sonar reconstruction.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect / Applied Ocean Research article record; Crossref metadata via ORCID",
+    "publication_note": "ScienceDirect assigns the article to the March 2026 issue of Applied Ocean Research; an authoritative exact day-level version-of-record date was not exposed in the accessible publisher metadata, so month precision is stored rather than guessing a day. Newly surfaced as a repository-absent backfill during the 2026-08-12 sweep.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0141118726000428",
+      "https://doi.org/10.1016/j.apor.2026.104959"
+    ],
+    "last_verified": "2026-08-12"
+  }
+]
