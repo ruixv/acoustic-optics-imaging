@@ -1,0 +1,102 @@
+[
+  {
+    "id": "doi10-48550-arxiv-2603-13585-sonar-mast3r-opti-acoustic-fusion",
+    "title": "Sonar-MASt3R: Real-Time Opti-Acoustic Fusion in Turbid, Unstructured Environments",
+    "authors": "Amy Phung; Richard Camilli",
+    "year": 2026,
+    "publication_date": "2026-06",
+    "publication_date_precision": "month",
+    "indexed_date": "2026-08-15",
+    "venue": "2026 IEEE International Conference on Robotics and Automation (ICRA)",
+    "venue_group": "IEEE",
+    "venue_type": "conference paper",
+    "doi": "10.48550/arXiv.2603.13585",
+    "primary_url": "https://doi.org/10.48550/arXiv.2603.13585",
+    "source": "Manual-ICRA-opti-acoustic-fusion-backfill",
+    "matched_query": "ICRA 2026 camera sonar opti-acoustic fusion underwater 3D reconstruction Sonar-MASt3R",
+    "score": 10,
+    "reasons": [
+      "manual-doi-seed",
+      "direct camera-sonar / opti-acoustic fusion contribution",
+      "real-time dense 3D reconstruction in turbid unstructured underwater environments",
+      "pairs MASt3R-derived dense optical correspondences with acoustic 3D geometry",
+      "validated with an opti-acoustic eye-in-hand setup across turbidity from below 0.5 to above 12 NTU",
+      "official ICRA 2026 program/awards page confirms conference paper and authorship; author publication page corroborates ICRA 2026 status",
+      "no final IEEE proceedings DOI was exposed in accessible authoritative records, so the stable arXiv DOI is retained rather than fabricating a final DOI",
+      "exact title was absent from repository code search"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "acoustic-optical imaging",
+      "opti-acoustic fusion",
+      "underwater imaging",
+      "3D reconstruction",
+      "imaging sonar",
+      "marine robotics"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Presents Sonar-MASt3R, a real-time opti-acoustic reconstruction method that combines dense optical correspondences from MASt3R with geometric information from acoustic 3D reconstruction. The method is designed for underwater intervention in highly turbid, unstructured scenes and is experimentally evaluated over a wide turbidity range.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official IEEE ICRA 2026 program/awards page; author publication page; arXiv/DBLP bibliographic record",
+    "publication_note": "Official ICRA 2026 materials confirm the paper was presented at ICRA in June 2026. An authoritative final IEEE proceedings DOI was not surfaced in accessible records during this sweep, so the arXiv DOI is retained as the stable identifier. Newly surfaced as a repository-absent backfill during the 2026-08-15 sweep.",
+    "sources": [
+      "https://2026.ieee-icra.org/awards/",
+      "https://amyphung.github.io/publications/",
+      "https://arxiv.org/abs/2603.13585",
+      "https://dblp.org/rec/journals/corr/abs-2603-13585"
+    ],
+    "last_verified": "2026-08-15"
+  },
+  {
+    "id": "doi10-1016-j-engappai-2025-113515-self-supervised-sonar-despeckling",
+    "title": "A dual branch fusion network for self-supervised sonar image despeckling",
+    "authors": "Yunhong Duan; Shubin Zhang; Yaoguang Wei; Dong An; Jincun Liu; Yan Meng",
+    "year": 2026,
+    "publication_date": "2026-02-01",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-15",
+    "venue": "Engineering Applications of Artificial Intelligence 165, Part B, 113515",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.engappai.2025.113515",
+    "primary_url": "https://doi.org/10.1016/j.engappai.2025.113515",
+    "source": "Manual-Elsevier-sonar-image-restoration-backfill",
+    "matched_query": "self-supervised sonar image despeckling side-scan forward-looking sonar dual branch fusion network 2026",
+    "score": 8,
+    "reasons": [
+      "manual-doi-seed",
+      "direct computational sonar image-restoration contribution",
+      "single-image self-supervised blind-spot learning avoids clean ground-truth requirements",
+      "dual branches separately model flat and textured regions and are fused with a spatially adaptive objective",
+      "evaluated on synthetic sonar data as well as real side-scan and forward-looking sonar imagery",
+      "official ScienceDirect record verifies final title, authors, DOI, volume/article number, issue date, and technical scope; DBLP independently corroborates the bibliographic record",
+      "exact DOI was absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "sonar imaging",
+      "sonar image restoration",
+      "despeckling",
+      "self-supervised learning",
+      "forward-looking sonar",
+      "side-scan sonar"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Develops a self-supervised dual-branch blind-spot network for sonar despeckling from single noisy images. Separate branches target smooth and texture-rich regions, with adaptive fusion and loss weighting intended to suppress speckle while preserving structural detail across synthetic, side-scan, and forward-looking sonar data.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect final article record; DBLP bibliographic record",
+    "publication_note": "ScienceDirect assigns the final article to Engineering Applications of Artificial Intelligence volume 165, Part B, dated 1 February 2026, article 113515. Newly surfaced as a repository-absent backfill during the 2026-08-15 sweep.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0952197625035468",
+      "https://doi.org/10.1016/j.engappai.2025.113515",
+      "https://dblp.org/rec/journals/eaai/DuanZWALM26"
+    ],
+    "last_verified": "2026-08-15"
+  }
+]
