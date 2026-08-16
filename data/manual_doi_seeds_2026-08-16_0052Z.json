@@ -1,0 +1,50 @@
+[
+  {
+    "id": "doi10-1007-978-3-032-06774-6-17-us-x-complete-3d-ultrasound-xray-shape-recovery",
+    "title": "US-X Complete: A Multi-modal Approach to Anatomical 3D Shape Recovery",
+    "authors": "Miruna-Alexandra Gafencu; Yordanka Velikova; Nassir Navab; Mohammad Farid Azampour",
+    "year": 2026,
+    "publication_date": "2025-10-05",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-16",
+    "venue": "Shape in Medical Imaging (ShapeMI 2025), Lecture Notes in Computer Science 16171, 218-231",
+    "venue_group": "MICCAI workshop / Springer LNCS",
+    "venue_type": "conference paper",
+    "doi": "10.1007/978-3-032-06774-6_17",
+    "primary_url": "https://doi.org/10.1007/978-3-032-06774-6_17",
+    "source": "Manual-Springer-DOI-seed",
+    "matched_query": "multimodal ultrasound 3D reconstruction acoustic imaging X-ray shape completion spine",
+    "score": 9,
+    "reasons": [
+      "manual-doi-seed",
+      "direct 3D ultrasound reconstruction and multimodal imaging contribution",
+      "completes anatomy occluded by acoustic shadowing using complementary information from a single X-ray projection",
+      "phantom validation demonstrates more complete volumetric lumbar-spine visualization overlaid on ultrasound",
+      "official Springer Nature record verifies title, authors, DOI, LNCS volume, pages, first-online date, and technical scope",
+      "exact DOI/title were absent from repository code search before this update"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "ultrasound imaging",
+      "3D reconstruction",
+      "multimodal imaging",
+      "shape completion",
+      "X-ray ultrasound fusion",
+      "spine imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "US-X Complete uses a single X-ray projection to provide complementary morphology for completing vertebral structures that are hidden by acoustic shadowing in 3D ultrasound. The multimodal deep model improves vertebral reconstruction over prior ultrasound-only completion methods and is validated on lumbar-spine phantoms, producing a more complete volumetric anatomy while keeping ultrasound as the primary imaging modality.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official Springer Nature Link conference-paper record; TUM publication record",
+    "publication_note": "Springer Nature lists First Online as 5 October 2025 and cites the proceedings chapter as 2026 in LNCS volume 16171. Newly surfaced by the repository final-version resolver during the 2026-08-16 monitoring sweep.",
+    "sources": [
+      "https://link.springer.com/chapter/10.1007/978-3-032-06774-6_17",
+      "https://doi.org/10.1007/978-3-032-06774-6_17",
+      "https://portal.fis.tum.de/en/publications/us-x-complete-a-multi-modal-approach-toanatomical-3d-shape-recove/"
+    ],
+    "last_verified": "2026-08-16"
+  }
+]
