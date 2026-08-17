@@ -86,6 +86,50 @@
     }
   },
   {
+    "id": "grohl2026-openqpaidata-quantitative-photoacoustic-imaging",
+    "title": "OpenQPAIData: Measurements of test objects with reference labels for quantitative photoacoustic imaging research",
+    "authors": "Janek Gröhl; Sandeep Kumar Kalva; Berkan Lafci; Francesca Di Cecio; Ran Tao; Thomas R. Else; Lorna Wright; Daniel Razansky; Sarah E. Bohndiek",
+    "year": 2026,
+    "publication_date": "2026-08-04",
+    "venue": "Scientific Data",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "conference",
+    "doi": "10.1038/s41597-026-08004-6",
+    "primary_url": "https://doi.org/10.1038/s41597-026-08004-6",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic imaging",
+      "quantitative photoacoustic imaging",
+      "optoacoustic imaging",
+      "inverse problems",
+      "image reconstruction",
+      "benchmark dataset",
+      "image quality assessment"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on photoacoustic imaging, quantitative photoacoustic imaging, optoacoustic imaging, inverse problems, image reconstruction, benchmark dataset, image quality assessment.",
+    "summary_cn": "自动审核收录的论文，主题包括 photoacoustic imaging、quantitative photoacoustic imaging、optoacoustic imaging、inverse problems、image reconstruction、benchmark dataset、image quality assessment。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1038/s41597-026-08004-6",
+      "https://www.nature.com/articles/s41597-026-08004-6",
+      "https://doi.org/10.5281/zenodo.14044853"
+    ],
+    "last_verified": "2026-08-17",
+    "curation_origin": "Manual-Nature-DOI-seed",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "Manual-Nature-DOI-seed",
+      "final_version_status": "manual-doi-metadata-pending",
+      "track": "main"
+    }
+  },
+  {
     "id": "2026-compressive-synthetic-aperture-sonar-imaging-with-dct-based-magnitude-spars-f35c2ce50e95",
     "title": "Compressive synthetic aperture sonar imaging with DCT-based magnitude sparse representation",
     "authors": "Haesang Yang; Hamin Choi; Woojae Seong; Keecheol Shin; Jaejun Lee",
