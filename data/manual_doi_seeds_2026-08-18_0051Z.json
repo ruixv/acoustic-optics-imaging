@@ -1,0 +1,50 @@
+[
+  {
+    "id": "doi10-1016-j-jsv-2026-119776-near-field-beamforming-resolution",
+    "title": "An analytical model for spatial resolution estimation of near-field beamforming",
+    "authors": "Xin Liu; Xiaodong Jing",
+    "year": 2026,
+    "publication_date": "2026-08-18",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-18",
+    "venue": "Journal of Sound and Vibration 636, 119776",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "volume": "636",
+    "article_number": "119776",
+    "doi": "10.1016/j.jsv.2026.119776",
+    "primary_url": "https://doi.org/10.1016/j.jsv.2026.119776",
+    "source": "Manual-acoustic-imaging-current-issue-indexing",
+    "matched_query": "18 August 2026 near-field acoustic beamforming spatial resolution imaging",
+    "score": 9,
+    "reasons": [
+      "manual-doi-seed",
+      "direct acoustic imaging theory contribution for near-field beamforming",
+      "derives a spherical-wave wavenumber-domain resolution formula that explicitly models wavefront curvature",
+      "validated with numerical simulations and single-/dual-source microphone-array experiments",
+      "official ScienceDirect / Journal of Sound and Vibration record verifies title, authors, DOI, volume, article number, issue date, and technical scope",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "near-field beamforming",
+      "acoustic source imaging",
+      "spatial resolution",
+      "wavenumber-domain analysis",
+      "microphone array imaging",
+      "spherical-wave imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Develops an analytical wavenumber-domain framework for predicting spatial resolution in near-field acoustic beamforming, where spherical-wave curvature invalidates conventional far-field Rayleigh estimates. The derived formula explicitly relates resolution to range, frequency, aperture, steering-vector choice, and array geometry, and is validated by simulations and anechoic-chamber source-imaging experiments.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official ScienceDirect / Journal of Sound and Vibration article record",
+    "publication_note": "ScienceDirect assigns the paper to Journal of Sound and Vibration volume 636 with date 18 August 2026 and article number 119776. A separate authoritative online-first date was not exposed in the accessible publisher record, so the final issue/date is stored as the publication date. Newly surfaced as a repository-absent current-issue indexing during the 2026-08-18 sweep.",
+    "sources": [
+      "https://doi.org/10.1016/j.jsv.2026.119776"
+    ],
+    "last_verified": "2026-08-18"
+  }
+]
