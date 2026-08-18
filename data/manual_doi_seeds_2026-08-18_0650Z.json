@@ -1,0 +1,143 @@
+[
+  {
+    "id": "doi10-1109-tci-2026-3687027-learned-iterative-qpat",
+    "title": "Toward Robust Quantitative Photoacoustic Tomography via Learned Iterative Methods",
+    "authors": "Anssi Manninen; Janek Gröhl; Felix Lucka; Andreas Hauptmann",
+    "year": 2026,
+    "publication_date": "2026-04-23",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-18",
+    "venue": "IEEE Transactions on Computational Imaging 12, 863-876",
+    "venue_group": "IEEE",
+    "venue_type": "journal article",
+    "volume": "12",
+    "pages": "863-876",
+    "doi": "10.1109/TCI.2026.3687027",
+    "primary_url": "https://doi.org/10.1109/TCI.2026.3687027",
+    "source": "Manual-IEEE-TCI-photoacoustic-backfill",
+    "matched_query": "IEEE Transactions on Computational Imaging 2026 photoacoustic tomography",
+    "score": 10,
+    "reasons": [
+      "manual-doi-seed",
+      "direct quantitative photoacoustic inverse-reconstruction contribution",
+      "learned iterative reconstruction injects forward-model information at every iteration and compares gradient, Gauss-Newton, and quasi-Newton updates",
+      "evaluated under scarce training data and model mismatch including a digital-twin setting",
+      "OuluREPO/OuluCRIS and DBLP verify final IEEE TCI volume, pages, DOI, authors, and publication timing",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "photoacoustic tomography",
+      "quantitative photoacoustic imaging",
+      "inverse problems",
+      "learned iterative reconstruction",
+      "model-based deep learning",
+      "digital twin"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Develops model-based learned iterative reconstruction for quantitative photoacoustic tomography, using physics-derived updates based on gradient descent, Gauss-Newton, and quasi-Newton schemes. The approach is designed to improve robustness when training data are limited and the reconstruction model is mismatched to the measurements.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "OuluREPO/OuluCRIS institutional records and DBLP final-volume record",
+    "publication_note": "OuluCRIS records e-publication on 23 April 2026; the final IEEE Transactions on Computational Imaging citation is volume 12, pages 863-876. Newly surfaced as a repository-absent final-volume backfill during the 2026-08-18 sweep.",
+    "sources": [
+      "https://doi.org/10.1109/TCI.2026.3687027"
+    ],
+    "last_verified": "2026-08-18"
+  },
+  {
+    "id": "doi10-1109-tci-2025-3643726-temporal-lateral-pam",
+    "title": "High Temporal-Lateral Resolution Photoacoustic Microscopy Imaging With Dual Branch Graph Induced Fusion Network",
+    "authors": "Zhengyuan Zhang; Xiangjun Yin; Zhuoyi Lin; Wenwen Zhang; Ze Feng; Arunima Sharma; Manojit Pramanik; Chia-Wen Lin; Yuanjin Zheng",
+    "year": 2026,
+    "publication_date": "2025-12-12",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-18",
+    "venue": "IEEE Transactions on Computational Imaging 12, 73-85",
+    "venue_group": "IEEE",
+    "venue_type": "journal article",
+    "volume": "12",
+    "pages": "73-85",
+    "doi": "10.1109/TCI.2025.3643726",
+    "primary_url": "https://doi.org/10.1109/TCI.2025.3643726",
+    "source": "Manual-IEEE-TCI-photoacoustic-backfill",
+    "matched_query": "IEEE Transactions on Computational Imaging photoacoustic microscopy 2026",
+    "score": 9,
+    "reasons": [
+      "manual-doi-seed",
+      "direct computational photoacoustic microscopy enhancement",
+      "dual-branch graph-induced fusion jointly targets temporal throughput and lateral resolution while retaining deep acoustic-resolution PAM penetration",
+      "reported 16x imaging-speed and 5x lateral-resolution improvements over the low-sampling-rate AR-PAM input configuration",
+      "DBLP verifies the final IEEE TCI volume, pages, DOI, authors, and formal 2026 citation",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "photoacoustic microscopy",
+      "acoustic-resolution photoacoustic microscopy",
+      "computational imaging",
+      "super-resolution",
+      "graph fusion",
+      "deep learning"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces a dual-branch graph-induced fusion network that computationally upgrades low-sampling-rate acoustic-resolution photoacoustic microscopy toward both higher temporal throughput and higher lateral resolution, while retaining the penetration advantage of AR-PAM.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "DBLP final-volume record and coauthor/institutional publication metadata",
+    "publication_note": "The coauthor/institutional publication listing gives 12 December 2025 as the online publication date, while the formal IEEE Transactions on Computational Imaging citation is volume 12, pages 73-85 (2026). Newly surfaced as a repository-absent final-volume backfill.",
+    "sources": [
+      "https://doi.org/10.1109/TCI.2025.3643726"
+    ],
+    "last_verified": "2026-08-18"
+  },
+  {
+    "id": "doi10-1109-tci-2025-3646325-dual-probe-sos-imaging",
+    "title": "Dual-Probe Pulse-Echo Speed-of-Sound Imaging",
+    "authors": "Michael Jaeger; Vera H. J. van Hal; Richard G. P. Lopata; Hans-Martin Schwab",
+    "year": 2026,
+    "publication_date": "2025-12-19",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-18",
+    "venue": "IEEE Transactions on Computational Imaging 12, 230-241",
+    "venue_group": "IEEE",
+    "venue_type": "journal article",
+    "volume": "12",
+    "pages": "230-241",
+    "doi": "10.1109/TCI.2025.3646325",
+    "primary_url": "https://doi.org/10.1109/TCI.2025.3646325",
+    "source": "Manual-IEEE-TCI-ultrasound-backfill",
+    "matched_query": "IEEE Transactions on Computational Imaging ultrasound speed of sound imaging 2026",
+    "score": 9,
+    "reasons": [
+      "manual-doi-seed",
+      "direct pulse-echo computational ultrasound imaging contribution",
+      "combines dual-probe apertures for speed-of-sound reconstruction and analyzes monostatic versus bistatic acquisition",
+      "reported substantial axial-resolution gains and improved map uniformity/contrast in simulation and experiment",
+      "Eindhoven University of Technology and DBLP verify final IEEE TCI metadata and publication dates",
+      "exact title was absent from repository code search"
+    ],
+    "topics": [
+      "ultrasound imaging",
+      "speed-of-sound imaging",
+      "pulse-echo imaging",
+      "dual-probe imaging",
+      "multi-aperture imaging",
+      "computational reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Develops dual-probe pulse-echo speed-of-sound imaging and compares single-probe, dual-probe monostatic, and dual-probe bistatic configurations. The enlarged and complementary apertures improve axial resolution and map quality for ultrasound speed-of-sound reconstruction.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Eindhoven University of Technology research portal and DBLP final-volume record",
+    "publication_note": "The Eindhoven research portal records acceptance on 5 December 2025, publication on 19 December 2025, and a current-version date of 9 January 2026; the formal IEEE Transactions on Computational Imaging citation is volume 12, pages 230-241 (2026). Newly surfaced as a repository-absent final-volume backfill.",
+    "sources": [
+      "https://doi.org/10.1109/TCI.2025.3646325"
+    ],
+    "last_verified": "2026-08-18"
+  }
+]
