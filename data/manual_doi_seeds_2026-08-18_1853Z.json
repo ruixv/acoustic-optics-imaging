@@ -1,0 +1,139 @@
+[
+  {
+    "id": "doi10-1109-tip-2026-3714831-ultrafast-ultrasound-pinn",
+    "title": "An Accelerated Training Framework for Physics-Informed Neural Networks: Applications in Ultrafast Ultrasound Blood Flow Imaging",
+    "authors": "Haotian Guan; Jinping Dong; Bernice Lai-Yee Cheuk; Stephen Wing-Keung Cheng; Wei-Ning Lee",
+    "year": 2026,
+    "publication_date": "2026-07-24",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-18",
+    "venue": "IEEE Transactions on Image Processing, early access",
+    "venue_group": "IEEE",
+    "venue_type": "journal article",
+    "doi": "10.1109/TIP.2026.3714831",
+    "primary_url": "https://doi.org/10.1109/TIP.2026.3714831",
+    "source": "Manual-IEEE-TIP-ultrasound-backfill",
+    "matched_query": "2026 IEEE TIP ultrafast ultrasound blood flow imaging physics-informed neural network",
+    "score": 12,
+    "reasons": [
+      "manual-doi-seed",
+      "priority venue: IEEE Transactions on Image Processing",
+      "direct computational ultrasound and ultrafast blood-flow imaging contribution",
+      "physics-informed inverse flow estimation constrained by Navier-Stokes dynamics",
+      "PubMed verifies final IEEE TIP metadata, DOI, authors, and online publication date",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "ultrafast ultrasound imaging",
+      "blood flow imaging",
+      "Doppler ultrasound",
+      "physics-informed neural networks",
+      "Navier-Stokes",
+      "computational imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces an accelerated physics-informed neural-network framework for ultrafast ultrasound blood-flow imaging. SeqPINN discretizes time in the Navier-Stokes formulation and solves sequentially with test-time adaptation, while SP-PINN supports parallel training and uncertainty-aware inference. Finite-element and vessel-phantom experiments report blood-flow RMSEs of 0.63/0.81 cm/s in a straight vessel and 1.07/1.41 cm/s in a trifurcate vessel for SeqPINN/SP-PINN, respectively, while substantially accelerating training over vanilla PINNs.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PubMed final IEEE Transactions on Image Processing record; DOI metadata",
+    "publication_note": "PubMed records online publication on 24 July 2026 in IEEE Transactions on Image Processing with DOI 10.1109/TIP.2026.3714831; final volume, issue, and page assignment were not yet exposed. Newly surfaced as a repository-absent final-journal backfill during the 2026-08-18 sweep.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42459690/",
+      "https://doi.org/10.1109/TIP.2026.3714831"
+    ],
+    "last_verified": "2026-08-18"
+  },
+  {
+    "id": "doi10-1016-j-ultras-2026-108044-deep-usct-ndt",
+    "title": "Deep learning ultrasonic computed tomography for non-destructive testing of workpieces",
+    "authors": "Chuanjiang Hu; Jianhong Yang; Shiyuan He; Xuejin Zhou; Huaiying Fang",
+    "year": 2026,
+    "publication_date": "2026-03-04",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-18",
+    "venue": "Ultrasonics 164, 108044",
+    "venue_group": "Other peer-reviewed",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ultras.2026.108044",
+    "primary_url": "https://doi.org/10.1016/j.ultras.2026.108044",
+    "source": "Manual-Ultrasonics-USCT-backfill",
+    "matched_query": "2026 ultrasonic computed tomography deep learning inverse reconstruction nondestructive testing",
+    "score": 10,
+    "reasons": [
+      "manual-doi-seed",
+      "direct ultrasonic computed-tomography image reconstruction contribution",
+      "deep inverse reconstruction from measured ultrasound wavefield data",
+      "ScienceDirect and PubMed verify final metadata and electronic publication date",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "ultrasonic computed tomography",
+      "acoustic imaging",
+      "inverse reconstruction",
+      "deep learning",
+      "nondestructive testing",
+      "sound-speed imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Develops a deep-learning ultrasonic computed-tomography pipeline for nondestructive testing of workpieces. A linear-array USCT platform supplies cross-sectional ultrasonic measurements, and an attention-enhanced HAU2Net with a hybrid-scale loss learns fast sound-speed/image inversion from 9,985 simulated and 405 real sound-speed/wavefield pairs. The reported reconstruction runs at near-real-time speed and is evaluated against K-Wave and several neural reconstruction baselines under simulated, noisy, and real measurements.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "ScienceDirect version-of-record; PubMed",
+    "publication_note": "PubMed records electronic publication on 4 March 2026; the final issue is Ultrasonics 164 (August 2026), article 108044. Newly surfaced as a repository-absent backfill during the 2026-08-18 sweep.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41780990/",
+      "https://doi.org/10.1016/j.ultras.2026.108044"
+    ],
+    "last_verified": "2026-08-18"
+  },
+  {
+    "id": "doi10-1016-j-ultras-2025-107932-proximal-doppler-flow",
+    "title": "A proximal algorithm for joint blood flow computation and tissue motion compensation in Doppler ultrafast ultrasound imaging",
+    "authors": "Nora Ouzir; Vassili Pustovalov; Duong Hung Pham; Denis Kouamé; Jean-Christophe Pesquet",
+    "year": 2026,
+    "publication_date": "2026-02-20",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-18",
+    "venue": "Ultrasonics 164, 107932",
+    "venue_group": "Other peer-reviewed",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ultras.2025.107932",
+    "primary_url": "https://doi.org/10.1016/j.ultras.2025.107932",
+    "source": "Manual-Ultrasonics-Doppler-backfill",
+    "matched_query": "ultrafast Doppler ultrasound joint blood flow tissue motion compensation proximal inverse imaging",
+    "score": 10,
+    "reasons": [
+      "manual-doi-seed",
+      "direct ultrafast Doppler ultrasound inverse-imaging contribution",
+      "joint estimation of blood flow, tissue signal, and tissue motion",
+      "proximal forward-backward solver with convergence guarantees and multiresolution motion handling",
+      "ScienceDirect and PubMed verify final metadata and electronic publication date",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "ultrafast ultrasound imaging",
+      "Doppler ultrasound",
+      "blood flow imaging",
+      "motion compensation",
+      "inverse problems",
+      "proximal algorithms"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Formulates ultrafast Doppler ultrasound blood-flow estimation and tissue-motion compensation as a joint convex inverse problem. Blood-flow, tissue, and motion components are estimated together with component-specific regularization using an alternating proximal forward-backward algorithm; a multiresolution strategy handles larger tissue motions. Synthetic and in-vivo experiments show cleaner flow estimation in the presence of moving tissue than separate or uncompensated processing.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "ScienceDirect version-of-record; PubMed",
+    "publication_note": "PubMed records electronic publication on 20 February 2026; the final issue is Ultrasonics 164 (August 2026), article 107932. Newly surfaced as a repository-absent backfill during the 2026-08-18 sweep.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/41737442/",
+      "https://doi.org/10.1016/j.ultras.2025.107932"
+    ],
+    "last_verified": "2026-08-18"
+  }
+]
