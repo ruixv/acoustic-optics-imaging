@@ -1,0 +1,49 @@
+[
+  {
+    "id": "doi10-1109-tmi-2026-3717230-sir-compensation-3d-pact",
+    "title": "A Learning-based Framework for Spatial Impulse Response Compensation in 3D Photoacoustic Computed Tomography",
+    "authors": "Kaiyi Yang; Seonyeong Park; Gangwon Jeong; Hsuan-Kai Huang; Alexander A. Oraevsky; Umberto Villa; Mark A. Anastasio",
+    "year": 2026,
+    "publication_date": "2026-07-27",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-18",
+    "venue": "IEEE Transactions on Medical Imaging, early access",
+    "venue_group": "IEEE",
+    "venue_type": "journal article",
+    "doi": "10.1109/TMI.2026.3717230",
+    "primary_url": "https://doi.org/10.1109/TMI.2026.3717230",
+    "source": "Manual-IEEE-TMI-photoacoustic-backfill",
+    "matched_query": "2026 IEEE Transactions on Medical Imaging photoacoustic computed tomography reconstruction spatial impulse response",
+    "score": 10,
+    "reasons": [
+      "manual-doi-seed",
+      "direct 3D photoacoustic computed tomography reconstruction contribution",
+      "learned data-domain compensation explicitly targets transducer spatial impulse response before fast analytic reconstruction",
+      "physics-inspired Deconv-Net variant is validated for noise, object complexity, sound-speed heterogeneity, and in-vivo breast imaging",
+      "PubMed verifies final IEEE TMI acceptance metadata, DOI, authors, and online publication date",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "photoacoustic computed tomography",
+      "3D photoacoustic imaging",
+      "image reconstruction",
+      "spatial impulse response compensation",
+      "physics-inspired deep learning",
+      "deconvolution",
+      "in-vivo breast imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces learned data-domain compensation for transducer spatial impulse response in 3D photoacoustic computed tomography. A purely data-driven model and a physics-inspired Deconv-Net map SIR-corrupted measurements to point-detector-equivalent data, enabling subsequent fast reconstruction while recovering structures blurred by finite-aperture transducers. Virtual studies and in-vivo breast data show improved resolution and robustness, with at least 30% lower relative squared error than the reported baseline.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PubMed final IEEE Transactions on Medical Imaging record; arXiv used only to corroborate technical scope",
+    "publication_note": "PubMed records online publication on 27 July 2026 in IEEE Transactions on Medical Imaging with DOI 10.1109/TMI.2026.3717230; final volume, issue, and page assignment were not yet exposed, so those fields are intentionally omitted. Newly surfaced as a repository-absent final-journal backfill during the 2026-08-18 sweep.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42507569/",
+      "https://doi.org/10.1109/TMI.2026.3717230"
+    ],
+    "last_verified": "2026-08-18"
+  }
+]
