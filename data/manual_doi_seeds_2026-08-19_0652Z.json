@@ -1,0 +1,89 @@
+[
+  {
+    "id": "npj-acoustics-2026-gigapixel-acoustic-super-resolution",
+    "title": "Accelerating ML-based super-resolution for gigapixel-scale acoustic imaging",
+    "authors": "Raphael Wilhelmer; Tatjana Djuric-Rissner; Peter Czurratis; Roland Brunner",
+    "year": 2026,
+    "publication_date": "2026-08-05",
+    "venue": "npj Acoustics",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "doi": "10.1038/s44384-026-00069-2",
+    "primary_url": "https://www.nature.com/articles/s44384-026-00069-2",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "scanning acoustic microscopy super-resolution gigapixel acoustic imaging machine learning",
+    "score": 10,
+    "reasons": [
+      "direct computational acoustic imaging contribution in a prioritized Nature Portfolio journal",
+      "develops and evaluates efficient machine-learning super-resolution for scanning acoustic microscopy C-scan images",
+      "reports approximately order-of-magnitude reductions in runtime and memory footprint while maintaining reconstruction quality",
+      "version-of-record metadata verified from Nature Portfolio",
+      "exact title and DOI were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "scanning acoustic microscopy",
+      "super-resolution",
+      "gigapixel imaging",
+      "deep learning",
+      "computational imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Develops an optimized machine-learning super-resolution pipeline for gigapixel-scale scanning acoustic microscopy C-scan images, substantially reducing runtime and memory demands while preserving reconstruction quality.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Nature Portfolio version-of-record page",
+    "publication_note": "Published/version of record 2026-08-05 in npj Acoustics 2, article 30. Newly surfaced repository backfill.",
+    "sources": [
+      "https://www.nature.com/articles/s44384-026-00069-2",
+      "https://doi.org/10.1038/s44384-026-00069-2"
+    ],
+    "last_verified": "2026-08-19"
+  },
+  {
+    "id": "photoacoustics-2026-3d-paulm-ultrasound-localization-priors",
+    "title": "Three-dimensional photoacoustic tomography with ultrasound localization priors",
+    "authors": "Haoming Huo; Yirui Xu; Rui Yao; Matt Lowerison; Pengfei Song; Junjie Yao",
+    "year": 2026,
+    "publication_date": "2026-10",
+    "venue": "Photoacoustics",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.pacs.2026.100861",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S2213597926000674",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "photoacoustic tomography ultrasound localization microscopy ULM spatial prior model-based reconstruction",
+    "score": 10,
+    "reasons": [
+      "direct 3D photoacoustic image reconstruction contribution",
+      "integrates sub-diffraction ultrasound-localization-microscopy vascular priors into a model-based PACT inverse problem",
+      "validated with simulation, phantoms, and in vivo mouse-brain imaging",
+      "final journal DOI, volume, article number and technical scope verified from ScienceDirect; authors corroborated by preprint and institutional records",
+      "exact title and DOI were absent from repository code search"
+    ],
+    "topics": [
+      "photoacoustic tomography",
+      "ultrasound localization microscopy",
+      "multimodal imaging",
+      "model-based reconstruction",
+      "super-resolution vascular imaging",
+      "functional imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces 3D-PAULM^prior, a ULM-guided model-based PACT reconstruction framework using weighted regional Laplacian regularization to inject sub-diffraction vascular priors, improving vascular delineation, limited-view robustness and spatial confinement of oxygen-saturation maps.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "ScienceDirect final journal record; SSRN and Duke records for author corroboration",
+    "publication_note": "Final journal record assigned to Photoacoustics volume 51 (October 2026), article 100861. Accessible publisher metadata does not expose a trustworthy exact online-publication day; the preprint was public by May 2026. Newly surfaced final-version repository backfill.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S2213597926000674",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6803657",
+      "https://doi.org/10.1016/j.pacs.2026.100861"
+    ],
+    "last_verified": "2026-08-19"
+  }
+]
