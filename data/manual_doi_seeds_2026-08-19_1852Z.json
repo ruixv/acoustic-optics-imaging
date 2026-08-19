@@ -1,0 +1,45 @@
+[
+  {
+    "id": "mssp-2026-acoustic-velocity-constrained-esm-imaging",
+    "title": "An acoustic velocity-constrained equivalent source method for acoustic imaging with the acoustic vector sensor array",
+    "authors": "Xuheng Wang; Yahui Song; Qiuhong Liu; Dongxu Zhao; Yuqi Xiao; Jie Zhou",
+    "year": 2026,
+    "publication_date": "2026-08-15",
+    "venue": "Mechanical Systems and Signal Processing",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ymssp.2026.114746",
+    "primary_url": "https://doi.org/10.1016/j.ymssp.2026.114746",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "acoustic imaging acoustic vector sensor equivalent source near-field acoustic holography pressure velocity inverse reconstruction",
+    "score": 8,
+    "reasons": [
+      "direct acoustic source imaging and near-field acoustic holography contribution",
+      "fuses scalar acoustic pressure with three-dimensional acoustic velocity through explicit Dirichlet/Neumann physical constraints in the equivalent-source inverse problem",
+      "numerical and anechoic-chamber experiments report improved localization and reconstruction robustness under small source spacing, larger array distance, and background noise compared with pressure-only or velocity-only ESM baselines",
+      "final volume, article number, DOI, authors and issue date verified from the Elsevier/ScienceDirect version-of-record record",
+      "exact title and DOI were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "near-field acoustic holography",
+      "equivalent source method",
+      "acoustic vector sensors",
+      "sound source localization",
+      "inverse acoustics"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces an acoustic-velocity-constrained equivalent source method that jointly uses pressure and 3D particle-velocity measurements from vector sensor arrays, enforcing coupled Dirichlet and Neumann physics to stabilize inverse source reconstruction and improve near-field acoustic imaging resolution and robustness.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Elsevier / ScienceDirect",
+    "publication_note": "Final issue assignment is Mechanical Systems and Signal Processing volume 258, article 114746, dated 2026-08-15. The accessible publisher record does not expose a reliable first-online day, so this seed uses the verified issue date and should be treated as a newly surfaced/indexed backfill rather than a claim of first publication on that day.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0888327026009039",
+      "https://doi.org/10.1016/j.ymssp.2026.114746"
+    ],
+    "last_verified": "2026-08-20"
+  }
+]
