@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ultrasonics-2026-bone-biomarkers-photoacoustic-correlation-spectra",
+    "title": "Label-Free rapid bone biomarkers assessment via physics-guided machine learning-assisted photoacoustic correlation spectra analysis",
+    "authors": "Ting Feng; Jiayi Liu; Dongqing Cheng; Wanting Li; Dean Ta",
+    "year": 2026,
+    "publication_date": "2026-02-13",
+    "venue": "Ultrasonics",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ultras.2026.108002",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S0041624X26000545",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "photoacoustic spectroscopy physics-guided machine learning quantitative bone biomarkers",
+    "score": 9,
+    "reasons": [
+      "direct quantitative photoacoustic imaging and spectroscopy contribution",
+      "integrates photoacoustic correlation spectra with physics-guided machine learning to decouple overlapping bone chemical signatures",
+      "final August 2026 Ultrasonics issue metadata verified from ScienceDirect and PubMed",
+      "exact title and DOI were absent from repository code search"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "photoacoustic spectroscopy",
+      "quantitative photoacoustics",
+      "physics-guided machine learning",
+      "bone biomarkers",
+      "spectral unmixing"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Develops a quantitative bone-composition analysis method that combines photoacoustic correlation spectra with physics-guided machine learning to decouple overlapping optical absorption signatures, with numerical and experimental validation on bone models.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "ScienceDirect and PubMed",
+    "publication_note": "E-published 2026-02-13; assigned to Ultrasonics volume 164 (August 2026), article 108002. Newly surfaced repository backfill.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0041624X26000545",
+      "https://pubmed.ncbi.nlm.nih.gov/41719686/",
+      "https://doi.org/10.1016/j.ultras.2026.108002"
+    ],
+    "last_verified": "2026-08-19"
+  },
+  {
+    "id": "ultrasoundmedbio-2026-freehand-carotid-3d-reconstruction",
+    "title": "3D Freehand Ultrasound Reconstruction of the Carotid Artery",
+    "authors": "Yimeng Dou; Maxwell J. Kiernan; Zhiwei Zhang; Carol Mitchell; Amber Possell; Matthew Lee; Tomy Varghese",
+    "year": 2026,
+    "publication_date": "2026-05-05",
+    "venue": "Ultrasound in Medicine & Biology",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ultrasmedbio.2026.03.005",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S0301562926000980",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "3D freehand ultrasound reconstruction sensorless carotid physics-inspired learning",
+    "score": 9,
+    "reasons": [
+      "direct 3D ultrasound image reconstruction contribution",
+      "uses a physics-inspired two-stream pose-estimation framework that incorporates speckle decorrelation and spatial image cues",
+      "validated on freehand carotid B-mode acquisitions from human volunteers",
+      "final volume issue metadata verified from ScienceDirect, the journal site, and PubMed",
+      "exact title and DOI were absent from repository code search"
+    ],
+    "topics": [
+      "3D ultrasound imaging",
+      "freehand ultrasound reconstruction",
+      "sensorless tracking",
+      "speckle decorrelation",
+      "physics-inspired learning",
+      "carotid imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces PLPPI, a sensorless physics-inspired learning framework that aligns freehand transverse B-mode ultrasound sequences into 3D carotid volumes by combining speckle-decorrelation cues with spatial image features. Human-volunteer experiments show lower reconstruction drift than tested deep-learning baselines.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "ScienceDirect, Ultrasound in Medicine & Biology journal site, and PubMed",
+    "publication_note": "ScienceDirect and PubMed record online publication on 2026-05-05, while the journal history page records 2026-05-04; final citation is Ultrasound in Medicine & Biology 52(8), 1775-1781 (August 2026). Newly surfaced repository backfill.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0301562926000980",
+      "https://www.umbjournal.org/article/S0301-5629(26)00098-0/fulltext",
+      "https://pubmed.ncbi.nlm.nih.gov/42086379/",
+      "https://doi.org/10.1016/j.ultrasmedbio.2026.03.005"
+    ],
+    "last_verified": "2026-08-19"
+  }
+]
