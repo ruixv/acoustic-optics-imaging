@@ -189,7 +189,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": "Science family",
     "topics": [
       "photoacoustic imaging"
@@ -724,7 +724,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-10",
     "last_seen": "2026-08-19",
-    "times_seen": 186,
+    "times_seen": 189,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -833,7 +833,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": "Science family",
     "topics": [
       "photoacoustic imaging"
@@ -885,7 +885,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": "Science family",
     "topics": [
       "photoacoustic imaging"
@@ -1305,7 +1305,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -1727,7 +1727,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -1832,7 +1832,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -4229,7 +4229,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -4282,7 +4282,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -6099,7 +6099,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": "Science family",
     "topics": [
       "photoacoustic imaging"
@@ -6410,7 +6410,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-19",
-    "times_seen": 76,
+    "times_seen": 77,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -6462,7 +6462,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-19",
-    "times_seen": 101,
+    "times_seen": 102,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -6811,7 +6811,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-07-16",
     "last_seen": "2026-08-19",
-    "times_seen": 241,
+    "times_seen": 242,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -7273,7 +7273,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -7444,7 +7444,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 588,
+    "times_seen": 590,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -7858,6 +7858,58 @@
     "track": "main"
   },
   {
+    "id": "2026-research-on-millimeter-wave-synthetic-aperture-radiometric-imaging-for-sea-0b708434c07a",
+    "title": "Research on Millimeter-Wave Synthetic Aperture Radiometric Imaging for Sea Surface Targets",
+    "authors": "Ziang Li; Guangfeng Zhang; Zhenhong Fan",
+    "year": 2026,
+    "publication_date": "2026-05-01",
+    "venue": "OpenAlex indexed work",
+    "doi": "10.1109/ccai69603.2026.11642034",
+    "primary_url": "https://doi.org/10.1109/ccai69603.2026.11642034",
+    "pdf_url": "",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Ultrasound synthetic aperture non-line-of-sight imaging",
+    "score": 11,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "li2025-ultrasound-sar-nlos",
+    "cited_core_title": "Ultrasound synthetic aperture non-line-of-sight imaging",
+    "cited_core_doi": "10.1038/s42005-025-02335-3",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "acoustic NLOS"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.7333333333333333,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
     "id": "chen2026-pat-mamba-all-in-one-restoration",
     "title": "PAT-Mamba: Adaptive all-in-one image restoration for photoacoustic tomography via state space model",
     "authors": "Zhihao Chen; Ting Feng; Dean Ta",
@@ -8088,7 +8140,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 155,
+    "times_seen": 156,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -8145,7 +8197,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 296,
+    "times_seen": 297,
     "venue_group": null,
     "topics": [
       "acoustic coded imaging",
@@ -8250,7 +8302,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -8428,7 +8480,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -8480,7 +8532,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -8651,7 +8703,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging",
@@ -9047,7 +9099,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -9166,7 +9218,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -9271,7 +9323,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -9377,7 +9429,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -9423,7 +9475,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 573,
+    "times_seen": 575,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -9476,7 +9528,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -9582,7 +9634,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 315,
+    "times_seen": 316,
     "venue_group": null,
     "topics": [
       "cites",
@@ -9637,7 +9689,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -9741,7 +9793,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -9847,7 +9899,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -9899,7 +9951,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -9951,7 +10003,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -10003,7 +10055,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging",
@@ -10056,7 +10108,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -10181,7 +10233,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -10233,7 +10285,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -10285,7 +10337,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -10337,7 +10389,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -10443,7 +10495,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging",
@@ -10602,7 +10654,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -10654,7 +10706,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -10706,7 +10758,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -10758,7 +10810,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging",
@@ -10864,7 +10916,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -10916,7 +10968,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging",
@@ -10969,7 +11021,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -11021,7 +11073,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -11285,7 +11337,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -11442,7 +11494,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging",
@@ -11495,7 +11547,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -11547,7 +11599,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging",
@@ -11600,7 +11652,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -11652,7 +11704,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -11704,7 +11756,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -11808,7 +11860,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -11860,7 +11912,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging",
@@ -11913,7 +11965,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -11965,7 +12017,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 297,
+    "times_seen": 298,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -12017,7 +12069,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -12121,7 +12173,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging",
@@ -12174,7 +12226,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -12334,7 +12386,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -12490,7 +12542,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -12542,7 +12594,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "acoustic NLOS",
@@ -12971,60 +13023,6 @@
     "article_number": "49"
   },
   {
-    "id": "2025-millimeter-wave-inverse-pinhole-imaging-2a8fb31bb50d",
-    "title": "Millimeter-Wave Inverse Pinhole Imaging",
-    "authors": "Akarsh Prabhakara; Yawen Liu; Aswin C. Sankaranarayanan; Anthony Rowe; Swarun Kumar",
-    "year": 2026,
-    "publication_date": "2026-07-01",
-    "venue": "IEEE Sensors Journal",
-    "doi": "10.1109/jsen.2026.3693172",
-    "primary_url": "https://doi.org/10.1109/jsen.2026.3693172",
-    "pdf_url": "https://arxiv.org/pdf/2510.13904v1",
-    "source": "Crossref-final-version",
-    "matched_query": "mmWave radar imaging TMC",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "times_seen": 3,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/jsen.2026.3693172",
-      "http://arxiv.org/abs/2510.13904v1",
-      "https://arxiv.org/pdf/2510.13904v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "mmWave radar imaging"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
     "id": "doi10-1016-j-measurement-2026-121756-weighted-tmm-omp-sound-field-reconstruction",
     "title": "Sound field reconstruction via weighted transfer matrix mode and orthogonal matching pursuit with improved cosine similarity criterion",
     "authors": "Yue Xiao; Junyu Wang; Chengping Zhong; Yongjin Liu; Peng Ni; Zhepu Chen; Haiyang Zhang",
@@ -13166,60 +13164,6 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "times_seen": 3,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/eucnc/6gsummit68295.2026.11577249",
-      "http://arxiv.org/abs/2604.12466v1",
-      "https://arxiv.org/pdf/2604.12466v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "mmWave radar imaging"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2026-ris-aided-sensing-experimental-validation-of-radar-3d-imaging-in-the-mmwave-8d6d25a94e4c",
-    "title": "RIS-Aided Sensing: Experimental Validation of Radar 3D Imaging in the mmWave Band",
-    "authors": "Sergio Micó-Rosa; Alvaro Villaescusa-Tebar; Saúl Fenollosa; Carlos Villena-Jiménez; Monika Drozdowska; Narcis Cardona",
-    "year": 2026,
-    "publication_date": "2026-06-02",
-    "venue": "2026 Joint European Conference on Networks and Communications &amp;amp; 6G Summit (EuCNC/6G Summit)",
-    "doi": "10.1109/eucnc/6gsummit68295.2026.11577249",
-    "primary_url": "https://doi.org/10.1109/eucnc/6gsummit68295.2026.11577249",
-    "pdf_url": "https://arxiv.org/pdf/2604.12466v1",
-    "source": "Crossref-final-version",
-    "matched_query": "mmWave radar imaging TMC",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
     "times_seen": 3,
@@ -13281,7 +13225,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-11",
     "last_seen": "2026-08-19",
-    "times_seen": 54,
+    "times_seen": 55,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging",
@@ -13385,7 +13329,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 123,
+    "times_seen": 124,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging"
@@ -13478,7 +13422,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 190,
+    "times_seen": 191,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -13525,7 +13469,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 297,
+    "times_seen": 298,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -13650,7 +13594,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-14",
     "last_seen": "2026-08-19",
-    "times_seen": 38,
+    "times_seen": 39,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging",
@@ -13749,7 +13693,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging",
@@ -14103,7 +14047,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging",
@@ -14150,7 +14094,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 296,
+    "times_seen": 297,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -14220,60 +14164,6 @@
         "preprint_only": true,
         "negative_filter": false,
         "final_version_status": "arxiv-only-no-final-version-found"
-      }
-    }
-  },
-  {
-    "id": "2025-mmweaver-environment-specific-mmwave-signal-synthesis-from-a-photo-and-acti-b634b74b59b2",
-    "title": "mmWEAVER: Environment-Specific mmWave Signal Synthesis from a Photo and Activity Description",
-    "authors": "Mahathir Monjur; Shahriar Nirjon",
-    "year": 2026,
-    "publication_date": "2026-03-06",
-    "venue": "2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
-    "doi": "10.1109/wacv61042.2026.00187",
-    "primary_url": "https://doi.org/10.1109/wacv61042.2026.00187",
-    "pdf_url": "https://arxiv.org/pdf/2512.11894v1",
-    "source": "Crossref-final-version",
-    "matched_query": "mmWave radar imaging TMC",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "times_seen": 3,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/wacv61042.2026.00187",
-      "http://arxiv.org/abs/2512.11894v1",
-      "https://arxiv.org/pdf/2512.11894v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "mmWave radar imaging"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -14667,7 +14557,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 163,
+    "times_seen": 164,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -14745,60 +14635,6 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2026-synergistic-blood-pressure-estimation-via-contactless-mmwave-radar-and-imag-343a8a62e58e",
-    "title": "Synergistic Blood Pressure Estimation via Contactless mmWave Radar and Imaging Photoplethysmography: A Feasibility Study",
-    "authors": "Boyuan Gu; Haiyang Sun; Yongjie Liu; Guangji Ma; Guanghao Sun; Xiaorong Ding",
-    "year": 2026,
-    "publication_date": "2026-01-01",
-    "venue": "IEEE Sensors Journal",
-    "doi": "10.1109/jsen.2026.3706110",
-    "primary_url": "https://doi.org/10.1109/jsen.2026.3706110",
-    "pdf_url": "https://arxiv.org/pdf/2606.13701v1",
-    "source": "Crossref-final-version",
-    "matched_query": "mmWave radar imaging TMC",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "times_seen": 3,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/jsen.2026.3706110",
-      "http://arxiv.org/abs/2606.13701v1",
-      "https://arxiv.org/pdf/2606.13701v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "mmWave radar imaging"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -15146,7 +14982,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "radar indoor scene understanding",
@@ -15270,60 +15106,6 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2025-rad-gs-radar-vision-integration-for-3d-gaussian-splatting-slam-in-outdoor-e-ae30daf39d5c",
-    "title": "Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments",
-    "authors": "Renxiang Xiao; Wei Liu; Yuanfan Zhang; Yushuai Chen; Jinming Chen; Zilu Wang; Liang Hu",
-    "year": 2025,
-    "publication_date": "2025-12-01",
-    "venue": "IEEE Robotics and Automation Letters",
-    "doi": "10.1109/lra.2025.3630875",
-    "primary_url": "https://doi.org/10.1109/lra.2025.3630875",
-    "pdf_url": "https://arxiv.org/pdf/2511.16091v1",
-    "source": "Crossref-final-version",
-    "matched_query": "mmWave radar imaging TMC",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "times_seen": 3,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/lra.2025.3630875",
-      "http://arxiv.org/abs/2511.16091v1",
-      "https://arxiv.org/pdf/2511.16091v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "mmWave radar imaging"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -15586,7 +15368,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 124,
+    "times_seen": 125,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging",
@@ -15640,7 +15422,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "acoustic NLOS",
@@ -15720,60 +15502,6 @@
     }
   },
   {
-    "id": "2025-oasis-real-time-opti-acoustic-sensing-for-intervention-systems-in-unstructu-91307ee6874f",
-    "title": "OASIS: Real-Time Opti-Acoustic Sensing for Intervention Systems in Unstructured Environments",
-    "authors": "Amy Phung; Richard Camilli",
-    "year": 2025,
-    "publication_date": "2025-10-19",
-    "venue": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
-    "doi": "10.1109/iros60139.2025.11246656",
-    "primary_url": "https://doi.org/10.1109/iros60139.2025.11246656",
-    "pdf_url": "https://arxiv.org/pdf/2508.12071v1",
-    "source": "Crossref-final-version",
-    "matched_query": "acoustic optical sensor fusion sonar",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "times_seen": 2,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/iros60139.2025.11246656",
-      "http://arxiv.org/abs/2508.12071v1",
-      "https://arxiv.org/pdf/2508.12071v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "camera-sonar fusion"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
     "id": "2025-benthicat-an-opti-acoustic-dataset-for-advancing-benthic-classification-and-2129007d7087",
     "title": "BenthiCat: An opti-acoustic dataset for advancing benthic classification and habitat mapping",
     "authors": "Hayat Rajani; Valerio Franchi; Borja Martinez-Clavel Valles; Raimon Ramos; Rafael Garcia; Nuno Gracias",
@@ -15795,7 +15523,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 293,
+    "times_seen": 294,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -16125,6 +15853,53 @@
         "imaging_term": true,
         "source_ok": false,
         "mmwave_preprint_ok": true,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
+    "id": "2025-oasis-real-time-opti-acoustic-sensing-for-intervention-systems-in-unstructu-91307ee6874f",
+    "title": "OASIS: Real-Time Opti-Acoustic Sensing for Intervention Systems in Unstructured Environments",
+    "authors": "Amy Phung; Richard Camilli",
+    "year": 2025,
+    "publication_date": "2025-08-16",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2508.12071v1",
+    "pdf_url": "https://arxiv.org/pdf/2508.12071v1",
+    "source": "arXiv",
+    "matched_query": "acoustic optical sensor fusion sonar",
+    "score": 11,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "times_seen": 2,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "arXiv",
+    "topics": [
+      "camera-sonar fusion"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "track": "main",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "mmwave_preprint_ok": false,
         "manual_seed": false,
         "manual_acm_seed": false,
         "preprint_only": true,
@@ -16525,7 +16300,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "radar indoor scene understanding"
@@ -16620,60 +16395,6 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "times_seen": 1,
-    "venue_group": "CVPR",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/cvprw67362.2025.00362",
-      "http://arxiv.org/abs/2504.03438v2",
-      "https://arxiv.org/pdf/2504.03438v2"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "4D radar point cloud"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2025-zfusion-an-effective-fuser-of-camera-and-4d-radar-for-3d-object-perception-7ea0247f38c7",
-    "title": "Zfusion: an Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving",
-    "authors": "Sheng Yang; Tong Zhan; Shichen Qiao; Jicheng Gong; Qing Yang; Jian Wang; Yanfeng Lu",
-    "year": 2025,
-    "publication_date": "2025-06-11",
-    "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
-    "doi": "10.1109/cvprw67362.2025.00362",
-    "primary_url": "https://doi.org/10.1109/cvprw67362.2025.00362",
-    "pdf_url": "https://arxiv.org/pdf/2504.03438v2",
-    "source": "Crossref-final-version",
-    "matched_query": "4D radar point cloud CVPR",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
     "times_seen": 1,
@@ -16684,60 +16405,6 @@
       "https://doi.org/10.1109/cvprw67362.2025.00362",
       "http://arxiv.org/abs/2504.03438v2",
       "https://arxiv.org/pdf/2504.03438v2"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "4D radar point cloud"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2025-tacodepth-towards-efficient-radar-camera-depth-estimation-with-one-stage-fu-c46e08da6984",
-    "title": "TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion",
-    "authors": "Yiran Wang; Jiaqi Li; Chaoyi Hong; Ruibo Li; Liusheng Sun; Xiao Song; Zhe Wang; Zhiguo Cao; Guosheng Lin",
-    "year": 2025,
-    "publication_date": "2025-06-10",
-    "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    "doi": "10.1109/cvpr52734.2025.00984",
-    "primary_url": "https://doi.org/10.1109/cvpr52734.2025.00984",
-    "pdf_url": "https://arxiv.org/pdf/2504.11773v1",
-    "source": "Crossref-final-version",
-    "matched_query": "4D radar point cloud CVPR",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "times_seen": 1,
-    "venue_group": "CVPR",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/cvpr52734.2025.00984",
-      "http://arxiv.org/abs/2504.11773v1",
-      "https://arxiv.org/pdf/2504.11773v1"
     ],
     "final_version_status": "resolved-from-arxiv-to-final-venue",
     "topics": [
@@ -16843,7 +16510,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 124,
+    "times_seen": 125,
     "venue_group": null,
     "topics": [
       "through-occlusion mmWave reconstruction",
@@ -16947,7 +16614,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging",
@@ -17466,7 +17133,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "radar indoor scene understanding"
@@ -17569,7 +17236,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 124,
+    "times_seen": 125,
     "venue_group": null,
     "topics": [
       "acoustic NLOS",
@@ -17622,7 +17289,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "radar indoor scene understanding"
@@ -17724,7 +17391,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging",
@@ -17776,7 +17443,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging",
@@ -17829,7 +17496,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "radar indoor scene understanding",
@@ -17933,7 +17600,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging",
@@ -18142,7 +17809,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "radar indoor scene understanding"
@@ -18217,61 +17884,6 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2026-mmgat-pose-estimation-by-graph-attention-with-mutual-features-from-mmwave-r-59a354cb5c2c",
-    "title": "mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud",
-    "authors": "Masud Abdullah Al; Xintong Shi; Bouazizi Mondher; Tomoaki Ohtsuki",
-    "year": 2024,
-    "publication_date": "2024-06-09",
-    "venue": "ICC 2024 - IEEE International Conference on Communications",
-    "doi": "10.1109/icc51166.2024.10622791",
-    "primary_url": "https://doi.org/10.1109/icc51166.2024.10622791",
-    "pdf_url": "https://arxiv.org/pdf/2603.08551v1",
-    "source": "Crossref-final-version",
-    "matched_query": "mmWave radar imaging TMC",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "times_seen": 3,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/icc51166.2024.10622791",
-      "http://arxiv.org/abs/2603.08551v1",
-      "https://arxiv.org/pdf/2603.08551v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "mmWave radar imaging",
-      "4D radar point cloud"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -18893,7 +18505,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-19",
-    "times_seen": 72,
+    "times_seen": 73,
     "venue_group": "IEEE TMC",
     "topics": [
       "radar indoor scene understanding"
@@ -19777,8 +19389,17 @@
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
     "times_seen": 1,
-    "final_version_status": "manual-doi-metadata-pending",
     "venue_group": "IEEE",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://dblp.org/rec/journals/ral/XuJWW26",
+      "https://jjq7.github.io/publications.html",
+      "https://senseroboticslab.github.io/NAS-GS-Page/",
+      "https://arxiv.org/abs/2601.06285",
+      "https://doi.org/10.1109/LRA.2026.3706932"
+    ],
+    "final_version_status": "manual-doi-metadata-pending",
     "topics": [
       "acoustic imaging",
       "imaging sonar",
@@ -19806,15 +19427,6 @@
         "final_version_status": "manual-doi-metadata-pending"
       }
     },
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://dblp.org/rec/journals/ral/XuJWW26",
-      "https://jjq7.github.io/publications.html",
-      "https://senseroboticslab.github.io/NAS-GS-Page/",
-      "https://arxiv.org/abs/2601.06285",
-      "https://doi.org/10.1109/LRA.2026.3706932"
-    ],
     "cites_core": true,
     "cited_core_paper": "2025-acoustic-neural-3d-reconstruction-under-pose-drift-4c50062edf90",
     "cited_core_title": "Acoustic Neural 3D Reconstruction Under Pose Drift",
@@ -20761,7 +20373,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "radar indoor scene understanding"
@@ -25749,7 +25361,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 315,
+    "times_seen": 316,
     "venue_group": null,
     "topics": [
       "3D reconstruction"
@@ -26221,7 +25833,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-28",
     "last_seen": "2026-08-19",
-    "times_seen": 314,
+    "times_seen": 315,
     "venue_group": null,
     "topics": [
       "cites",
@@ -26871,7 +26483,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -26991,7 +26603,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 316,
+    "times_seen": 317,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -27846,7 +27458,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -28052,7 +27664,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -28509,7 +28121,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-22",
     "last_seen": "2026-08-19",
-    "times_seen": 1706,
+    "times_seen": 1714,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -28554,7 +28166,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-29",
     "last_seen": "2026-08-19",
-    "times_seen": 3698,
+    "times_seen": 3722,
     "venue_group": "Science family",
     "topics": [
       "handheld mmWave SAR"
@@ -28599,7 +28211,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-08-05",
     "last_seen": "2026-08-19",
-    "times_seen": 808,
+    "times_seen": 816,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction"
@@ -28644,7 +28256,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-08-10",
     "last_seen": "2026-08-19",
-    "times_seen": 558,
+    "times_seen": 567,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -28689,7 +28301,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 1704,
+    "times_seen": 1706,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction",
@@ -28781,7 +28393,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 738,
+    "times_seen": 739,
     "venue_group": "Science family",
     "topics": [
       "mmWave radar imaging"
@@ -29099,7 +28711,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-27",
     "last_seen": "2026-08-19",
-    "times_seen": 583,
+    "times_seen": 584,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -29145,7 +28757,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-27",
     "last_seen": "2026-08-19",
-    "times_seen": 164,
+    "times_seen": 165,
     "venue_group": "Science family",
     "topics": [
       "mmWave radar imaging"
@@ -29190,7 +28802,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-28",
     "last_seen": "2026-08-19",
-    "times_seen": 1090,
+    "times_seen": 1092,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -29235,7 +28847,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-30",
     "last_seen": "2026-08-19",
-    "times_seen": 691,
+    "times_seen": 693,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction"
@@ -29370,7 +28982,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-08-15",
     "last_seen": "2026-08-19",
-    "times_seen": 58,
+    "times_seen": 60,
     "venue_group": "Science family",
     "topics": [
       "3D reconstruction"
@@ -29729,6 +29341,72 @@
       "checks": {
         "track": "main",
         "primary_scope": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "manual-doi-metadata-pending"
+      }
+    },
+    "track": "main"
+  },
+  {
+    "id": "mssp-2026-acoustic-velocity-constrained-esm-imaging",
+    "title": "An acoustic velocity-constrained equivalent source method for acoustic imaging with the acoustic vector sensor array",
+    "authors": "Xuheng Wang; Yahui Song; Qiuhong Liu; Dongxu Zhao; Yuqi Xiao; Jie Zhou",
+    "year": 2026,
+    "publication_date": "2026-08-15",
+    "venue": "Mechanical Systems and Signal Processing",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ymssp.2026.114746",
+    "primary_url": "https://doi.org/10.1016/j.ymssp.2026.114746",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "acoustic imaging acoustic vector sensor equivalent source near-field acoustic holography pressure velocity inverse reconstruction",
+    "score": 8,
+    "reasons": [
+      "direct acoustic source imaging and near-field acoustic holography contribution",
+      "fuses scalar acoustic pressure with three-dimensional acoustic velocity through explicit Dirichlet/Neumann physical constraints in the equivalent-source inverse problem",
+      "numerical and anechoic-chamber experiments report improved localization and reconstruction robustness under small source spacing, larger array distance, and background noise compared with pressure-only or velocity-only ESM baselines",
+      "final volume, article number, DOI, authors and issue date verified from the Elsevier/ScienceDirect version-of-record record",
+      "exact title and DOI were absent from repository code search",
+      "manual-doi-seed"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "near-field acoustic holography",
+      "equivalent source method",
+      "acoustic vector sensors",
+      "sound source localization",
+      "inverse acoustics"
+    ],
+    "status": "agent-watchlist",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces an acoustic-velocity-constrained equivalent source method that jointly uses pressure and 3D particle-velocity measurements from vector sensor arrays, enforcing coupled Dirichlet and Neumann physics to stabilize inverse source reconstruction and improve near-field acoustic imaging resolution and robustness.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Elsevier / ScienceDirect",
+    "publication_note": "Final issue assignment is Mechanical Systems and Signal Processing volume 258, article 114746, dated 2026-08-15. The accessible publisher record does not expose a reliable first-online day, so this seed uses the verified issue date and should be treated as a newly surfaced/indexed backfill rather than a claim of first publication on that day.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0888327026009039",
+      "https://doi.org/10.1016/j.ymssp.2026.114746"
+    ],
+    "last_verified": "2026-08-20",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "times_seen": 1,
+    "final_version_status": "manual-doi-metadata-pending",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "main",
+        "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
         "source_ok": true,
@@ -30186,7 +29864,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-16",
     "last_seen": "2026-08-19",
-    "times_seen": 124,
+    "times_seen": 125,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -30234,7 +29912,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-07",
     "last_seen": "2026-08-19",
-    "times_seen": 251,
+    "times_seen": 252,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -30404,7 +30082,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 190,
+    "times_seen": 191,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -30731,7 +30409,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "radar indoor scene understanding"
@@ -30889,7 +30567,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 174,
+    "times_seen": 175,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -31159,61 +30837,6 @@
     }
   },
   {
-    "id": "2025-multiharmonic-algorithms-for-contrast-enhanced-ultrasound-97c6df81eef4",
-    "title": "Multiharmonic Algorithms for Contrast-Enhanced Ultrasound",
-    "authors": "Vanja Nikolić; Teresa Rauscher",
-    "year": 2026,
-    "publication_date": "2026-05-01",
-    "venue": "Journal of Scientific Computing",
-    "doi": "10.1007/s10915-026-03247-2",
-    "primary_url": "https://doi.org/10.1007/s10915-026-03247-2",
-    "pdf_url": "https://arxiv.org/pdf/2504.13335v2",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1007/s10915-026-03247-2",
-      "http://arxiv.org/abs/2504.13335v2",
-      "https://arxiv.org/pdf/2504.13335v2"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
     "id": "2026-maepose-self-supervised-spatiotemporal-learning-for-human-pose-estimation-o-6fae77409c78",
     "title": "MAEPose: Self-Supervised Spatiotemporal Learning for Human Pose Estimation on mmWave Video",
     "authors": "Xijia Wei; Yuan Fang; Kevin Chetty; Youngjun Cho; Nadia Bianchi-Berthouze",
@@ -31338,7 +30961,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -31441,7 +31064,7 @@
     "primary_url": "http://arxiv.org/abs/2604.02603v1",
     "pdf_url": "https://arxiv.org/pdf/2604.02603v1",
     "source": "arXiv",
-    "matched_query": "mmWave radar imaging TMC",
+    "matched_query": "mmWave radar imaging CVPR",
     "score": 8,
     "reasons": [
       "core wave-sensing term",
@@ -31452,7 +31075,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 512,
+    "times_seen": 513,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -31995,7 +31618,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -32041,7 +31664,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 190,
+    "times_seen": 191,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -32315,7 +31938,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -32471,7 +32094,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-14",
     "last_seen": "2026-08-19",
-    "times_seen": 38,
+    "times_seen": 39,
     "venue_group": null,
     "topics": [
       "3D reconstruction"
@@ -32515,8 +32138,8 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
     "times_seen": 3,
     "venue_group": "Other",
     "final_version_resolved": true,
@@ -32645,60 +32268,6 @@
       "confidence": 0.5333333333333333,
       "checks": {
         "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2025-integrated-communication-and-remote-sensing-in-leo-satellite-systems-protoc-47e19d1798d4",
-    "title": "Integrated Communication and Remote Sensing in LEO Satellite Systems: Protocol, Architecture, and Prototype",
-    "authors": "Yichao Xu; Xiaoming Chen; Ming Ying; Zhaoyang Zhang",
-    "year": 2026,
-    "publication_date": "2026-01-01",
-    "venue": "IEEE Transactions on Wireless Communications",
-    "doi": "10.1109/twc.2025.3591886",
-    "primary_url": "https://doi.org/10.1109/twc.2025.3591886",
-    "pdf_url": "https://arxiv.org/pdf/2508.10317v1",
-    "source": "Crossref-final-version",
-    "matched_query": "mmWave radar imaging TMC",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "times_seen": 3,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/twc.2025.3591886",
-      "http://arxiv.org/abs/2508.10317v1",
-      "https://arxiv.org/pdf/2508.10317v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "mmWave radar imaging"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "mmwave",
         "primary_scope": true,
         "core_term": true,
         "imaging_term": true,
@@ -32887,7 +32456,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -33404,7 +32973,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -33532,6 +33101,54 @@
     }
   },
   {
+    "id": "2025-capsbeam-accelerating-capsule-network-based-beamformer-for-ultrasound-non-s-f4919b35e0e8",
+    "title": "CapsBeam: Accelerating Capsule Network based Beamformer for Ultrasound Non-Steered Plane Wave Imaging on Field Programmable Gate Array",
+    "authors": "Abdul Rahoof; Vivek Chaturvedi; Mahesh Raveendranatha Panicker; Muhammad Shafique",
+    "year": 2025,
+    "publication_date": "2025-09-03",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2509.03201v1",
+    "pdf_url": "https://arxiv.org/pdf/2509.03201v1",
+    "source": "arXiv",
+    "matched_query": "computational ultrasound complex fields imaging",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "times_seen": 1,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "arXiv",
+    "topics": [
+      "acoustic coded imaging",
+      "computational ultrasound"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "main",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    }
+  },
+  {
     "id": "2025-a-survey-of-wireless-sensing-security-from-a-role-based-view-01f97aad041b",
     "title": "A Survey of Wireless Sensing Security From a Role-Based View",
     "authors": "Ruixu Geng; Jianyang Wang; Yuqin Yuan; Fengquan Zhan; Tianyu Zhang; Rui Zhang; Pengcheng Huang; Dongheng Zhang; Jinbo Chen; Yang Hu; Yan Chen",
@@ -33630,61 +33247,6 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2025-capsbeam-accelerating-capsule-network-based-beamformer-for-ultrasound-non-s-f4919b35e0e8",
-    "title": "CapsBeam: Accelerating Capsule Network-Based Beamformer for Ultrasound Nonsteered Plane-Wave Imaging on Field-Programmable Gate Array",
-    "authors": "Abdul Rahoof; Vivek Chaturvedi; Mahesh Raveendranatha Panicker; Muhammad Shafique",
-    "year": 2025,
-    "publication_date": "2025-07-01",
-    "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
-    "doi": "10.1109/tvlsi.2025.3559403",
-    "primary_url": "https://doi.org/10.1109/tvlsi.2025.3559403",
-    "pdf_url": "https://arxiv.org/pdf/2509.03201v1",
-    "source": "Crossref-final-version",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 0.996,
-    "sources": [
-      "https://doi.org/10.1109/tvlsi.2025.3559403",
-      "http://arxiv.org/abs/2509.03201v1",
-      "https://arxiv.org/pdf/2509.03201v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -33821,7 +33383,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -33872,7 +33434,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "radar indoor scene understanding"
@@ -34205,6 +33767,54 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2025-multiharmonic-algorithms-for-contrast-enhanced-ultrasound-97c6df81eef4",
+    "title": "Multiharmonic algorithms for contrast-enhanced ultrasound",
+    "authors": "Vanja Nikolić; Teresa Rauscher",
+    "year": 2025,
+    "publication_date": "2025-04-17",
+    "venue": "arXiv preprint",
+    "doi": "",
+    "primary_url": "http://arxiv.org/abs/2504.13335v2",
+    "pdf_url": "https://arxiv.org/pdf/2504.13335v2",
+    "source": "arXiv",
+    "matched_query": "computational ultrasound complex fields imaging",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "times_seen": 1,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "venue_group": "arXiv",
+    "topics": [
+      "acoustic coded imaging",
+      "computational ultrasound"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "main",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
       }
     }
   },
@@ -34651,7 +34261,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "radar indoor scene understanding"
@@ -34855,7 +34465,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -34906,7 +34516,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-19",
-    "times_seen": 295,
+    "times_seen": 296,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -35259,7 +34869,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 294,
+    "times_seen": 295,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -35362,7 +34972,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "radar indoor scene understanding"
@@ -35413,7 +35023,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-19",
-    "times_seen": 122,
+    "times_seen": 123,
     "venue_group": null,
     "topics": [
       "radar indoor scene understanding"
@@ -35863,60 +35473,6 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "times_seen": 3,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/radarconf2458775.2024.10548874",
-      "http://arxiv.org/abs/2604.06842v1",
-      "https://arxiv.org/pdf/2604.06842v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "mmWave radar imaging"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    }
-  },
-  {
-    "id": "2026-radarcnn-learning-based-indoor-object-classification-from-iq-imaging-radar-a962e46af62d",
-    "title": "RadarCNN: Learning-Based Indoor Object Classification from IQ Imaging Radar Data",
-    "authors": "Stefan Hägele; Fabian Seguel; Driton Salihu; Marsil Zakour; Eckehard Steinbach",
-    "year": 2024,
-    "publication_date": "2024-05-06",
-    "venue": "2024 IEEE Radar Conference (RadarConf24)",
-    "doi": "10.1109/radarconf2458775.2024.10548874",
-    "primary_url": "https://doi.org/10.1109/radarconf2458775.2024.10548874",
-    "pdf_url": "https://arxiv.org/pdf/2604.06842v1",
-    "source": "Crossref-final-version",
-    "matched_query": "mmWave radar imaging TMC",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
     "times_seen": 3,
@@ -35972,7 +35528,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-25",
     "last_seen": "2026-08-19",
-    "times_seen": 1108,
+    "times_seen": 1114,
     "venue_group": "Science family",
     "topics": [
       "vectorial",
@@ -36513,7 +36069,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 315,
+    "times_seen": 316,
     "venue_group": "Science family",
     "topics": [
       "3D reconstruction"
@@ -36565,7 +36121,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-28",
     "last_seen": "2026-08-19",
-    "times_seen": 314,
+    "times_seen": 315,
     "venue_group": null,
     "topics": [
       "cites",
@@ -37054,7 +36610,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 315,
+    "times_seen": 316,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -37161,7 +36717,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 315,
+    "times_seen": 316,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -37643,7 +37199,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-28",
     "last_seen": "2026-08-19",
-    "times_seen": 314,
+    "times_seen": 315,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -37954,7 +37510,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 157,
+    "times_seen": 158,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -38200,7 +37756,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 315,
+    "times_seen": 316,
     "venue_group": null,
     "topics": [
       "cites",
@@ -38318,7 +37874,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-08-19",
-    "times_seen": 155,
+    "times_seen": 156,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -38619,7 +38175,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-14",
     "last_seen": "2026-08-19",
-    "times_seen": 38,
+    "times_seen": 39,
     "venue_group": null,
     "topics": [
       "cites",
@@ -38780,7 +38336,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-10",
     "last_seen": "2026-08-19",
-    "times_seen": 62,
+    "times_seen": 63,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -38834,7 +38390,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-07-08",
     "last_seen": "2026-08-19",
-    "times_seen": 272,
+    "times_seen": 273,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -39631,7 +39187,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 315,
+    "times_seen": 316,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -39685,7 +39241,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 315,
+    "times_seen": 316,
     "venue_group": "Nature Portfolio",
     "topics": [
       "cites",
@@ -40144,7 +39700,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-07-27",
     "last_seen": "2026-08-19",
-    "times_seen": 164,
+    "times_seen": 165,
     "venue_group": null,
     "topics": [
       "cites",
@@ -40319,7 +39875,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-07-09",
     "last_seen": "2026-08-19",
-    "times_seen": 268,
+    "times_seen": 269,
     "venue_group": null,
     "topics": [
       "cites",
@@ -40521,7 +40077,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-28",
     "last_seen": "2026-08-19",
-    "times_seen": 314,
+    "times_seen": 315,
     "venue_group": null,
     "topics": [
       "cites",
@@ -40630,6 +40186,60 @@
     "venue_group": null,
     "topics": [
       "acoustic holography"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": false,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2026-performance-analysis-of-a-three-hop-heterogeneous-space-air-sea-communicati-85b109031dc1",
+    "title": "Performance Analysis of a Three-Hop Heterogeneous Space–Air–Sea Communication System with Adaptive Combining for Mixed FSO/RF and UWOC Transmission",
+    "authors": "Yiyi Yang; Lin Qi; Dexian Yan; Yi Wang",
+    "year": 2026,
+    "publication_date": "2026-08-18",
+    "venue": "Photonics",
+    "doi": "10.3390/photonics13080784",
+    "primary_url": "https://doi.org/10.3390/photonics13080784",
+    "pdf_url": "https://doi.org/10.3390/photonics13080784",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Adaptive Path Planning for Autonomous Underwater Vehicle (AUV) Based on Spatio-Temporal Graph Neural Networks and Conditional Normalizing Flow Probabilistic Reconstruction",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2026-adaptive-path-planning-for-autonomous-underwater-vehicle-auv-based-on-spati-a2c1090c3ae4",
+    "cited_core_title": "Adaptive Path Planning for Autonomous Underwater Vehicle (AUV) Based on Spatio-Temporal Graph Neural Networks and Conditional Normalizing Flow Probabilistic Reconstruction",
+    "cited_core_doi": "10.3390/a19020147",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Adaptive",
+      "Planning",
+      "Autonomous"
     ],
     "track": "main",
     "agent_audit": {
@@ -40887,7 +40497,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-11",
     "last_seen": "2026-08-19",
-    "times_seen": 54,
+    "times_seen": 55,
     "venue_group": null,
     "topics": [
       "cites",
@@ -41010,7 +40620,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-07-08",
     "last_seen": "2026-08-19",
-    "times_seen": 272,
+    "times_seen": 273,
     "venue_group": null,
     "topics": [
       "cites",
@@ -41064,7 +40674,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 315,
+    "times_seen": 316,
     "venue_group": null,
     "topics": [
       "cites",
@@ -41118,7 +40728,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 315,
+    "times_seen": 316,
     "venue_group": null,
     "topics": [
       "cites",
@@ -41172,7 +40782,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 315,
+    "times_seen": 316,
     "venue_group": null,
     "topics": [
       "cites",
@@ -41226,7 +40836,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-11",
     "last_seen": "2026-08-19",
-    "times_seen": 54,
+    "times_seen": 55,
     "venue_group": null,
     "topics": [
       "cites",
@@ -41331,7 +40941,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 315,
+    "times_seen": 316,
     "venue_group": null,
     "topics": [
       "cites",
@@ -41439,7 +41049,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-08-19",
-    "times_seen": 315,
+    "times_seen": 316,
     "venue_group": null,
     "topics": [
       "cites",
@@ -41493,7 +41103,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-07-29",
     "last_seen": "2026-08-19",
-    "times_seen": 147,
+    "times_seen": 148,
     "venue_group": null,
     "topics": [
       "cites",
@@ -41547,7 +41157,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-19",
-    "times_seen": 72,
+    "times_seen": 73,
     "venue_group": null,
     "topics": [
       "cites",
@@ -41601,7 +41211,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-14",
     "last_seen": "2026-08-19",
-    "times_seen": 38,
+    "times_seen": 39,
     "venue_group": null,
     "topics": [
       "cites",
