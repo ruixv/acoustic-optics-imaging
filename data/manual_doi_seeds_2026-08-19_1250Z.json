@@ -1,0 +1,130 @@
+[
+  {
+    "id": "ieee-tbme-2026-physical-parameter-guided-diffusion-ulm",
+    "title": "Physical Parameter-Guided Deep Learning Ultrasound Localization Microscopy Framework Based on Diffusion Model",
+    "authors": "Yu Qiang; Wenjie Liang; Jing Yang; Le Gao; Tianli Wang; Wenyue Huang; Yue Pan; Xingying Wang; Zhiqiang Zhang; Lei Sun; Weibao Qiu",
+    "year": 2026,
+    "publication_date": "2026-06-01",
+    "venue": "IEEE Transactions on Biomedical Engineering",
+    "venue_group": "IEEE",
+    "venue_type": "journal article",
+    "doi": "10.1109/TBME.2026.3697490",
+    "primary_url": "https://doi.org/10.1109/TBME.2026.3697490",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "ultrasound localization microscopy diffusion model physical parameter guided deep learning super-resolution acoustic imaging",
+    "score": 9,
+    "reasons": [
+      "direct computational ultrasound localization microscopy contribution",
+      "uses transducer specifications and acoustic waveform parameters to condition a diffusion model for realistic microbubble-image synthesis",
+      "reports average SSIM 0.97 across hundreds of imaging parameter sets and 5-10 micrometer spatial-resolution improvement for downstream deep-learning ULM",
+      "publication date, authors, DOI and journal verified by PubMed and independently corroborated by PolyU Scholars Hub",
+      "exact title and DOI were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "ultrasound localization microscopy",
+      "super-resolution ultrasound",
+      "diffusion models",
+      "physics-guided learning",
+      "microbubble imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces a physical-parameter-guided diffusion framework that synthesizes realistic microbubble images across varying transducer and waveform settings, providing robust training data for deep-learning ULM and improving spatial resolution with fewer frames.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PubMed; PolyU Scholars Hub",
+    "publication_note": "Published online/ahead of print on 2026-06-01 in IEEE Transactions on Biomedical Engineering. Newly surfaced repository backfill.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42224314/",
+      "https://research.polyu.edu.hk/en/publications/physical-parameter-guided-deep-learning-ultrasound-localization-m/",
+      "https://doi.org/10.1109/TBME.2026.3697490"
+    ],
+    "last_verified": "2026-08-19"
+  },
+  {
+    "id": "umb-2026-ulm-motion-correction-benchmark",
+    "title": "Benchmarking Image-Based Motion-Correction Methods for Ultrasound Localization Microscopy",
+    "authors": "Clara Rodrigo González; Biao Huang; Su Yan; Rifkat Zaydullin; Marcelo Lerendegui; Cameron A. B. Smith; Matthieu Toulemonde; Megan Morris; Navita Somaiah; Oscar Bates; Fu Siong Ng; Meng-Xing Tang",
+    "year": 2026,
+    "publication_date": "2026-05-21",
+    "venue": "Ultrasound in Medicine & Biology",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ultrasmedbio.2026.03.024",
+    "primary_url": "https://doi.org/10.1016/j.ultrasmedbio.2026.03.024",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "ultrasound localization microscopy motion correction non-rigid registration super-resolution acoustic imaging benchmark",
+    "score": 8,
+    "reasons": [
+      "directly benchmarks a reconstruction-critical component of ultrasound localization microscopy",
+      "compares seven public non-rigid registration implementations on simulated and in-vivo ultrasound data and proposes data-adaptive selection guidance",
+      "final issue metadata are 52(8):1544-1558; publisher and PubMed independently verify the DOI and bibliographic record",
+      "exact title and DOI were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "ultrasound localization microscopy",
+      "motion correction",
+      "non-rigid registration",
+      "super-resolution ultrasound",
+      "benchmark"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Benchmarks seven public non-rigid image-registration implementations for ULM across simulated and in-vivo datasets, quantifies parameter sensitivity and deformation-regime tradeoffs, and provides guidance for data-adaptive motion-correction selection.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Ultrasound in Medicine & Biology publisher page; ScienceDirect; PubMed",
+    "publication_note": "The journal publication-history page reports online publication on 2026-05-21, while PubMed and ScienceDirect index 2026-05-22; final issue is August 2026, volume 52 issue 8, pages 1544-1558. Newly surfaced repository backfill.",
+    "sources": [
+      "https://doi.org/10.1016/j.ultrasmedbio.2026.03.024",
+      "https://pubmed.ncbi.nlm.nih.gov/42168000/"
+    ],
+    "last_verified": "2026-08-19"
+  },
+  {
+    "id": "umb-2026-volumetric-ulm-light-sheet-validation",
+    "title": "A Validation of Spatially Compounded Volumetric Ultrasound Localization Microscopy for Glomerular Imaging With Light Sheet Microscopy",
+    "authors": "Tyler J. Gildemeister; Hatim Belgharbi; Rachel W. Walmer; Jacob R. McCall; Kennita A. Johnson; Gianmarco F. Pinton; Paul A. Dayton",
+    "year": 2026,
+    "publication_date": "2026-06-09",
+    "venue": "Ultrasound in Medicine & Biology",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.ultrasmedbio.2026.05.013",
+    "primary_url": "https://doi.org/10.1016/j.ultrasmedbio.2026.05.013",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "volumetric ultrasound localization microscopy light sheet microscopy acoustic optical validation glomerular imaging",
+    "score": 8,
+    "reasons": [
+      "direct volumetric super-resolution ultrasound imaging study with optical light-sheet microscopy as the gold-standard comparator",
+      "reconstructs whole-kidney microvasculature at 500 volumes per second and quantifies glomerular density in spatially registered subvolumes",
+      "publisher and PubMed verify the online date, DOI, final 52(9):2120-2125 issue assignment and authors",
+      "exact title and DOI were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "ultrasound localization microscopy",
+      "volumetric ultrasound",
+      "light-sheet microscopy",
+      "acoustic-optical validation",
+      "super-resolution imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "validation study",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Validates spatially compounded whole-kidney volumetric ULM against registered light-sheet microscopy, demonstrating sub-diffraction visualization of glomeruli and quantitative microvascular measurements with an optical gold standard.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Ultrasound in Medicine & Biology publisher page; ScienceDirect; PubMed",
+    "publication_note": "Published online 2026-06-09; final issue assignment is September 2026, volume 52 issue 9, pages 2120-2125. Newly surfaced repository backfill with direct acoustic-optical validation relevance.",
+    "sources": [
+      "https://doi.org/10.1016/j.ultrasmedbio.2026.05.013",
+      "https://pubmed.ncbi.nlm.nih.gov/42264984/"
+    ],
+    "last_verified": "2026-08-19"
+  }
+]
