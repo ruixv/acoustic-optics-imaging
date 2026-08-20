@@ -1,0 +1,90 @@
+[
+  {
+    "id": "bme-frontiers-2026-u-vba-ulm-framework",
+    "title": "A General-Purpose Framework for Microvascular Reconstruction and Quantitative Analysis in Ultrasound Localization Microscopy",
+    "authors": "Peinan Liu; Jie Guo; Xuedi Han; Yuan Zong; Ting Zhang; Ligang Cui; Xuejun Qian",
+    "year": 2026,
+    "publication_date": "2026-08-03",
+    "venue": "BME Frontiers",
+    "venue_group": "Science Partner Journal / AAAS",
+    "venue_type": "journal article",
+    "doi": "10.34133/bmef.0295",
+    "primary_url": "https://doi.org/10.34133/bmef.0295",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "ultrasound localization microscopy super-resolution microvascular reconstruction quantitative biomarkers ULM imaging",
+    "score": 9,
+    "reasons": [
+      "direct computational ultrasound imaging and super-resolution ULM contribution",
+      "U-VBA standardizes the reconstruction pipeline with motion correction, cascaded denoising, microbubble localization and tracking, then adds automated vascular biomarker extraction",
+      "validated across flow phantoms, chick chorioallantoic membrane, rabbit ocular imaging and a 39-patient cervical lymph-node cohort; the publisher reports resolution of vessels down to 16.2 micrometers",
+      "the authoritative Science Partner Journal record now resolves the previously ambiguous metadata as BME Frontiers volume 7, article 0295, DOI 10.34133/bmef.0295, published 2026-08-03",
+      "exact DOI and U-VBA title were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "ultrasound localization microscopy",
+      "super-resolution ultrasound",
+      "microvascular imaging",
+      "motion correction",
+      "microbubble localization",
+      "quantitative imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces U-VBA, a general-purpose ultrasound localization microscopy pipeline that standardizes motion correction, denoising, microbubble localization/tracking and super-resolution vascular reconstruction, then automatically quantifies six structural and hemodynamic biomarkers for preclinical and clinical microvascular phenotyping.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "BME Frontiers / Science Partner Journals (AAAS)",
+    "publication_note": "This paper was identified in an earlier sweep but was intentionally withheld because accessible indexes disagreed on the date and did not expose a verifiable DOI/article ID. The authoritative SPJ record now resolves those fields, making this a newly verified/indexed repository addition rather than a claim that the paper was first published during this run.",
+    "sources": [
+      "https://spj.science.org/doi/10.34133/bmef.0295",
+      "https://doi.org/10.34133/bmef.0295"
+    ],
+    "last_verified": "2026-08-20"
+  },
+  {
+    "id": "sensors-international-2026-mechanical-sonar-3d-boundary-reconstruction",
+    "title": "An integrated multi-modal data fusion framework incorporating mechanical sonar for 3D underwater boundary reconstruction",
+    "authors": "Jenjira Sukmanee; Sarawuth Srinakaew; Ramil Kesvarakul",
+    "year": 2026,
+    "publication_date": "2026-05",
+    "venue": "Sensors International",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.sintl.2026.100390",
+    "primary_url": "https://doi.org/10.1016/j.sintl.2026.100390",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "mechanical scanning sonar 3D underwater reconstruction mapping sensor fusion acoustic imaging Ping360",
+    "score": 8,
+    "reasons": [
+      "direct sonar-based 3D reconstruction contribution using a low-cost mechanical scanning sonar",
+      "fuses sonar with IMU and depth measurements to compensate motion distortion and anchor 2D acoustic profiles into 3D boundary point clouds",
+      "publisher reports 6.2 cm RMSE and about 35 percent accuracy improvement over sonar-only reconstruction in saltwater-pool experiments",
+      "final volume, article number and DOI are verified from the Elsevier ScienceDirect version-of-record page; Crossref-backed ORCID metadata independently records the publication month as 2026-05",
+      "exact DOI was absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "imaging sonar",
+      "mechanical scanning sonar",
+      "underwater 3D reconstruction",
+      "sensor fusion",
+      "underwater mapping",
+      "motion compensation"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Presents a low-cost underwater 3D boundary reconstruction framework that combines mechanical scanning sonar, IMU and depth sensing to compensate slow-scan motion distortion and lift acoustic profiles into consistent 3D boundary point clouds.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Elsevier / ScienceDirect; Crossref-backed ORCID record",
+    "publication_note": "Authoritative records expose month-level publication metadata (May 2026) but not a reliable exact first-online day, so the seed preserves month precision and treats the paper as a newly surfaced backfill.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S2666351126000215",
+      "https://doi.org/10.1016/j.sintl.2026.100390"
+    ],
+    "last_verified": "2026-08-20"
+  }
+]
