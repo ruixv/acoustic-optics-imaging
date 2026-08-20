@@ -1,0 +1,91 @@
+[
+  {
+    "id": "iclr-2026-ultragauss-3d-ultrasound-reconstruction",
+    "title": "UltraGauss: Ultrafast Gaussian Reconstruction of 3D Ultrasound Volumes",
+    "authors": "Mark C. Eid; Ana I. L. Namburete; João F. Henriques",
+    "year": 2026,
+    "publication_date": "2026-01-26",
+    "venue": "ICLR 2026",
+    "venue_group": "ICLR",
+    "venue_type": "conference paper",
+    "doi": "10.48550/arXiv.2505.05643",
+    "primary_url": "https://iclr.cc/virtual/2026/poster/10011906",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "ultrasound 3D reconstruction Gaussian splatting acoustic image formation ICLR 2026",
+    "score": 10,
+    "reasons": [
+      "accepted ICLR 2026 paper in a prioritized venue and directly focused on ultrasound image formation and 2D-to-3D reconstruction",
+      "introduces an ultrasound-specific Gaussian Splatting renderer based on probe-plane intersection and in-plane aggregation rather than perspective projection",
+      "official ICLR abstract reports state-of-the-art clinical 2D-to-3D ultrasound reconstruction, reaching 0.99 SSIM within about 20 minutes on one GPU",
+      "OpenReview lists the accepted paper as published on 2026-01-26; the official ICLR virtual program independently verifies title, authors and poster status",
+      "exact title and arXiv identifier were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "ultrasound imaging",
+      "3D ultrasound reconstruction",
+      "Gaussian splatting",
+      "acoustic image formation",
+      "volumetric reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces UltraGauss, an ultrasound-specific Gaussian Splatting framework whose renderer intersects anisotropic Gaussians with probe planes and aggregates contributions in-plane, enabling fast and memory-efficient reconstruction of 3D ultrasound volumes from 2D clinical scans.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "ICLR 2026 official virtual program; OpenReview; arXiv",
+    "publication_note": "This is a newly surfaced priority-venue backfill rather than a paper first published during this run. The ICLR/OpenReview accepted version is dated 2026-01-26; the arXiv preprint first appeared in May 2025. The arXiv DOI is retained as the stable identifier because the ICLR proceedings page does not expose a separate DOI.",
+    "sources": [
+      "https://iclr.cc/virtual/2026/poster/10011906",
+      "https://openreview.net/group?id=ICLR.cc/2026/Conference",
+      "https://doi.org/10.48550/arXiv.2505.05643"
+    ],
+    "last_verified": "2026-08-20"
+  },
+  {
+    "id": "cvpr-2026-gaussianpile-ultrasound-volumetric-reconstruction",
+    "title": "GaussianPile: A Unified Sparse Gaussian Splatting Framework for Slice-based Volumetric Reconstruction",
+    "authors": "Di Kong; Yikai Wang; Wenjie Guo; Yifan Bu; Boya Zhang; Yuexin Duan; Xiawei Yue; Wenbiao Du; Yiman Zhong; Yuwen Chen; Cheng Ma",
+    "year": 2026,
+    "publication_date": "2026-06",
+    "venue": "CVPR 2026",
+    "venue_group": "IEEE/CVF",
+    "venue_type": "conference paper",
+    "doi": "10.48550/arXiv.2603.20611",
+    "primary_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Kong_GaussianPile_A_Unified_Sparse_Gaussian_Splatting_Framework_for_Slice-based_Volumetric_CVPR_2026_paper.html",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "ultrasound volumetric reconstruction slice-based imaging Gaussian splatting CVPR 2026",
+    "score": 9,
+    "reasons": [
+      "accepted CVPR 2026 paper in a prioritized venue with direct experiments on ultrasound volumetric reconstruction",
+      "introduces a slice-aware Gaussian piling strategy and differentiable finite-thickness point-spread-function model tailored to slice-based imaging systems",
+      "official CVF record reports high-quality reconstructions in as little as 3 minutes, up to 11x faster than NeRF-based alternatives, with consistent 16x compression over voxel grids",
+      "the final CVPR record gives the full author list, proceedings venue and pages 19022-19032; arXiv 2603.20611 provides the stable DOI identifier",
+      "exact title and arXiv identifier were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "ultrasound imaging",
+      "volumetric reconstruction",
+      "Gaussian splatting",
+      "slice-based imaging",
+      "physics-aware rendering",
+      "medical imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Presents GaussianPile, a sparse Gaussian representation for finite-thickness slice modalities such as ultrasound, combining a slice-aware primitive layout with a differentiable imaging-system PSF to jointly reconstruct and compress volumetric data while preserving internal structure.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "CVF Open Access / CVPR 2026; arXiv; DBLP",
+    "publication_note": "This is a newly surfaced priority-venue backfill rather than a paper first published during this run. The final CVPR proceedings record is June 2026; the arXiv version was posted in March 2026. A separate final IEEE proceedings DOI was not exposed in the accessible authoritative records, so the arXiv DOI is retained as the stable identifier.",
+    "sources": [
+      "https://openaccess.thecvf.com/content/CVPR2026/html/Kong_GaussianPile_A_Unified_Sparse_Gaussian_Splatting_Framework_for_Slice-based_Volumetric_CVPR_2026_paper.html",
+      "https://doi.org/10.48550/arXiv.2603.20611",
+      "https://dblp.org/rec/journals/corr/abs-2603-20611.html"
+    ],
+    "last_verified": "2026-08-20"
+  }
+]
