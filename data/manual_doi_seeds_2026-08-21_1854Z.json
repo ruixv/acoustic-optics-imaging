@@ -1,0 +1,101 @@
+[
+  {
+    "id": "arxiv2608-19823-simultaneous-3d-paulm-perfusion-oxygenation",
+    "title": "Simultaneous 3D co-registered perfusion and oxygenation with ULM, photoacoustic imaging, and a planar matrix array",
+    "authors": "Léa Davenet; Jacques Battaglia; Franck Lager; Pascal Dargent; Charlotte Lussey-Lepoutre; Bertrand Tavitian; Olivier Couture; Lori Bridal; Jérôme Gateau",
+    "year": 2026,
+    "publication_date": "2026-08-20",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-21",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2608.19823",
+    "primary_url": "https://arxiv.org/abs/2608.19823",
+    "pdf_url": "https://arxiv.org/pdf/2608.19823",
+    "source": "Manual-arXiv-seed",
+    "matched_query": "photoacoustic ultrasound localization microscopy 3D perfusion oxygenation planar matrix array 2026",
+    "score": 10,
+    "reasons": [
+      "genuinely recent preprint submitted 2026-08-20 and directly within acoustic-optical multimodal imaging",
+      "combines volumetric multispectral photoacoustic oxygenation imaging with 3D ultrasound localization microscopy perfusion mapping using one planar matrix array",
+      "reports 20 micrometer in-vitro co-registration accuracy and oxygen-saturation measurements over 60-95 percent with about 5 percent accuracy using five wavelengths",
+      "includes both phantom validation and in-vivo mouse imaging",
+      "official arXiv record verifies title, complete authorship, submission date, and technical abstract",
+      "exact title and arXiv identifier were absent from repository code search before this update"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "ultrasound localization microscopy",
+      "multimodal imaging",
+      "3D imaging",
+      "perfusion imaging",
+      "oxygenation imaging",
+      "vascular imaging",
+      "acoustic-optical imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Introduces a single-planar-matrix-array platform that co-registers 3D ultrasound localization microscopy perfusion maps with multispectral photoacoustic oxygenation maps. The platform is validated in vessel phantoms and in vivo in mice and provides complementary microvascular structure, perfusion and oxygenation information in the same volume.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv abstract record",
+    "publication_note": "Submitted on 2026-08-20 and newly surfaced during the 2026-08-21 sweep. No final peer-reviewed venue was verified in this sweep, so it is recommended for the candidate set rather than unconditional main-library promotion.",
+    "sources": [
+      "https://arxiv.org/abs/2608.19823",
+      "https://doi.org/10.48550/arXiv.2608.19823"
+    ],
+    "last_verified": "2026-08-21"
+  },
+  {
+    "id": "inverse-problems-imaging-2026-fast-pat-sobolev-matern-priors",
+    "title": "Fast reconstruction approaches for photoacoustic tomography with smoothing Sobolev/Matérn priors",
+    "authors": "Jaakko Kultima; Ronny Ramlau; Teemu Sahlström; Tanja Tarvainen",
+    "year": 2026,
+    "publication_date": "2026-01-26",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-21",
+    "venue": "Inverse Problems and Imaging",
+    "venue_group": null,
+    "venue_type": "journal article",
+    "volume": "25",
+    "pages": "51-66",
+    "doi": "10.3934/ipi.2026015",
+    "primary_url": "https://www.aimsciences.org/article/doi/10.3934/ipi.2026015",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "photoacoustic tomography fast reconstruction Sobolev Matern priors inverse problems imaging 2026",
+    "score": 9,
+    "reasons": [
+      "peer-reviewed final journal article directly focused on computational photoacoustic tomography reconstruction",
+      "connects deterministic Sobolev regularization and Bayesian Matérn covariance priors and develops wavelet-based fast adjoint evaluations",
+      "the resulting formulation reduces computational and memory cost for PAT inverse reconstruction and is validated on photoacoustic reconstructions",
+      "AIMS Press verifies title, authors, volume, pages, DOI, early-access date, and final online publication date",
+      "UEF research information independently corroborates the peer-reviewed final journal citation",
+      "exact title and DOI were absent from repository code search before this update"
+    ],
+    "topics": [
+      "photoacoustic tomography",
+      "photoacoustic reconstruction",
+      "inverse problems",
+      "regularization",
+      "Bayesian imaging",
+      "Matérn priors",
+      "wavelets"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Develops computationally efficient PAT reconstruction formulations by establishing a connection between smoothing Matérn covariance priors and Sobolev embedding operators, then using wavelet-based implementations of the relevant adjoint operators to reduce compute and memory costs in deterministic and Bayesian reconstructions.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "AIMS Press / Inverse Problems and Imaging; UEF CRIS",
+    "publication_note": "Published online 2026-01-26. This is a newly surfaced repository-absent peer-reviewed backfill, not a newly published paper in the latest interval.",
+    "sources": [
+      "https://www.aimsciences.org/article/doi/10.3934/ipi.2026015",
+      "https://doi.org/10.3934/ipi.2026015",
+      "https://uef.cris.fi/en/publications/52d6c0da-2738-42a6-bee3-acf2dbfccf6e"
+    ],
+    "last_verified": "2026-08-21"
+  }
+]
