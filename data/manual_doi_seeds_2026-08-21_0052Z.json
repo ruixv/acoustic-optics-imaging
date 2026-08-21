@@ -1,0 +1,132 @@
+[
+  {
+    "id": "media-2026-ultrasoundnerf-sonographic-neural-reflection-field",
+    "title": "UltraSoundNeRF: Sonographic neural reflection field for novel view synthesis",
+    "authors": "Magdalena Wysocki; Mohammad Farid Azampour; Benjamin Busam; Nassir Navab",
+    "year": 2026,
+    "publication_date": "2026-08-03",
+    "venue": "Medical Image Analysis",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.media.2026.104194",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S136184152600263X",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "ultrasound acoustic imaging neural field novel view synthesis reconstruction 2026",
+    "score": 10,
+    "reasons": [
+      "peer-reviewed Medical Image Analysis article directly focused on physically grounded ultrasound image formation and novel-view reconstruction",
+      "introduces a Sonographic Neural Reflection Field with a differentiable forward model that explicitly separates attenuation, scattering and reflection",
+      "physics-informed regularization improves interpretability of inferred acoustic-property maps while retaining reconstruction quality",
+      "ScienceDirect verifies the title, authors, DOI, article number and available-online date of 2026-08-03; TUM independently corroborates the final journal metadata",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "ultrasound imaging",
+      "neural fields",
+      "novel view synthesis",
+      "physics-based rendering",
+      "3D ultrasound reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces UltraSoundNeRF, a physically interpretable neural field for B-mode ultrasound that models attenuation, scattering and reflection in a differentiable forward renderer, enabling novel-view synthesis while recovering more meaningful acoustic-property maps.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "ScienceDirect / Medical Image Analysis; Technical University of Munich research portal",
+    "publication_note": "Available online on 2026-08-03; assigned to Medical Image Analysis volume 114 (November 2026). This is a newly surfaced final-journal record rather than a paper first published during this run.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S136184152600263X",
+      "https://doi.org/10.1016/j.media.2026.104194"
+    ],
+    "last_verified": "2026-08-21"
+  },
+  {
+    "id": "midl-2026-ultrag-ray-physics-gaussian-ultrasound",
+    "title": "UltraG-Ray: Physics-Based Gaussian Ray Casting for Novel Ultrasound View Synthesis",
+    "authors": "Felix Duelmer; Jakob Klaushofer; Magdalena Wysocki; Nassir Navab; Mohammad Farid Azampour",
+    "year": 2026,
+    "publication_date": "2026-05-05",
+    "venue": "MIDL 2026 / Proceedings of Machine Learning Research 315",
+    "venue_group": "PMLR",
+    "venue_type": "conference paper",
+    "doi": "10.48550/arXiv.2603.29022",
+    "primary_url": "https://proceedings.mlr.press/v315/duelmer26a.html",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "ultrasound acoustic imaging Gaussian ray casting physics-based novel view synthesis MIDL 2026",
+    "score": 9,
+    "reasons": [
+      "accepted MIDL 2026 paper with a final PMLR proceedings record and direct relevance to ultrasound image formation",
+      "represents the acoustic scene with a learnable 3D Gaussian field and explicitly encodes attenuation and reflection in a physics-based ray-casting renderer",
+      "official PMLR abstract reports consistent gains over prior methods, including up to 15% higher MS-SSIM",
+      "PMLR verifies final authorship, pages 928-946 and proceedings metadata; OpenReview independently verifies MIDL 2026 poster acceptance",
+      "exact title and arXiv identifier were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "ultrasound imaging",
+      "Gaussian representation",
+      "physics-based ray casting",
+      "novel view synthesis",
+      "3D ultrasound reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Presents UltraG-Ray, a learnable 3D Gaussian acoustic-scene representation coupled to an ultrasound-specific ray-casting model that explicitly captures reflection and view-dependent attenuation for realistic B-mode novel-view synthesis.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PMLR MIDL 2026 proceedings; OpenReview; arXiv",
+    "publication_note": "PMLR lists volume 315 as published on 2026-05-05 and the MIDL 2026 meeting as held 2026-07-08 to 2026-07-10. This is a newly surfaced proceedings backfill rather than a paper first published during this run.",
+    "sources": [
+      "https://proceedings.mlr.press/v315/duelmer26a.html",
+      "https://openreview.net/forum?id=QIUjZpcGYz",
+      "https://doi.org/10.48550/arXiv.2603.29022"
+    ],
+    "last_verified": "2026-08-21"
+  },
+  {
+    "id": "midl-2026-realtime-freehand-ultrasound-novel-view-diffusion-bridge",
+    "title": "Real-Time Novel-View Freehand Ultrasound Imaging via Point-Cloud Rendering and Diffusion-Bridge Completion",
+    "authors": "Hanrui Shi; Boris Mailhé; Zheyuan Zhang; Yikang Liu; Xiao Chen; Ankush Mukherjee; Terrence Chen; Shanhui Sun",
+    "year": 2026,
+    "publication_date": "2026-05-05",
+    "venue": "MIDL 2026 / Proceedings of Machine Learning Research 315",
+    "venue_group": "PMLR",
+    "venue_type": "conference paper",
+    "doi": "",
+    "primary_url": "https://proceedings.mlr.press/v315/shi26b.html",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "freehand ultrasound acoustic imaging novel view reconstruction diffusion bridge MIDL 2026",
+    "score": 8,
+    "reasons": [
+      "final MIDL 2026 PMLR paper directly focused on reconstructing unseen freehand-ultrasound views from sparse tracked B-mode acquisitions",
+      "combines geometric point-cloud rendering with Image-to-Image Schrodinger Bridge completion to synthesize anatomically coherent unseen slices",
+      "official PMLR abstract reports real-time inference below 0.2 seconds per view and improved visual fidelity over standard diffusion-inpainting baselines",
+      "PMLR verifies final authorship, pages 2283-2296 and proceedings metadata",
+      "exact title was absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "ultrasound imaging",
+      "freehand ultrasound",
+      "novel view synthesis",
+      "diffusion model",
+      "3D reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Combines tracked freehand B-mode slices, point-cloud geometry and diffusion-bridge completion to render anatomically coherent ultrasound views at unseen orientations with sub-0.2-second inference per view.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PMLR MIDL 2026 proceedings; OpenReview",
+    "publication_note": "PMLR lists volume 315 as published on 2026-05-05 and the MIDL 2026 meeting as held 2026-07-08 to 2026-07-10. No final DOI was exposed in the authoritative proceedings record, so no DOI was invented. This is a newly surfaced proceedings backfill rather than a paper first published during this run.",
+    "sources": [
+      "https://proceedings.mlr.press/v315/shi26b.html",
+      "https://openreview.net/forum?id=PPpRl9fdMZ"
+    ],
+    "last_verified": "2026-08-21"
+  }
+]
