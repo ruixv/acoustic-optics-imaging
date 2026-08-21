@@ -1,0 +1,45 @@
+[
+  {
+    "id": "photoacoustics-2026-water-sensitive-pa-thermometry-ct-registration",
+    "title": "Water-sensitive photoacoustic temperature characterization at 960 nm in cerebral vascular phantoms with CT co-registration",
+    "authors": "Chengpeng Chai; Kaiyu Wang; Linke Chen; Jinling Zhang; Yufei Mao; Xiaodi Ren; Zhengyang Li; Feiyan Jin; Yun-Hsuan Chen; Liang Lei; Mohamad Sawan",
+    "year": 2026,
+    "publication_date": "2026-07-21",
+    "venue": "Photoacoustics",
+    "venue_group": "Elsevier",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.pacs.2026.100862",
+    "primary_url": "https://pubmed.ncbi.nlm.nih.gov/42540341/",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "photoacoustic imaging thermometry CT co-registration cerebrovascular 2026",
+    "score": 9,
+    "reasons": [
+      "peer-reviewed Photoacoustics article directly within quantitative photoacoustic imaging",
+      "proposes a water-sensitive 960 nm photoacoustic thermometry strategy with CT-guided spatial registration",
+      "reports sub-0.15 C apparent inversion RMSE in tested vascular phantoms, including a bone-like shell condition",
+      "PubMed verifies complete authorship, DOI, article number, online date and biomedical abstract",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "quantitative photoacoustics",
+      "photoacoustic thermometry",
+      "multimodal registration",
+      "cerebrovascular imaging",
+      "CT-photoacoustic fusion"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces water-sensitive 960 nm photoacoustic thermometry with CT-guided registration for structurally constrained temperature estimation in blood-containing cerebrovascular phantoms, preserving sub-degree accuracy even with a bone-like shell.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PubMed / NLM; Photoacoustics",
+    "publication_note": "Published online 2026-07-21; Photoacoustics volume 51, article 100862, eCollection October 2026. Newly surfaced repository backfill rather than a paper first published during this run.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42540341/",
+      "https://doi.org/10.1016/j.pacs.2026.100862"
+    ],
+    "last_verified": "2026-08-21"
+  }
+]
