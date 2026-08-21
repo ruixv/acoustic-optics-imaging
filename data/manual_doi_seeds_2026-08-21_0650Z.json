@@ -41,5 +41,48 @@
       "https://doi.org/10.1016/j.pacs.2026.100862"
     ],
     "last_verified": "2026-08-21"
+  },
+  {
+    "id": "scientific-reports-2026-meta-matching-layer-ultrasound-calcified-plaques",
+    "title": "3D-printed meta-matching layer for enhanced ultrasound transmission through calcified plaques: a phantom study",
+    "authors": "Ashkan Ghanbarzadeh-Dagheyan; Erqian Dong; Maral Ghanami; Chen Shen; Nicholas X. Fang",
+    "year": 2026,
+    "publication_date": "2026-08-17",
+    "venue": "Scientific Reports",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "doi": "10.1038/s41598-026-63870-9",
+    "primary_url": "https://www.nature.com/articles/s41598-026-63870-9",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "Nature Portfolio ultrasound imaging acoustic metasurface meta-matching layer 2026",
+    "score": 9,
+    "reasons": [
+      "peer-reviewed Nature Portfolio article directly demonstrating improved ultrasound image penetration through highly reflective calcified-plaque-like structures",
+      "uses a directly 3D-printed subwavelength gradient-impedance meta-matching layer at 4 MHz to reduce acoustic reflection and improve transmission",
+      "reports approximately 192% higher relative transmission and approximately 77% lower relative reflection, with ultrasound imaging preserving downstream vessel visibility",
+      "Nature verifies title, complete authorship, publication date, DOI and experimental imaging results",
+      "exact DOI and title were absent from repository code search"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "ultrasound imaging",
+      "acoustic metasurface",
+      "meta-matching layer",
+      "vascular imaging",
+      "wavefront transmission"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Demonstrates a patient-adaptable 3D-printed gradient-impedance acoustic meta-matching layer that improves 4 MHz ultrasound transmission through calcified-plaque-like structures and restores visibility of downstream vascular regions.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Nature / Scientific Reports",
+    "publication_note": "Published 2026-08-17 as an early peer-reviewed citable Nature Portfolio article; the publisher notes that copyediting may still change the displayed version. Newly surfaced during this sweep.",
+    "sources": [
+      "https://www.nature.com/articles/s41598-026-63870-9",
+      "https://doi.org/10.1038/s41598-026-63870-9"
+    ],
+    "last_verified": "2026-08-21"
   }
 ]
