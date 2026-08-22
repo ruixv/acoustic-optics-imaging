@@ -1,0 +1,102 @@
+[
+  {
+    "id": "scientific-reports-2026-motion-score-ms-opus-quality-control",
+    "title": "Motion score for spectral quality control of optoacoustic-ultrasound data",
+    "authors": "Jan Kukačka; Maximilian Bader; Dominik Jüstel; Vasilis Ntziachristos",
+    "year": 2026,
+    "publication_date": "2026-01-10",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-22",
+    "venue": "Scientific Reports",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "volume": "16",
+    "article_number": "1325",
+    "doi": "10.1038/s41598-025-33753-6",
+    "primary_url": "https://www.nature.com/articles/s41598-025-33753-6",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "optoacoustic ultrasound motion quality control multispectral photoacoustic 2026 Nature",
+    "score": 10,
+    "reasons": [
+      "peer-reviewed Nature Portfolio paper directly focused on computational quality control for handheld multispectral optoacoustic-ultrasound imaging",
+      "introduces Motion score, which uses similarity among co-registered ultrasound frames to quantify motion and automatically select low-motion multispectral optoacoustic frames",
+      "validated on ten scans including eight tissue-mimicking phantom scans and two in-vivo artery scans",
+      "reports 92% precision, 88% recall, and 91.67% mAP for stationary-frame selection and substantially outperforms optical-flow and cross-correlation alternatives",
+      "Nature and PubMed verify the complete authorship, DOI, volume/article number, publication date, and technical scope",
+      "exact DOI was absent from repository code search before this update"
+    ],
+    "topics": [
+      "optoacoustic imaging",
+      "photoacoustic imaging",
+      "ultrasound imaging",
+      "multimodal imaging",
+      "motion quantification",
+      "quality control",
+      "spectral imaging",
+      "acoustic-optical imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces a post-processing quality-control method for handheld multispectral optoacoustic-ultrasound imaging that estimates motion from co-registered ultrasound frames and selects spectrally reliable low-motion frames without external tracking hardware.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Nature / Scientific Reports; PubMed",
+    "publication_note": "Published 2026-01-10. This is a newly surfaced repository-absent Nature Portfolio backfill, not a paper first published in the latest monitoring interval.",
+    "sources": [
+      "https://www.nature.com/articles/s41598-025-33753-6",
+      "https://pubmed.ncbi.nlm.nih.gov/41519907/",
+      "https://doi.org/10.1038/s41598-025-33753-6"
+    ],
+    "last_verified": "2026-08-22"
+  },
+  {
+    "id": "photoacoustics-2026-real-time-vascular-recognition-har-unet",
+    "title": "Real-time deep learning-based vascular recognition in clinical breast photoacoustic imaging",
+    "authors": "Wenhan Zheng; Zeyang Sun; Keer Huang; Li Lin; Zhenzhong Liu; Xiaoxiao Xu; Yunrui Cao; Qingjun Liu",
+    "year": 2026,
+    "publication_date": "2026-08-03",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-22",
+    "venue": "Photoacoustics",
+    "venue_group": null,
+    "venue_type": "journal article",
+    "article_number": "100863",
+    "doi": "10.1016/j.pacs.2026.100863",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S2213597926000698",
+    "source": "Manual-authoritative-seed",
+    "matched_query": "photoacoustic imaging real-time vascular recognition deep learning breast 2026",
+    "score": 9,
+    "reasons": [
+      "peer-reviewed Photoacoustics article directly focused on real-time computational analysis of clinical photoacoustic imaging",
+      "proposes HAR-UNet together with a physics-informed simulation workflow to reduce dependence on scarce high-quality clinical training data",
+      "reports end-to-end processing at 18.08 frames per second, enabling synchronous vascular scanning and recognition",
+      "clinical evaluation includes 23 valid breast-cancer cases and reports significant tumor-versus-normal vascular biomarker differences with p < 0.0001",
+      "Elsevier ScienceDirect verifies the title, DOI, article number, online publication date, technical abstract, and all eight author profiles",
+      "exact DOI was absent from repository code search before this update"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "photoacoustic computed tomography",
+      "deep learning",
+      "vascular imaging",
+      "breast imaging",
+      "real-time imaging",
+      "clinical imaging",
+      "physics-informed simulation"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Develops a physics-informed training workflow and HAR-UNet for real-time vascular recognition during clinical breast photoacoustic scanning, reaching 18.08 fps and demonstrating clinically meaningful vascular biomarker differences in an in-vivo breast-cancer cohort.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Elsevier / ScienceDirect",
+    "publication_note": "Available online 2026-08-03. This article was previously withheld because complete authorship was not cleanly exposed; the current ScienceDirect rendering exposes all eight author profiles, allowing high-confidence metadata completion in this sweep.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S2213597926000698",
+      "https://doi.org/10.1016/j.pacs.2026.100863"
+    ],
+    "last_verified": "2026-08-22"
+  }
+]
