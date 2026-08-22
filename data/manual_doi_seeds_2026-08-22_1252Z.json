@@ -1,0 +1,51 @@
+[
+  {
+    "id": "arxiv2604-24414-vectorial-acoustic-multiplexed-holography",
+    "title": "Vectorial Acoustic Multiplexed Holography",
+    "authors": "Yuan Tian; Hao Ge; Jiangpo Zheng; Xiujuan Zhang; Ming-Hui Lu; Yan-Feng Chen",
+    "year": 2026,
+    "publication_date": "2026-04-27",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-22",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2604.24414",
+    "primary_url": "https://arxiv.org/abs/2604.24414",
+    "pdf_url": "https://arxiv.org/pdf/2604.24414",
+    "source": "Manual-arXiv-seed",
+    "matched_query": "acoustic holography vector field particle velocity multiplexing binary metasurface physics-informed inverse design",
+    "score": 9,
+    "reasons": [
+      "directly within the acoustic holography and acoustic coded-wavefront scope",
+      "introduces particle-velocity components as additional acoustic holographic channels beyond conventional pressure-only encoding",
+      "uses physics-informed inverse design that explicitly models acoustic propagation and pressure-velocity coupling to optimize a binary metasurface",
+      "experiments demonstrate dual-channel multiplexing on in-plane particle-velocity components and three-channel multiplexing when acoustic pressure is included, with high-fidelity reconstruction and low cross-talk",
+      "official arXiv record verifies the title, complete authorship, submission date and technical abstract",
+      "exact title and arXiv identifier were absent from repository code search before this update"
+    ],
+    "topics": [
+      "acoustic holography",
+      "acoustic coded imaging",
+      "acoustic metasurfaces",
+      "wavefront control",
+      "multiplexed holography",
+      "particle velocity",
+      "physics-informed inverse design",
+      "acoustic field reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Introduces vectorial acoustic holography that multiplexes information in particle-velocity components and pressure, using a physics-informed inverse-designed binary metasurface to reconstruct multiple low-crosstalk holographic channels without sacrificing spatial or spectral bandwidth.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv abstract record",
+    "publication_note": "This is a newly surfaced repository-absent backfill rather than a paper first published in the latest monitoring interval. It was submitted to arXiv on 2026-04-27; no final peer-reviewed venue was verified in the current sweep, so it should remain in the candidate set pending venue confirmation.",
+    "sources": [
+      "https://arxiv.org/abs/2604.24414",
+      "https://doi.org/10.48550/arXiv.2604.24414"
+    ],
+    "last_verified": "2026-08-22"
+  }
+]
