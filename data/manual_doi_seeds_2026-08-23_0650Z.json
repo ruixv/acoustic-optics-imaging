@@ -1,0 +1,101 @@
+[
+  {
+    "id": "naturecomm-2026-3d-pure-breast-ultrasound",
+    "title": "Portable, real-time 3D ultrasound for operator-independent breast imaging",
+    "authors": "Md Osman Goni Nayeem; Shrihari Viswanath; Hyeokjun Yoon; Aastha Shah; David Sadat; Colin Marcus; Anantha P. Chandrakasan; Tolga Ozmen; Canan Dagdeviren",
+    "year": 2026,
+    "publication_date": "2026-07-01",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-08-23",
+    "venue": "Nature Communications",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal",
+    "volume": "17",
+    "article_number": "5679",
+    "doi": "10.1038/s41467-026-74708-3",
+    "primary_url": "https://www.nature.com/articles/s41467-026-74708-3",
+    "source": "Manual-Nature-seed",
+    "matched_query": "3D ultrasound acoustic imaging adaptive beamforming aberration correction breast imaging portable operator independent",
+    "score": 10,
+    "reasons": [
+      "published in a prioritized Nature Portfolio venue",
+      "directly contributes to acoustic image formation through a portable real-time 3D ultrasound system and adaptive 3D beamforming",
+      "Layered Aberration-Correction Reconstruction compensates heterogeneous speed of sound and reduces depth localization error and defocusing",
+      "integrates sparse-array transducer, acoustic backing/crosstalk engineering and computational reconstruction rather than merely applying ultrasound to a downstream classification task",
+      "Nature version-of-record page verifies title, complete authorship, DOI, volume, article number and publication date",
+      "exact DOI was absent from repository code search before this update"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "3D ultrasound",
+      "ultrasound beamforming",
+      "aberration correction",
+      "speed-of-sound heterogeneity",
+      "portable imaging",
+      "breast imaging",
+      "operator-independent imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research article",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Presents 3D PURE, a portable real-time volumetric breast-ultrasound platform combining a sparse 128-element box array, crosstalk-reducing acoustic/electronic design, and Layered Aberration-Correction Reconstruction for heterogeneous speed-of-sound compensation, together with a vision-guided interface for reproducible self-positioning.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Nature Communications version-of-record page",
+    "publication_note": "Newly surfaced repository-absent backfill in this monitoring sweep; the article was published on 2026-07-01 rather than during the latest few-hour interval.",
+    "sources": [
+      "https://www.nature.com/articles/s41467-026-74708-3",
+      "https://doi.org/10.1038/s41467-026-74708-3"
+    ],
+    "last_verified": "2026-08-23"
+  },
+  {
+    "id": "photoacoustics-2026-pam-motion-diffusion-restoration",
+    "title": "Acquisition-inspired motion artifact modeling and degradation-consistent diffusion restoration in photoacoustic microscopy",
+    "authors": "Heqing Wang; Shuyan Zhang; Jingtan Li; Xinyi Lim; Naidi Sun; Bin Hu",
+    "year": 2026,
+    "publication_date": "2026-10",
+    "publication_date_precision": "issue-month",
+    "indexed_date": "2026-08-23",
+    "venue": "Photoacoustics",
+    "venue_group": "Photoacoustics",
+    "venue_type": "journal",
+    "volume": "51",
+    "article_number": "100867",
+    "doi": "10.1016/j.pacs.2026.100867",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S221359792600073X",
+    "source": "Manual-Elsevier-seed",
+    "matched_query": "photoacoustic microscopy motion artifact acquisition model diffusion restoration degradation consistency",
+    "score": 9,
+    "reasons": [
+      "directly targets computational photoacoustic image restoration rather than downstream diagnosis",
+      "models raster-scan motion corruption as inter-line misregistration and intra-line sampling distortion tied to the PAM acquisition process",
+      "uses degradation-guided conditional diffusion with explicit forward-degradation consistency and a learned prior estimator for real-data inference",
+      "ScienceDirect verifies the title, six authors, DOI, volume, article number, final issue assignment and technical abstract",
+      "exact DOI was absent from repository code search before this update"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "photoacoustic microscopy",
+      "motion artifact correction",
+      "image restoration",
+      "diffusion models",
+      "degradation modeling",
+      "vascular imaging",
+      "computational imaging"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research article",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces an acquisition-grounded PAM motion model that separates inter-line and intra-line raster-scan distortions, then restores corrupted images with a conditional diffusion model guided by estimated motion priors and constrained by the same forward degradation operators used to generate training corruption.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "ScienceDirect publisher record",
+    "publication_note": "The authoritative ScienceDirect record currently exposes the final Volume 51 / October 2026 issue assignment but not a reliable exact first-online day in the accessible metadata, so this seed intentionally stores issue-month precision rather than inventing a day-level date.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S221359792600073X",
+      "https://doi.org/10.1016/j.pacs.2026.100867"
+    ],
+    "last_verified": "2026-08-23"
+  }
+]
