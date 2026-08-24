@@ -1,0 +1,137 @@
+[
+  {
+    "id": "photoacoustics-2026-xact-limited-view-fad-gimae",
+    "title": "Limited-view signal recovery with frequency-aware denoising diffusion and geometry-integrated masked autoencoders for X-ray acoustic computed tomography",
+    "authors": "Jiayuan Peng; Mengyang Lu; Bin Cai; Weigang Hu; Qingli Zhou; Xin Liu",
+    "year": 2026,
+    "publication_date": "2026-04-10",
+    "publication_date_precision": "online-day",
+    "indexed_date": "2026-08-24",
+    "venue": "Photoacoustics",
+    "venue_group": "Elsevier Photoacoustics",
+    "venue_type": "journal",
+    "doi": "10.1016/j.pacs.2026.100826",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S2213597926000327",
+    "source": "Manual-Elsevier-PMC-seed",
+    "matched_query": "X-ray acoustic computed tomography limited-view acoustic imaging diffusion masked autoencoder reconstruction",
+    "score": 9,
+    "reasons": [
+      "directly addresses inverse reconstruction in X-ray acoustic computed tomography under realistic limited-view and low-SNR acquisition",
+      "combines frequency-aware diffusion denoising with detector-geometry-integrated masked autoencoders to restore missing RF channels before time-reversal reconstruction",
+      "reports SSIM improvements of 31.1% in simulation and 26.4% in experiments relative to limited-view acquisition",
+      "publisher and PMC records verify the title, six authors, DOI, article number, issue assignment, and 2026-04-10 online publication date",
+      "exact DOI/article number was absent from repository code search before this update"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "X-ray acoustic computed tomography",
+      "thermoacoustic imaging",
+      "limited-view reconstruction",
+      "diffusion model",
+      "masked autoencoder",
+      "inverse reconstruction"
+    ],
+    "status": "metadata-verified-final",
+    "relevance": "core",
+    "paper_type": "peer-reviewed journal article",
+    "recommendation": "add-to-main-library",
+    "summary_en": "A two-stage XACT reconstruction framework first suppresses band-limited and white noise with frequency-aware diffusion, then uses detector-geometry-aware masked autoencoders to infer missing angular RF channels before time-reversal reconstruction, substantially improving limited-view image fidelity in simulation and LINAC experiments.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Elsevier ScienceDirect and PubMed Central",
+    "publication_note": "Newly surfaced repository-absent backfill. Published online 2026-04-10 and assigned to Photoacoustics volume 49 (June 2026), article 100826.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S2213597926000327",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13103586/",
+      "https://doi.org/10.1016/j.pacs.2026.100826"
+    ],
+    "last_verified": "2026-08-24"
+  },
+  {
+    "id": "jge-2026-tunnel-borehole-acoustic-focused-imaging",
+    "title": "Focused Imaging Method Based on Tunnel Borehole Acoustic Detection for Adverse Geological Bodies Ahead of the Tunnel Face and Field Application",
+    "authors": "Zhao Dong; Xiaolin Xu; Jianhao Hou; Zhengyu Liu; Fengkai Zhang; Hongyi Cao; Chao Gao",
+    "year": 2026,
+    "publication_date": "2026-08-19",
+    "publication_date_precision": "online-day",
+    "indexed_date": "2026-08-24",
+    "venue": "Journal of Geophysics and Engineering",
+    "venue_group": "Oxford University Press",
+    "venue_type": "journal",
+    "doi": "10.1093/jge/gxag105",
+    "primary_url": "https://academic.oup.com/jge/advance-article/doi/10.1093/jge/gxag105/8765669",
+    "source": "Manual-OUP-seed",
+    "matched_query": "acoustic imaging borehole focused imaging delay stacking tunnel geohazard acoustic detection",
+    "score": 8,
+    "reasons": [
+      "genuinely recent acoustic-imaging paper published online on 2026-08-19",
+      "develops traveltime-driven delay-stacking imaging with statistical outlier removal and semblance coherence weighting for single-borehole acoustic detection",
+      "demonstrates improved focusing and anomaly localization over conventional diffraction stacking and validates the method in a deeply buried tunnel",
+      "Oxford Academic verifies title, DOI, accepted-manuscript status, publication date, and method; complete authorship is corroborated by bibliographic DOI indexing",
+      "exact DOI was absent from repository code search before this update"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "borehole acoustic imaging",
+      "focused imaging",
+      "delay stacking",
+      "geophysical imaging",
+      "inverse acoustics"
+    ],
+    "status": "metadata-verified-accepted",
+    "relevance": "core",
+    "paper_type": "peer-reviewed accepted manuscript",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Proposes a single-borehole acoustic focused-imaging method that combines traveltime-driven delay stacking, statistical outlier removal, and semblance coherence weighting to localize fractures, cavities, and water-rich fractured zones ahead of tunnel excavation, with simulation and field validation.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Oxford Academic accepted-manuscript record with bibliographic DOI-index corroboration for complete authorship",
+    "publication_note": "Recently published accepted manuscript. Oxford Academic lists publication on 2026-08-19; final typeset issue/page metadata are not yet assigned and are intentionally omitted.",
+    "sources": [
+      "https://academic.oup.com/jge/advance-article/doi/10.1093/jge/gxag105/8765669",
+      "https://doi.org/10.1093/jge/gxag105"
+    ],
+    "last_verified": "2026-08-24"
+  },
+  {
+    "id": "radiology-imaging-cancer-2026-crlm-photoacoustic-microscopy",
+    "title": "Deciphering Colorectal Liver Metastasis Perfusion Heterogeneity: Identification of Distinct Vascular Phenotypes through High-Lateral-Resolution Photoacoustic Microscopy",
+    "authors": "Kuanhong Wang; Chenyi Xie; Manqi Wu; Shihan Kang; Kedi Xiong; Yingying Guo; Xue Wei; Hengxiao Hu; Yajun Liu; Jingfan Zhan; Yulu Hou; Zaiyi Liu; Ting Guo; Xin Chen",
+    "year": 2026,
+    "publication_date": "2026-07",
+    "publication_date_precision": "month",
+    "indexed_date": "2026-08-24",
+    "venue": "Radiology: Imaging Cancer",
+    "venue_group": "RSNA",
+    "venue_type": "journal",
+    "doi": "10.1148/rycan.250523",
+    "primary_url": "https://pubmed.ncbi.nlm.nih.gov/42429583/",
+    "source": "Manual-PubMed-seed",
+    "matched_query": "photoacoustic microscopy vascular imaging colorectal liver metastasis perfusion heterogeneity",
+    "score": 8,
+    "reasons": [
+      "uses high-lateral-resolution photoacoustic microscopy as the central imaging modality to quantify microvascular architecture and distinguish two metastatic vascular phenotypes",
+      "tracks vascular signatures longitudinally and measures response to bevacizumab, demonstrating a substantive functional imaging application rather than downstream analysis alone",
+      "PubMed verifies the complete 14-author list, DOI, final journal citation, volume/issue, and July 2026 publication month",
+      "exact DOI was absent from repository code search before this update"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "photoacoustic microscopy",
+      "microvascular imaging",
+      "functional imaging",
+      "cancer imaging"
+    ],
+    "status": "metadata-verified-final",
+    "relevance": "core",
+    "paper_type": "peer-reviewed journal article",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Uses high-lateral-resolution PAM to quantify vessel density, junction density, diameter, and lacunarity in colorectal liver metastases, separating angiogenesis-type from vessel-co-option-type vascular phenotypes and tracking their differential response to bevacizumab.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PubMed / RSNA-indexed final journal metadata",
+    "publication_note": "Newly surfaced repository-absent July 2026 backfill. PubMed exposes reliable month-level publication metadata, so no exact day is invented.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42429583/",
+      "https://doi.org/10.1148/rycan.250523"
+    ],
+    "last_verified": "2026-08-24"
+  }
+]
