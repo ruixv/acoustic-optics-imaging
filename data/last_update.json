@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-08-24T13:14:50.728729+00:00",
+  "last_run": "2026-08-24T19:01:15.241747+00:00",
   "since_date": "2024-08-24",
-  "raw_candidates_seen": 1851,
+  "raw_candidates_seen": 1852,
   "saved_candidates_total": 791,
   "citation_graph_seed_count": 50,
   "errors": [
@@ -267,7 +267,7 @@
     }
   ],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
-  "manual_doi_seed_last_run": "2026-08-24T13:14:50.861440+00:00",
+  "manual_doi_seed_last_run": "2026-08-24T19:01:15.379763+00:00",
   "manual_doi_seed_file_count": 128,
   "manual_doi_seed_files": [
     "manual_doi_seeds.json",
@@ -423,10 +423,10 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-08-24T13:15:21.798228+00:00",
+  "agent_audit_last_run": "2026-08-24T19:01:48.470793+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 17,
-  "resolved_final_versions": 28,
+  "resolved_final_versions": 30,
   "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion, geometric acoustic rendering/path tracing, acoustic holography, and photoacoustic/acousto-optic imaging; hidden mmWave track covers radar imaging, handheld SAR/autofocus, FMCW/MIMO-SAR, 4D radar, through-occlusion reconstruction, surface normals, and radar scene understanding. Nature-family mapping includes Communications Engineering.",
   "mmwave_allowlist_final_groups": [
     "ACM TOG / SIGGRAPH",
