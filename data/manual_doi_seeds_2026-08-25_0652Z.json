@@ -1,0 +1,50 @@
+[
+  {
+    "id": "npj-imaging-2026-hemispherical-pact-spatial-sampling",
+    "title": "Spatial sampling of hemispherical arrays for three-dimensional photoacoustic computed tomography",
+    "authors": "Wanqing Zhang; Hengyue Zhu; Yide Zhang",
+    "year": 2026,
+    "publication_date": "2026-08-25",
+    "publication_date_precision": "online-day",
+    "indexed_date": "2026-08-25",
+    "venue": "npj Imaging",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal",
+    "doi": "10.1038/s44303-026-00191-6",
+    "primary_url": "https://www.nature.com/articles/s44303-026-00191-6",
+    "source": "Manual-Nature-seed",
+    "matched_query": "3D photoacoustic computed tomography hemispherical array spatial sampling Fibonacci reconstruction hardware design",
+    "score": 10,
+    "reasons": [
+      "genuinely new Nature Portfolio photoacoustic-imaging paper published on 2026-08-25",
+      "directly studies hardware-level spatial sampling for hemispherical arrays in three-dimensional photoacoustic computed tomography rather than downstream analysis",
+      "introduces a uniform-spacing sampling criterion and benchmarks representative array layouts under static, noisy, reduced-element, and rotational acquisition settings",
+      "finds Fibonacci sampling to provide comparatively robust and globally balanced reconstruction quality due to its isotropic spatial sampling",
+      "Nature verifies the title, three authors, DOI, publication date, acceptance date, venue, and technical abstract",
+      "exact DOI was absent from repository code search before this update"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "photoacoustic computed tomography",
+      "3D imaging",
+      "hemispherical transducer array",
+      "spatial sampling",
+      "array design",
+      "limited-view mitigation",
+      "computational imaging"
+    ],
+    "status": "metadata-verified-early-view",
+    "relevance": "core",
+    "paper_type": "peer-reviewed journal article",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Studies how hemispherical transducer-array sampling geometry affects baseline 3D PACT reconstruction quality under fixed hardware constraints. A uniform-spacing design framework is used to compare representative layouts across noise, reduced-element, static, and rotational acquisition regimes, with Fibonacci sampling showing the most globally balanced structural robustness.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Nature / npj Imaging",
+    "publication_note": "Genuinely new paper published by npj Imaging on 2026-08-25. Nature currently exposes it as an early peer-reviewed article with permanent DOI; final volume/article-number metadata are not yet assigned and are intentionally omitted.",
+    "sources": [
+      "https://www.nature.com/articles/s44303-026-00191-6",
+      "https://doi.org/10.1038/s44303-026-00191-6"
+    ],
+    "last_verified": "2026-08-25"
+  }
+]
