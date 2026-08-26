@@ -1,0 +1,49 @@
+[
+  {
+    "id": "eswa-2026-st-cwi-net-usct",
+    "title": "Acquisition-efficient full-matrix ultrasound computed tomography via mask-aware spatiotemporal wavelet data completion",
+    "authors": "Zexi Yan; Dan Gao; Chenbin Ma; Rihui Xue; Guojun Zhang; Wendong Zhang; Renxin Wang; Licheng Jia",
+    "year": 2026,
+    "publication_date": "2026-08-19",
+    "publication_date_precision": "online-day",
+    "indexed_date": "2026-08-26",
+    "venue": "Expert Systems with Applications",
+    "venue_type": "journal",
+    "doi": "10.1016/j.eswa.2026.134065",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S0957417426029714",
+    "source": "Manual-Elsevier-seed",
+    "matched_query": "ultrasound computed tomography sparse full matrix capture RF data completion wavelet reconstruction",
+    "score": 9,
+    "reasons": [
+      "direct computational ultrasound computed tomography contribution focused on sparse full-matrix acquisition and reconstruction",
+      "recovers missing phase-sensitive FMC RF channel data before beamforming using spatiotemporal context, wavelet fusion, mask-aware spectral gating, and hard data consistency",
+      "evaluated on in vivo breast USCT acquired with a 512-element ring array, including transmit undersampling and channel-reduced acquisition settings",
+      "completed data preserve downstream MVDR reconstruction quality with image SSIM above 0.95 relative to paired full-FMC references",
+      "Elsevier/ScienceDirect verifies the title, eight authors, DOI, article number, online publication date, technical abstract, and in vivo evaluation details",
+      "exact title and DOI were absent from repository code search before this update"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "ultrasound computed tomography",
+      "full matrix capture",
+      "sparse acquisition",
+      "RF data completion",
+      "wavelet neural network",
+      "breast ultrasound imaging",
+      "computational imaging"
+    ],
+    "status": "metadata-verified-journal-preproof",
+    "relevance": "core",
+    "paper_type": "peer-reviewed journal article",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces ST-CWI-Net for recovering full-aperture phase-sensitive FMC radio-frequency data from sparse breast-USCT acquisitions. The model combines adjacent temporal RF slices, wavelet-domain fusion, sampling-mask conditioning, spectral gating, and hard data consistency, enabling faster transmit acquisition or reduced receive-channel hardware while retaining high downstream MVDR reconstruction fidelity.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Elsevier / ScienceDirect",
+    "publication_note": "Available online 2026-08-19 as an Expert Systems with Applications journal pre-proof, article 134065. This run newly surfaced the record; it is a recent backfill rather than a paper first published within the latest few hours.",
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0957417426029714",
+      "https://doi.org/10.1016/j.eswa.2026.134065"
+    ],
+    "last_verified": "2026-08-26"
+  }
+]
