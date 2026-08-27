@@ -1,0 +1,50 @@
+[
+  {
+    "id": "arxiv-2608-25472-pags-pact",
+    "title": "PAGS: Autofocusing Photoacoustic Tomography via Speed-of-Sound-Adaptive Gaussian Splatting",
+    "authors": "Jiarui Ge; Jintao Ma; Bangxu Fan; Jinyan Zhang; Xiaokang Yang; Shuai Na; Xiaoyun Yuan",
+    "year": 2026,
+    "publication_date": "2026-08-27",
+    "publication_date_precision": "arxiv-announcement-day",
+    "indexed_date": "2026-08-27",
+    "venue": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2608.25472",
+    "arxiv": "2608.25472",
+    "primary_url": "https://arxiv.org/abs/2608.25472",
+    "source": "Manual-arXiv-seed",
+    "matched_query": "photoacoustic tomography speed of sound autofocusing Gaussian splatting heterogeneous acoustic medium",
+    "score": 10,
+    "reasons": [
+      "direct computational photoacoustic tomography contribution addressing heterogeneous speed-of-sound defocusing",
+      "introduces sparse Gaussian photoacoustic source representation together with an anisotropic path-averaged speed-of-sound field parameterized by spherical-harmonic probes",
+      "uses analytic Gaussian acoustic projection and closed-loop signal-domain optimization to jointly refine source parameters and latent propagation field without calibrated SoS priors",
+      "reports simulated and physical phantom validation, robustness to sparse-view sampling, and computational benefits from the analytic projection",
+      "author laboratory website independently lists the work and complete seven-author metadata",
+      "exact title and arXiv identifier were absent from repository code search before this update"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "photoacoustic computed tomography",
+      "Gaussian splatting",
+      "autofocusing",
+      "speed-of-sound heterogeneity",
+      "inverse problems",
+      "differentiable imaging",
+      "computational imaging"
+    ],
+    "status": "metadata-verified-preprint",
+    "relevance": "core",
+    "paper_type": "preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Introduces PAGS, a differentiable blind-autofocusing framework for PACT that represents the initial pressure field with sparse Gaussian sources and models heterogeneous propagation using a compact anisotropic path-averaged speed-of-sound field. An analytic Gaussian acoustic projection enables efficient signal-domain optimization of both image and propagation parameters, improving reconstruction sharpness without calibrated SoS priors.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "arXiv indexing / author laboratory publication page",
+    "publication_note": "Newly indexed in the 2026-08-27 arXiv stream. Because this is currently a preprint, keep it in candidates until a peer-reviewed venue is verified.",
+    "sources": [
+      "https://arxiv.org/abs/2608.25472",
+      "https://xiaoyunyuan.net/"
+    ],
+    "last_verified": "2026-08-27"
+  }
+]
