@@ -1,0 +1,50 @@
+[
+  {
+    "id": "arxiv-2608-25367-rsfusiondet-rgb-sonar",
+    "title": "RSFusionDet: Underwater RGB-Sonar Multimodal Object Detection",
+    "authors": "Zhuoyan Liu; Yihan Wang; Bo Wang; Bing Wang; Ye Li",
+    "year": 2026,
+    "publication_date": "2026-08-27",
+    "publication_date_precision": "arxiv-announcement-day",
+    "indexed_date": "2026-08-27",
+    "venue": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2608.25367",
+    "arxiv": "2608.25367",
+    "primary_url": "https://arxiv.org/abs/2608.25367",
+    "source": "Manual-arXiv-seed",
+    "matched_query": "underwater RGB sonar multimodal object detection camera-sonar fusion cross-attention object matching",
+    "score": 9,
+    "reasons": [
+      "direct camera-sonar fusion contribution within repository scope",
+      "introduces the RSFusion paired RGB-sonar benchmark together with explicit cross-modal object matching evaluation",
+      "CAFusion addresses spatially misaligned RGB-sonar features using cross-attention",
+      "OMHead and OMLoss explicitly associate identical objects across the two sensing modalities",
+      "reports 76.4/48.6 AP for RGB/sonar detection and 83.4 F1-Score_match on RSFusion",
+      "official arXiv record verifies title, complete five-author list, submission metadata, and arXiv identifier",
+      "exact title and arXiv identifier were absent from repository code search before this update"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "RGB-sonar fusion",
+      "underwater imaging",
+      "multimodal object detection",
+      "cross-modal matching",
+      "cross-attention",
+      "sonar imaging"
+    ],
+    "status": "metadata-verified-preprint",
+    "relevance": "core",
+    "paper_type": "preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Introduces RSFusionDet and the paired RSFusion RGB-sonar dataset for underwater multimodal object detection. The framework uses cross-attention to fuse spatially misaligned RGB and sonar features and adds an explicit object-matching head/loss to associate the same targets across modalities, jointly evaluating per-modality detection and cross-modal correspondence.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "arXiv",
+    "publication_note": "Newly indexed in the late-August 2026 arXiv stream. Keep as a core candidate until a peer-reviewed final venue is verified.",
+    "sources": [
+      "https://arxiv.org/abs/2608.25367",
+      "https://github.com/LEFTeyex/RSFusionDet"
+    ],
+    "last_verified": "2026-08-28"
+  }
+]
