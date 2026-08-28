@@ -1,0 +1,49 @@
+[
+  {
+    "id": "arxiv-2608-24325-sonarllm-sonar-optical-mllm",
+    "title": "SonarLLM: A Native Sonar--Optical Multimodal Large Language Model for Underwater Perception",
+    "authors": "Cong Su; Longxuan Ma; Ling Dong; Guofeng Tang; Weijie Yin; Haohui Chen; Zhengtao Yu",
+    "year": 2026,
+    "publication_date": "2026-08-25",
+    "publication_date_precision": "arxiv-submission-day",
+    "indexed_date": "2026-08-28",
+    "venue": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2608.24325",
+    "arxiv": "2608.24325",
+    "primary_url": "https://arxiv.org/abs/2608.24325",
+    "source": "Manual-arXiv-seed",
+    "matched_query": "sonar optical multimodal large language model underwater perception camera-sonar fusion",
+    "score": 8,
+    "reasons": [
+      "direct sonar-optical fusion contribution within the repository's camera-sonar multimodal scope",
+      "introduces a native sonar encoder rather than treating sonar as a generic visual input",
+      "uses modality-specific physics-aware enhancement and reliability-aware hierarchical fusion",
+      "introduces SonarBench for paired sonar-optical recognition, counting, VQA, and captioning evaluation",
+      "reports fusion gains that increase substantially as optical turbidity worsens",
+      "official arXiv record verifies title, complete seven-author list, submission date, and arXiv identifier",
+      "exact title and arXiv identifier were absent from repository code search before this update"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "sonar-optical fusion",
+      "underwater perception",
+      "multimodal large language models",
+      "imaging sonar",
+      "reliability-aware fusion",
+      "underwater multimodal benchmark"
+    ],
+    "status": "metadata-verified-preprint",
+    "relevance": "core-adjacent",
+    "paper_type": "preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Introduces SonarLLM, a sonar-optical multimodal large language model with a sonar-specific encoder, modality-specific physics-aware feature enhancement, and reliability-aware hierarchical fusion. It also introduces SonarBench, a paired benchmark spanning recognition, counting, VQA, and captioning under controlled optical degradation, showing that sonar becomes increasingly complementary as turbidity degrades optical observations.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "arXiv",
+    "publication_note": "Newly surfaced in the late-August 2026 monitoring sweep. Keep as a candidate because the contribution is sonar-optical perception/fusion rather than image formation or reconstruction, and no peer-reviewed final venue is yet verified.",
+    "sources": [
+      "https://arxiv.org/abs/2608.24325"
+    ],
+    "last_verified": "2026-08-28"
+  }
+]
