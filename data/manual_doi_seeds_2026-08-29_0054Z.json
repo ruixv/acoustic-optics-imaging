@@ -1,0 +1,47 @@
+[
+  {
+    "id": "doi-10-1038-s41598-026-67742-0-underwater-buried-target-fwi",
+    "title": "Acoustic detection of underwater buried targets based on transfer-learning-based full waveform inversion",
+    "authors": "Hongwei Gong; Yuanxue Liu; Chuanming Tang; Si He",
+    "year": 2026,
+    "publication_date": "2026-08-28",
+    "publication_date_precision": "publisher-day",
+    "indexed_date": "2026-08-29",
+    "venue": "Scientific Reports",
+    "venue_type": "journal",
+    "doi": "10.1038/s41598-026-67742-0",
+    "primary_url": "https://www.nature.com/articles/s41598-026-67742-0",
+    "source": "Manual-Nature-seed",
+    "matched_query": "acoustic imaging underwater buried target full waveform inversion transfer learning",
+    "score": 9,
+    "reasons": [
+      "new Nature Portfolio publication dated 28 August 2026",
+      "direct acoustic inverse-imaging contribution based on full waveform inversion",
+      "targets shallow small-scale underwater buried-object reconstruction/detection",
+      "transfer-learning-based FWI is compared with conventional FWI on simulations and field-test data",
+      "publisher reports reduced computational time, sidelobe energy ratio, and maximum sidelobe amplitude",
+      "Nature publisher page verifies title, full author list, DOI, acceptance date, publication date, and method scope",
+      "exact DOI was absent from repository code search before this update"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "underwater imaging",
+      "full waveform inversion",
+      "inverse acoustics",
+      "transfer learning",
+      "buried target detection"
+    ],
+    "status": "metadata-verified-peer-reviewed",
+    "relevance": "core",
+    "paper_type": "journal article",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Adapts transfer-learning-based full waveform inversion to shallow, small-scale acoustic detection of underwater buried targets. The method is pretrained and fine-tuned on large simulated datasets and evaluated on numerical simulations and field-test data, with the publisher reporting lower computational time and reduced sidelobe metrics compared with conventional FWI under the tested iterative schemes.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Nature / Scientific Reports",
+    "publication_note": "Genuinely new Nature Portfolio publication from 28 August 2026 and directly within the repository's computational acoustic-imaging scope.",
+    "sources": [
+      "https://www.nature.com/articles/s41598-026-67742-0"
+    ],
+    "last_verified": "2026-08-29"
+  }
+]
