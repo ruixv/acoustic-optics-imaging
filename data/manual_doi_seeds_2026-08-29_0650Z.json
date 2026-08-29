@@ -1,0 +1,48 @@
+[
+  {
+    "id": "doi-10-3390-app16178561-underwater-acoustic-optical-fusion-uuv",
+    "title": "Underwater Acoustic–Optical Multimodal Fusion Detection Algorithm for UUVs with Cross-Domain Validation",
+    "authors": "Zhiqiang Zhang; Ming Guo; Xiaochuan Wang; Hongri Zhu; Peilong Yuan",
+    "year": 2026,
+    "publication_date": "2026-08-28",
+    "publication_date_precision": "publisher-day",
+    "indexed_date": "2026-08-29",
+    "venue": "Applied Sciences",
+    "venue_type": "journal",
+    "doi": "10.3390/app16178561",
+    "primary_url": "https://www.mdpi.com/2076-3417/16/17/8561",
+    "source": "Manual-MDPI-seed",
+    "matched_query": "underwater acoustic optical multimodal fusion sonar camera UUV cross-domain validation",
+    "score": 8,
+    "reasons": [
+      "newly published on 28 August 2026",
+      "direct camera-sonar/acoustic-optical multimodal fusion contribution",
+      "uses synchronized forward-looking sonar and underwater RGB imagery",
+      "introduces cross-modal feature matching, sparse-autoencoder fusion, and environment-aware degradation modeling",
+      "includes cross-domain and cross-device validation on Tianjin and Sanya datasets",
+      "publisher reports fused mAP@0.5 of 0.996 on the Sanya test set and complementary recovery of modality-specific failures",
+      "MDPI publisher page verifies title, full author list, DOI, acceptance/publication dates, datasets, and technical scope",
+      "exact DOI was absent from repository code search before this update"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "acoustic-optical imaging",
+      "underwater perception",
+      "multimodal fusion",
+      "forward-looking sonar",
+      "cross-modal alignment"
+    ],
+    "status": "metadata-verified-peer-reviewed",
+    "relevance": "core-adjacent",
+    "paper_type": "journal article",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Develops an acoustic-optical multimodal fusion module for UUV perception using separate sonar and optical YOLOv5 branches, environmental-degradation estimation, cross-modal feature-map matching, deep sparse-autoencoder fusion, and weighted-box fusion. The study validates the approach using synchronized forward-looking-sonar and RGB data from controlled and sea trials, including cross-domain and cross-device tests under turbidity, illumination variation, material differences, and multipath interference.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "MDPI / Applied Sciences",
+    "publication_note": "Genuinely new 28 August 2026 camera-sonar fusion paper. Strongly relevant to the repository's acoustic-optical fusion branch, but the primary contribution is object detection/perception rather than image formation or 3D reconstruction, so candidate status is preferred over unconditional main-library promotion.",
+    "sources": [
+      "https://www.mdpi.com/2076-3417/16/17/8561"
+    ],
+    "last_verified": "2026-08-29"
+  }
+]
