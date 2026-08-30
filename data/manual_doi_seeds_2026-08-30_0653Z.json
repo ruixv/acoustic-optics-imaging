@@ -1,0 +1,95 @@
+[
+  {
+    "id": "doi-10-1016-j-pacs-2026-100860-robust-3d-sos-compensation",
+    "title": "Robust automated three-dimensional speed-of-sound compensation for hemispherical photoacoustic computed tomography",
+    "authors": "Xuran Zhou; Xiali Gao; Fan Meng; Hao Huang; Zhibo Xiao; Xuanhao Wang; Junhui Shi",
+    "year": 2026,
+    "publication_date": "2026-07-22",
+    "publication_date_precision": "publisher-day",
+    "indexed_date": "2026-08-30",
+    "venue": "Photoacoustics",
+    "venue_type": "journal",
+    "volume": "51",
+    "article_number": "100860",
+    "doi": "10.1016/j.pacs.2026.100860",
+    "primary_url": "https://pubmed.ncbi.nlm.nih.gov/42564400/",
+    "source": "Manual-PubMed-seed",
+    "matched_query": "photoacoustic computed tomography speed-of-sound compensation hemispherical 3D reconstruction",
+    "score": 10,
+    "reasons": [
+      "newly surfaced/indexed repository-absent final journal record",
+      "direct 3D PACT reconstruction and aberration-compensation contribution",
+      "automatically estimates irregular tissue boundaries from raw 1024-element hemispherical-array data without auxiliary ultrasound hardware",
+      "uses adaptive signal-domain boundary sensing and an equivalent dual-speed-of-sound model to realign distorted wavefronts",
+      "validated in 3D simulation, irregular phantoms, and in vivo mouse imaging",
+      "PubMed verifies title, complete author list, DOI, volume, article number, and 22 July 2026 e-publication date",
+      "exact DOI was absent from repository code search before this update"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "photoacoustic computed tomography",
+      "3D reconstruction",
+      "speed-of-sound compensation",
+      "aberration correction",
+      "hemispherical array"
+    ],
+    "status": "metadata-verified-peer-reviewed",
+    "relevance": "core",
+    "paper_type": "journal article",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces an automated signal-domain speed-of-sound compensation framework for hemispherical 3D PACT. The method extracts irregular acoustic boundaries directly from raw 1024-element array measurements using robust channel-adaptive thresholds, constructs an equivalent dual-speed-of-sound propagation model, and corrects wavefront distortion without manual segmentation or auxiliary ultrasound hardware. Validation includes simulations, irregular phantoms, and in vivo mouse imaging.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PubMed / Photoacoustics",
+    "publication_note": "High-confidence reconstruction-method backfill. Strongly aligned with computational photoacoustic imaging and should be promoted to the main library.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42564400/"
+    ],
+    "last_verified": "2026-08-30"
+  },
+  {
+    "id": "doi-10-1016-j-pacs-2026-100851-maximum-fluence-functional-pam",
+    "title": "Maximum fluence for accurate functional photoacoustic microscopy",
+    "authors": "Jingyi Zhu; Zhiwei Yao; Lidai Wang",
+    "year": 2026,
+    "publication_date": "2026-08",
+    "publication_date_precision": "issue-month",
+    "indexed_date": "2026-08-30",
+    "venue": "Photoacoustics",
+    "venue_type": "journal",
+    "volume": "50",
+    "article_number": "100851",
+    "doi": "10.1016/j.pacs.2026.100851",
+    "primary_url": "https://pubmed.ncbi.nlm.nih.gov/42389549/",
+    "source": "Manual-PubMed-seed",
+    "matched_query": "functional photoacoustic microscopy optical fluence oxygen saturation accuracy",
+    "score": 8,
+    "reasons": [
+      "newly surfaced/indexed repository-absent final journal record",
+      "directly studies acquisition limits affecting quantitative functional PAM accuracy",
+      "derives and validates a maximum laser-fluence model for accurate sO2 measurements under repeated-pulse scanning",
+      "validated in blood phantom and in vivo mouse brain experiments",
+      "PubMed verifies title, author list, DOI, volume, article number, and August 2026 issue assignment",
+      "exact DOI was absent from repository code search before this update"
+    ],
+    "topics": [
+      "photoacoustic microscopy",
+      "functional imaging",
+      "quantitative photoacoustics",
+      "oxygen saturation",
+      "acquisition design",
+      "laser fluence"
+    ],
+    "status": "metadata-verified-peer-reviewed",
+    "relevance": "core",
+    "paper_type": "journal article",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Studies how repeated laser excitation and transient thermal accumulation affect functional PAM oxygen-saturation accuracy. The paper derives a practical maximum-fluence relation for repeated-pulse imaging and validates it in a blood phantom and mouse brain, providing an acquisition-design constraint for quantitative high-speed functional PAM.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PubMed / Photoacoustics",
+    "publication_note": "High-confidence functional-PAM acquisition/accuracy paper. It is less reconstruction-centric than the 3D SoS-compensation paper but still belongs in the main photoacoustic imaging library because it establishes a quantitative acquisition limit that directly affects image validity.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42389549/"
+    ],
+    "last_verified": "2026-08-30"
+  }
+]
