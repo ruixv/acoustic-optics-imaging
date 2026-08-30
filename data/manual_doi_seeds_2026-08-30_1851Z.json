@@ -1,0 +1,51 @@
+[
+  {
+    "id": "doi-10-3390-s26144340-lightweight-underwater-sonar-rgb-distillation",
+    "title": "Lightweight Underwater Sonar Object Detection via RGB-Guided Heterogeneous Distillation",
+    "authors": "Qianqian Qiao; Jia Liu; Feng Liu; Chengpeng Hao; Tongwei Ren",
+    "year": 2026,
+    "publication_date": "2026-07-08",
+    "publication_date_precision": "publisher-day",
+    "indexed_date": "2026-08-30",
+    "venue": "Sensors",
+    "venue_type": "journal",
+    "volume": "26",
+    "issue": "14",
+    "article_number": "4340",
+    "doi": "10.3390/s26144340",
+    "primary_url": "https://www.mdpi.com/1424-8220/26/14/4340",
+    "source": "Manual-MDPI-PubMed-seed",
+    "matched_query": "camera sonar fusion RGB-guided sonar cross-modal distillation underwater object detection",
+    "score": 7,
+    "reasons": [
+      "newly surfaced repository-absent peer-reviewed camera-sonar cross-modal record",
+      "uses paired RGB and sonar during training to transfer optical semantic information into a deployable sonar detector",
+      "branch-aware heterogeneous distillation explicitly handles geometric inconsistency between RGB and sonar modalities",
+      "student model retains sonar-only inference for resource-constrained underwater deployment",
+      "reports 79.6% mAP and 82.6% mAR on the UXO multimodal dataset",
+      "MDPI publisher record and PubMed independently verify title, authors, DOI, volume, issue, article number, and 8 July 2026 publication date",
+      "exact DOI was absent from repository code search before this update"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "sonar imaging",
+      "cross-modal knowledge distillation",
+      "underwater object detection",
+      "RGB-guided sonar perception",
+      "multimodal sensing"
+    ],
+    "status": "metadata-verified-peer-reviewed",
+    "relevance": "core-adjacent",
+    "paper_type": "journal article",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Proposes CMHD, a lightweight cross-modal heterogeneous distillation framework in which a high-capacity RGB teacher transfers semantic supervision to a sonar student during training. Branch-aware distillation is restricted to objectness and classification to avoid unreliable localization transfer caused by RGB-sonar geometric mismatch. The final model uses sonar alone at inference and reports 79.6% mAP and 82.6% mAR on the UXO multimodal dataset.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "MDPI Sensors / PubMed",
+    "publication_note": "High-confidence camera-sonar backfill. Directly relevant to cross-modal acoustic-optical perception, but recommended for candidates rather than immediate main-library promotion because the contribution is downstream sonar object detection via training-time RGB distillation rather than joint acoustic-optical image formation or reconstruction.",
+    "sources": [
+      "https://www.mdpi.com/1424-8220/26/14/4340",
+      "https://pubmed.ncbi.nlm.nih.gov/42515225/"
+    ],
+    "last_verified": "2026-08-30"
+  }
+]
