@@ -1,0 +1,48 @@
+[
+  {
+    "id": "arxiv-2608-18252-angle-domain-null-subtraction-imaging",
+    "title": "Angle-domain null subtraction imaging from beamformed plane-wave data",
+    "authors": "Henri Leroy",
+    "year": 2026,
+    "publication_date": "2026-08-18",
+    "publication_date_precision": "arxiv-day",
+    "indexed_date": "2026-08-31",
+    "venue": "arXiv",
+    "venue_type": "preprint",
+    "arxiv": "2608.18252",
+    "doi": "10.48550/arXiv.2608.18252",
+    "primary_url": "https://arxiv.org/abs/2608.18252",
+    "source": "Manual-arXiv-seed",
+    "matched_query": "ultrafast ultrasound imaging angle-domain null subtraction beamforming 2026",
+    "score": 8,
+    "reasons": [
+      "repository-absent ultrasound image-formation paper surfaced in the current acoustic-imaging sweep",
+      "moves null subtraction imaging from the receive-element domain to the steering-angle domain after beamforming",
+      "reduces simulated -6 dB lateral width from 0.226 mm for DAS to 0.116 mm while retaining reconstruction time close to DAS",
+      "validated on simulation, open microbubble power-Doppler data, and two in-vivo carotid acquisitions",
+      "official arXiv record verifies title, author, identifier, submission date, abstract, and quantitative results",
+      "exact title was absent from repository code search before this update"
+    ],
+    "topics": [
+      "acoustic imaging",
+      "ultrasound imaging",
+      "ultrafast ultrasound",
+      "plane-wave imaging",
+      "beamforming",
+      "null subtraction imaging",
+      "computational reconstruction"
+    ],
+    "status": "metadata-verified-preprint",
+    "relevance": "core",
+    "paper_type": "preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Introduces angle-domain null subtraction imaging, a post-beamforming variant of NSI that applies zero-mean weighting across steering-angle images rather than receive elements. It improves apparent lateral resolution over DAS while keeping runtime close to conventional coherent plane-wave compounding and is validated in simulation, microbubble power-Doppler data, and in-vivo carotid imaging.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "arXiv",
+    "publication_note": "Submitted to arXiv on 18 August 2026. Newly surfaced repository-absent preprint in this sweep; retain in candidates until peer-reviewed venue metadata is available.",
+    "sources": [
+      "https://arxiv.org/abs/2608.18252"
+    ],
+    "last_verified": "2026-08-31"
+  }
+]
