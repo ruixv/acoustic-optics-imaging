@@ -1,0 +1,51 @@
+[
+  {
+    "id": "doi-10-1038-s44303-026-00184-5-dual-wavelength-optoacoustic-mesoscopy",
+    "title": "Recording skin oxygenation by dual-wavelength ultra-wideband optoacoustic mesoscopy",
+    "authors": "Juan Aguirre; Andrei Berezhnoi; Benedikt Hindelang; Christine Gasteiger; Hailong He; Ulf Darsow; Tilo Biedermann; Vasilis Ntziachristos",
+    "year": 2026,
+    "publication_date": "2026-07-10",
+    "publication_date_precision": "publisher-day",
+    "indexed_date": "2026-08-31",
+    "venue": "npj Imaging",
+    "venue_type": "journal",
+    "volume": "4",
+    "issue": "1",
+    "article_number": "51",
+    "doi": "10.1038/s44303-026-00184-5",
+    "primary_url": "https://www.nature.com/articles/s44303-026-00184-5",
+    "source": "Manual-Nature-PubMed-seed",
+    "matched_query": "optoacoustic photoacoustic imaging dual-wavelength mesoscopy oxygenation Nature Portfolio",
+    "score": 9,
+    "reasons": [
+      "newly surfaced repository-absent Nature Portfolio optoacoustic imaging paper",
+      "introduces dual-wavelength ultra-wideband raster-scan optoacoustic mesoscopy for dynamic 3D microvascular oxygenation mapping",
+      "integrates 515 nm and 532 nm high-repetition-rate lasers to extend RSOM from morphology to functional oxygenation imaging",
+      "demonstrates layer-resolved microvascular oxygenation dynamics in healthy volunteers during vascular occlusion tests",
+      "reports 10-30 micrometer-scale 3D resolution and portable in-vivo human imaging",
+      "Nature and PubMed independently verify title, authors, DOI, volume/article number, and 10 July 2026 publication date",
+      "exact DOI and title were absent from repository code search before this update"
+    ],
+    "topics": [
+      "optoacoustic imaging",
+      "photoacoustic imaging",
+      "raster-scan optoacoustic mesoscopy",
+      "dual-wavelength imaging",
+      "microvascular oxygenation",
+      "functional imaging"
+    ],
+    "status": "metadata-verified-peer-reviewed",
+    "relevance": "core",
+    "paper_type": "journal article",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Presents a dual-wavelength ultra-wideband raster-scan optoacoustic mesoscopy system using 515 nm and 532 nm excitation for dynamic, layer-resolved 3D mapping of cutaneous microvascular oxygenation. Human vascular-occlusion experiments demonstrate ischemic decline, hyperemic overshoot, and recovery consistent with expected vascular physiology, extending RSOM from morphology toward quantitative functional imaging.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Nature / npj Imaging / PubMed",
+    "publication_note": "High-confidence Nature Portfolio backfill newly surfaced in the current sweep. Strongly within scope because the contribution is a new optoacoustic imaging system and functional imaging capability rather than downstream analysis alone.",
+    "sources": [
+      "https://www.nature.com/articles/s44303-026-00184-5",
+      "https://pubmed.ncbi.nlm.nih.gov/42432228/"
+    ],
+    "last_verified": "2026-08-31"
+  }
+]
