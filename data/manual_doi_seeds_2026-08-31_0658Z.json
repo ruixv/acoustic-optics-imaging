@@ -1,0 +1,50 @@
+[
+  {
+    "id": "doi-10-1038-s41467-026-75692-4-optoacoustically-guided-ultrasound-surgery",
+    "title": "Integrated device for optoacoustically-guided ultrasound surgery",
+    "authors": "Isaac Esteban; Nima Mahkam; Yi Chen; Martha Gjikolaj; Beat Werner; Henning Richter; Katrin Beckmann; Edin Nevzati; Daniel Coluccia; Hikari A. I. Yoshihara; Frauke Seehusen; Daniel Razansky; Hector Estrada",
+    "year": 2026,
+    "publication_date": "2026-07-21",
+    "publication_date_precision": "publisher-day",
+    "version_of_record_date": "2026-08-24",
+    "indexed_date": "2026-08-31",
+    "venue": "Nature Communications",
+    "venue_type": "journal",
+    "volume": "17",
+    "article_number": "8871",
+    "doi": "10.1038/s41467-026-75692-4",
+    "primary_url": "https://www.nature.com/articles/s41467-026-75692-4",
+    "source": "Manual-Nature-seed",
+    "matched_query": "optoacoustic photoacoustic ultrasound surgery imaging Nature Communications 2026",
+    "score": 10,
+    "reasons": [
+      "repository-absent Nature Communications paper surfaced in the current priority-venue sweep",
+      "integrates real-time three-dimensional tomographic optoacoustic imaging with concurrent focused-ultrasound emission in a single spherical-array device",
+      "demonstrates image-guided targeting and real-time monitoring of thermal lesion progression",
+      "validated ex vivo in mouse brain and in vivo in sheep with MRI and histology confirmation",
+      "Nature verifies final title, 13-author list, DOI, volume, article number, publication date, and version-of-record date",
+      "exact DOI and title were absent from repository code search before this update"
+    ],
+    "topics": [
+      "optoacoustic imaging",
+      "photoacoustic imaging",
+      "3D tomography",
+      "ultrasound guidance",
+      "focused ultrasound",
+      "image-guided intervention",
+      "hybrid acoustic-optical imaging"
+    ],
+    "status": "metadata-verified-peer-reviewed",
+    "relevance": "core",
+    "paper_type": "journal article",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Presents an integrated spherical-array platform that performs real-time 3D tomographic optoacoustic imaging while concurrently delivering focused ultrasound. The system enables target localization and online monitoring of lesion formation, with ex-vivo mouse-brain and in-vivo sheep experiments validated by MRI and histology.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Nature Communications",
+    "publication_note": "Published 21 July 2026; Nature lists the version of record as 24 August 2026. Newly surfaced repository-absent priority-venue backfill in this sweep.",
+    "sources": [
+      "https://www.nature.com/articles/s41467-026-75692-4"
+    ],
+    "last_verified": "2026-08-31"
+  }
+]
