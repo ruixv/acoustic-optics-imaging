@@ -1,0 +1,49 @@
+[
+  {
+    "id": "photonics-2026-photoacoustic-oct-dual-modal-large-field",
+    "title": "A Large-Field Photoacoustic-OCT Dual-Modal Imaging System Based on Temporal Medium Separation and Hardware-Based Coordinate Locking",
+    "authors": "Hai Lin; Yuqian Liu; Yutong Wu; Yidan Zhang; Tianyang Deng; Yubin Liu",
+    "year": 2026,
+    "publication_date": "2026-08-19",
+    "publication_date_precision": "publisher-day",
+    "indexed_date": "2026-09-01",
+    "venue": "Photonics",
+    "venue_type": "journal",
+    "volume": "13",
+    "issue": "8",
+    "article_number": "788",
+    "doi": "10.3390/photonics13080788",
+    "primary_url": "https://www.mdpi.com/2304-6732/13/8/788",
+    "source": "Manual-publisher-seed",
+    "matched_query": "photoacoustic optical OCT dual-modal imaging August 2026",
+    "score": 8,
+    "reasons": [
+      "repository-absent acoustic-optical imaging paper surfaced in the current sweep",
+      "integrates photoacoustic imaging with optical coherence tomography in a dual-modal system",
+      "addresses incompatible acoustic-coupling and OCT optical-path requirements using temporal medium separation",
+      "uses hardware-based coordinate locking to maintain cross-modal spatial registration over a large field",
+      "publisher page verifies title, author list, DOI, venue, volume/issue/article number, and publication date",
+      "exact title was absent from repository code search before this update"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "optical coherence tomography",
+      "acoustic-optical imaging",
+      "multimodal imaging",
+      "image registration",
+      "biomedical imaging"
+    ],
+    "status": "metadata-verified-peer-reviewed",
+    "relevance": "core",
+    "paper_type": "journal article",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Presents a large-field dual-modal photoacoustic-OCT imaging system that resolves the conflicting coupling requirements of the two modalities using temporal medium separation and maintains spatial correspondence using hardware-based coordinate locking. The work is directly relevant to acoustic-optical multimodal image acquisition and registration.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "MDPI publisher page",
+    "publication_note": "Published 19 August 2026. Newly surfaced repository-absent backfill in this sweep rather than a paper first published in the latest six-hour interval.",
+    "sources": [
+      "https://www.mdpi.com/2304-6732/13/8/788"
+    ],
+    "last_verified": "2026-09-01"
+  }
+]
