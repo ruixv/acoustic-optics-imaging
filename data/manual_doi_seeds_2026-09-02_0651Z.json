@@ -1,0 +1,51 @@
+[
+  {
+    "id": "mukherjee2026-acoustools-full-stack-acoustic-holography-library",
+    "title": "AcousTools: A ‘Full-Stack’, Python-Based, Acoustic Holography Library",
+    "authors": "Joshua Mukherjee; Giorgos Christopoulos; Zhouyang Shen; Sriram Subramanian; Ryuji Hirayama",
+    "year": 2026,
+    "publication_date": "2026-02",
+    "publication_date_precision": "month",
+    "indexed_date": "2026-09-02",
+    "venue": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
+    "venue_type": "journal",
+    "volume": "73",
+    "issue": "2",
+    "pages": "99-111",
+    "doi": "10.1109/TUSON.2026.3659798",
+    "primary_url": "https://doi.org/10.1109/TUSON.2026.3659798",
+    "source": "Manual-DOI-seed",
+    "matched_query": "acoustic holography 2026 IEEE full-stack library",
+    "score": 7,
+    "reasons": [
+      "repository-absent peer-reviewed acoustic-holography paper surfaced in the current sweep",
+      "presents a full-stack software framework spanning setup, acoustic propagation, phase retrieval, field analysis, and hardware control",
+      "directly supports reproducible development of acoustic holography systems and algorithms",
+      "UCL Discovery lists the accepted IEEE journal version and author metadata",
+      "the authors' official AcousTools repository provides the final IEEE citation including volume, issue, pages, DOI, and IEEE article number 11369395",
+      "exact title and DOI were absent from repository code search before this update"
+    ],
+    "topics": [
+      "acoustic holography",
+      "acoustic field synthesis",
+      "phase retrieval",
+      "ultrasound arrays",
+      "wavefront control",
+      "software toolkit"
+    ],
+    "status": "metadata-verified-published",
+    "relevance": "core-adjacent",
+    "paper_type": "journal-article",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Introduces AcousTools, a PyTorch-based full-stack software library for acoustic holography that unifies array/setup definition, acoustic propagation models, hologram or phase solvers, field analysis and visualization, and hardware deployment. The work is especially useful as infrastructure for reproducible acoustic-holography research rather than as a new imaging reconstruction method itself.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "UCL Discovery; authors' official AcousTools repository",
+    "publication_note": "Peer-reviewed IEEE journal article. Newly surfaced/indexed repository-absent acoustic-holography tooling paper in this sweep; treated as core-adjacent because its primary contribution is research infrastructure rather than acoustic image formation.",
+    "sources": [
+      "https://discovery.ucl.ac.uk/id/eprint/10220719/",
+      "https://doi.org/10.1109/TUSON.2026.3659798",
+      "https://github.com/JoshuaMukherjee/AcousTools"
+    ],
+    "last_verified": "2026-09-02"
+  }
+]
