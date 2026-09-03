@@ -1,0 +1,46 @@
+[
+  {
+    "id": "chiang2026-sted-inspired-photoacoustic-hyper-beamforming",
+    "title": "Ultrahigh-resolution and high contrast photoacoustic imaging using STED-inspired array beamformation",
+    "authors": "Chun-Hsien Chiang; Geng-Shi Jeng; Meng-Lin Li",
+    "year": 2026,
+    "publication_date": "2026-09-01",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-09-03",
+    "venue": "Optics Letters 51(17): 4996-4999",
+    "venue_group": "Optica",
+    "venue_type": "journal article",
+    "doi": "10.1364/OL.608866",
+    "primary_url": "https://doi.org/10.1364/OL.608866",
+    "source": "Manual-Optica-photoacoustic-new-index",
+    "matched_query": "photoacoustic imaging beamforming September 2026 newly published",
+    "score": 8,
+    "reasons": [
+      "newly published peer-reviewed photoacoustic imaging method surfaced in the current sweep",
+      "Optica Publishing Group verifies title, authors, journal, volume, issue, pages, DOI, and September 1, 2026 publication date",
+      "proposes STED-inspired hyper-beamforming for photoacoustic array imaging",
+      "reports 83.3% narrower mainlobe and 25 dB lower sidelobe level than delay-and-sum beamforming in phantom and in-vivo experiments",
+      "exact DOI was absent from repository code search before this update"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "photoacoustic beamforming",
+      "computational acoustic imaging",
+      "super-resolution imaging",
+      "STED-inspired imaging"
+    ],
+    "status": "metadata-verified-published",
+    "relevance": "core",
+    "paper_type": "method",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces a STED-inspired hyper-beamforming method for photoacoustic array imaging. The method forms excitation-like and depletion-like beam patterns and combines them into a narrow, low-sidelobe hyper-beam, while retaining computational complexity comparable to delay-and-sum reconstruction. Phantom and in-vivo experiments report an 83.3% narrower mainlobe and a 25 dB lower sidelobe level than DAS, making this a directly relevant computational photoacoustic imaging paper.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Optica Publishing Group / Optics Letters",
+    "publication_note": "Optics Letters volume 51, issue 17, pages 4996-4999; published September 1, 2026. Manuscript accepted August 19, 2026.",
+    "sources": [
+      "https://opg.optica.org/ol/abstract.cfm?uri=ol-51-17-4996",
+      "https://doi.org/10.1364/OL.608866"
+    ],
+    "last_verified": "2026-09-03"
+  }
+]
