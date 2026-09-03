@@ -1,0 +1,46 @@
+[
+  {
+    "id": "aydogmus2026-cross-modality-sonar-camera-kd",
+    "title": "Cross-Modality Object-Level Knowledge Distillation for Enhanced Underwater Sonar Object Detection",
+    "authors": "Murat Aydogmus; Isin Erer",
+    "year": 2026,
+    "publication_date": "2026",
+    "publication_date_precision": "year",
+    "indexed_date": "2026-09-03",
+    "venue": "IEEE Access 14: 27339-27353",
+    "venue_group": "IEEE",
+    "venue_type": "journal article",
+    "doi": "10.1109/ACCESS.2026.3666096",
+    "primary_url": "https://doi.org/10.1109/ACCESS.2026.3666096",
+    "source": "Manual-IEEE-camera-sonar-backfill",
+    "matched_query": "camera sonar fusion cross-modality knowledge distillation underwater object detection 2026",
+    "score": 6,
+    "reasons": [
+      "repository-absent peer-reviewed IEEE Access article surfaced in the current sweep",
+      "directly uses paired camera and sonar data, with RGB camera as teacher modality and sonar as student modality",
+      "proposes Cross-Model Object-Level Distillation (CMOLD) for heterogeneous camera-sonar knowledge transfer",
+      "Istanbul Technical University's institutional research portal verifies title, authors, venue, volume, pages, DOI, and peer-reviewed publication status",
+      "exact DOI was absent from repository code search before this update"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "acoustic-optical multimodal sensing",
+      "sonar imaging",
+      "cross-modal knowledge distillation",
+      "underwater object detection"
+    ],
+    "status": "metadata-verified-published",
+    "relevance": "core-adjacent",
+    "paper_type": "method",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Uses paired optical-camera and sonar images during training to improve sonar-only underwater object detection. A YOLOX-based Cross-Model Object-Level Distillation module transfers object-level semantic knowledge from the camera teacher to the sonar student while accounting for heterogeneous modality structure. It is directly relevant to camera-sonar fusion, but is best treated as core-adjacent because the main contribution is training-time cross-modal distillation for detection rather than joint image formation or reconstruction.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Istanbul Technical University institutional research portal; DOI record",
+    "publication_note": "Peer-reviewed IEEE Access article, volume 14, pages 27339-27353 (2026). The authoritative source retrieved in this sweep exposes the publication year but not a reliable exact publication day, so year-level date precision is retained.",
+    "sources": [
+      "https://research.itu.edu.tr/en/publications/cross-modality-object-level-knowledge-distillation-for-enhanced-u/",
+      "https://doi.org/10.1109/ACCESS.2026.3666096"
+    ],
+    "last_verified": "2026-09-03"
+  }
+]
