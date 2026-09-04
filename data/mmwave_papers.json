@@ -38,6 +38,156 @@
     }
   },
   {
+    "id": "2026-beyond-navigation-unlocking-the-high-precision-sensing-potential-of-gnss-si-928f25d711ad",
+    "title": "Beyond Navigation: Unlocking the High-Precision Sensing Potential of GNSS Signals",
+    "authors": "Anlan Yu; Xujun Ma; Zhiqing Hong; Pei Wang; Xuanzhi Wang; Jinkun Li; H Wang; Yi Ding; Daqing Zhang",
+    "year": 2026,
+    "publication_date": "2026-06-02",
+    "venue": "IEEE Transactions on Mobile Computing",
+    "venue_group": "IEEE TMC",
+    "venue_type": "journal",
+    "doi": "10.1109/tmc.2026.3699634",
+    "primary_url": "https://doi.org/10.1109/tmc.2026.3699634",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "radar indoor scene understanding"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on radar indoor scene understanding.",
+    "summary_cn": "自动审核收录的论文，主题包括 radar indoor scene understanding。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tmc.2026.3699634"
+    ],
+    "last_verified": "2026-09-04",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "mmwave",
+      "mmwave_keep_reason": "allowed-final-venue"
+    }
+  },
+  {
+    "id": "2026-mmovd-detecting-fully-occluded-vehicles-with-millimeter-wave-signals-7918952bbfc5",
+    "title": "mmOVD$^+$: Detecting Fully Occluded Vehicles With Millimeter-Wave Signals",
+    "authors": "Chenming He; Chengzhen Meng; Xiaoran Fan; Dequan Wang; Lu Zhang; Yubo Yan; Yanyong Zhang",
+    "year": 2026,
+    "publication_date": "2026-05-08",
+    "venue": "IEEE Transactions on Mobile Computing",
+    "venue_group": "IEEE TMC",
+    "venue_type": "journal",
+    "doi": "10.1109/tmc.2026.3691347",
+    "primary_url": "https://doi.org/10.1109/tmc.2026.3691347",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "mmWave radar imaging",
+      "4D radar point cloud"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on mmWave radar imaging, 4D radar point cloud.",
+    "summary_cn": "自动审核收录的论文，主题包括 mmWave radar imaging、4D radar point cloud。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tmc.2026.3691347"
+    ],
+    "last_verified": "2026-09-04",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "mmwave",
+      "mmwave_keep_reason": "allowed-final-venue"
+    }
+  },
+  {
+    "id": "2026-scenario-adaptive-device-free-target-detection-using-mmwave-signals-49626ecc5aba",
+    "title": "Scenario-Adaptive Device-Free Target Detection Using mmWave Signals",
+    "authors": "Jingmiao Wu; Heteng Cao; Kai Sun; Wei Huang; Haijun Zhang; Victor C. M. Leung",
+    "year": 2026,
+    "publication_date": "2026-05-04",
+    "venue": "IEEE Transactions on Mobile Computing",
+    "venue_group": "IEEE TMC",
+    "venue_type": "journal",
+    "doi": "10.1109/tmc.2026.3689480",
+    "primary_url": "https://doi.org/10.1109/tmc.2026.3689480",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "radar indoor scene understanding"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on radar indoor scene understanding.",
+    "summary_cn": "自动审核收录的论文，主题包括 radar indoor scene understanding。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tmc.2026.3689480"
+    ],
+    "last_verified": "2026-09-04",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "mmwave",
+      "mmwave_keep_reason": "allowed-final-venue"
+    }
+  },
+  {
+    "id": "2026-ifdnet-fall-detection-via-millimeter-wave-radar-with-spatio-temporal-fusion-0385f4caffe8",
+    "title": "IFDNet: Fall Detection via Millimeter-Wave Radar With Spatio-Temporal Fusion and Adaptive Semi-Supervised Learning",
+    "authors": "Pengkai Sang; Siyuan Ding; L Q Liu; Shiqi WuSiyuan Ding; Honghao Qin; Xiaoxiang Cao; Xuan Wang; Yuan Zhuang; Yulin Hu",
+    "year": 2026,
+    "publication_date": "2026-04-28",
+    "venue": "IEEE Transactions on Mobile Computing",
+    "venue_group": "IEEE TMC",
+    "venue_type": "journal",
+    "doi": "10.1109/tmc.2026.3688555",
+    "primary_url": "https://doi.org/10.1109/tmc.2026.3688555",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "mmWave radar imaging",
+      "4D radar point cloud"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on mmWave radar imaging, 4D radar point cloud.",
+    "summary_cn": "自动审核收录的论文，主题包括 mmWave radar imaging、4D radar point cloud。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1109/tmc.2026.3688555"
+    ],
+    "last_verified": "2026-09-04",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "mmwave",
+      "mmwave_keep_reason": "allowed-final-venue"
+    }
+  },
+  {
     "id": "2026-mme-loc-facilitating-accurate-drone-landing-with-ultra-high-frequency-local-6a38d2e92914",
     "title": "mmE-Loc: Facilitating Accurate Drone Landing With Ultra-High-Frequency Localization",
     "authors": "Haoyang Wang; Jingao Xu; Xinyu Luo; Ting Zhang; Xuecheng Chen; Ruiyang Duan; Y. Liu; Jianfeng Zheng; Weijie Hong; Xiaoqiang Ji; Yuqing Tang; Xinlei Chen",
