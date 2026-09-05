@@ -1,0 +1,91 @@
+[
+  {
+    "id": "beshir2026-adaptive-gaussian-photoacoustic-beamforming",
+    "title": "Adaptive Gaussian-weighted nonlinear beamforming with coherence factor enhancement for reflection-mode PLD-based photoacoustic imaging",
+    "authors": "Anwar Tesfaye Beshir; Arun Kumar Thittai",
+    "year": 2026,
+    "publication_date": "2026-09-04",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-09-05",
+    "venue": "Scientific Reports",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "doi": "10.1038/s41598-026-68694-1",
+    "primary_url": "https://doi.org/10.1038/s41598-026-68694-1",
+    "source": "Manual-NaturePortfolio-photoacoustic-new-publication",
+    "matched_query": "photoacoustic imaging Nature Portfolio September 2026",
+    "score": 9,
+    "reasons": [
+      "newly published peer-reviewed Nature Portfolio paper on September 4, 2026",
+      "Nature verifies title, authors, DOI, and publication date",
+      "proposes nonlinear adaptive Gaussian-weighted beamforming and coherence-factor enhancement for photoacoustic imaging",
+      "includes phantom and in vivo human-wrist validation",
+      "exact title and DOI were absent from repository code search before this update"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "beamforming",
+      "nonlinear beamforming",
+      "coherence factor",
+      "pulsed laser diode imaging"
+    ],
+    "status": "metadata-verified-published",
+    "relevance": "core",
+    "paper_type": "method",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Introduces adaptive Filtered Delay Adaptive-Gaussian-Weighted Multiply-and-Sum beamforming and a coherence-factor-augmented variant for reflection-mode pulsed-laser-diode photoacoustic imaging, with phantom and in vivo validation showing improved resolution, contrast, and SNR over DAS and F-DMAS.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Nature Portfolio / Scientific Reports",
+    "publication_note": "Published September 4, 2026 in Scientific Reports.",
+    "sources": [
+      "https://www.nature.com/articles/s41598-026-68694-1",
+      "https://doi.org/10.1038/s41598-026-68694-1"
+    ],
+    "last_verified": "2026-09-05"
+  },
+  {
+    "id": "enslein2026-photoacoustic-breast-skin-tone-beamformer",
+    "title": "In vivo photoacoustic breast imaging and the interactive effects of skin tone, wavelength, beamformer, and depth on target detectability",
+    "authors": "Jamie Enslein; Madhavi Tripathi; Babita Panigrahi; Kelly Myers; Joselyn Wei Chen; José Timaná; Emily Ambinder; Muyinatu A. Lediju Bell",
+    "year": 2026,
+    "publication_date": "2026-09-04",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-09-05",
+    "venue": "npj Imaging",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "doi": "10.1038/s44303-026-00193-4",
+    "primary_url": "https://doi.org/10.1038/s44303-026-00193-4",
+    "source": "Manual-NaturePortfolio-photoacoustic-new-publication",
+    "matched_query": "photoacoustic imaging Nature Portfolio September 2026",
+    "score": 8,
+    "reasons": [
+      "newly published peer-reviewed Nature Portfolio paper on September 4, 2026",
+      "Nature verifies title, authors, DOI, and publication date",
+      "systematically studies beamformer, wavelength, skin tone, and depth interactions in clinical photoacoustic breast imaging",
+      "uses in vivo data from 29 patients with simulation and phantom validation",
+      "exact title and DOI were absent from repository code search before this update"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "breast imaging",
+      "beamforming",
+      "clinical imaging",
+      "skin tone",
+      "target detectability"
+    ],
+    "status": "metadata-verified-published",
+    "relevance": "core-adjacent",
+    "paper_type": "clinical-method-analysis",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Analyzes how skin tone, optical wavelength, beamformer choice, and target depth interact to affect target detectability in in vivo photoacoustic breast imaging, using 29-patient clinical data plus simulation and phantom validation.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Nature Portfolio / npj Imaging",
+    "publication_note": "Published September 4, 2026 in npj Imaging.",
+    "sources": [
+      "https://www.nature.com/articles/s44303-026-00193-4",
+      "https://doi.org/10.1038/s44303-026-00193-4"
+    ],
+    "last_verified": "2026-09-05"
+  }
+]
