@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pan2026-viso-visual-inertial-sonar-slam",
+    "title": "VISO: Robust Underwater Visual-Inertial-Sonar SLAM with Photometric Rendering for Dense 3D Reconstruction",
+    "authors": "Shu Pan; Simon Archieri; Ahmet Cinar; Jonatan Scharff Willners; Ignacio Carlucho; Yvan Petillot",
+    "year": 2026,
+    "publication_date": "2026-01-03",
+    "publication_date_precision": "day",
+    "indexed_date": "2026-09-06",
+    "venue": "arXiv:2601.01144",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2601.01144",
+    "primary_url": "https://arxiv.org/abs/2601.01144",
+    "source": "Manual-arXiv-camera-sonar-backfill",
+    "matched_query": "camera sonar fusion underwater SLAM 2026",
+    "score": 8,
+    "reasons": [
+      "authoritative arXiv metadata verifies title, authors, identifier, and submission date",
+      "directly fuses stereo cameras, IMU, and 3D sonar for underwater localization and dense reconstruction",
+      "includes online camera-sonar extrinsic calibration and photometric rendering of sonar geometry",
+      "exact title was absent from repository code search before this update",
+      "high relevance to opti-acoustic and camera-sonar fusion, though currently a preprint"
+    ],
+    "topics": [
+      "camera-sonar fusion",
+      "opti-acoustic sensing",
+      "underwater SLAM",
+      "3D reconstruction",
+      "multimodal mapping",
+      "sonar-camera calibration"
+    ],
+    "status": "metadata-verified-preprint",
+    "relevance": "core",
+    "paper_type": "method",
+    "recommendation": "add-to-main-library",
+    "summary_en": "Presents an underwater SLAM system combining stereo cameras, an IMU, and 3D sonar, with coarse-to-fine online camera-sonar extrinsic calibration and photometric rendering that transfers visual appearance onto sonar-derived dense geometry.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "arXiv",
+    "publication_note": "Originally submitted January 3, 2026 to arXiv; surfaced as a repository backfill during the September 6, 2026 update.",
+    "sources": [
+      "https://arxiv.org/abs/2601.01144",
+      "https://doi.org/10.48550/arXiv.2601.01144"
+    ],
+    "last_verified": "2026-09-06"
+  }
+]
