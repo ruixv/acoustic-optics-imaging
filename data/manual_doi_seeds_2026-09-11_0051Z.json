@@ -1,0 +1,44 @@
+[
+  {
+    "id": "optica-oe598893-dual-layer-orthogonal-acousto-optic-sensor",
+    "title": "Dual-layer orthogonal acousto-optic sensor for alias-suppressed high-precision DOA sensing",
+    "authors": "Xin Li; Cuicui Zhang; Zhenfei Gao; Zhicheng Li; Xiaobo Li; Bin Xue",
+    "year": 2026,
+    "publication_date": "2026-05-14",
+    "venue": "Optics Express 34(11), 20116-20132",
+    "venue_group": "Optica Publishing Group",
+    "venue_type": "journal article",
+    "doi": "10.1364/OE.598893",
+    "primary_url": "https://doi.org/10.1364/OE.598893",
+    "source": "Manual-Optica-DOI-seed",
+    "matched_query": "acousto-optic underwater acoustic sensing direction-of-arrival optical detection acoustic imaging",
+    "score": 9,
+    "reasons": [
+      "manual-doi-seed",
+      "direct acousto-optic sensing architecture",
+      "non-contact optical detection of underwater acoustic fields",
+      "broadband 20-80 kHz experimental validation",
+      "metadata cross-verified from PubMed and OpenAlex/Optica DOI records"
+    ],
+    "topics": [
+      "acousto-optic sensing",
+      "underwater acoustics",
+      "direction-of-arrival estimation",
+      "optical acoustic detection",
+      "spatial alias suppression"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research",
+    "recommendation": "add-to-main-library",
+    "summary_en": "A dual-layer orthogonal acousto-optic sensor uses six parallel laser beams to form a non-contact orthogonal dual-baseline geometry for underwater acoustic DOA estimation. Experiments demonstrate alias-suppressed sensing from 20 to 80 kHz and high-precision tracking at 75 kHz, making it directly relevant to acousto-optic acoustic-field sensing and imaging.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "PubMed; OpenAlex; Optica DOI metadata",
+    "sources": [
+      "https://doi.org/10.1364/OE.598893",
+      "https://pubmed.ncbi.nlm.nih.gov/42271828/",
+      "https://openalex.org/W7161147562"
+    ],
+    "last_verified": "2026-09-11"
+  }
+]
