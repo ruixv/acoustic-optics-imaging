@@ -1,12 +1,48 @@
 {
-  "last_run": "2026-09-12T04:36:21.655771+00:00",
+  "last_run": "2026-09-12T10:46:46.130818+00:00",
   "since_date": "2024-09-12",
-  "raw_candidates_seen": 1974,
+  "raw_candidates_seen": 1967,
   "saved_candidates_total": 865,
   "citation_graph_seed_count": 50,
-  "errors": [],
+  "errors": [
+    {
+      "query": "Wave-Former through occlusion 3D reconstruction wireless shape completion",
+      "source": "arxiv",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22Wave-Former%22+OR+all%3A%22through%22+OR+all%3A%22occlusion%22+OR+all%3A%22reconstruction%22+OR+all%3A%22wireless%22+OR+all%3A%22shape%22+OR+all%3A%22completion%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "query": "RISE single static radar indoor scene understanding",
+      "source": "arxiv",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22RISE%22+OR+all%3A%22single%22+OR+all%3A%22static%22+OR+all%3A%22radar%22+OR+all%3A%22indoor%22+OR+all%3A%22scene%22+OR+all%3A%22understanding%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "query": "single static radar indoor scene understanding mmWave multipath",
+      "source": "arxiv",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22single%22+OR+all%3A%22static%22+OR+all%3A%22radar%22+OR+all%3A%22indoor%22+OR+all%3A%22scene%22+OR+all%3A%22understanding%22+OR+all%3A%22mmWave%22+OR+all%3A%22multipath%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "query": "handheld millimeter wave SAR autofocus MobiSys MobiCom SenSys",
+      "source": "arxiv",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22handheld%22+OR+all%3A%22millimeter%22+OR+all%3A%22wave%22+OR+all%3A%22autofocus%22+OR+all%3A%22MobiSys%22+OR+all%3A%22MobiCom%22+OR+all%3A%22SenSys%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "query": "millimeter wave radar indoor scene understanding MobiCom SenSys",
+      "source": "arxiv",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22millimeter%22+OR+all%3A%22wave%22+OR+all%3A%22radar%22+OR+all%3A%22indoor%22+OR+all%3A%22scene%22+OR+all%3A%22understanding%22+OR+all%3A%22MobiCom%22+OR+all%3A%22SenSys%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "query": "mmWave surface normal estimation 3D reconstruction CVPR ICCV",
+      "source": "arxiv",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+OR+all%3A%22surface%22+OR+all%3A%22normal%22+OR+all%3A%22estimation%22+OR+all%3A%22reconstruction%22+OR+all%3A%22CVPR%22+OR+all%3A%22ICCV%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "query": "Nature Portfolio millimeter wave radar imaging Communications Engineering",
+      "source": "arxiv",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22Nature%22+OR+all%3A%22Portfolio%22+OR+all%3A%22millimeter%22+OR+all%3A%22wave%22+OR+all%3A%22radar%22+OR+all%3A%22imaging%22+OR+all%3A%22Communications%22+OR+all%3A%22Engineering%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
-  "manual_doi_seed_last_run": "2026-09-12T04:36:21.797598+00:00",
+  "manual_doi_seed_last_run": "2026-09-12T10:46:46.268857+00:00",
   "manual_doi_seed_file_count": 156,
   "manual_doi_seed_files": [
     "manual_doi_seeds.json",
@@ -190,7 +226,7 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-09-12T04:38:14.321111+00:00",
+  "agent_audit_last_run": "2026-09-12T10:48:14.461833+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 20,
   "resolved_final_versions": 49,
