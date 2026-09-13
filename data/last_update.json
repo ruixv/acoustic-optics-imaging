@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-09-13T05:05:41.156523+00:00",
+  "last_run": "2026-09-13T07:09:08.370650+00:00",
   "since_date": "2024-09-13",
-  "raw_candidates_seen": 1771,
-  "saved_candidates_total": 830,
+  "raw_candidates_seen": 1822,
+  "saved_candidates_total": 844,
   "citation_graph_seed_count": 50,
   "errors": [
     {
@@ -18,17 +18,17 @@
     {
       "source": "arXiv",
       "query": "neural volume rendering imaging sonar",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22neural%22+AND+all%3A%22volume%22+AND+all%3A%22rendering%22+AND+all%3A%22imaging%22+AND+all%3A%22sonar%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22neural%22+AND+all%3A%22volume%22+AND+all%3A%22rendering%22+AND+all%3A%22imaging%22+AND+all%3A%22sonar%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "forward-looking sonar 3D reconstruction differentiable",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22forward-looking%22+AND+all%3A%22sonar%22+AND+all%3A%22reconstruction%22+AND+all%3A%22differentiable%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22forward-looking%22+AND+all%3A%22sonar%22+AND+all%3A%22reconstruction%22+AND+all%3A%22differentiable%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "synthetic aperture sonar neural reconstruction",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22synthetic%22+AND+all%3A%22aperture%22+AND+all%3A%22sonar%22+AND+all%3A%22neural%22+AND+all%3A%22reconstruction%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22synthetic%22+AND+all%3A%22aperture%22+AND+all%3A%22sonar%22+AND+all%3A%22neural%22+AND+all%3A%22reconstruction%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -38,7 +38,12 @@
     {
       "source": "arXiv",
       "query": "camera sonar fusion 3D reconstruction",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22camera%22+AND+all%3A%22sonar%22+AND+all%3A%22fusion%22+AND+all%3A%22reconstruction%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22camera%22+AND+all%3A%22sonar%22+AND+all%3A%22fusion%22+AND+all%3A%22reconstruction%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "acoustic optical sensor fusion sonar",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22acoustic%22+AND+all%3A%22optical%22+AND+all%3A%22sensor%22+AND+all%3A%22fusion%22+AND+all%3A%22sonar%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -63,17 +68,17 @@
     {
       "source": "arXiv",
       "query": "SonarSweep Fusing Sonar Vision Robust 3D Reconstruction",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22SonarSweep%22+AND+all%3A%22Fusing%22+AND+all%3A%22Sonar%22+AND+all%3A%22Vision%22+AND+all%3A%22Robust%22+AND+all%3A%22Reconstruction%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "Towards Realistic 3D Sonar Simulation",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22Towards%22+AND+all%3A%22Realistic%22+AND+all%3A%22Sonar%22+AND+all%3A%22Simulation%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "volumetric 3D sonar simulation acoustic propagation",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22volumetric%22+AND+all%3A%22sonar%22+AND+all%3A%22simulation%22+AND+all%3A%22acoustic%22+AND+all%3A%22propagation%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -88,12 +93,12 @@
     {
       "source": "arXiv",
       "query": "acoustic holography phased array computation",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22acoustic%22+AND+all%3A%22holography%22+AND+all%3A%22phased%22+AND+all%3A%22array%22+AND+all%3A%22computation%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22acoustic%22+AND+all%3A%22holography%22+AND+all%3A%22phased%22+AND+all%3A%22array%22+AND+all%3A%22computation%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "acoustic disguising cloaking holography",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22acoustic%22+AND+all%3A%22disguising%22+AND+all%3A%22cloaking%22+AND+all%3A%22holography%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -113,7 +118,7 @@
     {
       "source": "arXiv",
       "query": "acousto-optic imaging speckle decorrelation",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22acousto-optic%22+AND+all%3A%22imaging%22+AND+all%3A%22speckle%22+AND+all%3A%22decorrelation%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -123,22 +128,27 @@
     {
       "source": "arXiv",
       "query": "NAS-GS noise-aware sonar Gaussian splatting",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22NAS-GS%22+AND+all%3A%22noise-aware%22+AND+all%3A%22sonar%22+AND+all%3A%22Gaussian%22+AND+all%3A%22splatting%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+    },
+    {
+      "source": "arXiv",
+      "query": "circular synthetic aperture sonar shadows 3D reconstruction",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22circular%22+AND+all%3A%22synthetic%22+AND+all%3A%22aperture%22+AND+all%3A%22sonar%22+AND+all%3A%22shadows%22+AND+all%3A%22reconstruction%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "differentiable structural optimization acoustic holography",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22differentiable%22+AND+all%3A%22structural%22+AND+all%3A%22optimization%22+AND+all%3A%22acoustic%22+AND+all%3A%22holography%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "skull-conforming acoustic holographic lenses",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22skull-conforming%22+AND+all%3A%22acoustic%22+AND+all%3A%22holographic%22+AND+all%3A%22lenses%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22skull-conforming%22+AND+all%3A%22acoustic%22+AND+all%3A%22holographic%22+AND+all%3A%22lenses%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "vectorial acoustic multiplexed holography",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22vectorial%22+AND+all%3A%22acoustic%22+AND+all%3A%22multiplexed%22+AND+all%3A%22holography%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -148,7 +158,7 @@
     {
       "source": "arXiv",
       "query": "mmWave radar imaging CVPR",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22CVPR%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -158,17 +168,17 @@
     {
       "source": "arXiv",
       "query": "mmWave radar imaging NeurIPS",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22NeurIPS%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22NeurIPS%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "mmWave radar imaging ECCV",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ECCV%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "mmWave radar imaging ICLR",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22ICLR%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -188,17 +198,17 @@
     {
       "source": "arXiv",
       "query": "mmWave radar imaging MobiCom",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22MobiCom%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22MobiCom%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "mmWave radar imaging SenSys",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22SenSys%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "mmWave radar imaging TPAMI",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22TPAMI%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
     },
     {
       "source": "arXiv",
@@ -208,7 +218,7 @@
     {
       "source": "arXiv",
       "query": "mmWave radar imaging TIP",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmWave%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
     },
     {
       "source": "arXiv",
@@ -228,12 +238,12 @@
     {
       "source": "arXiv",
       "query": "FMCW MIMO-SAR radar imaging MobiSys",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22FMCW%22+AND+all%3A%22MIMO-SAR%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22MobiSys%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22FMCW%22+AND+all%3A%22MIMO-SAR%22+AND+all%3A%22radar%22+AND+all%3A%22imaging%22+AND+all%3A%22MobiSys%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
       "query": "millimeter wave radar indoor mapping MobiSys",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22millimeter%22+AND+all%3A%22wave%22+AND+all%3A%22radar%22+AND+all%3A%22indoor%22+AND+all%3A%22mapping%22+AND+all%3A%22MobiSys%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22millimeter%22+AND+all%3A%22wave%22+AND+all%3A%22radar%22+AND+all%3A%22indoor%22+AND+all%3A%22mapping%22+AND+all%3A%22MobiSys%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -243,7 +253,7 @@
     {
       "source": "arXiv",
       "query": "handheld millimeter-wave imaging phase error estimation compensation",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22handheld%22+AND+all%3A%22millimeter-wave%22+AND+all%3A%22imaging%22+AND+all%3A%22phase%22+AND+all%3A%22error%22+AND+all%3A%22estimation%22+AND+all%3A%22compensation%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -253,7 +263,7 @@
     {
       "source": "arXiv",
       "query": "TwinFocus autofocus handheld mmWave SAR physical digital twin references",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22TwinFocus%22+AND+all%3A%22autofocus%22+AND+all%3A%22handheld%22+AND+all%3A%22mmWave%22+AND+all%3A%22physical%22+AND+all%3A%22digital%22+AND+all%3A%22twin%22+AND+all%3A%22references%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
     },
     {
       "source": "arXiv",
@@ -263,7 +273,7 @@
     {
       "source": "arXiv",
       "query": "mmNorm millimeter-wave surface normal hidden object reconstruction",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmNorm%22+AND+all%3A%22millimeter-wave%22+AND+all%3A%22surface%22+AND+all%3A%22normal%22+AND+all%3A%22hidden%22+AND+all%3A%22object%22+AND+all%3A%22reconstruction%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmNorm%22+AND+all%3A%22millimeter-wave%22+AND+all%3A%22surface%22+AND+all%3A%22normal%22+AND+all%3A%22hidden%22+AND+all%3A%22object%22+AND+all%3A%22reconstruction%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "source": "arXiv",
@@ -286,49 +296,14 @@
       "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22Nature%22+AND+all%3A%22Portfolio%22+AND+all%3A%22Communications%22+AND+all%3A%22Engineering%22+AND+all%3A%22millimeter-wave%22+AND+all%3A%22imaging%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
-      "source": "OpenAlex cited-by",
-      "query": "cites core: Neural Augmentation of MIMO-OFDM Receivers for Universal LLR Reconstruction",
-      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=Neural+Augmentation+of+MIMO-OFDM+Receivers+for+Universal+LLR+Reconstruction&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
-    },
-    {
-      "source": "OpenAlex cited-by",
-      "query": "cites core: Towards Versatile Opti-Acoustic Sensor Fusion and Volumetric Mapping",
-      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=Towards+Versatile+Opti-Acoustic+Sensor+Fusion+and+Volumetric+Mapping&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
-    },
-    {
-      "source": "OpenAlex cited-by",
-      "query": "cites core: GPAIR: Gaussian-Kernel-Based Ultrafast 3D Photoacoustic Iterative Reconstruction",
-      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=GPAIR%3A+Gaussian-Kernel-Based+Ultrafast+3D+Photoacoustic+Iterative+Reconstruction&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
-    },
-    {
-      "source": "OpenAlex cited-by",
-      "query": "cites core: TwinFocus: Autofocus for Handheld mmWave SAR Imaging via Physical and Digital Twin References",
-      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=TwinFocus%3A+Autofocus+for+Handheld+mmWave+SAR+Imaging+via+Physical+and+Digital+Twin+References&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
-    },
-    {
-      "source": "OpenAlex cited-by",
-      "query": "cites core: Wave-Former: Through-Occlusion 3D Reconstruction via Wireless Shape Completion",
-      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=Wave-Former%3A+Through-Occlusion+3D+Reconstruction+via+Wireless+Shape+Completion&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
-    },
-    {
-      "source": "OpenAlex cited-by",
-      "query": "cites core: RISE: Single Static Radar-based Indoor Scene Understanding",
-      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=RISE%3A+Single+Static+Radar-based+Indoor+Scene+Understanding&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
-    },
-    {
-      "source": "OpenAlex cited-by",
-      "query": "cites core: SonarSweep: Fusing Sonar and Vision for Robust 3D Reconstruction via Plane Sweeping",
-      "error": "429 Client Error: Too Many Requests for url: https://api.openalex.org/works?search=SonarSweep%3A+Fusing+Sonar+and+Vision+for+Robust+3D+Reconstruction+via+Plane+Sweeping&per-page=1&select=id%2Cdisplay_name%2Cdoi%2Cpublication_year%2Cpublication_date&mailto=raygeng%40hku.hk"
-    },
-    {
       "query": "high resolution handheld millimeter wave imaging phase error estimation compensation",
       "source": "arxiv",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22high%22+OR+all%3A%22resolution%22+OR+all%3A%22handheld%22+OR+all%3A%22millimeter%22+OR+all%3A%22wave%22+OR+all%3A%22imaging%22+OR+all%3A%22phase%22+OR+all%3A%22error%22+OR+all%3A%22estimation%22+OR+all%3A%22compensation%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
+      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
     },
     {
       "query": "A high-resolution handheld millimeter-wave imaging system with phase error estimation and compensation",
       "source": "arxiv",
-      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22high-resolution%22+OR+all%3A%22handheld%22+OR+all%3A%22millimeter-wave%22+OR+all%3A%22imaging%22+OR+all%3A%22system%22+OR+all%3A%22with%22+OR+all%3A%22phase%22+OR+all%3A%22error%22+OR+all%3A%22estimation%22+OR+all%3A%22compensation%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22high-resolution%22+OR+all%3A%22handheld%22+OR+all%3A%22millimeter-wave%22+OR+all%3A%22imaging%22+OR+all%3A%22system%22+OR+all%3A%22with%22+OR+all%3A%22phase%22+OR+all%3A%22error%22+OR+all%3A%22estimation%22+OR+all%3A%22compensation%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "query": "Communications Engineering handheld millimeter-wave imaging phase error compensation",
@@ -363,12 +338,12 @@
     {
       "query": "RISE single static radar indoor scene understanding",
       "source": "arxiv",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22RISE%22+OR+all%3A%22single%22+OR+all%3A%22static%22+OR+all%3A%22radar%22+OR+all%3A%22indoor%22+OR+all%3A%22scene%22+OR+all%3A%22understanding%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "query": "single static radar indoor scene understanding mmWave multipath",
       "source": "arxiv",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22single%22+OR+all%3A%22static%22+OR+all%3A%22radar%22+OR+all%3A%22indoor%22+OR+all%3A%22scene%22+OR+all%3A%22understanding%22+OR+all%3A%22mmWave%22+OR+all%3A%22multipath%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22single%22+OR+all%3A%22static%22+OR+all%3A%22radar%22+OR+all%3A%22indoor%22+OR+all%3A%22scene%22+OR+all%3A%22understanding%22+OR+all%3A%22mmWave%22+OR+all%3A%22multipath%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "query": "handheld millimeter wave SAR autofocus MobiSys MobiCom SenSys",
@@ -378,7 +353,7 @@
     {
       "query": "millimeter wave radar indoor scene understanding MobiCom SenSys",
       "source": "arxiv",
-      "error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=45)"
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22millimeter%22+OR+all%3A%22wave%22+OR+all%3A%22radar%22+OR+all%3A%22indoor%22+OR+all%3A%22scene%22+OR+all%3A%22understanding%22+OR+all%3A%22MobiCom%22+OR+all%3A%22SenSys%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "query": "mmWave surface normal estimation 3D reconstruction CVPR ICCV",
@@ -388,12 +363,12 @@
     {
       "query": "Nature Portfolio millimeter wave radar imaging Communications Engineering",
       "source": "arxiv",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22Nature%22+OR+all%3A%22Portfolio%22+OR+all%3A%22millimeter%22+OR+all%3A%22wave%22+OR+all%3A%22radar%22+OR+all%3A%22imaging%22+OR+all%3A%22Communications%22+OR+all%3A%22Engineering%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
+      "error": "429 Client Error: Too Many Requests for url: https://export.arxiv.org/api/query?search_query=all%3A%22Nature%22+OR+all%3A%22Portfolio%22+OR+all%3A%22millimeter%22+OR+all%3A%22wave%22+OR+all%3A%22radar%22+OR+all%3A%22imaging%22+OR+all%3A%22Communications%22+OR+all%3A%22Engineering%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
     }
   ],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
-  "manual_doi_seed_last_run": "2026-09-13T05:05:41.297373+00:00",
-  "manual_doi_seed_file_count": 157,
+  "manual_doi_seed_last_run": "2026-09-13T07:09:08.503073+00:00",
+  "manual_doi_seed_file_count": 158,
   "manual_doi_seed_files": [
     "manual_doi_seeds.json",
     "manual_doi_seeds_2026-07-19.json",
@@ -551,10 +526,11 @@
     "manual_doi_seeds_2026-09-11_1251Z.json",
     "manual_doi_seeds_2026-09-11_1850Z.json",
     "manual_doi_seeds_2026-09-12_0052Z.json",
-    "manual_doi_seeds_2026-09-12_1255Z.json"
+    "manual_doi_seeds_2026-09-12_1255Z.json",
+    "manual_doi_seeds_2026-09-13_0651Z.json"
   ],
-  "manual_doi_seed_count": 355,
-  "manual_doi_seed_added": 0,
+  "manual_doi_seed_count": 356,
+  "manual_doi_seed_added": 1,
   "manual_doi_seed_updated": 337,
   "mmwave_seed_queries": [
     "high resolution handheld millimeter wave imaging phase error estimation compensation",
@@ -577,10 +553,10 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-09-13T05:09:50.757412+00:00",
+  "agent_audit_last_run": "2026-09-13T07:12:30.494151+00:00",
   "promoted_count": 0,
-  "promoted_mmwave_count": 5,
-  "resolved_final_versions": 27,
+  "promoted_mmwave_count": 20,
+  "resolved_final_versions": 26,
   "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion, geometric acoustic rendering/path tracing, acoustic holography, and photoacoustic/acousto-optic imaging; hidden mmWave track covers radar imaging, handheld SAR/autofocus, FMCW/MIMO-SAR, 4D radar, through-occlusion reconstruction, surface normals, and radar scene understanding. Nature-family mapping includes Communications Engineering.",
   "mmwave_allowlist_final_groups": [
     "ACM TOG / SIGGRAPH",
@@ -621,9 +597,39 @@
       "venue_group": "Other"
     },
     {
+      "id": "2026-a-systematic-review-of-ai-powered-adaptive-smart-home-security-using-multim-1dc73c40f098",
+      "title": "A systematic review of AI powered adaptive smart home security using multimodal sensor fusion edge intelligence and privacy preserving architectures",
+      "venue": "Discover Artificial Intelligence",
+      "venue_group": "Other"
+    },
+    {
+      "id": "2026-towards-mobile-high-resolution-mmwave-sar-imaging-via-prior-guided-autofocu-fd539467bb0b",
+      "title": "Towards Mobile High-Resolution mmWave SAR Imaging via Prior-Guided Autofocus",
+      "venue": "OpenAlex indexed work",
+      "venue_group": "Other"
+    },
+    {
+      "id": "2026-omnipc-a-generalizable-point-cloud-generation-pipeline-for-mmwave-radar-c277b6e576e8",
+      "title": "OmniPC: A Generalizable Point Cloud Generation Pipeline for mmWave Radar",
+      "venue": "OpenAlex indexed work",
+      "venue_group": "Other"
+    },
+    {
+      "id": "2026-single-frame-velocity-vector-estimation-using-radar-point-clouds-with-multi-81321c76f8a3",
+      "title": "Single-Frame Velocity Vector Estimation Using Radar Point Clouds with Multipath Ghost Targets",
+      "venue": "OpenAlex indexed work",
+      "venue_group": "Other"
+    },
+    {
       "id": "2026-multiscale-spatial-temporal-representation-learning-for-mmwave-radar-3-d-hu-9b903868c4d0",
       "title": "Multiscale Spatial–Temporal Representation Learning for mmWave Radar 3-D Human Pose Estimation",
       "venue": "IEEE Internet of Things Journal",
+      "venue_group": "Other"
+    },
+    {
+      "id": "2026-sensing-life-in-stillness-unified-dynamic-and-static-human-mesh-reconstruct-6a087bb69eb8",
+      "title": "Sensing Life in Stillness: Unified Dynamic and Static Human Mesh Reconstruction with mmWave Radar",
+      "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
       "venue_group": "Other"
     },
     {
@@ -637,6 +643,66 @@
       "title": "Abrupt Autofocusing Metalens for Compact Photoacoustic Imaging",
       "venue": "OpenAlex indexed work",
       "venue_group": "Other"
+    },
+    {
+      "id": "2025-fall-detection-in-bathroom-a-millimeter-wave-radar-and-multi-dimensional-cl-f9127eb8e6b7",
+      "title": "Fall Detection in Bathroom: A Millimeter-Wave Radar and Multi-Dimensional Clustering Approach",
+      "venue": "OpenAlex indexed work",
+      "venue_group": "Other"
+    },
+    {
+      "id": "2025-gr-fall-a-fall-detection-system-with-gait-recognition-for-indoor-environmen-0a8facbde413",
+      "title": "GR-Fall: A Fall Detection System with Gait Recognition for Indoor Environments Using SISO mmWave Radar",
+      "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+      "venue_group": "Other"
+    },
+    {
+      "id": "2025-indoor-human-tracking-with-3-d-expansion-estimation-based-on-mmwave-radar-280e77297189",
+      "title": "Indoor Human Tracking With 3-D Expansion Estimation Based on mmWave Radar",
+      "venue": "IEEE Transactions on Aerospace and Electronic Systems",
+      "venue_group": "Other"
+    },
+    {
+      "id": "2025-rebp-short-term-blood-pressure-estimation-by-reconstructing-ppg-signals-bas-aa14ade550fe",
+      "title": "ReBP: Short-Term Blood Pressure Estimation by Reconstructing PPG Signals Based on mmWave Radar",
+      "venue": "IEEE Sensors Journal",
+      "venue_group": "Other"
+    },
+    {
+      "id": "2025-indoor-mmwave-radar-ghost-suppression-trajectory-guided-spatiotemporal-poin-7e56c94cbf44",
+      "title": "Indoor mmWave Radar Ghost Suppression: Trajectory-Guided Spatiotemporal Point Cloud Learning",
+      "venue": "Sensors",
+      "venue_group": "Other"
+    },
+    {
+      "id": "2025-a-room-boundary-detection-method-based-on-a-2d-turntable-millimeter-wave-ra-8b1ecd8877c2",
+      "title": "A Room Boundary Detection Method Based on a 2D Turntable Millimeter-Wave Radar",
+      "venue": "OpenAlex indexed work",
+      "venue_group": "Other"
+    },
+    {
+      "id": "2025-research-on-standoff-3d-through-wall-imaging-method-based-on-stepped-freque-198e92ced67a",
+      "title": "Research on Standoff 3D Through-Wall Imaging Method Based on Stepped Frequency Continuous Wave",
+      "venue": "Computer Science and Application",
+      "venue_group": "Science family"
+    },
+    {
+      "id": "2025-people-tracking-technology-use-cases-in-brick-and-mortar-retail-de3554b4b2f2",
+      "title": "People Tracking Technology Use Cases in Brick-And-Mortar Retail",
+      "venue": "Procedia Computer Science",
+      "venue_group": "Science family"
+    },
+    {
+      "id": "2024-mmhat-3d-human-arm-tracking-with-joint-learning-using-dynamic-mmwave-point-818961b99213",
+      "title": "mmHAT: 3D Human Arm Tracking with Joint Learning using Dynamic mmWave Point Cloud",
+      "venue": "OpenAlex indexed work",
+      "venue_group": "Other"
+    },
+    {
+      "id": "2024-milliflow-scene-flow-estimation-on-mmwave-radar-point-cloud-for-human-motio-1dd8a0ed0444",
+      "title": "milliFlow: Scene Flow Estimation on mmWave Radar Point Cloud for Human Motion Sensing",
+      "venue": "Lecture notes in computer science",
+      "venue_group": "Science family"
     }
   ],
   "mmwave_track_policy": "Hidden mmWave side track keeps final top-venue papers, high-relevance mmWave arXiv/preprints, and explicitly marked manual tracking seeds. Nature Portfolio includes Communications Engineering and other Nature-family journals through the curation group mapping."
