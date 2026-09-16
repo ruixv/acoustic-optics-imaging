@@ -1,14 +1,19 @@
 {
-  "last_run": "2026-09-16T16:57:20.596679+00:00",
+  "last_run": "2026-09-16T21:21:11.506561+00:00",
   "since_date": "2024-09-16",
-  "raw_candidates_seen": 1974,
-  "saved_candidates_total": 877,
+  "raw_candidates_seen": 1972,
+  "saved_candidates_total": 879,
   "citation_graph_seed_count": 50,
   "errors": [
     {
       "source": "arXiv",
-      "query": "handheld millimeter-wave imaging phase error estimation compensation",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22handheld%22+AND+all%3A%22millimeter-wave%22+AND+all%3A%22imaging%22+AND+all%3A%22phase%22+AND+all%3A%22error%22+AND+all%3A%22estimation%22+AND+all%3A%22compensation%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+      "query": "forward-looking sonar 3D reconstruction differentiable",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22forward-looking%22+AND+all%3A%22sonar%22+AND+all%3A%22reconstruction%22+AND+all%3A%22differentiable%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "source": "arXiv",
+      "query": "acoustic non-line-of-sight imaging",
+      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22acoustic%22+AND+all%3A%22non-line-of-sight%22+AND+all%3A%22imaging%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
     },
     {
       "query": "high resolution handheld millimeter wave imaging phase error estimation compensation",
@@ -82,7 +87,7 @@
     }
   ],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
-  "manual_doi_seed_last_run": "2026-09-16T16:57:20.738484+00:00",
+  "manual_doi_seed_last_run": "2026-09-16T21:21:11.639563+00:00",
   "manual_doi_seed_file_count": 163,
   "manual_doi_seed_files": [
     "manual_doi_seeds.json",
@@ -273,7 +278,7 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-09-16T17:00:09.165604+00:00",
+  "agent_audit_last_run": "2026-09-16T21:23:57.193934+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 20,
   "resolved_final_versions": 50,
