@@ -1,18 +1,12 @@
 {
-  "last_run": "2026-09-16T01:00:35.496765+00:00",
+  "last_run": "2026-09-16T04:52:39.347310+00:00",
   "since_date": "2024-09-16",
   "raw_candidates_seen": 1975,
-  "saved_candidates_total": 873,
+  "saved_candidates_total": 875,
   "citation_graph_seed_count": 50,
-  "errors": [
-    {
-      "query": "mmNorm millimeter-wave surface normal hidden object reconstruction",
-      "source": "arxiv",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22mmNorm%22+OR+all%3A%22millimeter-wave%22+OR+all%3A%22surface%22+OR+all%3A%22normal%22+OR+all%3A%22hidden%22+OR+all%3A%22object%22+OR+all%3A%22reconstruction%22&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending"
-    }
-  ],
+  "errors": [],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
-  "manual_doi_seed_last_run": "2026-09-16T01:00:35.632018+00:00",
+  "manual_doi_seed_last_run": "2026-09-16T04:52:39.495855+00:00",
   "manual_doi_seed_file_count": 162,
   "manual_doi_seed_files": [
     "manual_doi_seeds.json",
@@ -179,8 +173,8 @@
     "manual_doi_seeds_2026-09-16_0854CST.json"
   ],
   "manual_doi_seed_count": 360,
-  "manual_doi_seed_added": 1,
-  "manual_doi_seed_updated": 341,
+  "manual_doi_seed_added": 0,
+  "manual_doi_seed_updated": 342,
   "mmwave_seed_queries": [
     "high resolution handheld millimeter wave imaging phase error estimation compensation",
     "A high-resolution handheld millimeter-wave imaging system with phase error estimation and compensation",
@@ -202,7 +196,7 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 1,
-  "agent_audit_last_run": "2026-09-16T01:04:58.865572+00:00",
+  "agent_audit_last_run": "2026-09-16T04:55:39.868106+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 20,
   "resolved_final_versions": 50,
