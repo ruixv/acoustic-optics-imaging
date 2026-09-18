@@ -4,14 +4,16 @@
     "title": "Four-dimensional imaging using a one-dimensional transducer array combining photoacoustic signals with ultrasonic timecoding",
     "authors": "Yingjie Feng; Simin Wang; Yang Liu; Qiuqin Mao; Tianxiang Zuo; Yifan Yang; Chao Tao; Xiaojun Liu",
     "year": 2026,
-    "publication_date": "2026-08-17",
-    "publication_date_precision": "accepted-day",
+    "publication_date": "2026-09-17",
+    "publication_date_precision": "published-day",
     "indexed_date": "2026-08-23",
     "venue": "Physical Review Applied",
     "venue_group": "APS Physical Review",
     "venue_type": "journal",
+    "volume": 26,
+    "article_number": "034037",
     "doi": "10.1103/tkjq-xb7z",
-    "primary_url": "https://journals.aps.org/prapplied/accepted/10.1103/tkjq-xb7z",
+    "primary_url": "https://journals.aps.org/prapplied/abstract/10.1103/tkjq-xb7z",
     "source": "Manual-APS-seed",
     "matched_query": "photoacoustic imaging ultrasonic timecoding 4D volumetric one-dimensional array acoustic coded imaging",
     "score": 10,
@@ -20,8 +22,7 @@
       "encodes elevational spatial information into temporal delays of orthogonally emitted ultrasound, making it a strong acoustic-coded-imaging contribution",
       "uses a one-dimensional transducer array to recover single-shot 3D volumes without mechanical scanning or a complex two-dimensional receive array",
       "demonstrates real-time 4D imaging by tracking a moving microbead at 10 Hz",
-      "the authoritative APS accepted-paper record verifies title, complete authorship, DOI and acceptance date",
-      "exact title and DOI were absent from repository code search before this update"
+      "the authoritative APS version-of-record verifies title, complete authorship, DOI, publication date, volume and article number"
     ],
     "topics": [
       "photoacoustic imaging",
@@ -33,18 +34,18 @@
       "photoacoustic tomography",
       "acoustic-optical imaging"
     ],
-    "status": "metadata-verified-accepted",
+    "status": "metadata-verified-published",
     "relevance": "core",
-    "paper_type": "peer-reviewed accepted paper",
+    "paper_type": "peer-reviewed journal paper",
     "recommendation": "add-to-main-library",
     "summary_en": "Introduces PAUTC, a scan-free 4D photoacoustic imaging strategy that synchronizes pulsed optical excitation with orthogonal ultrasound emissions so elevational position is time-coded into scattered echoes; a 1D array then reconstructs single-shot 3D volumes and supports 10 Hz dynamic imaging.",
     "needs_metadata_verification": false,
-    "metadata_verified_from": "American Physical Society Physical Review Applied accepted-paper record",
-    "publication_note": "Newly surfaced repository-absent accepted-paper backfill in this monitoring sweep. APS lists acceptance on 2026-08-17; the version-of-record volume/article number is not yet assigned, so no final issue metadata is invented.",
+    "metadata_verified_from": "American Physical Society Physical Review Applied version of record",
+    "publication_note": "APS version of record published 2026-09-17 as Physical Review Applied 26, 034037. This supersedes the earlier accepted-paper metadata recorded on 2026-08-23.",
     "sources": [
-      "https://journals.aps.org/prapplied/accepted/10.1103/tkjq-xb7z",
+      "https://journals.aps.org/prapplied/abstract/10.1103/tkjq-xb7z",
       "https://doi.org/10.1103/tkjq-xb7z"
     ],
-    "last_verified": "2026-08-23"
+    "last_verified": "2026-09-18"
   }
 ]
