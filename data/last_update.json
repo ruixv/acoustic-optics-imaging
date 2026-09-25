@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-09-25T17:12:27.701674+00:00",
+  "last_run": "2026-09-25T21:36:52.785391+00:00",
   "since_date": "2024-09-25",
-  "raw_candidates_seen": 1977,
+  "raw_candidates_seen": 1978,
   "saved_candidates_total": 895,
   "citation_graph_seed_count": 50,
   "errors": [],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
-  "manual_doi_seed_last_run": "2026-09-25T17:12:27.845458+00:00",
+  "manual_doi_seed_last_run": "2026-09-25T21:36:52.931962+00:00",
   "manual_doi_seed_file_count": 164,
   "manual_doi_seed_files": [
     "manual_doi_seeds.json",
@@ -198,7 +198,7 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-09-25T17:14:37.302705+00:00",
+  "agent_audit_last_run": "2026-09-25T21:38:32.204056+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 19,
   "resolved_final_versions": 58,
