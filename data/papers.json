@@ -86,6 +86,43 @@
     }
   },
   {
+    "id": "2026-high-accuracy-3d-reconstruction-of-underwater-objects-from-forward-looking-d380568061a7",
+    "title": "High-Accuracy 3D Reconstruction of Underwater Objects from Forward-Looking Sonar Using Shape-Specific Synthetic Training Data",
+    "authors": "Takafumi Katayama; Xiantao Jiang; Wen Shi; Tian Song",
+    "year": 2026,
+    "publication_date": "2026-09-28",
+    "venue": "Journal of Marine Science and Engineering",
+    "venue_group": "Science family",
+    "venue_type": "journal",
+    "doi": "10.3390/jmse14191796",
+    "primary_url": "https://doi.org/10.3390/jmse14191796",
+    "pdf_url": "https://doi.org/10.3390/jmse14191796",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "imaging sonar",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on imaging sonar, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 imaging sonar、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.3390/jmse14191796"
+    ],
+    "last_verified": "2026-09-29",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
     "id": "grohl2026-openqpaidata-quantitative-photoacoustic-imaging",
     "title": "OpenQPAIData: Measurements of test objects with reference labels for quantitative photoacoustic imaging research",
     "authors": "Janek Gröhl; Sandeep Kumar Kalva; Berkan Lafci; Francesca Di Cecio; Ran Tao; Thomas R. Else; Lorna Wright; Daniel Razansky; Sarah E. Bohndiek",
