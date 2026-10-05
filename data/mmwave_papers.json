@@ -75,6 +75,43 @@
     }
   },
   {
+    "id": "2026-towards-mobile-high-resolution-mmwave-sar-imaging-via-prior-guided-autofocu-fd539467bb0b",
+    "title": "Towards Mobile High-Resolution mmWave SAR Imaging via Prior-Guided Autofocus",
+    "authors": "Yadong Li",
+    "year": 2026,
+    "publication_date": "2026-06-01",
+    "venue": "Annual International Conference on Mobile Systems, Applications, and Services Companion (MobiSys Companion)",
+    "venue_group": "MobiSys",
+    "venue_type": "conference",
+    "doi": "10.1145/3812835.3814822",
+    "primary_url": "https://doi.org/10.1145/3812835.3814822",
+    "pdf_url": "https://doi.org/10.1145/3812835.3814822",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "handheld mmWave SAR"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on handheld mmWave SAR.",
+    "summary_cn": "自动审核收录的论文，主题包括 handheld mmWave SAR。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1145/3812835.3814822"
+    ],
+    "last_verified": "2026-10-05",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "mmwave",
+      "mmwave_keep_reason": "allowed-final-venue"
+    }
+  },
+  {
     "id": "2026-mmovd-detecting-fully-occluded-vehicles-with-millimeter-wave-signals-7918952bbfc5",
     "title": "mmOVD$^+$: Detecting Fully Occluded Vehicles With Millimeter-Wave Signals",
     "authors": "Chenming He; Chengzhen Meng; Xiaoran Fan; Dequan Wang; Lu Zhang; Yubo Yan; Yanyong Zhang",
