@@ -46,12 +46,9 @@ h1 { margin: 0.9rem 0 0; font: 600 clamp(2rem, 6vw, 2.9rem)/1.1 var(--serif); le
 
 h2 { margin: 2.6rem 0 0.9rem; font: 600 0.8rem/1.3 var(--sans); letter-spacing: 0.09em; text-transform: uppercase;
      color: var(--muted); }
-.papers { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.05rem; }
-.papers li { display: grid; grid-template-columns: 1.9rem minmax(0, 1fr); column-gap: 0.4rem; }
-.no { color: var(--muted); font-variant-numeric: tabular-nums; }
-.what { min-width: 0; }
-.what a { font: 400 1.14rem/1.35 var(--serif); text-decoration-color: var(--rule); }
-.what a:hover { text-decoration-color: currentColor; }
+.papers { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: minmax(0, 1fr); gap: 1.05rem; }
+.papers a { font: 400 1.14rem/1.35 var(--serif); text-decoration-color: var(--rule); }
+.papers a:hover { text-decoration-color: currentColor; }
 .venue { color: var(--muted); white-space: nowrap; }
 .url { display: block; margin-top: 0.1rem; font-size: 0.85rem; color: var(--muted); font-variant-numeric: tabular-nums;
        overflow-wrap: anywhere; }
@@ -77,47 +74,47 @@ h2 { margin: 2.6rem 0 0.9rem; font: 600 0.8rem/1.3 var(--sans); letter-spacing: 
   <p class="note">Hi all, for this group reading, I will share some recent work on acoustic imaging and 3D reconstruction, in air and under water. The papers are listed below.</p>
 
   <h2>Synthetic apertures, arrays and imaging around corners</h2>
-  <ol class="papers">
-    <li><span class="no">1</span><div class="what"><a href="https://doi.org/10.1038/s41597-024-04050-0" target="_blank" rel="noopener">An in-air synthetic aperture sonar dataset of target scattering in environments of varying complexity</a> <span class="venue">(Scientific Data, 2024)</span><span class="url">doi.org/10.1038/s41597-024-04050-0</span></div></li>
-    <li><span class="no">2</span><div class="what"><a href="https://arxiv.org/abs/2007.10407" target="_blank" rel="noopener">Fusing Concurrent Orthogonal Wide-aperture Sonar Images for Dense Underwater 3D Reconstruction</a> <span class="venue">(IROS, 2020)</span><span class="url">arxiv.org/abs/2007.10407</span></div></li>
-    <li><span class="no">3</span><div class="what"><a href="https://doi.org/10.1109/cvpr52729.2023.00101" target="_blank" rel="noopener">Seeing With Sound: Long-Range Acoustic Beamforming for Multimodal Scene Understanding</a> <span class="venue">(CVPR, 2023)</span><span class="url">doi.org/10.1109/cvpr52729.2023.00101</span></div></li>
-    <li><span class="no">4</span><div class="what"><a href="https://doi.org/10.1109/cvpr.2019.00694" target="_blank" rel="noopener">Acoustic Non-Line-Of-Sight Imaging</a> <span class="venue">(CVPR, 2019)</span><span class="url">doi.org/10.1109/cvpr.2019.00694</span></div></li>
-    <li><span class="no">5</span><div class="what"><a href="https://doi.org/10.1038/s42005-025-02335-3" target="_blank" rel="noopener">Ultrasound synthetic aperture non-line-of-sight imaging</a> <span class="venue">(Communications Physics, 2025)</span><span class="url">doi.org/10.1038/s42005-025-02335-3</span></div></li>
-  </ol>
+  <ul class="papers" role="list">
+    <li><a href="https://doi.org/10.1038/s41597-024-04050-0" target="_blank" rel="noopener">An in-air synthetic aperture sonar dataset of target scattering in environments of varying complexity</a> <span class="venue">(Scientific Data, 2024)</span><span class="url">doi.org/10.1038/s41597-024-04050-0</span></li>
+    <li><a href="https://arxiv.org/abs/2007.10407" target="_blank" rel="noopener">Fusing Concurrent Orthogonal Wide-aperture Sonar Images for Dense Underwater 3D Reconstruction</a> <span class="venue">(IROS, 2020)</span><span class="url">arxiv.org/abs/2007.10407</span></li>
+    <li><a href="https://doi.org/10.1109/cvpr52729.2023.00101" target="_blank" rel="noopener">Seeing With Sound: Long-Range Acoustic Beamforming for Multimodal Scene Understanding</a> <span class="venue">(CVPR, 2023)</span><span class="url">doi.org/10.1109/cvpr52729.2023.00101</span></li>
+    <li><a href="https://doi.org/10.1109/cvpr.2019.00694" target="_blank" rel="noopener">Acoustic Non-Line-Of-Sight Imaging</a> <span class="venue">(CVPR, 2019)</span><span class="url">doi.org/10.1109/cvpr.2019.00694</span></li>
+    <li><a href="https://doi.org/10.1038/s42005-025-02335-3" target="_blank" rel="noopener">Ultrasound synthetic aperture non-line-of-sight imaging</a> <span class="venue">(Communications Physics, 2025)</span><span class="url">doi.org/10.1038/s42005-025-02335-3</span></li>
+  </ul>
 
   <h2>Reconstruction from sonar data</h2>
-  <ol class="papers">
-    <li><span class="no">6</span><div class="what"><a href="https://arxiv.org/abs/2306.09909" target="_blank" rel="noopener">Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar</a> <span class="venue">(ACM TOG, 2023)</span><span class="url">arxiv.org/abs/2306.09909</span></div></li>
-    <li><span class="no">7</span><div class="what"><a href="https://arxiv.org/abs/2509.11087" target="_blank" rel="noopener">SH-SAS: An Implicit Neural Representation for Complex Spherical-Harmonic Scattering Fields for 3D Synthetic Aperture Sonar</a> <span class="venue">(3DV, 2026)</span><span class="url">arxiv.org/abs/2509.11087</span></div></li>
-    <li><span class="no">8</span><div class="what"><a href="https://arxiv.org/abs/2209.08221" target="_blank" rel="noopener">Neural Implicit Surface Reconstruction using Imaging Sonar</a> <span class="venue">(ICRA, 2023)</span><span class="url">arxiv.org/abs/2209.08221</span></div></li>
-    <li><span class="no">9</span><div class="what"><a href="https://doi.org/10.1109/iros45743.2020.9341613" target="_blank" rel="noopener">A Theory of Fermat Paths for 3D Imaging Sonar Reconstruction</a> <span class="venue">(IROS, 2020)</span><span class="url">doi.org/10.1109/iros45743.2020.9341613</span></div></li>
-    <li><span class="no">10</span><div class="what"><a href="https://arxiv.org/abs/2404.14819" target="_blank" rel="noopener">Bathymetric Surveying With Imaging Sonar Using Neural Volume Rendering</a> <span class="venue">(IEEE RA-L, 2024)</span><span class="url">arxiv.org/abs/2404.14819</span></div></li>
-    <li><span class="no">11</span><div class="what"><a href="https://arxiv.org/abs/2504.00159" target="_blank" rel="noopener">SonarSplat: Novel View Synthesis of Imaging Sonar via Gaussian Splatting</a> <span class="venue">(IEEE RA-L, 2025)</span><span class="url">arxiv.org/abs/2504.00159</span></div></li>
-    <li><span class="no">12</span><div class="what"><a href="https://arxiv.org/abs/2503.08930" target="_blank" rel="noopener">Acoustic Neural 3D Reconstruction Under Pose Drift</a> <span class="venue">(IROS, 2025)</span><span class="url">arxiv.org/abs/2503.08930</span></div></li>
-  </ol>
+  <ul class="papers" role="list">
+    <li><a href="https://arxiv.org/abs/2306.09909" target="_blank" rel="noopener">Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar</a> <span class="venue">(ACM TOG, 2023)</span><span class="url">arxiv.org/abs/2306.09909</span></li>
+    <li><a href="https://arxiv.org/abs/2509.11087" target="_blank" rel="noopener">SH-SAS: An Implicit Neural Representation for Complex Spherical-Harmonic Scattering Fields for 3D Synthetic Aperture Sonar</a> <span class="venue">(3DV, 2026)</span><span class="url">arxiv.org/abs/2509.11087</span></li>
+    <li><a href="https://arxiv.org/abs/2209.08221" target="_blank" rel="noopener">Neural Implicit Surface Reconstruction using Imaging Sonar</a> <span class="venue">(ICRA, 2023)</span><span class="url">arxiv.org/abs/2209.08221</span></li>
+    <li><a href="https://doi.org/10.1109/iros45743.2020.9341613" target="_blank" rel="noopener">A Theory of Fermat Paths for 3D Imaging Sonar Reconstruction</a> <span class="venue">(IROS, 2020)</span><span class="url">doi.org/10.1109/iros45743.2020.9341613</span></li>
+    <li><a href="https://arxiv.org/abs/2404.14819" target="_blank" rel="noopener">Bathymetric Surveying With Imaging Sonar Using Neural Volume Rendering</a> <span class="venue">(IEEE RA-L, 2024)</span><span class="url">arxiv.org/abs/2404.14819</span></li>
+    <li><a href="https://arxiv.org/abs/2504.00159" target="_blank" rel="noopener">SonarSplat: Novel View Synthesis of Imaging Sonar via Gaussian Splatting</a> <span class="venue">(IEEE RA-L, 2025)</span><span class="url">arxiv.org/abs/2504.00159</span></li>
+    <li><a href="https://arxiv.org/abs/2503.08930" target="_blank" rel="noopener">Acoustic Neural 3D Reconstruction Under Pose Drift</a> <span class="venue">(IROS, 2025)</span><span class="url">arxiv.org/abs/2503.08930</span></li>
+  </ul>
 
   <h2>Sonar together with a camera</h2>
-  <ol class="papers">
-    <li><span class="no">13</span><div class="what"><a href="https://doi.org/10.1109/tip.2009.2013081" target="_blank" rel="noopener">Opti-Acoustic Stereo Imaging: On System Calibration and 3-D Target Reconstruction</a> <span class="venue">(IEEE TIP, 2009)</span><span class="url">doi.org/10.1109/tip.2009.2013081</span></div></li>
-    <li><span class="no">14</span><div class="what"><a href="https://arxiv.org/abs/2402.03309" target="_blank" rel="noopener">AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion</a> <span class="venue">(SIGGRAPH, 2024)</span><span class="url">arxiv.org/abs/2402.03309</span></div></li>
-    <li><span class="no">15</span><div class="what"><a href="https://arxiv.org/abs/2404.04687" target="_blank" rel="noopener">Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion</a> <span class="venue">(IEEE TPAMI, 2025)</span><span class="url">arxiv.org/abs/2404.04687</span></div></li>
-    <li><span class="no">16</span><div class="what"><a href="https://arxiv.org/abs/2508.03408" target="_blank" rel="noopener">Opti-Acoustic Scene Reconstruction in Highly Turbid Underwater Environments</a> <span class="venue">(IROS, 2025)</span><span class="url">arxiv.org/abs/2508.03408</span></div></li>
-    <li><span class="no">17</span><div class="what"><a href="https://arxiv.org/abs/2603.13585" target="_blank" rel="noopener">Sonar-MASt3R: Real-Time Opti-Acoustic Fusion in Turbid, Unstructured Environments</a> <span class="venue">(ICRA, 2026)</span><span class="url">arxiv.org/abs/2603.13585</span></div></li>
-    <li><span class="no">18</span><div class="what"><a href="https://arxiv.org/abs/2005.01616" target="_blank" rel="noopener">VisualEchoes: Spatial Image Representation Learning Through Echolocation</a> <span class="venue">(ECCV, 2020)</span><span class="url">arxiv.org/abs/2005.01616</span></div></li>
-    <li><span class="no">19</span><div class="what"><a href="https://arxiv.org/abs/2103.08468" target="_blank" rel="noopener">Beyond Image to Depth: Improving Depth Prediction using Echoes</a> <span class="venue">(CVPR, 2021)</span><span class="url">arxiv.org/abs/2103.08468</span></div></li>
-  </ol>
+  <ul class="papers" role="list">
+    <li><a href="https://doi.org/10.1109/tip.2009.2013081" target="_blank" rel="noopener">Opti-Acoustic Stereo Imaging: On System Calibration and 3-D Target Reconstruction</a> <span class="venue">(IEEE TIP, 2009)</span><span class="url">doi.org/10.1109/tip.2009.2013081</span></li>
+    <li><a href="https://arxiv.org/abs/2402.03309" target="_blank" rel="noopener">AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion</a> <span class="venue">(SIGGRAPH, 2024)</span><span class="url">arxiv.org/abs/2402.03309</span></li>
+    <li><a href="https://arxiv.org/abs/2404.04687" target="_blank" rel="noopener">Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion</a> <span class="venue">(IEEE TPAMI, 2025)</span><span class="url">arxiv.org/abs/2404.04687</span></li>
+    <li><a href="https://arxiv.org/abs/2508.03408" target="_blank" rel="noopener">Opti-Acoustic Scene Reconstruction in Highly Turbid Underwater Environments</a> <span class="venue">(IROS, 2025)</span><span class="url">arxiv.org/abs/2508.03408</span></li>
+    <li><a href="https://arxiv.org/abs/2603.13585" target="_blank" rel="noopener">Sonar-MASt3R: Real-Time Opti-Acoustic Fusion in Turbid, Unstructured Environments</a> <span class="venue">(ICRA, 2026)</span><span class="url">arxiv.org/abs/2603.13585</span></li>
+    <li><a href="https://arxiv.org/abs/2005.01616" target="_blank" rel="noopener">VisualEchoes: Spatial Image Representation Learning Through Echolocation</a> <span class="venue">(ECCV, 2020)</span><span class="url">arxiv.org/abs/2005.01616</span></li>
+    <li><a href="https://arxiv.org/abs/2103.08468" target="_blank" rel="noopener">Beyond Image to Depth: Improving Depth Prediction using Echoes</a> <span class="venue">(CVPR, 2021)</span><span class="url">arxiv.org/abs/2103.08468</span></li>
+  </ul>
 
   <h2>Coded sensing and acoustic holography</h2>
-  <ol class="papers">
-    <li><span class="no">20</span><div class="what"><a href="https://doi.org/10.1126/sciadv.1701423" target="_blank" rel="noopener">Compressive 3D ultrasound imaging using a single sensor</a> <span class="venue">(Science Advances, 2017)</span><span class="url">doi.org/10.1126/sciadv.1701423</span></div></li>
-    <li><span class="no">21</span><div class="what"><a href="https://doi.org/10.1073/pnas.1502276112" target="_blank" rel="noopener">Single-sensor multispeaker listening with acoustic metamaterials</a> <span class="venue">(PNAS, 2015)</span><span class="url">doi.org/10.1073/pnas.1502276112</span></div></li>
-    <li><span class="no">22</span><div class="what"><a href="https://doi.org/10.1038/nature19755" target="_blank" rel="noopener">Holograms for acoustics</a> <span class="venue">(Nature, 2016)</span><span class="url">doi.org/10.1038/nature19755</span></div></li>
-    <li><span class="no">23</span><div class="what"><a href="https://doi.org/10.1038/ncomms9661" target="_blank" rel="noopener">Holographic acoustic elements for manipulation of levitated objects</a> <span class="venue">(Nature Communications, 2015)</span><span class="url">doi.org/10.1038/ncomms9661</span></div></li>
-    <li><span class="no">24</span><div class="what"><a href="https://doi.org/10.1038/s41586-019-1739-5" target="_blank" rel="noopener">A volumetric display for visual, tactile and audio presentation using acoustic trapping</a> <span class="venue">(Nature, 2019)</span><span class="url">doi.org/10.1038/s41586-019-1739-5</span></div></li>
-    <li><span class="no">25</span><div class="what"><a href="https://doi.org/10.1145/3386569.3392492" target="_blank" rel="noopener">GS-PAT: High-speed multi-point sound-fields for phased arrays of transducers</a> <span class="venue">(ACM TOG, 2020)</span><span class="url">doi.org/10.1145/3386569.3392492</span></div></li>
-    <li><span class="no">26</span><div class="what"><a href="https://doi.org/10.1145/3730900" target="_blank" rel="noopener">Differentiable Geometric Acoustic Path Tracing using Time-Resolved Path Replay Backpropagation</a> <span class="venue">(ACM TOG, 2025)</span><span class="url">doi.org/10.1145/3730900</span></div></li>
-    <li><span class="no">27</span><div class="what"><a href="https://doi.org/10.1145/3641519.3657443" target="_blank" rel="noopener">Temporal acoustic point holography</a> <span class="venue">(SIGGRAPH, 2024)</span><span class="url">doi.org/10.1145/3641519.3657443</span></div></li>
-  </ol>
+  <ul class="papers" role="list">
+    <li><a href="https://doi.org/10.1126/sciadv.1701423" target="_blank" rel="noopener">Compressive 3D ultrasound imaging using a single sensor</a> <span class="venue">(Science Advances, 2017)</span><span class="url">doi.org/10.1126/sciadv.1701423</span></li>
+    <li><a href="https://doi.org/10.1073/pnas.1502276112" target="_blank" rel="noopener">Single-sensor multispeaker listening with acoustic metamaterials</a> <span class="venue">(PNAS, 2015)</span><span class="url">doi.org/10.1073/pnas.1502276112</span></li>
+    <li><a href="https://doi.org/10.1038/nature19755" target="_blank" rel="noopener">Holograms for acoustics</a> <span class="venue">(Nature, 2016)</span><span class="url">doi.org/10.1038/nature19755</span></li>
+    <li><a href="https://doi.org/10.1038/ncomms9661" target="_blank" rel="noopener">Holographic acoustic elements for manipulation of levitated objects</a> <span class="venue">(Nature Communications, 2015)</span><span class="url">doi.org/10.1038/ncomms9661</span></li>
+    <li><a href="https://doi.org/10.1038/s41586-019-1739-5" target="_blank" rel="noopener">A volumetric display for visual, tactile and audio presentation using acoustic trapping</a> <span class="venue">(Nature, 2019)</span><span class="url">doi.org/10.1038/s41586-019-1739-5</span></li>
+    <li><a href="https://doi.org/10.1145/3386569.3392492" target="_blank" rel="noopener">GS-PAT: High-speed multi-point sound-fields for phased arrays of transducers</a> <span class="venue">(ACM TOG, 2020)</span><span class="url">doi.org/10.1145/3386569.3392492</span></li>
+    <li><a href="https://doi.org/10.1145/3730900" target="_blank" rel="noopener">Differentiable Geometric Acoustic Path Tracing using Time-Resolved Path Replay Backpropagation</a> <span class="venue">(ACM TOG, 2025)</span><span class="url">doi.org/10.1145/3730900</span></li>
+    <li><a href="https://doi.org/10.1145/3641519.3657443" target="_blank" rel="noopener">Temporal acoustic point holography</a> <span class="venue">(SIGGRAPH, 2024)</span><span class="url">doi.org/10.1145/3641519.3657443</span></li>
+  </ul>
 
   <p class="closing">I will mainly discuss what a single echo can and cannot measure, and how these works recover the 3D position that an echo alone leaves out.</p>
   <p class="background">For background on synthetic aperture sonar: <a href="https://doi.org/10.1109/joe.2009.2020853" target="_blank" rel="noopener">Synthetic Aperture Sonar: A Review of Current Status</a> (IEEE J. Oceanic Eng., 2009) and <a href="https://doi.org/10.5772/23122" target="_blank" rel="noopener">Introduction to Synthetic Aperture Sonar</a> (InTech, 2011).</p>
