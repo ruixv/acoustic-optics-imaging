@@ -7938,7 +7938,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-13",
-    "times_seen": 1021,
+    "times_seen": 1023,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -8742,7 +8742,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-13",
-    "times_seen": 276,
+    "times_seen": 277,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -13609,7 +13609,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-09-30",
     "last_seen": "2026-10-13",
-    "times_seen": 117,
+    "times_seen": 120,
     "venue_group": null,
     "topics": [
       "acoustic holography"
@@ -13705,8 +13705,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-09-29",
-    "last_seen": "2026-10-08",
-    "times_seen": 30,
+    "last_seen": "2026-10-13",
+    "times_seen": 33,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -13801,8 +13801,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-08",
-    "times_seen": 183,
+    "last_seen": "2026-10-13",
+    "times_seen": 186,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -13828,6 +13828,114 @@
     }
   },
   {
+    "id": "2026-synergistic-blood-pressure-estimation-via-contactless-mmwave-radar-and-imag-343a8a62e58e",
+    "title": "Synergistic Blood Pressure Estimation via Contactless mmWave Radar and Imaging Photoplethysmography: A Feasibility Study",
+    "authors": "Boyuan Gu; Haiyang Sun; Yongjie Liu; Guangji Ma; Guanghao Sun; Xiaorong Ding",
+    "year": 2026,
+    "publication_date": "2026-09-01",
+    "venue": "IEEE Sensors Journal",
+    "doi": "10.1109/jsen.2026.3706110",
+    "primary_url": "https://doi.org/10.1109/jsen.2026.3706110",
+    "pdf_url": "https://arxiv.org/pdf/2606.13701v1",
+    "source": "Crossref-final-version",
+    "matched_query": "mmWave radar imaging TMC",
+    "score": 11,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 3,
+    "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/jsen.2026.3706110",
+      "http://arxiv.org/abs/2606.13701v1",
+      "https://arxiv.org/pdf/2606.13701v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "topics": [
+      "mmWave radar imaging"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    }
+  },
+  {
+    "id": "2025-mm-2fsk-multimodal-frequency-shift-keying-for-ultra-efficient-and-robust-hi-3e48631e35ca",
+    "title": "MM-2FSK: Multimodal Frequency Shift Keying for Ultra-Efficient and Robust High-Resolution MIMO Radar Imaging",
+    "authors": "Vanessa Wirth; Johanna Braunig; Martin Vossiek; Tim Weyrich; Marc Stamminger",
+    "year": 2026,
+    "publication_date": "2026-09-01",
+    "venue": "IEEE Journal of Microwaves",
+    "doi": "10.1109/jmw.2026.3713325",
+    "primary_url": "https://doi.org/10.1109/jmw.2026.3713325",
+    "pdf_url": "https://arxiv.org/pdf/2511.01405v3",
+    "source": "Crossref-final-version",
+    "matched_query": "mmWave radar imaging TMC",
+    "score": 11,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 3,
+    "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/jmw.2026.3713325",
+      "http://arxiv.org/abs/2511.01405v3",
+      "https://arxiv.org/pdf/2511.01405v3"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "topics": [
+      "mmWave radar imaging"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    }
+  },
+  {
     "id": "2026-uscenes-a-multimodal-rgb-and-3d-sonar-dataset-for-underwater-robot-percepti-69cb9940aadd",
     "title": "uScenes: A Multimodal RGB and 3D Sonar Dataset for Underwater Robot Perception",
     "authors": "Trung Tien Dong; Zhenqi Wu; Aditya Penumarti; Zi-Hao Zhang; Micaiah Bartlett; Jane Shin; Xiaomin Lin",
@@ -13849,7 +13957,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-08-31",
     "last_seen": "2026-10-13",
-    "times_seen": 162,
+    "times_seen": 163,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -13896,7 +14004,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-08-25",
     "last_seen": "2026-10-13",
-    "times_seen": 193,
+    "times_seen": 194,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -14065,6 +14173,60 @@
     "publication_date_precision": "day",
     "volume": "4",
     "article_number": "49"
+  },
+  {
+    "id": "2025-millimeter-wave-inverse-pinhole-imaging-2a8fb31bb50d",
+    "title": "Millimeter-Wave Inverse Pinhole Imaging",
+    "authors": "Akarsh Prabhakara; Yawen Liu; Aswin C. Sankaranarayanan; Anthony Rowe; Swarun Kumar",
+    "year": 2026,
+    "publication_date": "2026-07-01",
+    "venue": "IEEE Sensors Journal",
+    "doi": "10.1109/jsen.2026.3693172",
+    "primary_url": "https://doi.org/10.1109/jsen.2026.3693172",
+    "pdf_url": "https://arxiv.org/pdf/2510.13904v1",
+    "source": "Crossref-final-version",
+    "matched_query": "mmWave radar imaging TMC",
+    "score": 11,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 3,
+    "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/jsen.2026.3693172",
+      "http://arxiv.org/abs/2510.13904v1",
+      "https://arxiv.org/pdf/2510.13904v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "topics": [
+      "mmWave radar imaging"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    }
   },
   {
     "id": "doi10-1016-j-measurement-2026-121756-weighted-tmm-omp-sound-field-reconstruction",
@@ -14241,6 +14403,115 @@
       "http://arxiv.org/abs/2604.12466v1",
       "https://arxiv.org/pdf/2604.12466v1"
     ]
+  },
+  {
+    "id": "2026-ris-aided-sensing-experimental-validation-of-radar-3d-imaging-in-the-mmwave-8d6d25a94e4c",
+    "title": "RIS-Aided Sensing: Experimental Validation of Radar 3D Imaging in the mmWave Band",
+    "authors": "Sergio Micó-Rosa; Alvaro Villaescusa-Tebar; Saúl Fenollosa; Carlos Villena-Jiménez; Monika Drozdowska; Narcis Cardona",
+    "year": 2026,
+    "publication_date": "2026-06-02",
+    "venue": "2026 Joint European Conference on Networks and Communications &amp;amp; 6G Summit (EuCNC/6G Summit)",
+    "doi": "10.1109/eucnc/6gsummit68295.2026.11577249",
+    "primary_url": "https://doi.org/10.1109/eucnc/6gsummit68295.2026.11577249",
+    "pdf_url": "https://arxiv.org/pdf/2604.12466v1",
+    "source": "Crossref-final-version",
+    "matched_query": "mmWave radar imaging TMC",
+    "score": 11,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 3,
+    "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/eucnc/6gsummit68295.2026.11577249",
+      "http://arxiv.org/abs/2604.12466v1",
+      "https://arxiv.org/pdf/2604.12466v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "topics": [
+      "mmWave radar imaging"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    }
+  },
+  {
+    "id": "2026-can-language-models-understand-mmwave-data-benchmarking-large-language-mode-932ede477355",
+    "title": "Can Language Models Understand Mmwave Data? Benchmarking Large Language Models for Mmwave Radar-Based Human Understanding",
+    "authors": "Jeongwan Shin; Jaehyeon Kim; Donguk Ko; Jaeho Choi",
+    "year": 2026,
+    "publication_date": "2026-06-01",
+    "venue": "2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition- FINDINGS Track (CVPRF)",
+    "doi": "10.1109/cvprf71909.2026.00216",
+    "primary_url": "https://doi.org/10.1109/cvprf71909.2026.00216",
+    "pdf_url": "https://arxiv.org/pdf/2608.14179v1",
+    "source": "Crossref-final-version",
+    "matched_query": "4D radar point cloud CVPR",
+    "score": 11,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 1,
+    "venue_group": "CVPR",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/cvprf71909.2026.00216",
+      "http://arxiv.org/abs/2608.14179v1",
+      "https://arxiv.org/pdf/2608.14179v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "topics": [
+      "mmWave radar imaging",
+      "4D radar point cloud"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    }
   },
   {
     "id": "2026-can-language-models-understand-mmwave-data-benchmarking-large-language-mode-932ede477355",
@@ -14514,6 +14785,115 @@
     ]
   },
   {
+    "id": "2026-sonar-mast3r-real-time-opti-acoustic-fusion-in-turbid-unstructured-environm-049fa5e83013",
+    "title": "Sonar-MASt3R: Real-Time Opti-Acoustic Fusion in Turbid, Unstructured Environments",
+    "authors": "Amy Phung; Richard Camilli",
+    "year": 2026,
+    "publication_date": "2026-06-01",
+    "venue": "2026 IEEE International Conference on Robotics and Automation (ICRA)",
+    "doi": "10.1109/icra57385.2026.11697153",
+    "primary_url": "https://doi.org/10.1109/icra57385.2026.11697153",
+    "pdf_url": "https://arxiv.org/pdf/2603.13585v1",
+    "source": "Crossref-final-version",
+    "matched_query": "camera sonar fusion 3D reconstruction",
+    "score": 11,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 2,
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "venue_group": "Other",
+    "topics": [
+      "camera-sonar fusion",
+      "3D reconstruction"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "track": "main",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    },
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/icra57385.2026.11697153",
+      "http://arxiv.org/abs/2603.13585v1",
+      "https://arxiv.org/pdf/2603.13585v1"
+    ]
+  },
+  {
+    "id": "2025-controllable-radar-simulation-with-waveform-parameter-embedding-b368189d1b43",
+    "title": "Controllable Radar Simulation with Waveform Parameter Embedding",
+    "authors": "Weiqing Xiao; Hao Huang; Chonghao Zhong; Yujie Lin; Nan Wang; Xiaoxue Chen; Zhaoxi Chen; Saining Zhang; Shuocheng Yang; Pierre Merriaux; Lei Lei; Hao Zhao",
+    "year": 2026,
+    "publication_date": "2026-06-01",
+    "venue": "2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition- FINDINGS Track (CVPRF)",
+    "doi": "10.1109/cvprf71909.2026.00617",
+    "primary_url": "https://doi.org/10.1109/cvprf71909.2026.00617",
+    "pdf_url": "https://arxiv.org/pdf/2506.03134v2",
+    "source": "Crossref-final-version",
+    "matched_query": "4D radar point cloud CVPR",
+    "score": 11,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 1,
+    "venue_group": "CVPR",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/cvprf71909.2026.00617",
+      "http://arxiv.org/abs/2506.03134v2",
+      "https://arxiv.org/pdf/2506.03134v2"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "topics": [
+      "4D radar point cloud"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    }
+  },
+  {
     "id": "2026-surface-characterization-with-mmwave-signals-3ef4a1f6af05",
     "title": "Surface Characterization with mmWave Signals",
     "authors": "Haowen Lai; Zhijun Lan; Dongyin Hu; M. Zhao",
@@ -14637,8 +15017,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-10-08",
-    "times_seen": 638,
+    "last_seen": "2026-10-13",
+    "times_seen": 641,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -14685,7 +15065,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-13",
-    "times_seen": 512,
+    "times_seen": 513,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -14856,8 +15236,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-10-08",
-    "times_seen": 638,
+    "last_seen": "2026-10-13",
+    "times_seen": 641,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -14955,8 +15335,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-10-08",
-    "times_seen": 638,
+    "last_seen": "2026-10-13",
+    "times_seen": 641,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -15003,8 +15383,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-10-08",
-    "times_seen": 212,
+    "last_seen": "2026-10-13",
+    "times_seen": 213,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -15209,8 +15589,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-10-08",
-    "times_seen": 638,
+    "last_seen": "2026-10-13",
+    "times_seen": 641,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -15289,54 +15669,6 @@
     }
   },
   {
-    "id": "2026-sonar-mast3r-real-time-opti-acoustic-fusion-in-turbid-unstructured-environm-049fa5e83013",
-    "title": "Sonar-MASt3R: Real-Time Opti-Acoustic Fusion in Turbid, Unstructured Environments",
-    "authors": "Amy Phung; Richard Camilli",
-    "year": 2026,
-    "publication_date": "2026-03-13",
-    "venue": "arXiv preprint",
-    "doi": "",
-    "primary_url": "http://arxiv.org/abs/2603.13585v1",
-    "pdf_url": "https://arxiv.org/pdf/2603.13585v1",
-    "source": "arXiv",
-    "matched_query": "camera sonar fusion 3D reconstruction",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "times_seen": 1,
-    "final_version_status": "arxiv-only-no-final-version-found",
-    "venue_group": "arXiv",
-    "topics": [
-      "camera-sonar fusion",
-      "3D reconstruction"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": false,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": true,
-        "negative_filter": false,
-        "final_version_status": "arxiv-only-no-final-version-found"
-      }
-    }
-  },
-  {
     "id": "2026-r4det-4d-radar-camera-fusion-for-high-performance-3d-object-detection-bb1a0fefcca2",
     "title": "R4Det: 4D Radar-Camera Fusion for High-Performance 3D Object Detection",
     "authors": "Zhongyu Xia; Yousen Tang; Yongtao Wang; Zhifeng Wang; Weijun Qin",
@@ -15357,8 +15689,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-10-08",
-    "times_seen": 212,
+    "last_seen": "2026-10-13",
+    "times_seen": 213,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -15438,6 +15770,60 @@
     }
   },
   {
+    "id": "2025-mmweaver-environment-specific-mmwave-signal-synthesis-from-a-photo-and-acti-b634b74b59b2",
+    "title": "mmWEAVER: Environment-Specific mmWave Signal Synthesis from a Photo and Activity Description",
+    "authors": "Mahathir Monjur; Shahriar Nirjon",
+    "year": 2026,
+    "publication_date": "2026-03-06",
+    "venue": "2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+    "doi": "10.1109/wacv61042.2026.00187",
+    "primary_url": "https://doi.org/10.1109/wacv61042.2026.00187",
+    "pdf_url": "https://arxiv.org/pdf/2512.11894v1",
+    "source": "Crossref-final-version",
+    "matched_query": "mmWave radar imaging TMC",
+    "score": 11,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 3,
+    "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/wacv61042.2026.00187",
+      "http://arxiv.org/abs/2512.11894v1",
+      "https://arxiv.org/pdf/2512.11894v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "topics": [
+      "mmWave radar imaging"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    }
+  },
+  {
     "id": "2025-a-240-elements-matrix-probe-with-aberration-mask-for-4d-carotid-artery-comp-9799317c2136",
     "title": "A 240-Element Matrix Probe With Aberration Mask for 4-D Carotid Artery Computational Ultrasound Imaging",
     "authors": "Yuyang Hu; Michael Brown; Didem Dogan; Mahé Bulot; Maxime Cheppe; Guillaume Ferin; Geert Leus; Antonius F. W. van der Steen; Pieter Kruizinga; Johannes G. Bosch",
@@ -15457,11 +15843,18 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-10-08",
-    "last_seen": "2026-10-09",
-    "times_seen": 2,
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 1,
     "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 0.99,
+    "sources": [
+      "https://doi.org/10.1109/tuson.2025.3648199",
+      "http://arxiv.org/abs/2508.10527v2",
+      "https://arxiv.org/pdf/2508.10527v2"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
     "topics": [
       "acoustic coded imaging",
       "computational ultrasound"
@@ -15483,14 +15876,7 @@
         "negative_filter": false,
         "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
-    },
-    "final_version_resolved": true,
-    "final_version_similarity": 0.99,
-    "sources": [
-      "https://doi.org/10.1109/tuson.2025.3648199",
-      "http://arxiv.org/abs/2508.10527v2",
-      "https://arxiv.org/pdf/2508.10527v2"
-    ]
+    }
   },
   {
     "id": "2025-a-240-elements-matrix-probe-with-aberration-mask-for-4d-carotid-artery-comp-9799317c2136",
@@ -15725,8 +16111,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-10-08",
-    "times_seen": 212,
+    "last_seen": "2026-10-13",
+    "times_seen": 213,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -15773,7 +16159,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-13",
-    "times_seen": 290,
+    "times_seen": 291,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -15865,7 +16251,7 @@
     "primary_url": "https://doi.org/10.1007/978-3-032-37359-5_9",
     "pdf_url": "https://arxiv.org/pdf/2608.28913v1",
     "source": "Crossref-final-version",
-    "matched_query": "mmWave radar imaging ECCV",
+    "matched_query": "mmWave radar imaging TMC",
     "score": 11,
     "reasons": [
       "primary imaging/radar term",
@@ -15876,7 +16262,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "times_seen": 1,
+    "times_seen": 4,
     "venue_group": "Science family",
     "final_version_resolved": true,
     "final_version_similarity": 1.0,
@@ -15961,6 +16347,60 @@
         "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
+  },
+  {
+    "id": "2026-mmir-frequency-space-inverse-rendering-for-3d-millimeter-wave-radar-adc-syn-7b559cf7821c",
+    "title": "mmIR: Frequency-Space Inverse Rendering for 3D Millimeter-Wave Radar ADC Synthesis",
+    "authors": "Adnan Armouti; Yixuan Gao; Rajalakshmi Nandakumar",
+    "year": 2026,
+    "publication_date": "2026-01-01",
+    "venue": "Lecture Notes in Computer Science Computer Vision – ECCV 2026",
+    "doi": "10.1007/978-3-032-37359-5_9",
+    "primary_url": "https://doi.org/10.1007/978-3-032-37359-5_9",
+    "pdf_url": "https://arxiv.org/pdf/2608.28913v1",
+    "source": "Crossref-final-version",
+    "matched_query": "mmWave radar imaging TMC",
+    "score": 11,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-09",
+    "times_seen": 71,
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "venue_group": "Science family",
+    "topics": [
+      "mmWave radar imaging"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    },
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1007/978-3-032-37359-5_9",
+      "http://arxiv.org/abs/2608.28913v1",
+      "https://arxiv.org/pdf/2608.28913v1"
+    ]
   },
   {
     "id": "2026-mambadsf-multi-scale-ssm-with-dilated-feature-fusion-for-sonar-small-target-3d5cae2e17ef",
@@ -16176,60 +16616,6 @@
       "https://doi.org/10.1109/jsen.2026.3693172",
       "http://arxiv.org/abs/2510.13904v1",
       "https://arxiv.org/pdf/2510.13904v1"
-    ]
-  },
-  {
-    "id": "2026-mmir-frequency-space-inverse-rendering-for-3d-millimeter-wave-radar-adc-syn-7b559cf7821c",
-    "title": "mmIR: Frequency-Space Inverse Rendering for 3D Millimeter-Wave Radar ADC Synthesis",
-    "authors": "Adnan Armouti; Yixuan Gao; Rajalakshmi Nandakumar",
-    "year": 2026,
-    "publication_date": "2026-01-01",
-    "venue": "Lecture Notes in Computer Science Computer Vision – ECCV 2026",
-    "doi": "10.1007/978-3-032-37359-5_9",
-    "primary_url": "https://doi.org/10.1007/978-3-032-37359-5_9",
-    "pdf_url": "https://arxiv.org/pdf/2608.28913v1",
-    "source": "Crossref-final-version",
-    "matched_query": "mmWave radar imaging TMC",
-    "score": 11,
-    "reasons": [
-      "primary imaging/radar term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-approved-candidate",
-    "first_seen": "2026-09-01",
-    "last_seen": "2026-09-09",
-    "times_seen": 71,
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "venue_group": "Science family",
-    "topics": [
-      "mmWave radar imaging"
-    ],
-    "track": "mmwave",
-    "agent_audit": {
-      "decision": "approved-candidate",
-      "confidence": 0.72,
-      "checks": {
-        "track": "mmwave",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
-      }
-    },
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1007/978-3-032-37359-5_9",
-      "http://arxiv.org/abs/2608.28913v1",
-      "https://arxiv.org/pdf/2608.28913v1"
     ]
   },
   {
@@ -16514,8 +16900,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-10-08",
-    "times_seen": 638,
+    "last_seen": "2026-10-13",
+    "times_seen": 641,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -16650,6 +17036,60 @@
     }
   },
   {
+    "id": "2025-rad-gs-radar-vision-integration-for-3d-gaussian-splatting-slam-in-outdoor-e-ae30daf39d5c",
+    "title": "Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments",
+    "authors": "Renxiang Xiao; Wei Liu; Yuanfan Zhang; Yushuai Chen; Jinming Chen; Zilu Wang; Liang Hu",
+    "year": 2025,
+    "publication_date": "2025-12-01",
+    "venue": "IEEE Robotics and Automation Letters",
+    "doi": "10.1109/lra.2025.3630875",
+    "primary_url": "https://doi.org/10.1109/lra.2025.3630875",
+    "pdf_url": "https://arxiv.org/pdf/2511.16091v1",
+    "source": "Crossref-final-version",
+    "matched_query": "mmWave radar imaging TMC",
+    "score": 11,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 3,
+    "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/lra.2025.3630875",
+      "http://arxiv.org/abs/2511.16091v1",
+      "https://arxiv.org/pdf/2511.16091v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "topics": [
+      "mmWave radar imaging"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    }
+  },
+  {
     "id": "2025-synthsom-twin-a-multi-modal-sensing-communication-digital-twin-dataset-for-2480fd2a477f",
     "title": "SynthSoM-Twin: A Multi-Modal Sensing-Communication Digital-Twin Dataset for Sim2Real Transfer via Synesthesia of Machines",
     "authors": "Junlong Chen; Ziwei Huang; Xuesong Cai; Xiang Cheng; Liuqing Yang",
@@ -16670,8 +17110,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-10-08",
-    "times_seen": 638,
+    "last_seen": "2026-10-13",
+    "times_seen": 641,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -17063,7 +17503,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-13",
-    "times_seen": 506,
+    "times_seen": 507,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -17875,6 +18315,60 @@
     }
   },
   {
+    "id": "2025-zfusion-an-effective-fuser-of-camera-and-4d-radar-for-3d-object-perception-7ea0247f38c7",
+    "title": "Zfusion: an Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving",
+    "authors": "Sheng Yang; Tong Zhan; Shichen Qiao; Jicheng Gong; Qing Yang; Jian Wang; Yanfeng Lu",
+    "year": 2025,
+    "publication_date": "2025-06-11",
+    "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "doi": "10.1109/cvprw67362.2025.00362",
+    "primary_url": "https://doi.org/10.1109/cvprw67362.2025.00362",
+    "pdf_url": "https://arxiv.org/pdf/2504.03438v2",
+    "source": "Crossref-final-version",
+    "matched_query": "4D radar point cloud CVPR",
+    "score": 11,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 1,
+    "venue_group": "CVPR",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/cvprw67362.2025.00362",
+      "http://arxiv.org/abs/2504.03438v2",
+      "https://arxiv.org/pdf/2504.03438v2"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "topics": [
+      "4D radar point cloud"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    }
+  },
+  {
     "id": "2025-tacodepth-towards-efficient-radar-camera-depth-estimation-with-one-stage-fu-c46e08da6984",
     "title": "TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion",
     "authors": "Yiran Wang; Jiaqi Li; Chaoyi Hong; Ruibo Li; Liusheng Sun; Xiao Song; Zhe Wang; Zhiguo Cao; Guosheng Lin",
@@ -17896,6 +18390,60 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
+    "times_seen": 1,
+    "venue_group": "CVPR",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/cvpr52734.2025.00984",
+      "http://arxiv.org/abs/2504.11773v1",
+      "https://arxiv.org/pdf/2504.11773v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "topics": [
+      "4D radar point cloud"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    }
+  },
+  {
+    "id": "2025-tacodepth-towards-efficient-radar-camera-depth-estimation-with-one-stage-fu-c46e08da6984",
+    "title": "TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion",
+    "authors": "Yiran Wang; Jiaqi Li; Chaoyi Hong; Ruibo Li; Liusheng Sun; Xiao Song; Zhe Wang; Zhiguo Cao; Guosheng Lin",
+    "year": 2025,
+    "publication_date": "2025-06-10",
+    "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "doi": "10.1109/cvpr52734.2025.00984",
+    "primary_url": "https://doi.org/10.1109/cvpr52734.2025.00984",
+    "pdf_url": "https://arxiv.org/pdf/2504.11773v1",
+    "source": "Crossref-final-version",
+    "matched_query": "4D radar point cloud CVPR",
+    "score": 11,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
     "times_seen": 1,
     "venue_group": "CVPR",
     "final_version_resolved": true,
@@ -18419,8 +18967,8 @@
     ],
     "status": "agent-approved-candidate",
     "first_seen": "2026-09-05",
-    "last_seen": "2026-10-08",
-    "times_seen": 82,
+    "last_seen": "2026-10-13",
+    "times_seen": 83,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -19329,6 +19877,61 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2026-mmgat-pose-estimation-by-graph-attention-with-mutual-features-from-mmwave-r-59a354cb5c2c",
+    "title": "mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud",
+    "authors": "Masud Abdullah Al; Xintong Shi; Bouazizi Mondher; Tomoaki Ohtsuki",
+    "year": 2024,
+    "publication_date": "2024-06-09",
+    "venue": "ICC 2024 - IEEE International Conference on Communications",
+    "doi": "10.1109/icc51166.2024.10622791",
+    "primary_url": "https://doi.org/10.1109/icc51166.2024.10622791",
+    "pdf_url": "https://arxiv.org/pdf/2603.08551v1",
+    "source": "Crossref-final-version",
+    "matched_query": "mmWave radar imaging TMC",
+    "score": 11,
+    "reasons": [
+      "primary imaging/radar term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-approved-candidate",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 3,
+    "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/icc51166.2024.10622791",
+      "http://arxiv.org/abs/2603.08551v1",
+      "https://arxiv.org/pdf/2603.08551v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "topics": [
+      "mmWave radar imaging",
+      "4D radar point cloud"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "approved-candidate",
+      "confidence": 0.72,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -21800,12 +22403,6 @@
         "final_version_status": "manual-doi-metadata-pending"
       }
     },
-    "cites_core": true,
-    "cited_core_paper": "2025-acoustic-neural-3d-reconstruction-under-pose-drift-4c50062edf90",
-    "cited_core_title": "Acoustic Neural 3D Reconstruction Under Pose Drift",
-    "cited_core_doi": "10.1109/iros60139.2025.11247485",
-    "citation_source": "OpenAlex cited-by graph",
-    "metadata_verified_from": "DBLP final journal indexing; coauthor publication page; official author project page/arXiv for authors and technical content; DOI corroborated by indexed journal metadata",
     "publication_date_precision": "month",
     "indexed_date": "2026-08-10",
     "venue_type": "journal article",
@@ -21814,6 +22411,7 @@
     "recommendation": "add-to-main-library",
     "summary_en": "Introduces NAS-GS, a sonar-specific Gaussian Splatting framework for 3D reconstruction and novel-view synthesis. Two-Ways Splatting models the distinct sonar intensity-accumulation and transmittance directions, while a Gaussian-mixture noise model represents sidelobes, speckle, and multipath so that scene Gaussians do not overfit measurement noise. The method is evaluated on both simulated scenes and real offshore sonar data.",
     "needs_metadata_verification": false,
+    "metadata_verified_from": "DBLP final journal indexing; coauthor publication page; official author project page/arXiv for authors and technical content; DOI corroborated by indexed journal metadata",
     "publication_note": "Originally posted as arXiv:2601.06285 on 2026-01-09. Newly surfaced as a final IEEE Robotics and Automation Letters journal assignment (vol. 11, no. 8, pp. 9763-9770) during the 2026-08-10 sweep. The accessible authoritative/curated records did not expose a trustworthy exact day-level IEEE publication date, so publication precision is intentionally stored as August 2026.",
     "last_verified": "2026-08-10"
   },
@@ -32896,7 +33494,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-10",
     "last_seen": "2026-10-13",
-    "times_seen": 210,
+    "times_seen": 236,
     "venue_group": "Science family",
     "topics": [
       "handheld mmWave SAR"
@@ -32941,7 +33539,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-09-25",
     "last_seen": "2026-10-13",
-    "times_seen": 522,
+    "times_seen": 531,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -32986,7 +33584,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-09-02",
     "last_seen": "2026-10-13",
-    "times_seen": 1306,
+    "times_seen": 1311,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -33031,7 +33629,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-13",
-    "times_seen": 707,
+    "times_seen": 708,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction"
@@ -33076,7 +33674,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-09-11",
     "last_seen": "2026-10-13",
-    "times_seen": 753,
+    "times_seen": 756,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction"
@@ -33166,7 +33764,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-29",
     "last_seen": "2026-10-13",
-    "times_seen": 8570,
+    "times_seen": 8588,
     "venue_group": "Science family",
     "topics": [
       "handheld mmWave SAR"
@@ -33302,7 +33900,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-13",
-    "times_seen": 30,
+    "times_seen": 31,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -33347,7 +33945,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-13",
-    "times_seen": 270,
+    "times_seen": 288,
     "venue_group": "Science family",
     "topics": [
       "mmWave radar imaging",
@@ -34610,6 +35208,60 @@
     }
   },
   {
+    "id": "2026-non-intrusive-body-composition-assessment-from-full-body-mmwave-scans-0faf931d877e",
+    "title": "Non-intrusive Body Composition Assessment from Full-Body mmWave Scans",
+    "authors": "Miriam Senne; Benjamin D. Killeen; Tony Danjun Wang; Nassir Navab",
+    "year": 2027,
+    "publication_date": "2027-01-01",
+    "venue": "Lecture Notes in Computer Science Medical Image Computing and Computer Assisted Intervention – MICCAI 2026",
+    "doi": "10.1007/978-3-032-38260-3_37",
+    "primary_url": "https://doi.org/10.1007/978-3-032-38260-3_37",
+    "pdf_url": "https://arxiv.org/pdf/2605.08306v2",
+    "source": "Crossref-final-version",
+    "matched_query": "mmWave radar imaging TMC",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 3,
+    "venue_group": "Science family",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1007/978-3-032-38260-3_37",
+      "http://arxiv.org/abs/2605.08306v2",
+      "https://arxiv.org/pdf/2605.08306v2"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "topics": [
+      "mmWave radar imaging"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    }
+  },
+  {
     "id": "doi10-1016-j-ultras-2026-108111-frequency-dependent-angular-fov-weighted-ultrasound-imaging",
     "title": "Ultrasound imaging optimization via frequency-dependent weighting for angular field-of-view",
     "authors": "Wen Zhang; Guanjun Yin; Dongxu Zhou; Xuebing Yang; Jianzhong Guo",
@@ -34770,7 +35422,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-09-28",
     "last_seen": "2026-10-13",
-    "times_seen": 16,
+    "times_seen": 17,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -35211,7 +35863,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-08-27",
     "last_seen": "2026-10-13",
-    "times_seen": 128,
+    "times_seen": 129,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -36175,7 +36827,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-16",
     "last_seen": "2026-10-13",
-    "times_seen": 264,
+    "times_seen": 265,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -36223,7 +36875,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-07",
     "last_seen": "2026-10-13",
-    "times_seen": 465,
+    "times_seen": 466,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -36513,7 +37165,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-13",
-    "times_seen": 337,
+    "times_seen": 338,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -36867,6 +37519,59 @@
     ]
   },
   {
+    "id": "2025-omnivla-physically-grounded-multimodal-vla-with-unified-multi-sensor-percep-e8e8ddf306fc",
+    "title": "OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation",
+    "authors": "Heyu Guo; Shanmu Wang; Ruichun Ma; Shiqi Jiang; Yasaman Ghasempour; Omid Abari; Baining Guo; Lili Qiu",
+    "year": 2026,
+    "publication_date": "2026-06-01",
+    "venue": "2026 IEEE International Conference on Robotics and Automation (ICRA)",
+    "doi": "10.1109/icra57385.2026.11695776",
+    "primary_url": "https://doi.org/10.1109/icra57385.2026.11695776",
+    "pdf_url": "https://arxiv.org/pdf/2511.01210v3",
+    "source": "Crossref-final-version",
+    "matched_query": "mmWave radar imaging TMC",
+    "score": 8,
+    "reasons": [
+      "primary imaging/radar term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 3,
+    "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/icra57385.2026.11695776",
+      "http://arxiv.org/abs/2511.01210v3",
+      "https://arxiv.org/pdf/2511.01210v3"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "topics": [
+      "mmWave radar imaging"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    }
+  },
+  {
     "id": "2026-mupose-breaking-the-scalability-barrier-of-mmwave-multi-user-pose-estimatio-d53c8f9897ac",
     "title": "MuPose: Breaking the Scalability Barrier of mmWave Multi-User Pose Estimation in the Wild",
     "authors": "Duo Zhang; Zhehui Yin; Xusheng Zhang; Junzhe Wang; Hongliu Yang; Zhiyun Yao; Zizhou Fan; Wenwei Li; Daqing Zhang",
@@ -36938,8 +37643,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-10-08",
-    "times_seen": 638,
+    "last_seen": "2026-10-13",
+    "times_seen": 641,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -37051,7 +37756,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-13",
-    "times_seen": 314,
+    "times_seen": 315,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -37304,11 +38009,18 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-10-08",
-    "last_seen": "2026-10-09",
-    "times_seen": 2,
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 1,
     "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1007/s10915-026-03247-2",
+      "http://arxiv.org/abs/2504.13335v2",
+      "https://arxiv.org/pdf/2504.13335v2"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
     "topics": [
       "acoustic coded imaging",
       "computational ultrasound"
@@ -37330,14 +38042,7 @@
         "negative_filter": false,
         "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
-    },
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1007/s10915-026-03247-2",
-      "http://arxiv.org/abs/2504.13335v2",
-      "https://arxiv.org/pdf/2504.13335v2"
-    ]
+    }
   },
   {
     "id": "2025-multiharmonic-algorithms-for-contrast-enhanced-ultrasound-97c6df81eef4",
@@ -37482,8 +38187,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-10-08",
-    "times_seen": 638,
+    "last_seen": "2026-10-13",
+    "times_seen": 641,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -37689,7 +38394,7 @@
     "primary_url": "http://arxiv.org/abs/2604.02603v1",
     "pdf_url": "https://arxiv.org/pdf/2604.02603v1",
     "source": "arXiv",
-    "matched_query": "mmWave radar imaging CVPR",
+    "matched_query": "mmWave radar imaging TMC",
     "score": 8,
     "reasons": [
       "core wave-sensing term",
@@ -37700,7 +38405,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-13",
-    "times_seen": 913,
+    "times_seen": 917,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -37797,8 +38502,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-10-08",
-    "times_seen": 638,
+    "last_seen": "2026-10-13",
+    "times_seen": 641,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -37895,8 +38600,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-10-08",
-    "times_seen": 638,
+    "last_seen": "2026-10-13",
+    "times_seen": 641,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -38289,7 +38994,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-13",
-    "times_seen": 337,
+    "times_seen": 338,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -38335,8 +39040,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-10-08",
-    "times_seen": 638,
+    "last_seen": "2026-10-13",
+    "times_seen": 641,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -39043,6 +39748,115 @@
     }
   },
   {
+    "id": "2025-us-x-complete-a-multi-modal-approach-to-anatomical-3d-shape-recovery-c00166ed7122",
+    "title": "US-X Complete: A Multi-modal Approach to Anatomical 3D Shape Recovery",
+    "authors": "Miruna-Alexandra Gafencu; Yordanka Velikova; Nassir Navab; Mohammad Farid Azampour",
+    "year": 2026,
+    "publication_date": "2026-01-01",
+    "venue": "Lecture Notes in Computer Science Shape in Medical Imaging",
+    "doi": "10.1007/978-3-032-06774-6_17",
+    "primary_url": "https://doi.org/10.1007/978-3-032-06774-6_17",
+    "pdf_url": "https://arxiv.org/pdf/2511.15600v1",
+    "source": "Crossref-final-version",
+    "matched_query": "coded acoustic imaging computational acoustics",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 2,
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "venue_group": "Science family",
+    "topics": [
+      "acoustic coded imaging"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "main",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    },
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1007/978-3-032-06774-6_17",
+      "http://arxiv.org/abs/2511.15600v1",
+      "https://arxiv.org/pdf/2511.15600v1"
+    ]
+  },
+  {
+    "id": "2025-optimization-based-calibration-for-intravascular-ultrasound-volume-reconstr-b9c6535b4518",
+    "title": "Optimization-Based Calibration for Intravascular Ultrasound Volume Reconstruction",
+    "authors": "Karl-Philippe Beaudet; Sidaty El Hadramy; Philippe C. Cattin; Juan Verde; Stéphane Cotin",
+    "year": 2026,
+    "publication_date": "2026-01-01",
+    "venue": "Lecture Notes in Computer Science Simplifying Medical Ultrasound",
+    "doi": "10.1007/978-3-032-06329-8_6",
+    "primary_url": "https://doi.org/10.1007/978-3-032-06329-8_6",
+    "pdf_url": "https://arxiv.org/pdf/2508.20605v1",
+    "source": "Crossref-final-version",
+    "matched_query": "computational ultrasound complex fields imaging",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 2,
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "venue_group": "Science family",
+    "topics": [
+      "acoustic coded imaging",
+      "computational ultrasound"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "main",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    },
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1007/978-3-032-06329-8_6",
+      "http://arxiv.org/abs/2508.20605v1",
+      "https://arxiv.org/pdf/2508.20605v1"
+    ]
+  },
+  {
     "id": "2025-quasi-optical-millimeter-wave-filters-fabricated-using-copper-coated-perfor-87637b106ce6",
     "title": "Quasi Optical Millimeter Wave Filters Fabricated Using Copper Coated Perforated Brass Sheet",
     "authors": "Sambit Kumar Ghosh; Ethan Kepros; Premjeet Chahal",
@@ -39113,8 +39927,8 @@
     ],
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
-    "last_seen": "2026-10-08",
-    "times_seen": 638,
+    "last_seen": "2026-10-13",
+    "times_seen": 641,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -39238,53 +40052,6 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2025-us-x-complete-a-multi-modal-approach-to-anatomical-3d-shape-recovery-c00166ed7122",
-    "title": "US-X Complete: A Multi-Modal Approach to Anatomical 3D Shape Recovery",
-    "authors": "Miruna-Alexandra Gafencu; Yordanka Velikova; Nassir Navab; Mohammad Farid Azampour",
-    "year": 2025,
-    "publication_date": "2025-11-19",
-    "venue": "arXiv preprint",
-    "doi": "",
-    "primary_url": "http://arxiv.org/abs/2511.15600v1",
-    "pdf_url": "https://arxiv.org/pdf/2511.15600v1",
-    "source": "arXiv",
-    "matched_query": "coded acoustic imaging computational acoustics",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "times_seen": 1,
-    "final_version_status": "arxiv-only-no-final-version-found",
-    "venue_group": "arXiv",
-    "topics": [
-      "acoustic coded imaging"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": false,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": true,
-        "negative_filter": false,
-        "final_version_status": "arxiv-only-no-final-version-found"
       }
     }
   },
@@ -39462,11 +40229,18 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-10-12",
+    "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "times_seen": 2,
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "times_seen": 1,
     "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/iros60139.2025.11247485",
+      "http://arxiv.org/abs/2503.08930v2",
+      "https://arxiv.org/pdf/2503.08930v2"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
     "topics": [
       "imaging sonar",
       "differentiable acoustic rendering",
@@ -39489,14 +40263,7 @@
         "negative_filter": false,
         "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
-    },
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/iros60139.2025.11247485",
-      "http://arxiv.org/abs/2503.08930v2",
-      "https://arxiv.org/pdf/2503.08930v2"
-    ]
+    }
   },
   {
     "id": "2025-acoustic-neural-3d-reconstruction-under-pose-drift-e476aa8d242a",
@@ -39604,6 +40371,61 @@
         "final_version_status": "not-needed"
       }
     }
+  },
+  {
+    "id": "2024-high-quality-passive-acoustic-mapping-with-the-cross-correlated-angular-spe-7187da195da1",
+    "title": "High-Quality Passive Acoustic Mapping With the Cross-Correlated Angular Spectrum Method",
+    "authors": "Yi Zeng; Shixiao W. Jiang; Hui Zhu; Jinwei Li; Jianfeng Li; Fei Li; Shukuan Lu; Xiran Cai",
+    "year": 2025,
+    "publication_date": "2025-10-01",
+    "venue": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
+    "doi": "10.1109/tuffc.2025.3586460",
+    "primary_url": "https://doi.org/10.1109/tuffc.2025.3586460",
+    "pdf_url": "https://arxiv.org/pdf/2412.02413v1",
+    "source": "Crossref-final-version",
+    "matched_query": "computational ultrasound complex fields imaging",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 2,
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "venue_group": "Other",
+    "topics": [
+      "acoustic coded imaging",
+      "computational ultrasound"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "main",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    },
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/tuffc.2025.3586460",
+      "http://arxiv.org/abs/2412.02413v1",
+      "https://arxiv.org/pdf/2412.02413v1"
+    ]
   },
   {
     "id": "2025-photoacoustic-circular-dichroism-as-a-window-into-wavelength-dependent-chir-9ef2a747d82e",
@@ -39756,54 +40578,6 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2025-optimization-based-calibration-for-intravascular-ultrasound-volume-reconstr-b9c6535b4518",
-    "title": "Optimization-Based Calibration for Intravascular Ultrasound Volume Reconstruction",
-    "authors": "Karl-Philippe Beaudet; Sidaty El Hadramy; Philippe C Cattin; Juan Verde; Stéphane Cotin",
-    "year": 2025,
-    "publication_date": "2025-08-28",
-    "venue": "arXiv preprint",
-    "doi": "",
-    "primary_url": "http://arxiv.org/abs/2508.20605v1",
-    "pdf_url": "https://arxiv.org/pdf/2508.20605v1",
-    "source": "arXiv",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "times_seen": 1,
-    "final_version_status": "arxiv-only-no-final-version-found",
-    "venue_group": "arXiv",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": false,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": true,
-        "negative_filter": false,
-        "final_version_status": "arxiv-only-no-final-version-found"
       }
     }
   },
@@ -40450,11 +41224,18 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-10-08",
-    "last_seen": "2026-10-09",
-    "times_seen": 2,
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 1,
     "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/isbi60581.2025.10981242",
+      "http://arxiv.org/abs/2503.17475v1",
+      "https://arxiv.org/pdf/2503.17475v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
     "topics": [
       "acoustic coded imaging",
       "computational ultrasound"
@@ -40476,14 +41257,7 @@
         "negative_filter": false,
         "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
-    },
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/isbi60581.2025.10981242",
-      "http://arxiv.org/abs/2503.17475v1",
-      "https://arxiv.org/pdf/2503.17475v1"
-    ]
+    }
   },
   {
     "id": "2025-an-experimental-comparison-of-basic-device-localization-systems-in-wireless-505354a4c8b9",
@@ -41481,7 +42255,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-13",
-    "times_seen": 508,
+    "times_seen": 509,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -41554,54 +42328,6 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2024-high-quality-passive-acoustic-mapping-with-the-cross-correlated-angular-spe-7187da195da1",
-    "title": "High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method",
-    "authors": "Yi Zeng; Hui Zhu; Jinwei Li; Jianfeng Li; Fei Li; Shukuan Lu; Xiran Cai",
-    "year": 2024,
-    "publication_date": "2024-12-03",
-    "venue": "arXiv preprint",
-    "doi": "",
-    "primary_url": "http://arxiv.org/abs/2412.02413v1",
-    "pdf_url": "https://arxiv.org/pdf/2412.02413v1",
-    "source": "arXiv",
-    "matched_query": "computational ultrasound complex fields imaging",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "times_seen": 1,
-    "final_version_status": "arxiv-only-no-final-version-found",
-    "venue_group": "arXiv",
-    "topics": [
-      "acoustic coded imaging",
-      "computational ultrasound"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": false,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": true,
-        "negative_filter": false,
-        "final_version_status": "arxiv-only-no-final-version-found"
       }
     }
   },
@@ -42133,6 +42859,60 @@
       "recent"
     ],
     "status": "agent-watchlist",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "times_seen": 3,
+    "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/radarconf2458775.2024.10548874",
+      "http://arxiv.org/abs/2604.06842v1",
+      "https://arxiv.org/pdf/2604.06842v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "topics": [
+      "mmWave radar imaging"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    }
+  },
+  {
+    "id": "2026-radarcnn-learning-based-indoor-object-classification-from-iq-imaging-radar-a962e46af62d",
+    "title": "RadarCNN: Learning-Based Indoor Object Classification from IQ Imaging Radar Data",
+    "authors": "Stefan Hägele; Fabian Seguel; Driton Salihu; Marsil Zakour; Eckehard Steinbach",
+    "year": 2024,
+    "publication_date": "2024-05-06",
+    "venue": "2024 IEEE Radar Conference (RadarConf24)",
+    "doi": "10.1109/radarconf2458775.2024.10548874",
+    "primary_url": "https://doi.org/10.1109/radarconf2458775.2024.10548874",
+    "pdf_url": "https://arxiv.org/pdf/2604.06842v1",
+    "source": "Crossref-final-version",
+    "matched_query": "mmWave radar imaging TMC",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
     "times_seen": 3,
@@ -42188,7 +42968,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-08-21",
     "last_seen": "2026-10-13",
-    "times_seen": 4371,
+    "times_seen": 4389,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -42233,7 +43013,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-08-31",
     "last_seen": "2026-10-13",
-    "times_seen": 3337,
+    "times_seen": 3355,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -42278,7 +43058,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-09-06",
     "last_seen": "2026-10-13",
-    "times_seen": 2753,
+    "times_seen": 2771,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -42323,7 +43103,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-25",
     "last_seen": "2026-10-13",
-    "times_seen": 2446,
+    "times_seen": 2449,
     "venue_group": "Science family",
     "topics": [
       "vectorial",
@@ -44916,7 +45696,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-13",
-    "times_seen": 276,
+    "times_seen": 277,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -45280,7 +46060,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-13",
-    "times_seen": 279,
+    "times_seen": 280,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
