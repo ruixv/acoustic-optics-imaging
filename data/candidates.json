@@ -724,7 +724,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-10",
     "last_seen": "2026-10-17",
-    "times_seen": 936,
+    "times_seen": 939,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -1623,7 +1623,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-11",
     "last_seen": "2026-10-17",
-    "times_seen": 134,
+    "times_seen": 135,
     "venue_group": null,
     "topics": [
       "camera-sonar fusion"
@@ -3621,7 +3621,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-23",
     "last_seen": "2026-10-17",
-    "times_seen": 79,
+    "times_seen": 80,
     "venue_group": "Science family",
     "topics": [
       "3D reconstruction"
@@ -5078,7 +5078,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-10-05",
     "last_seen": "2026-10-17",
-    "times_seen": 37,
+    "times_seen": 38,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -7938,7 +7938,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-17",
-    "times_seen": 1047,
+    "times_seen": 1049,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -7988,7 +7988,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "times_seen": 2,
+    "times_seen": 4,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -8033,11 +8033,18 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-16",
-    "times_seen": 4,
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "times_seen": 2,
     "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/icra57385.2026.11697392",
+      "http://arxiv.org/abs/2601.01144v2",
+      "https://arxiv.org/pdf/2601.01144v2"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
     "topics": [
       "3D reconstruction"
     ],
@@ -8058,14 +8065,7 @@
         "negative_filter": false,
         "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
-    },
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/icra57385.2026.11697392",
-      "http://arxiv.org/abs/2601.01144v2",
-      "https://arxiv.org/pdf/2601.01144v2"
-    ]
+    }
   },
   {
     "id": "2026-viso-robust-underwater-visual-inertial-sonar-slam-with-photometric-renderin-934aa18ed82a",
@@ -8480,7 +8480,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-19",
     "last_seen": "2026-10-17",
-    "times_seen": 250,
+    "times_seen": 251,
     "venue_group": null,
     "topics": [
       "acoustic NLOS"
@@ -10182,7 +10182,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-10-17",
-    "times_seen": 565,
+    "times_seen": 566,
     "venue_group": null,
     "topics": [
       "cites",
@@ -10885,7 +10885,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-17",
-    "times_seen": 27,
+    "times_seen": 28,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -13602,7 +13602,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-09-30",
     "last_seen": "2026-10-17",
-    "times_seen": 150,
+    "times_seen": 151,
     "venue_group": null,
     "topics": [
       "acoustic holography"
@@ -13842,7 +13842,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-08-31",
     "last_seen": "2026-10-17",
-    "times_seen": 175,
+    "times_seen": 176,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -13889,7 +13889,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-08-25",
     "last_seen": "2026-10-17",
-    "times_seen": 206,
+    "times_seen": 207,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -14362,11 +14362,18 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-16",
-    "times_seen": 2,
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "times_seen": 1,
     "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/icra57385.2026.11697153",
+      "http://arxiv.org/abs/2603.13585v1",
+      "https://arxiv.org/pdf/2603.13585v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
     "topics": [
       "camera-sonar fusion",
       "3D reconstruction"
@@ -14388,14 +14395,7 @@
         "negative_filter": false,
         "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
-    },
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/icra57385.2026.11697153",
-      "http://arxiv.org/abs/2603.13585v1",
-      "https://arxiv.org/pdf/2603.13585v1"
-    ]
+    }
   },
   {
     "id": "2025-radarsfd-single-frame-diffusion-with-pretrained-priors-for-radar-point-clou-7e5890433644",
@@ -14733,7 +14733,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-17",
-    "times_seen": 525,
+    "times_seen": 526,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -15148,11 +15148,18 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-16",
-    "times_seen": 2,
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "times_seen": 1,
     "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/3dv69130.2026.00097",
+      "http://arxiv.org/abs/2509.11087v1",
+      "https://arxiv.org/pdf/2509.11087v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
     "topics": [
       "synthetic aperture sonar"
     ],
@@ -15173,14 +15180,7 @@
         "negative_filter": false,
         "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
-    },
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/3dv69130.2026.00097",
-      "http://arxiv.org/abs/2509.11087v1",
-      "https://arxiv.org/pdf/2509.11087v1"
-    ]
+    }
   },
   {
     "id": "2025-sh-sas-an-implicit-neural-representation-for-complex-spherical-harmonic-sca-e71cf23c400f",
@@ -16790,11 +16790,18 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-16",
-    "times_seen": 4,
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "times_seen": 2,
     "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/iros60139.2025.11246656",
+      "http://arxiv.org/abs/2508.12071v1",
+      "https://arxiv.org/pdf/2508.12071v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
     "topics": [
       "camera-sonar fusion"
     ],
@@ -16815,14 +16822,7 @@
         "negative_filter": false,
         "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
-    },
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/iros60139.2025.11246656",
-      "http://arxiv.org/abs/2508.12071v1",
-      "https://arxiv.org/pdf/2508.12071v1"
-    ]
+    }
   },
   {
     "id": "2025-oasis-real-time-opti-acoustic-sensing-for-intervention-systems-in-unstructu-91307ee6874f",
@@ -16900,7 +16900,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-17",
-    "times_seen": 519,
+    "times_seen": 520,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -27813,7 +27813,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-30",
     "last_seen": "2026-10-17",
-    "times_seen": 53,
+    "times_seen": 54,
     "venue_group": null,
     "topics": [
       "camera-sonar fusion"
@@ -27864,7 +27864,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-11",
     "last_seen": "2026-10-17",
-    "times_seen": 134,
+    "times_seen": 135,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -28194,7 +28194,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-31",
     "last_seen": "2026-10-17",
-    "times_seen": 190,
+    "times_seen": 191,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -30158,7 +30158,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-28",
     "last_seen": "2026-10-17",
-    "times_seen": 564,
+    "times_seen": 565,
     "venue_group": null,
     "topics": [
       "cites",
@@ -31137,7 +31137,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-10-17",
-    "times_seen": 566,
+    "times_seen": 567,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -31992,7 +31992,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-21",
     "last_seen": "2026-10-17",
-    "times_seen": 238,
+    "times_seen": 239,
     "venue_group": null,
     "topics": [
       "3D reconstruction"
@@ -32779,7 +32779,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-10",
     "last_seen": "2026-10-17",
-    "times_seen": 600,
+    "times_seen": 626,
     "venue_group": "Science family",
     "topics": [
       "handheld mmWave SAR"
@@ -32824,7 +32824,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-17",
-    "times_seen": 84,
+    "times_seen": 90,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -32870,7 +32870,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-09-25",
     "last_seen": "2026-10-17",
-    "times_seen": 657,
+    "times_seen": 666,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -32915,7 +32915,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-09-02",
     "last_seen": "2026-10-17",
-    "times_seen": 1377,
+    "times_seen": 1381,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -32960,7 +32960,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-17",
-    "times_seen": 722,
+    "times_seen": 723,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction"
@@ -33005,7 +33005,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-09-11",
     "last_seen": "2026-10-17",
-    "times_seen": 798,
+    "times_seen": 801,
     "venue_group": "Science family",
     "topics": [
       "through-occlusion mmWave reconstruction"
@@ -33095,7 +33095,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-29",
     "last_seen": "2026-10-17",
-    "times_seen": 8836,
+    "times_seen": 8853,
     "venue_group": "Science family",
     "topics": [
       "handheld mmWave SAR"
@@ -33231,7 +33231,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-17",
-    "times_seen": 45,
+    "times_seen": 46,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -33276,7 +33276,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-17",
-    "times_seen": 540,
+    "times_seen": 558,
     "venue_group": "Science family",
     "topics": [
       "mmWave radar imaging",
@@ -36152,7 +36152,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-07",
     "last_seen": "2026-10-17",
-    "times_seen": 478,
+    "times_seen": 479,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -38334,7 +38334,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-28",
     "last_seen": "2026-10-17",
-    "times_seen": 59,
+    "times_seen": 60,
     "venue_group": null,
     "topics": [
       "cites",
@@ -38787,7 +38787,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-14",
     "last_seen": "2026-10-17",
-    "times_seen": 288,
+    "times_seen": 289,
     "venue_group": null,
     "topics": [
       "3D reconstruction"
@@ -40481,7 +40481,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "times_seen": 1,
+    "times_seen": 2,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -41143,7 +41143,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-10-17",
-    "times_seen": 521,
+    "times_seen": 522,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -41850,7 +41850,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-17",
-    "times_seen": 5,
+    "times_seen": 6,
     "venue_group": "Science family",
     "topics": [
       "camera-sonar fusion"
@@ -41895,7 +41895,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-08-21",
     "last_seen": "2026-10-17",
-    "times_seen": 4641,
+    "times_seen": 4659,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -41940,7 +41940,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-08-31",
     "last_seen": "2026-10-17",
-    "times_seen": 3607,
+    "times_seen": 3625,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -41985,7 +41985,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-09-06",
     "last_seen": "2026-10-17",
-    "times_seen": 3023,
+    "times_seen": 3041,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -42030,7 +42030,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-25",
     "last_seen": "2026-10-17",
-    "times_seen": 2491,
+    "times_seen": 2494,
     "venue_group": "Science family",
     "topics": [
       "vectorial",
@@ -43050,7 +43050,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-10-17",
-    "times_seen": 565,
+    "times_seen": 566,
     "venue_group": "Science family",
     "topics": [
       "3D reconstruction"
@@ -43466,7 +43466,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-17",
-    "times_seen": 50,
+    "times_seen": 51,
     "venue_group": "Science family",
     "topics": [
       "3D reconstruction"
@@ -43643,7 +43643,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-10-17",
-    "times_seen": 565,
+    "times_seen": 566,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -43750,7 +43750,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-10-17",
-    "times_seen": 565,
+    "times_seen": 566,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -44025,7 +44025,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-17",
-    "times_seen": 9,
+    "times_seen": 10,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -44744,7 +44744,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-10-17",
-    "times_seen": 565,
+    "times_seen": 566,
     "venue_group": null,
     "topics": [
       "cites",
@@ -45286,7 +45286,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-14",
     "last_seen": "2026-10-17",
-    "times_seen": 288,
+    "times_seen": 289,
     "venue_group": null,
     "topics": [
       "cites",
@@ -45498,7 +45498,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-10",
     "last_seen": "2026-10-17",
-    "times_seen": 312,
+    "times_seen": 313,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -45552,7 +45552,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-07-08",
     "last_seen": "2026-10-17",
-    "times_seen": 522,
+    "times_seen": 523,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -46423,7 +46423,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-10-17",
-    "times_seen": 565,
+    "times_seen": 566,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -46477,7 +46477,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-10-17",
-    "times_seen": 565,
+    "times_seen": 566,
     "venue_group": "Nature Portfolio",
     "topics": [
       "cites",
@@ -46866,7 +46866,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-17",
-    "times_seen": 50,
+    "times_seen": 51,
     "venue_group": null,
     "topics": [
       "cites",
@@ -46920,7 +46920,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-25",
     "last_seen": "2026-10-17",
-    "times_seen": 71,
+    "times_seen": 72,
     "venue_group": null,
     "topics": [
       "cites",
@@ -47044,7 +47044,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-27",
     "last_seen": "2026-10-17",
-    "times_seen": 209,
+    "times_seen": 210,
     "venue_group": null,
     "topics": [
       "cites",
@@ -47098,7 +47098,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-22",
     "last_seen": "2026-10-17",
-    "times_seen": 235,
+    "times_seen": 236,
     "venue_group": null,
     "topics": [
       "cites",
@@ -47342,7 +47342,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-07-27",
     "last_seen": "2026-10-17",
-    "times_seen": 414,
+    "times_seen": 415,
     "venue_group": null,
     "topics": [
       "cites",
@@ -47517,7 +47517,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-07-09",
     "last_seen": "2026-10-17",
-    "times_seen": 518,
+    "times_seen": 519,
     "venue_group": null,
     "topics": [
       "cites",
@@ -47875,7 +47875,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-16",
     "last_seen": "2026-10-17",
-    "times_seen": 105,
+    "times_seen": 106,
     "venue_group": null,
     "topics": [
       "cites",
@@ -47988,7 +47988,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-19",
     "last_seen": "2026-10-17",
-    "times_seen": 250,
+    "times_seen": 251,
     "venue_group": null,
     "topics": [
       "cites",
@@ -48322,7 +48322,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-11",
     "last_seen": "2026-10-17",
-    "times_seen": 304,
+    "times_seen": 305,
     "venue_group": null,
     "topics": [
       "cites",
@@ -48445,7 +48445,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-07-08",
     "last_seen": "2026-10-17",
-    "times_seen": 522,
+    "times_seen": 523,
     "venue_group": null,
     "topics": [
       "cites",
@@ -48493,7 +48493,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
-    "times_seen": 1,
+    "times_seen": 2,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -48548,7 +48548,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-23",
     "last_seen": "2026-10-17",
-    "times_seen": 229,
+    "times_seen": 230,
     "venue_group": null,
     "topics": [
       "cites",
@@ -48602,7 +48602,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-10-17",
-    "times_seen": 565,
+    "times_seen": 566,
     "venue_group": null,
     "topics": [
       "cites",
@@ -48656,7 +48656,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-10-17",
-    "times_seen": 565,
+    "times_seen": 566,
     "venue_group": null,
     "topics": [
       "cites",
@@ -48710,7 +48710,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-10-17",
-    "times_seen": 565,
+    "times_seen": 566,
     "venue_group": null,
     "topics": [
       "cites",
@@ -48764,7 +48764,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-11",
     "last_seen": "2026-10-17",
-    "times_seen": 304,
+    "times_seen": 305,
     "venue_group": null,
     "topics": [
       "cites",
@@ -48869,7 +48869,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-10-17",
-    "times_seen": 565,
+    "times_seen": 566,
     "venue_group": null,
     "topics": [
       "cites",
@@ -48977,7 +48977,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-10-17",
-    "times_seen": 565,
+    "times_seen": 566,
     "venue_group": null,
     "topics": [
       "cites",
@@ -49031,7 +49031,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-07-29",
     "last_seen": "2026-10-17",
-    "times_seen": 397,
+    "times_seen": 398,
     "venue_group": null,
     "topics": [
       "cites",
@@ -49085,7 +49085,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-08",
     "last_seen": "2026-10-17",
-    "times_seen": 322,
+    "times_seen": 323,
     "venue_group": null,
     "topics": [
       "cites",
@@ -49139,7 +49139,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-14",
     "last_seen": "2026-10-17",
-    "times_seen": 288,
+    "times_seen": 289,
     "venue_group": null,
     "topics": [
       "cites",
@@ -49193,7 +49193,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-10",
     "last_seen": "2026-10-17",
-    "times_seen": 141,
+    "times_seen": 142,
     "venue_group": null,
     "topics": [
       "cites",
