@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-demo-now-you-see-it-ris-assisted-mmwave-radar-for-nlos-sensing-425fd13de0f4",
+    "title": "Demo: Now You See It! RIS-Assisted mmWave Radar for NLOS Sensing",
+    "authors": "Joana Angjo; Anatolij Zubow; Christos Laskos; Falko Dressler",
+    "year": 2026,
+    "publication_date": "2026-10-21",
+    "venue": "Proceedings of the 28th Annual International Conference on Mobile Computing And Networking",
+    "venue_group": "MobiCom",
+    "venue_type": "conference",
+    "doi": "10.1145/3795866.3848436",
+    "primary_url": "https://doi.org/10.1145/3795866.3848436",
+    "pdf_url": "https://doi.org/10.1145/3795866.3848436",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic NLOS",
+      "mmWave radar imaging",
+      "radar indoor scene understanding"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on acoustic NLOS, mmWave radar imaging, radar indoor scene understanding.",
+    "summary_cn": "自动审核收录的论文，主题包括 acoustic NLOS、mmWave radar imaging、radar indoor scene understanding。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.1145/3795866.3848436"
+    ],
+    "last_verified": "2026-10-22",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "mmwave",
+      "mmwave_keep_reason": "allowed-final-venue"
+    }
+  },
+  {
     "id": "2026-neural-augmentation-of-mimo-ofdm-receivers-for-universal-llr-reconstruction-3b4457f1fc3e",
     "title": "Neural Augmentation of MIMO-OFDM Receivers for Universal LLR Reconstruction",
     "authors": "Ory Eger; Nir Shlezinger",
