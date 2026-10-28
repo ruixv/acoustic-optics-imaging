@@ -121,11 +121,14 @@ def main():
         c=audit(c)
         if c.get('final_version_status')=='resolved-from-arxiv-to-final-venue': resolved+=1
         k,tk=fp(c),title_key(c)
-        if c.get('agent_audit',{}).get('decision')=='promote' and k not in keys and tk not in title_keys:
+        if k in keys or tk in title_keys:
+            continue
+        if c.get('agent_audit',{}).get('decision')=='promote':
             p=to_paper(c); keys.add(k); title_keys.add(tk); c['promoted_on']=dt.date.today().isoformat()
             if c.get('track')=='mmwave': mmwave.append(p); promoted_mm.append(p)
             else: papers.append(p); promoted_main.append(p)
-        else: kept.append(c)
+        else:
+            kept.append(c)
     papers.sort(key=lambda p:(str(p.get('publication_date') or p.get('year') or ''),p.get('title','')),reverse=True); mmwave.sort(key=lambda p:(str(p.get('publication_date') or p.get('year') or ''),p.get('title','')),reverse=True); kept.sort(key=lambda c:(c.get('agent_audit',{}).get('confidence',0),c.get('score',0),str(c.get('publication_date',''))),reverse=True)
     dump(PAPERS,papers); dump(FOCUS,focus); dump(MMWAVE,mmwave); dump(CANDS,kept); log=load(LOG,{})
     log.update({'agent_audit_last_run':dt.datetime.now(dt.timezone.utc).isoformat(),'promoted_count':len(promoted_main),'promoted_mmwave_count':len(promoted_mm),'resolved_final_versions':resolved,'audit_note':'High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion, geometric acoustic rendering/path tracing, acoustic holography, and photoacoustic/acousto-optic imaging; hidden mmWave track covers radar imaging, handheld SAR/autofocus, FMCW/MIMO-SAR, 4D radar, through-occlusion reconstruction, surface normals, and radar scene understanding. Nature-family mapping includes Communications Engineering.'}); dump(LOG,log)

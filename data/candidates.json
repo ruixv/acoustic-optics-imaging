@@ -6526,59 +6526,6 @@
     }
   },
   {
-    "id": "2026-a-model-based-joint-feature-fusion-framework-for-limited-view-photoacoustic-46b0be31866a",
-    "title": "A Model-Based Joint Feature Fusion framework for limited-view photoacoustic tomography reconstruction",
-    "authors": "Biru Zhang; Jiankun Wang; Max Q.-H. Meng",
-    "year": 2026,
-    "publication_date": "2026-09-22",
-    "venue": "Photoacoustics",
-    "doi": "10.1016/j.pacs.2026.100886",
-    "primary_url": "https://doi.org/10.1016/j.pacs.2026.100886",
-    "pdf_url": "https://doi.org/10.1016/j.pacs.2026.100886",
-    "source": "OpenAlex cited-by",
-    "matched_query": "cites core: Sub-acoustic resolution photoacoustic imaging through scattering layers using speckle correlations",
-    "score": 11,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "recent",
-      "cites-core-paper"
-    ],
-    "status": "agent-watchlist",
-    "cites_core": true,
-    "cited_core_paper": "keenlyside2026-sub-acoustic-photoacoustic-speckle-correlations",
-    "cited_core_title": "Sub-acoustic resolution photoacoustic imaging through scattering layers using speckle correlations",
-    "cited_core_doi": "",
-    "citation_source": "OpenAlex cited-by graph",
-    "metadata_verified_from": "OpenAlex",
-    "first_seen": "2026-09-23",
-    "last_seen": "2026-10-03",
-    "times_seen": 31,
-    "venue_group": null,
-    "topics": [
-      "photoacoustic imaging",
-      "3D reconstruction"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.7333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": false,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
     "id": "doi10-1007-s10103-026-05027-8-photoacoustic-scar-vascular-assessment",
     "title": "Photoacoustic imaging-based assessment of vascular changes in scars: a retrospective analysis of factors influencing PDL treatment efficacy",
     "authors": "Xiaohan Liu; Yusang Hu; Wanyu Xu; Yixin Zhang; Zheng Zhang; Xinxian Meng",
@@ -6659,58 +6606,6 @@
     "topics": [
       "photoacoustic imaging",
       "3D reconstruction"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.7333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": false,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2026-robot-assisted-wide-amplitude-oscillatory-photoacoustic-scanning-for-three-04113d79679f",
-    "title": "Robot-assisted wide-amplitude oscillatory photoacoustic scanning for three-dimensional human peripheral vascular imaging: A preliminary feasibility study",
-    "authors": "Yongjian Zhao; Li Shen; Hengrong Lan; Yanting Liang; Fei Gao; Nanguang Chen",
-    "year": 2026,
-    "publication_date": "2026-09-14",
-    "venue": "Photoacoustics",
-    "doi": "10.1016/j.pacs.2026.100877",
-    "primary_url": "https://doi.org/10.1016/j.pacs.2026.100877",
-    "pdf_url": "https://doi.org/10.1016/j.pacs.2026.100877",
-    "source": "OpenAlex cited-by",
-    "matched_query": "cites core: Sub-acoustic resolution photoacoustic imaging through scattering layers using speckle correlations",
-    "score": 11,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "recent",
-      "cites-core-paper"
-    ],
-    "status": "agent-watchlist",
-    "cites_core": true,
-    "cited_core_paper": "keenlyside2026-sub-acoustic-photoacoustic-speckle-correlations",
-    "cited_core_title": "Sub-acoustic resolution photoacoustic imaging through scattering layers using speckle correlations",
-    "cited_core_doi": "",
-    "citation_source": "OpenAlex cited-by graph",
-    "metadata_verified_from": "OpenAlex",
-    "first_seen": "2026-09-15",
-    "last_seen": "2026-10-03",
-    "times_seen": 67,
-    "venue_group": null,
-    "topics": [
-      "photoacoustic imaging"
     ],
     "track": "main",
     "agent_audit": {
@@ -7991,7 +7886,7 @@
     "times_seen": 2,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/icra57385.2026.11697392",
       "http://arxiv.org/abs/2601.01144v2",
@@ -8045,7 +7940,7 @@
     "times_seen": 2,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/icra57385.2026.11697392",
       "http://arxiv.org/abs/2601.01144v2",
@@ -8307,7 +8202,7 @@
     "times_seen": 2,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/oceans66983.2026.11616947",
       "http://arxiv.org/abs/2606.06130v1",
@@ -8383,7 +8278,7 @@
       }
     },
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/oceans66983.2026.11616947",
       "http://arxiv.org/abs/2606.06130v1",
@@ -14312,7 +14207,7 @@
     "times_seen": 3,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/eucnc/6gsummit68295.2026.11577249",
       "http://arxiv.org/abs/2604.12466v1",
@@ -14389,7 +14284,7 @@
       }
     },
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/cvprf71909.2026.00216",
       "http://arxiv.org/abs/2608.14179v1",
@@ -14496,7 +14391,7 @@
       }
     },
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/icra57385.2026.11697153",
       "http://arxiv.org/abs/2603.13585v1",
@@ -14551,7 +14446,7 @@
       }
     },
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/icra57385.2026.11695739",
       "http://arxiv.org/abs/2509.18068v2",
@@ -14583,7 +14478,7 @@
     "times_seen": 1,
     "venue_group": "CVPR",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/cvprf71909.2026.00617",
       "http://arxiv.org/abs/2506.03134v2",
@@ -14637,7 +14532,7 @@
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/icra57385.2026.11697153",
       "http://arxiv.org/abs/2603.13585v1",
@@ -15306,7 +15201,7 @@
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/3dv69130.2026.00097",
       "http://arxiv.org/abs/2509.11087v1",
@@ -15360,7 +15255,7 @@
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/3dv69130.2026.00097",
       "http://arxiv.org/abs/2509.11087v1",
@@ -15561,7 +15456,7 @@
     "times_seen": 3,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/wacv61042.2026.00187",
       "http://arxiv.org/abs/2512.11894v1",
@@ -15999,7 +15894,7 @@
       }
     },
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/jsen.2026.3706110",
       "http://arxiv.org/abs/2606.13701v1",
@@ -16031,7 +15926,7 @@
     "times_seen": 3,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/jmw.2026.3713325",
       "http://arxiv.org/abs/2511.01405v3",
@@ -16107,7 +16002,7 @@
       }
     },
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1007/978-3-032-37359-5_9",
       "http://arxiv.org/abs/2608.28913v1",
@@ -16215,7 +16110,7 @@
       }
     },
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/jsen.2026.3693172",
       "http://arxiv.org/abs/2510.13904v1",
@@ -16610,7 +16505,7 @@
     "times_seen": 3,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/lra.2025.3630875",
       "http://arxiv.org/abs/2511.16091v1",
@@ -16948,7 +16843,7 @@
     "times_seen": 2,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/iros60139.2025.11246656",
       "http://arxiv.org/abs/2508.12071v1",
@@ -17002,7 +16897,7 @@
     "times_seen": 2,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/iros60139.2025.11246656",
       "http://arxiv.org/abs/2508.12071v1",
@@ -17100,7 +16995,7 @@
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/tuffc.2025.3586460",
       "http://arxiv.org/abs/2412.02413v1",
@@ -17209,7 +17104,7 @@
     "times_seen": 1,
     "venue_group": "Science family",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1007/978-3-032-06329-8_6",
       "http://arxiv.org/abs/2508.20605v1",
@@ -17835,7 +17730,7 @@
     "times_seen": 1,
     "venue_group": "CVPR",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/cvprw67362.2025.00362",
       "http://arxiv.org/abs/2504.03438v2",
@@ -17889,7 +17784,7 @@
     "times_seen": 1,
     "venue_group": "CVPR",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/cvpr52734.2025.00984",
       "http://arxiv.org/abs/2504.11773v1",
@@ -19347,7 +19242,7 @@
     "times_seen": 3,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/icc51166.2024.10622791",
       "http://arxiv.org/abs/2603.08551v1",
@@ -19789,7 +19684,7 @@
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1117/12.3103653",
       "http://arxiv.org/abs/2608.05129v1",
@@ -21028,7 +20923,7 @@
       }
     },
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1007/978-3-032-38079-1_32",
       "http://arxiv.org/abs/2607.24730v1",
@@ -21754,7 +21649,7 @@
     "times_seen": 1,
     "venue_group": "IEEE",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://dblp.org/rec/journals/ral/XuJWW26",
       "https://jjq7.github.io/publications.html",
@@ -22736,7 +22631,7 @@
       }
     },
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1007/978-3-032-37032-7_31",
       "http://arxiv.org/abs/2607.27194v1",
@@ -22789,7 +22684,7 @@
       }
     },
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1007/978-3-032-36839-3_9",
       "http://arxiv.org/abs/2606.29334v1",
@@ -24174,73 +24069,6 @@
       "https://doi.org/10.1016/j.optlastec.2026.115538"
     ],
     "last_verified": "2026-07-31",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-28",
-    "times_seen": 1,
-    "final_version_status": "manual-doi-metadata-pending",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.6666666666666666,
-      "checks": {
-        "track": "main",
-        "primary_scope": false,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "manual-doi-metadata-pending"
-      }
-    },
-    "track": "main"
-  },
-  {
-    "id": "photoacoustics-2026-3d-paulm-ultrasound-localization-priors",
-    "title": "Three-dimensional photoacoustic tomography with ultrasound localization priors",
-    "authors": "Haoming Huo; Yirui Xu; Rui Yao; Matt Lowerison; Pengfei Song; Junjie Yao",
-    "year": 2026,
-    "publication_date": "2026-10",
-    "venue": "Photoacoustics",
-    "venue_group": "Elsevier",
-    "venue_type": "journal article",
-    "doi": "10.1016/j.pacs.2026.100861",
-    "primary_url": "https://www.sciencedirect.com/science/article/pii/S2213597926000674",
-    "source": "Manual-authoritative-seed",
-    "matched_query": "photoacoustic tomography ultrasound localization microscopy ULM spatial prior model-based reconstruction",
-    "score": 10,
-    "reasons": [
-      "direct 3D photoacoustic image reconstruction contribution",
-      "integrates sub-diffraction ultrasound-localization-microscopy vascular priors into a model-based PACT inverse problem",
-      "validated with simulation, phantoms, and in vivo mouse-brain imaging",
-      "final journal DOI, volume, article number and technical scope verified from ScienceDirect; authors corroborated by preprint and institutional records",
-      "exact title and DOI were absent from repository code search",
-      "manual-doi-seed"
-    ],
-    "topics": [
-      "photoacoustic tomography",
-      "ultrasound localization microscopy",
-      "multimodal imaging",
-      "model-based reconstruction",
-      "super-resolution vascular imaging",
-      "functional imaging"
-    ],
-    "status": "agent-watchlist",
-    "relevance": "core",
-    "paper_type": "original research",
-    "recommendation": "add-to-main-library",
-    "summary_en": "Introduces 3D-PAULM^prior, a ULM-guided model-based PACT reconstruction framework using weighted regional Laplacian regularization to inject sub-diffraction vascular priors, improving vascular delineation, limited-view robustness and spatial confinement of oxygen-saturation maps.",
-    "needs_metadata_verification": false,
-    "metadata_verified_from": "ScienceDirect final journal record; SSRN and Duke records for author corroboration",
-    "publication_note": "Final journal record assigned to Photoacoustics volume 51 (October 2026), article 100861. Accessible publisher metadata does not expose a trustworthy exact online-publication day; the preprint was public by May 2026. Newly surfaced final-version repository backfill.",
-    "sources": [
-      "https://www.sciencedirect.com/science/article/pii/S2213597926000674",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6803657",
-      "https://doi.org/10.1016/j.pacs.2026.100861"
-    ],
-    "last_verified": "2026-08-19",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
     "times_seen": 1,
@@ -32191,7 +32019,7 @@
     "times_seen": 1,
     "venue_group": "MICCAI workshop / Springer LNCS",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://link.springer.com/chapter/10.1007/978-3-032-06774-6_17",
       "https://doi.org/10.1007/978-3-032-06774-6_17",
@@ -34840,7 +34668,7 @@
     "times_seen": 3,
     "venue_group": "Science family",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1007/978-3-032-38260-3_37",
       "http://arxiv.org/abs/2605.08306v2",
@@ -35105,7 +34933,7 @@
       }
     },
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1038/s44459-026-00082-7",
       "http://arxiv.org/abs/2509.14711v1",
@@ -37097,7 +36925,7 @@
     "times_seen": 3,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/icra57385.2026.11695776",
       "http://arxiv.org/abs/2511.01210v3",
@@ -37569,7 +37397,7 @@
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1007/s10915-026-03247-2",
       "http://arxiv.org/abs/2504.13335v2",
@@ -39189,7 +39017,7 @@
       }
     },
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/twc.2025.3591886",
       "http://arxiv.org/abs/2508.10317v1",
@@ -39625,7 +39453,7 @@
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/iros60139.2025.11247485",
       "http://arxiv.org/abs/2503.08930v2",
@@ -39681,7 +39509,7 @@
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/iros60139.2025.11247485",
       "http://arxiv.org/abs/2503.08930v2",
@@ -40510,7 +40338,7 @@
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/isbi60581.2025.10981242",
       "http://arxiv.org/abs/2503.17475v1",
@@ -42090,7 +41918,7 @@
     "times_seen": 3,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1109/radarconf2458775.2024.10548874",
       "http://arxiv.org/abs/2604.06842v1",
@@ -50323,7 +50151,7 @@
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1103/physrevapplied.20.064014",
       "http://arxiv.org/abs/2606.08614v1",
@@ -50379,7 +50207,7 @@
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1121/10.0023109",
       "http://arxiv.org/abs/2606.08614v1",
@@ -50435,7 +50263,7 @@
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
-    "final_version_similarity": 1.0,
+    "final_version_similarity": 1,
     "sources": [
       "https://doi.org/10.1121/10.0023109",
       "http://arxiv.org/abs/2606.08614v1",
@@ -50583,5 +50411,80 @@
       }
     },
     "track": "main"
+  },
+  {
+    "id": "arxiv2610-surge-camera-sonar-joint-localization-gaussian-splatting",
+    "title": "SURGE: Sonar-fUsed Reconstruction and localization via image-gated Graph Estimation",
+    "authors": "Mohammed Ibrahim M; Vallabh Deogaonkar; Trung Dong; Jane Shin; Abhilash Somayajula; Xiaomin Lin",
+    "year": 2026,
+    "publication_date": "2026-10-05",
+    "venue": "arXiv preprint",
+    "doi": "10.48550/arXiv.2610.07472",
+    "primary_url": "https://arxiv.org/abs/2610.07472",
+    "pdf_url": "https://arxiv.org/pdf/2610.07472",
+    "source": "arXiv",
+    "matched_query": "camera-sonar fusion underwater localization metric 3D reconstruction",
+    "score": 11,
+    "reasons": [
+      "camera-sonar fusion",
+      "imaging/reconstruction term",
+      "recent",
+      "primary arXiv source"
+    ],
+    "status": "agent-watchlist",
+    "metadata_verified_from": "arXiv",
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "abstract": "Jointly estimates an underwater ROV trajectory and target location from monocular RGB and forward-looking imaging sonar in a factor graph, then uses metric poses for sonar Gaussian splatting.",
+    "topics": [
+      "camera-sonar fusion",
+      "underwater 3D reconstruction",
+      "joint localization and mapping",
+      "sonar Gaussian splatting"
+    ],
+    "track": "main",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "times_seen": 1,
+    "sources": [
+      "https://arxiv.org/abs/2610.07472"
+    ]
+  },
+  {
+    "id": "arxiv2609-active-mapping-underwater-litter-camera-sonar",
+    "title": "Active Mapping of Underwater Litter Using Camera-Sonar Fusion",
+    "authors": "David Rete; Patrick Boros; Lucian Busoniu",
+    "year": 2026,
+    "publication_date": "2026-09-30",
+    "venue": "arXiv preprint",
+    "doi": "10.48550/arXiv.2609.39898",
+    "primary_url": "https://arxiv.org/abs/2609.39898",
+    "pdf_url": "https://arxiv.org/pdf/2609.39898",
+    "source": "arXiv",
+    "matched_query": "camera-sonar fusion active mapping underwater litter",
+    "score": 11,
+    "reasons": [
+      "camera-sonar fusion",
+      "active mapping",
+      "imaging/mapping term",
+      "recent",
+      "primary arXiv source"
+    ],
+    "status": "agent-watchlist",
+    "metadata_verified_from": "arXiv",
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "abstract": "Fuses forward-looking sonar and camera detections into a Bayesian occupancy map and selects next-best-view waypoints by balancing uncertainty reduction with confirmation of likely litter objects.",
+    "topics": [
+      "camera-sonar fusion",
+      "underwater mapping",
+      "active perception",
+      "Bayesian occupancy mapping"
+    ],
+    "track": "main",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "times_seen": 1,
+    "sources": [
+      "https://arxiv.org/abs/2609.39898"
+    ]
   }
 ]
