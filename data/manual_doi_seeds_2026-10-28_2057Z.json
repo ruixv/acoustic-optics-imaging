@@ -126,5 +126,47 @@
       "https://doi.org/10.48550/arXiv.2610.17504"
     ],
     "last_verified": "2026-10-28"
+  },
+  {
+    "id": "arxiv2610-28868-broadband-lateral-mems-transducer-near-field-holography",
+    "title": "Comprehensive Acoustic Characterization of a Broadband Lateral MEMS Ultrasonic Transducer by Near-Field Acoustic Holography and Coupled Multiphysics Simulation",
+    "authors": "Anton Melnikov; Adrian Alexander; Tenia Meisel; Jorge M. Monsalve",
+    "year": 2026,
+    "publication_date": "2026-10-20",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2610.28868",
+    "primary_url": "https://arxiv.org/abs/2610.28868",
+    "pdf_url": "https://arxiv.org/pdf/2610.28868",
+    "source": "Manual-arXiv-DOI-seed",
+    "matched_query": "near-field acoustic holography MEMS ultrasonic transducer multiphysics simulation",
+    "score": 8,
+    "reasons": [
+      "recent arXiv preprint posted 2026-10-20",
+      "explicitly uses near-field acoustic holography to reconstruct 3D radiation patterns",
+      "combines acoustic measurements with coupled multiphysics simulation",
+      "metadata verified against the official arXiv record"
+    ],
+    "topics": [
+      "near-field acoustic holography",
+      "ultrasonic transducer characterization",
+      "MEMS ultrasound",
+      "multiphysics simulation",
+      "3D acoustic field reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "related",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Combines a coupled electrostatic-structural-thermoviscous model with boundary-element acoustics and validates it using spherical near-field acoustic holography to reconstruct 3D directivity, radiated power, and spherical-harmonic content of a broadband lateral CMUT.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv record",
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "sources": [
+      "https://arxiv.org/abs/2610.28868",
+      "https://doi.org/10.48550/arXiv.2610.28868"
+    ],
+    "last_verified": "2026-10-28"
   }
 ]
