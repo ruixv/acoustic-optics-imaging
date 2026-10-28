@@ -1,0 +1,130 @@
+[
+  {
+    "id": "arxiv2610-35302-exact-filtered-backprop-single-time-wave-inversion",
+    "title": "A theoretically exact filtered back-propagation formula for single-time wave inversion",
+    "authors": "Markus Haltmeier",
+    "year": 2026,
+    "publication_date": "2026-10-26",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2610.35302",
+    "primary_url": "https://arxiv.org/abs/2610.35302",
+    "pdf_url": "https://arxiv.org/pdf/2610.35302",
+    "source": "Manual-arXiv-DOI-seed",
+    "matched_query": "single-time wave inversion full-field photoacoustic projection imaging filtered back-propagation",
+    "score": 10,
+    "reasons": [
+      "new arXiv preprint posted 2026-10-26",
+      "exact inversion formula for single-time wave data",
+      "explicit relevance to full-field photoacoustic projection imaging",
+      "metadata verified against the official arXiv record"
+    ],
+    "topics": [
+      "photoacoustic projection imaging",
+      "single-time wave inversion",
+      "filtered back-propagation",
+      "wave equation",
+      "analytic reconstruction"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core-adjacent",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Derives an explicit filtered back-propagation formula for recovering an initial pressure field from single-time wave measurements. The paper identifies this inversion as the central reconstruction step in two-dimensional full-field photoacoustic projection imaging.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv record",
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "sources": [
+      "https://arxiv.org/abs/2610.35302",
+      "https://doi.org/10.48550/arXiv.2610.35302"
+    ],
+    "last_verified": "2026-10-28"
+  },
+  {
+    "id": "arxiv2610-23315-untrained-cnn-coefficient-space-pat",
+    "title": "Untrained CNN and coefficient-space regularization for joint reconstruction in photoacoustic tomography",
+    "authors": "Alfio Bozi; Anwesa Dey; Souvik Roy",
+    "year": 2026,
+    "publication_date": "2026-10-16",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2610.23315",
+    "primary_url": "https://arxiv.org/abs/2610.23315",
+    "pdf_url": "https://arxiv.org/pdf/2610.23315",
+    "source": "Manual-arXiv-DOI-seed",
+    "matched_query": "photoacoustic tomography joint initial pressure sound speed reconstruction untrained CNN",
+    "score": 11,
+    "reasons": [
+      "recent arXiv preprint from 2026-10-16",
+      "directly addresses joint photoacoustic reconstruction",
+      "estimates initial pressure and spatially varying sound speed",
+      "metadata verified against the official arXiv record"
+    ],
+    "topics": [
+      "photoacoustic tomography",
+      "joint reconstruction",
+      "initial pressure",
+      "sound-speed estimation",
+      "untrained neural networks",
+      "coefficient-space regularization"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Combines fixed untrained CNN features, wavelet representations, Tikhonov regularization, and a learned coefficient-space prior to jointly reconstruct initial pressure and spatially varying sound speed from photoacoustic boundary measurements.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv record",
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "sources": [
+      "https://arxiv.org/abs/2610.23315",
+      "https://doi.org/10.48550/arXiv.2610.23315"
+    ],
+    "last_verified": "2026-10-28"
+  },
+  {
+    "id": "arxiv2610-17504-human-brain-functional-pact-intact-skull",
+    "title": "Photoacoustic imaging of human brain function through intact adult skulls",
+    "authors": "Yilin Luo; Rui Cao; Manxiu Cui; Karteekeya Sastry; Kay Jann; Yousuf Aborahama; Geng Ku; Jinhua Xu; Xiaofei Luo; Shuai Na; Samuel Davis; Konstantin Maslov; Yang Zhang; Danny J. Wang; Lihong V. Wang",
+    "year": 2026,
+    "publication_date": "2026-10-13",
+    "venue": "arXiv preprint",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2610.17504",
+    "primary_url": "https://arxiv.org/abs/2610.17504",
+    "pdf_url": "https://arxiv.org/pdf/2610.17504",
+    "source": "Manual-arXiv-DOI-seed",
+    "matched_query": "transcranial functional photoacoustic computed tomography intact adult human skull",
+    "score": 12,
+    "reasons": [
+      "high-impact new photoacoustic imaging preprint posted 2026-10-13",
+      "reports non-invasive transcranial functional PACT through intact adult skulls",
+      "uses high-channel-count hemispherical ultrasound detection for rapid 3D imaging",
+      "metadata verified against the official arXiv record"
+    ],
+    "topics": [
+      "photoacoustic computed tomography",
+      "transcranial imaging",
+      "human brain function",
+      "functional imaging",
+      "hemispherical ultrasound array",
+      "hemodynamic responses"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "original research preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Demonstrates non-invasive transcranial functional photoacoustic computed tomography through intact adult skulls using a densely packed 3,072-element hemispherical ultrasound array, enabling single-shot volumetric acquisition at 20 Hz and task-evoked hemodynamic mapping in healthy adults.",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv record",
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "sources": [
+      "https://arxiv.org/abs/2610.17504",
+      "https://doi.org/10.48550/arXiv.2610.17504"
+    ],
+    "last_verified": "2026-10-28"
+  }
+]
