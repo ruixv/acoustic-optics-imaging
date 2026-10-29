@@ -208,6 +208,47 @@
     }
   },
   {
+    "id": "ultrasonics2026-led-photoacoustic-ultrasonic-interference",
+    "title": "Ultrasonic interference analysis and elimination for LED-based photoacoustic imaging systems",
+    "authors": "Enxiang Shen; Qian Wang; Yuxin Wang; Zhendong Yao; Xiao Yin; Kanglian Zhao; Jie Yuan",
+    "year": 2026,
+    "publication_date": "2026-10-05",
+    "venue": "Ultrasonics 170, 108326 (2026)",
+    "venue_group": "Ultrasonics",
+    "venue_type": "journal",
+    "doi": "10.1016/j.ultras.2026.108326",
+    "primary_url": "https://doi.org/10.1016/j.ultras.2026.108326",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic imaging",
+      "LED-based photoacoustic systems",
+      "ultrasonic interference",
+      "signal integrity",
+      "system calibration"
+    ],
+    "relevance": "core",
+    "summary_en": "Analyzes and suppresses ultrasonic interference in LED-based photoacoustic systems, addressing a hardware-specific source of signal contamination that degrades image quality.",
+    "summary_cn": "分析并抑制 LED 光声成像系统中的超声干扰，解决会污染采集信号并降低图像质量的硬件相关问题。",
+    "why_include_en": "A directly relevant imaging-system paper with verified online publication metadata and DOI.",
+    "why_include_cn": "直接针对光声成像系统的研究，在线发表时间和 DOI 均已核验。",
+    "download_note": "Use the publisher DOI landing page; PubMed provides authoritative metadata.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42837721/",
+      "https://doi.org/10.1016/j.ultras.2026.108326"
+    ],
+    "last_verified": "2026-10-28",
+    "curation_origin": "Manual-authoritative-source",
+    "verification": {
+      "mode": "manual-authoritative-source",
+      "confidence": 0.98,
+      "source": "PubMed / Elsevier DOI",
+      "final_version_status": "online-ahead-of-print",
+      "track": "main"
+    }
+  },
+  {
     "id": "sakiyama2026-heterodyne-interferometric-sound-field-imaging",
     "title": "Heterodyne interferometric sound-field imaging with full-field lock-in detection",
     "authors": "Nao Sakiyama; Naru Yoneda; Osamu Matoba",
@@ -247,47 +288,6 @@
       "confidence": 0.99,
       "source": "Optica Publishing Group issue record / PubMed",
       "final_version_status": "published",
-      "track": "main"
-    }
-  },
-  {
-    "id": "ultrasonics2026-led-photoacoustic-ultrasonic-interference",
-    "title": "Ultrasonic interference analysis and elimination for LED-based photoacoustic imaging systems",
-    "authors": "Enxiang Shen; Qian Wang; Yuxin Wang; Zhendong Yao; Xiao Yin; Kanglian Zhao; Jie Yuan",
-    "year": 2026,
-    "publication_date": "2026-10-05",
-    "venue": "Ultrasonics 170, 108326 (2026)",
-    "venue_group": "Ultrasonics",
-    "venue_type": "journal",
-    "doi": "10.1016/j.ultras.2026.108326",
-    "primary_url": "https://doi.org/10.1016/j.ultras.2026.108326",
-    "pdf_url": "",
-    "project_url": "",
-    "code_url": "",
-    "topics": [
-      "photoacoustic imaging",
-      "LED-based photoacoustic systems",
-      "ultrasonic interference",
-      "signal integrity",
-      "system calibration"
-    ],
-    "relevance": "core",
-    "summary_en": "Analyzes and suppresses ultrasonic interference in LED-based photoacoustic systems, addressing a hardware-specific source of signal contamination that degrades image quality.",
-    "summary_cn": "分析并抑制 LED 光声成像系统中的超声干扰，解决会污染采集信号并降低图像质量的硬件相关问题。",
-    "why_include_en": "A directly relevant imaging-system paper with verified online publication metadata and DOI.",
-    "why_include_cn": "直接针对光声成像系统的研究，在线发表时间和 DOI 均已核验。",
-    "download_note": "Use the publisher DOI landing page; PubMed provides authoritative metadata.",
-    "sources": [
-      "https://pubmed.ncbi.nlm.nih.gov/42837721/",
-      "https://doi.org/10.1016/j.ultras.2026.108326"
-    ],
-    "last_verified": "2026-10-28",
-    "curation_origin": "Manual-authoritative-source",
-    "verification": {
-      "mode": "manual-authoritative-source",
-      "confidence": 0.98,
-      "source": "PubMed / Elsevier DOI",
-      "final_version_status": "online-ahead-of-print",
       "track": "main"
     }
   },
