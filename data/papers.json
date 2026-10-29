@@ -42,6 +42,49 @@
     }
   },
   {
+    "id": "acssensors2026-micro-nanophotonic-ultrasound-sensors-in-vivo-pai-review",
+    "title": "Micro/Nanophotonic Ultrasound Sensors for in Vivo Photoacoustic Imaging",
+    "authors": "Huazhen Chen; Shuyao Liao; Hao Li; Wei Song; Biqin Dong",
+    "year": 2026,
+    "publication_date": "2026-10-23",
+    "venue": "ACS Sensors 11(10), 8737–8755 (2026)",
+    "venue_group": "ACS Publications",
+    "venue_type": "journal",
+    "doi": "10.1021/acssensors.6c01624",
+    "primary_url": "https://doi.org/10.1021/acssensors.6c01624",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic imaging",
+      "optical ultrasound detection",
+      "micro/nanophotonics",
+      "Fabry–Pérot sensors",
+      "microring resonators",
+      "Bragg grating sensors",
+      "transparent ultrasound detectors"
+    ],
+    "relevance": "related",
+    "summary_en": "Reviews micro/nanophotonic ultrasound sensors for in-vivo photoacoustic imaging, covering photonic transduction principles, device architectures, system integration, demonstrated applications, and challenges in achieving optical transparency, miniaturization, and high acoustic sensitivity simultaneously.",
+    "summary_cn": "综述用于体内光声成像的微纳光子超声传感器，涵盖光子换能原理、器件结构、系统集成、代表性应用，以及同时实现光学透明、小型化和高声学灵敏度的关键挑战。",
+    "why_include_en": "A newly published technical review directly relevant to optical ultrasound detection and acoustic–optical system integration.",
+    "why_include_cn": "新发表的技术综述，直接涉及光学超声探测与声光系统集成。",
+    "download_note": "Use the ACS Publications DOI landing page; PubMed provides verified issue and page metadata.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42504465/",
+      "https://doi.org/10.1021/acssensors.6c01624"
+    ],
+    "last_verified": "2026-10-29",
+    "curation_origin": "Manual-authoritative-source",
+    "verification": {
+      "mode": "manual-authoritative-source",
+      "confidence": 0.99,
+      "source": "PubMed / ACS Publications",
+      "final_version_status": "published",
+      "track": "main"
+    }
+  },
+  {
     "id": "pmb2026-physics-informed-neural-network-photoacoustic-tomography",
     "title": "Physics-informed neural network for photoacoustic tomography reconstruction",
     "authors": "Zhan Shen; Hao Ding; Jiayi Sun; Qili Tian; Zhijun Chi; Qiao Li; Yingchao Du; Xiaoping OuYang; Chuanxiang Tang",
@@ -79,6 +122,48 @@
       "confidence": 0.97,
       "source": "PubMed / IOP Publishing DOI",
       "final_version_status": "online-ahead-of-print",
+      "track": "main"
+    }
+  },
+  {
+    "id": "biosensbioelectron2026-fap-triggered-pa-probe-pancreatic-tumor",
+    "title": "Fibroblast activation protein-α-triggered photoacoustic signal \"on\" for pancreatic tumor imaging",
+    "authors": "Runqun Tang; Ziyi Zhang; Liangxi Zhu; Hai-Dong Xu; Tianyi Zhang; Yang Yang; Wenjun Zhan; Sisi Zhou; Gaolin Liang",
+    "year": 2026,
+    "publication_date": "2026-10-13",
+    "venue": "Biosensors and Bioelectronics 316, 119334 (2026)",
+    "venue_group": "Elsevier",
+    "venue_type": "journal",
+    "doi": "10.1016/j.bios.2026.119334",
+    "primary_url": "https://doi.org/10.1016/j.bios.2026.119334",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic imaging",
+      "molecular imaging",
+      "activatable contrast probe",
+      "fibroblast activation protein alpha",
+      "pancreatic tumor imaging",
+      "self-assembling nanoprobe"
+    ],
+    "relevance": "related",
+    "summary_en": "Develops an FAP-α-triggered turn-on photoacoustic probe that self-assembles into nanoparticles after enzyme-activated click chemistry. The probe enables real-time photoacoustic visualization of FAP-α activity, with increased signal in pancreatic tumor models.",
+    "summary_cn": "开发一种由成纤维细胞活化蛋白 α（FAP-α）触发的光声信号开启型探针。探针经酶触发的点击反应形成自组装纳米颗粒，可用于实时光声成像，并在胰腺肿瘤模型中显示增强信号。",
+    "why_include_en": "A newly published activatable molecular probe for photoacoustic tumor imaging, expanding the repository's coverage of contrast-agent design.",
+    "why_include_cn": "新发表的可激活分子探针光声肿瘤成像研究，补充了造影剂设计方向的文献覆盖。",
+    "download_note": "Use the publisher DOI landing page; PubMed provides the verified bibliographic record.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42879935/",
+      "https://doi.org/10.1016/j.bios.2026.119334"
+    ],
+    "last_verified": "2026-10-29",
+    "curation_origin": "Manual-authoritative-source",
+    "verification": {
+      "mode": "manual-authoritative-source",
+      "confidence": 0.99,
+      "source": "PubMed / Elsevier DOI record",
+      "final_version_status": "published online ahead of print",
       "track": "main"
     }
   },
@@ -498,6 +583,48 @@
     }
   },
   {
+    "id": "photoacoustics2026-transcranial-icg-j-aggregates-systemic-inflammation",
+    "title": "Transcranial photoacoustic imaging of indocyanine green J-aggregates reveals cerebral signal changes in lipopolysaccharide-induced systemic inflammation",
+    "authors": "Filip J. Bodera; Elizabeth Berndl; Shrishti Singh; Anthony Tay; Greeshma Tarimala; Samuel K. Jensen; Parag V. Chitnis; Remi Veneziano; Mark J. McVey; Michael C. Kolios",
+    "year": 2026,
+    "publication_date": "2026-09-22",
+    "venue": "Photoacoustics 51, 100885 (2026; October collection)",
+    "venue_group": "Elsevier",
+    "venue_type": "journal",
+    "doi": "10.1016/j.pacs.2026.100885",
+    "primary_url": "https://doi.org/10.1016/j.pacs.2026.100885",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "transcranial photoacoustic imaging",
+      "photoacoustic contrast agents",
+      "indocyanine green J-aggregates",
+      "cerebral imaging",
+      "systemic inflammation",
+      "functional imaging"
+    ],
+    "relevance": "related",
+    "summary_en": "Investigates indocyanine green J-aggregates as a contrast tracer for transcranial photoacoustic imaging of rat brains during LPS-induced systemic inflammation. The pilot study reports attenuated and more variable cerebral photoacoustic enhancement in inflamed animals than in sham controls, while noting that single-wavelength signals combine tracer and endogenous-hemoglobin contributions.",
+    "summary_cn": "研究使用吲哚菁绿 J 聚集体作为经颅光声成像造影剂，监测脂多糖诱导的全身炎症大鼠脑部信号变化。试验观察到炎症组的脑部光声增强较弱且波动更大，同时指出单波长信号同时包含造影剂与内源性血红蛋白贡献。",
+    "why_include_en": "A newly indexed October-issue study of transcranial photoacoustic imaging and contrast-enhanced cerebral functional measurements.",
+    "why_include_cn": "新编入 10 月期的经颅光声成像研究，涉及造影增强脑部功能测量。",
+    "download_note": "Use the publisher DOI landing page; PubMed provides the verified article date and bibliographic record.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42835718/",
+      "https://doi.org/10.1016/j.pacs.2026.100885"
+    ],
+    "last_verified": "2026-10-29",
+    "curation_origin": "Manual-authoritative-source",
+    "verification": {
+      "mode": "manual-authoritative-source",
+      "confidence": 0.99,
+      "source": "PubMed / Elsevier DOI record",
+      "final_version_status": "published",
+      "track": "main"
+    }
+  },
+  {
     "id": "photoacoustics2026-blind-single-image-restoration-ring-pat",
     "title": "Blind single image restoration for ring-array photoacoustic tomography system via physics-aided unsupervised learning",
     "authors": "Wende Dong; Gang Luo; Xiaoyu Han; Chenlong Zhu; Songde Liu; Chao Tian",
@@ -617,6 +744,48 @@
       "confidence": 0.98,
       "source": "PubMed / Elsevier DOI",
       "final_version_status": "published; October 2026 issue",
+      "track": "main"
+    }
+  },
+  {
+    "id": "photoacoustics2026-photoelastic-coefficients-linbo3-ultrafast-tdbs",
+    "title": "Distinct responses of photoelastic coefficients to He+ ion implantation in LiNbO3 studied by ultrafast photoacoustic imaging",
+    "authors": "Hongyuan Zhao; Zhiheng Chen; Yueying Hou; Enrui Zhang; Junheng Yao; Yu Deng; Xuejun Yan; Ming-Hui Lu; Vitalyi E. Gusev; Yan-Feng Chen",
+    "year": 2026,
+    "publication_date": "2026-09-09",
+    "venue": "Photoacoustics 51, 100870 (2026; October issue)",
+    "venue_group": "Elsevier",
+    "venue_type": "journal",
+    "doi": "10.1016/j.pacs.2026.100870",
+    "primary_url": "https://doi.org/10.1016/j.pacs.2026.100870",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "ultrafast photoacoustics",
+      "time-domain Brillouin scattering",
+      "acousto-optic imaging",
+      "photoelastic coefficients",
+      "depth-resolved imaging",
+      "nondestructive material characterization"
+    ],
+    "relevance": "related",
+    "summary_en": "Uses polarization-dependent time-domain Brillouin scattering to image depth-dependent acoustic, optical, and photoelastic changes in He+-implanted lithium niobate. The analysis finds distinct modifications of photoelastic coefficients and demonstrates nanoscale depth-resolved material characterization.",
+    "summary_cn": "利用偏振相关的时域布里渊散射，对 He+ 离子注入铌酸锂中的声学、光学及光弹性变化进行深度分辨成像。研究建立并验证各向异性模型，揭示不同光弹性系数受到的差异化影响。",
+    "why_include_en": "A relevant acousto-optic imaging study using ultrafast photoacoustics for depth-resolved, nondestructive characterization of implanted materials; categorized as related rather than core.",
+    "why_include_cn": "利用超快光声技术对离子注入材料进行深度分辨无损表征，属于声光成像相关方向，但并非通用成像重建方法。",
+    "download_note": "Use the publisher DOI landing page; PubMed confirms the October 2026 issue metadata.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42765023/",
+      "https://doi.org/10.1016/j.pacs.2026.100870"
+    ],
+    "last_verified": "2026-10-29",
+    "curation_origin": "Manual-authoritative-source",
+    "verification": {
+      "mode": "manual-authoritative-source",
+      "confidence": 0.98,
+      "source": "PubMed / Elsevier DOI record",
+      "final_version_status": "published",
       "track": "main"
     }
   },
@@ -3806,174 +3975,5 @@
       "https://graphics.stanford.edu/papers/soundnlos/"
     ],
     "last_verified": "2026-06-25"
-  },
-  {
-    "id": "biosensbioelectron2026-fap-triggered-pa-probe-pancreatic-tumor",
-    "title": "Fibroblast activation protein-α-triggered photoacoustic signal \"on\" for pancreatic tumor imaging",
-    "authors": "Runqun Tang; Ziyi Zhang; Liangxi Zhu; Hai-Dong Xu; Tianyi Zhang; Yang Yang; Wenjun Zhan; Sisi Zhou; Gaolin Liang",
-    "year": 2026,
-    "publication_date": "2026-10-13",
-    "venue": "Biosensors and Bioelectronics 316, 119334 (2026)",
-    "venue_group": "Elsevier",
-    "venue_type": "journal",
-    "doi": "10.1016/j.bios.2026.119334",
-    "primary_url": "https://doi.org/10.1016/j.bios.2026.119334",
-    "pdf_url": "",
-    "project_url": "",
-    "code_url": "",
-    "topics": [
-      "photoacoustic imaging",
-      "molecular imaging",
-      "activatable contrast probe",
-      "fibroblast activation protein alpha",
-      "pancreatic tumor imaging",
-      "self-assembling nanoprobe"
-    ],
-    "relevance": "related",
-    "summary_en": "Develops an FAP-α-triggered turn-on photoacoustic probe that self-assembles into nanoparticles after enzyme-activated click chemistry. The probe enables real-time photoacoustic visualization of FAP-α activity, with increased signal in pancreatic tumor models.",
-    "summary_cn": "开发一种由成纤维细胞活化蛋白 α（FAP-α）触发的光声信号开启型探针。探针经酶触发的点击反应形成自组装纳米颗粒，可用于实时光声成像，并在胰腺肿瘤模型中显示增强信号。",
-    "why_include_en": "A newly published activatable molecular probe for photoacoustic tumor imaging, expanding the repository's coverage of contrast-agent design.",
-    "why_include_cn": "新发表的可激活分子探针光声肿瘤成像研究，补充了造影剂设计方向的文献覆盖。",
-    "download_note": "Use the publisher DOI landing page; PubMed provides the verified bibliographic record.",
-    "sources": [
-      "https://pubmed.ncbi.nlm.nih.gov/42879935/",
-      "https://doi.org/10.1016/j.bios.2026.119334"
-    ],
-    "last_verified": "2026-10-29",
-    "curation_origin": "Manual-authoritative-source",
-    "verification": {
-      "mode": "manual-authoritative-source",
-      "confidence": 0.99,
-      "source": "PubMed / Elsevier DOI record",
-      "final_version_status": "published online ahead of print",
-      "track": "main"
-    }
-  },
-  {
-    "id": "photoacoustics2026-photoelastic-coefficients-linbo3-ultrafast-tdbs",
-    "title": "Distinct responses of photoelastic coefficients to He+ ion implantation in LiNbO3 studied by ultrafast photoacoustic imaging",
-    "authors": "Hongyuan Zhao; Zhiheng Chen; Yueying Hou; Enrui Zhang; Junheng Yao; Yu Deng; Xuejun Yan; Ming-Hui Lu; Vitalyi E. Gusev; Yan-Feng Chen",
-    "year": 2026,
-    "publication_date": "2026-09-09",
-    "venue": "Photoacoustics 51, 100870 (2026; October issue)",
-    "venue_group": "Elsevier",
-    "venue_type": "journal",
-    "doi": "10.1016/j.pacs.2026.100870",
-    "primary_url": "https://doi.org/10.1016/j.pacs.2026.100870",
-    "pdf_url": "",
-    "project_url": "",
-    "code_url": "",
-    "topics": [
-      "ultrafast photoacoustics",
-      "time-domain Brillouin scattering",
-      "acousto-optic imaging",
-      "photoelastic coefficients",
-      "depth-resolved imaging",
-      "nondestructive material characterization"
-    ],
-    "relevance": "related",
-    "summary_en": "Uses polarization-dependent time-domain Brillouin scattering to image depth-dependent acoustic, optical, and photoelastic changes in He+-implanted lithium niobate. The analysis finds distinct modifications of photoelastic coefficients and demonstrates nanoscale depth-resolved material characterization.",
-    "summary_cn": "利用偏振相关的时域布里渊散射，对 He+ 离子注入铌酸锂中的声学、光学及光弹性变化进行深度分辨成像。研究建立并验证各向异性模型，揭示不同光弹性系数受到的差异化影响。",
-    "why_include_en": "A relevant acousto-optic imaging study using ultrafast photoacoustics for depth-resolved, nondestructive characterization of implanted materials; categorized as related rather than core.",
-    "why_include_cn": "利用超快光声技术对离子注入材料进行深度分辨无损表征，属于声光成像相关方向，但并非通用成像重建方法。",
-    "download_note": "Use the publisher DOI landing page; PubMed confirms the October 2026 issue metadata.",
-    "sources": [
-      "https://pubmed.ncbi.nlm.nih.gov/42765023/",
-      "https://doi.org/10.1016/j.pacs.2026.100870"
-    ],
-    "last_verified": "2026-10-29",
-    "curation_origin": "Manual-authoritative-source",
-    "verification": {
-      "mode": "manual-authoritative-source",
-      "confidence": 0.98,
-      "source": "PubMed / Elsevier DOI record",
-      "final_version_status": "published",
-      "track": "main"
-    }
-  },
-  {
-    "id": "acssensors2026-micro-nanophotonic-ultrasound-sensors-in-vivo-pai-review",
-    "title": "Micro/Nanophotonic Ultrasound Sensors for in Vivo Photoacoustic Imaging",
-    "authors": "Huazhen Chen; Shuyao Liao; Hao Li; Wei Song; Biqin Dong",
-    "year": 2026,
-    "publication_date": "2026-10-23",
-    "venue": "ACS Sensors 11(10), 8737–8755 (2026)",
-    "venue_group": "ACS Publications",
-    "venue_type": "journal",
-    "doi": "10.1021/acssensors.6c01624",
-    "primary_url": "https://doi.org/10.1021/acssensors.6c01624",
-    "pdf_url": "",
-    "project_url": "",
-    "code_url": "",
-    "topics": [
-      "photoacoustic imaging",
-      "optical ultrasound detection",
-      "micro/nanophotonics",
-      "Fabry–Pérot sensors",
-      "microring resonators",
-      "Bragg grating sensors",
-      "transparent ultrasound detectors"
-    ],
-    "relevance": "related",
-    "summary_en": "Reviews micro/nanophotonic ultrasound sensors for in-vivo photoacoustic imaging, covering photonic transduction principles, device architectures, system integration, demonstrated applications, and challenges in achieving optical transparency, miniaturization, and high acoustic sensitivity simultaneously.",
-    "summary_cn": "综述用于体内光声成像的微纳光子超声传感器，涵盖光子换能原理、器件结构、系统集成、代表性应用，以及同时实现光学透明、小型化和高声学灵敏度的关键挑战。",
-    "why_include_en": "A newly published technical review directly relevant to optical ultrasound detection and acoustic–optical system integration.",
-    "why_include_cn": "新发表的技术综述，直接涉及光学超声探测与声光系统集成。",
-    "download_note": "Use the ACS Publications DOI landing page; PubMed provides verified issue and page metadata.",
-    "sources": [
-      "https://pubmed.ncbi.nlm.nih.gov/42504465/",
-      "https://doi.org/10.1021/acssensors.6c01624"
-    ],
-    "last_verified": "2026-10-29",
-    "curation_origin": "Manual-authoritative-source",
-    "verification": {
-      "mode": "manual-authoritative-source",
-      "confidence": 0.99,
-      "source": "PubMed / ACS Publications",
-      "final_version_status": "published",
-      "track": "main"
-    }
-  },
-  {
-    "id": "photoacoustics2026-transcranial-icg-j-aggregates-systemic-inflammation",
-    "title": "Transcranial photoacoustic imaging of indocyanine green J-aggregates reveals cerebral signal changes in lipopolysaccharide-induced systemic inflammation",
-    "authors": "Filip J. Bodera; Elizabeth Berndl; Shrishti Singh; Anthony Tay; Greeshma Tarimala; Samuel K. Jensen; Parag V. Chitnis; Remi Veneziano; Mark J. McVey; Michael C. Kolios",
-    "year": 2026,
-    "publication_date": "2026-09-22",
-    "venue": "Photoacoustics 51, 100885 (2026; October collection)",
-    "venue_group": "Elsevier",
-    "venue_type": "journal",
-    "doi": "10.1016/j.pacs.2026.100885",
-    "primary_url": "https://doi.org/10.1016/j.pacs.2026.100885",
-    "pdf_url": "",
-    "project_url": "",
-    "code_url": "",
-    "topics": [
-      "transcranial photoacoustic imaging",
-      "photoacoustic contrast agents",
-      "indocyanine green J-aggregates",
-      "cerebral imaging",
-      "systemic inflammation",
-      "functional imaging"
-    ],
-    "relevance": "related",
-    "summary_en": "Investigates indocyanine green J-aggregates as a contrast tracer for transcranial photoacoustic imaging of rat brains during LPS-induced systemic inflammation. The pilot study reports attenuated and more variable cerebral photoacoustic enhancement in inflamed animals than in sham controls, while noting that single-wavelength signals combine tracer and endogenous-hemoglobin contributions.",
-    "summary_cn": "研究使用吲哚菁绿 J 聚集体作为经颅光声成像造影剂，监测脂多糖诱导的全身炎症大鼠脑部信号变化。试验观察到炎症组的脑部光声增强较弱且波动更大，同时指出单波长信号同时包含造影剂与内源性血红蛋白贡献。",
-    "why_include_en": "A newly indexed October-issue study of transcranial photoacoustic imaging and contrast-enhanced cerebral functional measurements.",
-    "why_include_cn": "新编入 10 月期的经颅光声成像研究，涉及造影增强脑部功能测量。",
-    "download_note": "Use the publisher DOI landing page; PubMed provides the verified article date and bibliographic record.",
-    "sources": [
-      "https://pubmed.ncbi.nlm.nih.gov/42835718/",
-      "https://doi.org/10.1016/j.pacs.2026.100885"
-    ],
-    "last_verified": "2026-10-29",
-    "curation_origin": "Manual-authoritative-source",
-    "verification": {
-      "mode": "manual-authoritative-source",
-      "confidence": 0.99,
-      "source": "PubMed / Elsevier DOI record",
-      "final_version_status": "published",
-      "track": "main"
-    }
   }
 ]
