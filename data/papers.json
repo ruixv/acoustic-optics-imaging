@@ -1,130 +1,5 @@
 [
   {
-    "id": "nong2026-irgd-ultrasound-imaging-guided-laryngeal-cancer",
-    "title": "iRGD-Functionalized Phase-Change Liposomal Nanodroplets for Ultrasound Imaging-Guided Chemotherapy and Hypoxia Modulation in Laryngeal Cancer: In vitro and in vivo Evaluation",
-    "authors": "Wenqian Nong; Junhao Zhang; Jun Zhou; Li Liang; Jiali Liu; Haimei Lun; Lingling Li; Yunxia Deng; Qiao Hu",
-    "year": 2026,
-    "publication_date": "2026-10-29",
-    "venue": "International Journal of Nanomedicine 21 (2026), 616689",
-    "venue_group": "Ultrasound Imaging / Nanomedicine",
-    "venue_type": "journal",
-    "doi": "10.2147/IJN.S616689",
-    "primary_url": "https://doi.org/10.2147/IJN.S616689",
-    "pdf_url": "https://www.dovepress.com/irgd-functionalized-phase-change-liposomal-nanodroplets-for-ultrasound-peer-reviewed-fulltext-article-IJN",
-    "project_url": "",
-    "code_url": "",
-    "topics": [
-      "ultrasound imaging",
-      "ultrasound contrast agents",
-      "phase-change nanodroplets",
-      "image-guided therapy",
-      "hypoxia modulation"
-    ],
-    "relevance": "related",
-    "summary_en": "This study evaluates iRGD-functionalized phase-change liposomal nanodroplets for ultrasound imaging-guided chemotherapy and hypoxia modulation in laryngeal cancer, with in-vitro and in-vivo experiments. Its relevance is primarily in ultrasound-guided therapeutic delivery and contrast-agent engineering rather than a new reconstruction method.",
-    "summary_cn": "该研究在体外和体内实验中评估 iRGD 功能化相变脂质体纳米液滴，用于喉癌的超声成像引导化疗及肿瘤缺氧调控。其主要价值在于超声引导治疗递送和造影剂设计，而非新的图像重建算法。",
-    "why_include_en": "Newly published ultrasound-imaging-guided therapy paper within the broad acoustic-imaging scope. Classified as related because the imaging modality supports therapeutic delivery rather than introducing a general imaging method.",
-    "why_include_cn": "最新发表的超声成像引导治疗论文，符合广义声学成像范围。由于成像主要用于引导治疗递送，而非提出通用成像方法，因此标为 related。",
-    "download_note": "Publisher page reports acceptance on 2026-10-11 and publication on 2026-10-29; metadata and DOI were checked against the publisher record.",
-    "sources": [
-      "https://www.dovepress.com/irgd-functionalized-phase-change-liposomal-nanodroplets-for-ultrasound-peer-reviewed-fulltext-article-IJN",
-      "https://doi.org/10.2147/IJN.S616689"
-    ],
-    "last_verified": "2026-10-30",
-    "curation_origin": "Manual-newly-published-ultrasound-imaging",
-    "verification": {
-      "mode": "manual-source-verification",
-      "confidence": 0.96,
-      "source": "Dove Medical Press publisher page",
-      "final_version_status": "published journal article",
-      "track": "main"
-    }
-  },
-  {
-    "id": "he2026-differential-aperture-modulation-pact",
-    "title": "Differential aperture modulation enables high-fidelity 3D photoacoustic imaging",
-    "authors": "Muhang He; Zhengchang Kou; Maria F. Michalska; Zhouyan Gao; Xinru Meng; Michael W. Jenkins; Michael L. Oelze; Rui Cao",
-    "year": 2026,
-    "publication_date": "2026-09-11",
-    "venue": "Photoacoustics 51, 100883 (2026; October issue)",
-    "venue_group": "Photoacoustics",
-    "venue_type": "journal",
-    "doi": "10.1016/j.pacs.2026.100883",
-    "primary_url": "https://doi.org/10.1016/j.pacs.2026.100883",
-    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13590064/",
-    "project_url": "",
-    "code_url": "",
-    "topics": [
-      "photoacoustic tomography",
-      "3D photoacoustic imaging",
-      "differential aperture modulation",
-      "linear-array transducers",
-      "volumetric vascular imaging"
-    ],
-    "relevance": "core",
-    "summary_en": "Differential aperture modulation photoacoustic computed tomography (DAM-PACT) synthesizes complementary receive apertures from standard linear-array acquisitions to recover elevational information. The authors report up to a four-fold improvement in elevational resolution and demonstrate sharper vascular delineation in human arm and palm imaging without hardware redesign.",
-    "summary_cn": "提出差分孔径调制光声计算断层成像（DAM-PACT），从标准线阵采集中合成互补接收孔径以恢复仰角方向信息。作者报告仰角分辨率最高提升约 4 倍，并在人体手臂和手掌成像中展示更清晰的血管结构，无需改造硬件。",
-    "why_include_en": "Core reconstruction/acquisition contribution to volumetric photoacoustic imaging; it improves elevational resolution using conventional linear-array data and requires no hardware redesign.",
-    "why_include_cn": "属于三维光声成像的核心采集/重建方法贡献：利用常规线阵数据提升仰角分辨率，无需硬件改造。",
-    "download_note": "PubMed and PMC full-text records confirm the article metadata and abstract; online article date is 2026-09-11 and it appears in Photoacoustics volume 51 (October 2026 issue).",
-    "sources": [
-      "https://pubmed.ncbi.nlm.nih.gov/42765080/",
-      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13590064/",
-      "https://doi.org/10.1016/j.pacs.2026.100883"
-    ],
-    "last_verified": "2026-10-30",
-    "curation_origin": "Manual-Photoacoustics-newly-indexed",
-    "verification": {
-      "mode": "manual-source-verification",
-      "confidence": 0.99,
-      "source": "PubMed and PMC full text",
-      "final_version_status": "published journal article",
-      "track": "main"
-    }
-  },
-  {
-    "id": "li2026-cross-shaped-ultrasound-array-patch-bladder-monitoring",
-    "title": "A cross-shaped combined ultrasound array patch for continuous bladder volume monitoring",
-    "authors": "Ziqi Li; Cong Pu; Ting Zhang; Chang Peng",
-    "year": 2026,
-    "publication_date": "2026-09-11",
-    "venue": "Photoacoustics 51, 100882 (2026; October issue)",
-    "venue_group": "Photoacoustics / Ultrasound Imaging",
-    "venue_type": "journal",
-    "doi": "10.1016/j.pacs.2026.100882",
-    "primary_url": "https://doi.org/10.1016/j.pacs.2026.100882",
-    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13594705/",
-    "project_url": "",
-    "code_url": "",
-    "topics": [
-      "ultrasound imaging",
-      "wearable ultrasound array",
-      "multi-plane imaging",
-      "image stitching",
-      "bladder volume monitoring"
-    ],
-    "relevance": "related",
-    "summary_en": "The paper presents a cross-shaped ultrasound patch made from three 64-element linear arrays. Time-division acquisition and feature-based stitching combine sagittal and transverse views for automated bladder contour and volume estimation. Phantom tests and a 10-volunteer pilot study support feasibility, although the prototype still relies on a benchtop ultrasound platform.",
-    "summary_cn": "提出由三个 64 阵元线阵构成的十字形超声贴片，通过时分采集和基于特征的图像拼接组合矢状面与横断面视图，实现膀胱轮廓及体积估计。仿体实验和 10 名健康志愿者的初步研究支持其可行性，但原型仍依赖台式超声平台。",
-    "why_include_en": "A newly indexed acoustic-imaging system paper covering multi-plane ultrasound acquisition, image stitching, and continuous volume monitoring. It is related rather than core because its primary application is bladder monitoring and it does not introduce optical-acoustic fusion.",
-    "why_include_cn": "新近索引的声学成像系统论文，涉及多平面超声采集、图像拼接和连续体积监测。由于重点是膀胱监测应用，且不涉及光声融合，列为 related 而非 core。",
-    "download_note": "PubMed and PMC confirm the metadata and full abstract; online article date is 2026-09-11 and it appears in Photoacoustics volume 51 (October 2026 issue).",
-    "sources": [
-      "https://pubmed.ncbi.nlm.nih.gov/42774782/",
-      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13594705/",
-      "https://doi.org/10.1016/j.pacs.2026.100882"
-    ],
-    "last_verified": "2026-10-30",
-    "curation_origin": "Manual-Photoacoustics-newly-indexed",
-    "verification": {
-      "mode": "manual-source-verification",
-      "confidence": 0.98,
-      "source": "PubMed and PMC full text",
-      "final_version_status": "published journal article",
-      "track": "main"
-    }
-  },
-  {
     "id": "cheong2026-hadamard-encoded-acoustoelectric-imaging",
     "title": "Hadamard-encoded synthetic beamforming for high frame rate acoustoelectric current source imaging",
     "authors": "YeonJoon Cheong; Jinbum Kang; Nadia Abu Farha; Margaret Miles Allard; Kunal Sharma; Parker Jai-Carver Harris; Russell S. Witte; Matthew O'Donnell",
@@ -163,6 +38,47 @@
       "confidence": 0.9,
       "source": "Manual-Elsevier-DOI-seed",
       "final_version_status": "manual-doi-metadata-pending",
+      "track": "main"
+    }
+  },
+  {
+    "id": "nong2026-irgd-ultrasound-imaging-guided-laryngeal-cancer",
+    "title": "iRGD-Functionalized Phase-Change Liposomal Nanodroplets for Ultrasound Imaging-Guided Chemotherapy and Hypoxia Modulation in Laryngeal Cancer: In vitro and in vivo Evaluation",
+    "authors": "Wenqian Nong; Junhao Zhang; Jun Zhou; Li Liang; Jiali Liu; Haimei Lun; Lingling Li; Yunxia Deng; Qiao Hu",
+    "year": 2026,
+    "publication_date": "2026-10-29",
+    "venue": "International Journal of Nanomedicine 21 (2026), 616689",
+    "venue_group": "Ultrasound Imaging / Nanomedicine",
+    "venue_type": "journal",
+    "doi": "10.2147/IJN.S616689",
+    "primary_url": "https://doi.org/10.2147/IJN.S616689",
+    "pdf_url": "https://www.dovepress.com/irgd-functionalized-phase-change-liposomal-nanodroplets-for-ultrasound-peer-reviewed-fulltext-article-IJN",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "ultrasound imaging",
+      "ultrasound contrast agents",
+      "phase-change nanodroplets",
+      "image-guided therapy",
+      "hypoxia modulation"
+    ],
+    "relevance": "related",
+    "summary_en": "This study evaluates iRGD-functionalized phase-change liposomal nanodroplets for ultrasound imaging-guided chemotherapy and hypoxia modulation in laryngeal cancer, with in-vitro and in-vivo experiments. Its relevance is primarily in ultrasound-guided therapeutic delivery and contrast-agent engineering rather than a new reconstruction method.",
+    "summary_cn": "该研究在体外和体内实验中评估 iRGD 功能化相变脂质体纳米液滴，用于喉癌的超声成像引导化疗及肿瘤缺氧调控。其主要价值在于超声引导治疗递送和造影剂设计，而非新的图像重建算法。",
+    "why_include_en": "Newly published ultrasound-imaging-guided therapy paper within the broad acoustic-imaging scope. Classified as related because the imaging modality supports therapeutic delivery rather than introducing a general imaging method.",
+    "why_include_cn": "最新发表的超声成像引导治疗论文，符合广义声学成像范围。由于成像主要用于引导治疗递送，而非提出通用成像方法，因此标为 related。",
+    "download_note": "Publisher page reports acceptance on 2026-10-11 and publication on 2026-10-29; metadata and DOI were checked against the publisher record.",
+    "sources": [
+      "https://www.dovepress.com/irgd-functionalized-phase-change-liposomal-nanodroplets-for-ultrasound-peer-reviewed-fulltext-article-IJN",
+      "https://doi.org/10.2147/IJN.S616689"
+    ],
+    "last_verified": "2026-10-30",
+    "curation_origin": "Manual-newly-published-ultrasound-imaging",
+    "verification": {
+      "mode": "manual-source-verification",
+      "confidence": 0.96,
+      "source": "Dove Medical Press publisher page",
+      "final_version_status": "published journal article",
       "track": "main"
     }
   },
@@ -869,6 +785,90 @@
       "confidence": 0.98,
       "source": "PubMed / Elsevier DOI",
       "final_version_status": "published; October 2026 issue",
+      "track": "main"
+    }
+  },
+  {
+    "id": "he2026-differential-aperture-modulation-pact",
+    "title": "Differential aperture modulation enables high-fidelity 3D photoacoustic imaging",
+    "authors": "Muhang He; Zhengchang Kou; Maria F. Michalska; Zhouyan Gao; Xinru Meng; Michael W. Jenkins; Michael L. Oelze; Rui Cao",
+    "year": 2026,
+    "publication_date": "2026-09-11",
+    "venue": "Photoacoustics 51, 100883 (2026; October issue)",
+    "venue_group": "Photoacoustics",
+    "venue_type": "journal",
+    "doi": "10.1016/j.pacs.2026.100883",
+    "primary_url": "https://doi.org/10.1016/j.pacs.2026.100883",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13590064/",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic tomography",
+      "3D photoacoustic imaging",
+      "differential aperture modulation",
+      "linear-array transducers",
+      "volumetric vascular imaging"
+    ],
+    "relevance": "core",
+    "summary_en": "Differential aperture modulation photoacoustic computed tomography (DAM-PACT) synthesizes complementary receive apertures from standard linear-array acquisitions to recover elevational information. The authors report up to a four-fold improvement in elevational resolution and demonstrate sharper vascular delineation in human arm and palm imaging without hardware redesign.",
+    "summary_cn": "提出差分孔径调制光声计算断层成像（DAM-PACT），从标准线阵采集中合成互补接收孔径以恢复仰角方向信息。作者报告仰角分辨率最高提升约 4 倍，并在人体手臂和手掌成像中展示更清晰的血管结构，无需改造硬件。",
+    "why_include_en": "Core reconstruction/acquisition contribution to volumetric photoacoustic imaging; it improves elevational resolution using conventional linear-array data and requires no hardware redesign.",
+    "why_include_cn": "属于三维光声成像的核心采集/重建方法贡献：利用常规线阵数据提升仰角分辨率，无需硬件改造。",
+    "download_note": "PubMed and PMC full-text records confirm the article metadata and abstract; online article date is 2026-09-11 and it appears in Photoacoustics volume 51 (October 2026 issue).",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42765080/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13590064/",
+      "https://doi.org/10.1016/j.pacs.2026.100883"
+    ],
+    "last_verified": "2026-10-30",
+    "curation_origin": "Manual-Photoacoustics-newly-indexed",
+    "verification": {
+      "mode": "manual-source-verification",
+      "confidence": 0.99,
+      "source": "PubMed and PMC full text",
+      "final_version_status": "published journal article",
+      "track": "main"
+    }
+  },
+  {
+    "id": "li2026-cross-shaped-ultrasound-array-patch-bladder-monitoring",
+    "title": "A cross-shaped combined ultrasound array patch for continuous bladder volume monitoring",
+    "authors": "Ziqi Li; Cong Pu; Ting Zhang; Chang Peng",
+    "year": 2026,
+    "publication_date": "2026-09-11",
+    "venue": "Photoacoustics 51, 100882 (2026; October issue)",
+    "venue_group": "Photoacoustics / Ultrasound Imaging",
+    "venue_type": "journal",
+    "doi": "10.1016/j.pacs.2026.100882",
+    "primary_url": "https://doi.org/10.1016/j.pacs.2026.100882",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13594705/",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "ultrasound imaging",
+      "wearable ultrasound array",
+      "multi-plane imaging",
+      "image stitching",
+      "bladder volume monitoring"
+    ],
+    "relevance": "related",
+    "summary_en": "The paper presents a cross-shaped ultrasound patch made from three 64-element linear arrays. Time-division acquisition and feature-based stitching combine sagittal and transverse views for automated bladder contour and volume estimation. Phantom tests and a 10-volunteer pilot study support feasibility, although the prototype still relies on a benchtop ultrasound platform.",
+    "summary_cn": "提出由三个 64 阵元线阵构成的十字形超声贴片，通过时分采集和基于特征的图像拼接组合矢状面与横断面视图，实现膀胱轮廓及体积估计。仿体实验和 10 名健康志愿者的初步研究支持其可行性，但原型仍依赖台式超声平台。",
+    "why_include_en": "A newly indexed acoustic-imaging system paper covering multi-plane ultrasound acquisition, image stitching, and continuous volume monitoring. It is related rather than core because its primary application is bladder monitoring and it does not introduce optical-acoustic fusion.",
+    "why_include_cn": "新近索引的声学成像系统论文，涉及多平面超声采集、图像拼接和连续体积监测。由于重点是膀胱监测应用，且不涉及光声融合，列为 related 而非 core。",
+    "download_note": "PubMed and PMC confirm the metadata and full abstract; online article date is 2026-09-11 and it appears in Photoacoustics volume 51 (October 2026 issue).",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42774782/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13594705/",
+      "https://doi.org/10.1016/j.pacs.2026.100882"
+    ],
+    "last_verified": "2026-10-30",
+    "curation_origin": "Manual-Photoacoustics-newly-indexed",
+    "verification": {
+      "mode": "manual-source-verification",
+      "confidence": 0.98,
+      "source": "PubMed and PMC full text",
+      "final_version_status": "published journal article",
       "track": "main"
     }
   },
