@@ -83,6 +83,48 @@
     }
   },
   {
+    "id": "liu2026-swirl-diimmonium-nanoagents-photoacoustic",
+    "title": "Short Wavelength Infrared Diimmonium Nano-Agents for Photoacoustic Imaging",
+    "authors": "Longcai Liu; Yang Chen; Liya Yu; Xiaozhou Mou; Guangxue Feng; Yu Cai",
+    "year": 2026,
+    "publication_date": "2026-10-12",
+    "venue": "Nature Communications (2026)",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal",
+    "doi": "10.1038/s41467-026-78613-7",
+    "primary_url": "https://www.nature.com/articles/s41467-026-78613-7",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic imaging",
+      "NIR-IIb contrast agents",
+      "1700 nm excitation",
+      "diimmonium nano-agents",
+      "molecular imaging",
+      "contrast enhancement"
+    ],
+    "relevance": "core",
+    "summary_en": "Introduces diimmonium-based dicationic nano-agents designed for 1700 nm-excited photoacoustic imaging. Molecular and crystal-structure analyses connect electronic restructuring and aggregate packing to non-radiative signal generation; in-vivo tests report higher signal-to-background ratio and reduced endogenous-chromophore interference than 1064 nm excitation.",
+    "summary_cn": "提出用于 1700 nm 激发光声成像的二亚胺鎓基双阳离子纳米造影剂。分子与晶体结构分析揭示电子重构和聚集体堆积对非辐射信号生成的影响；体内实验显示，相比 1064 nm 激发，该体系可提高信背比并减少内源性发色团干扰。",
+    "why_include_en": "A high-profile, directly relevant photoacoustic-imaging contrast-agent advance that opens the NIR-IIb window at 1700 nm and demonstrates improved in-vivo contrast.",
+    "why_include_cn": "高相关度的光声成像造影剂研究，将激发波长推进至 1700 nm 的 NIR-IIb 窗口，并展示体内成像对比度改善。",
+    "download_note": "Open-access publisher article; use the Nature Communications version of record.",
+    "sources": [
+      "https://www.nature.com/articles/s41467-026-78613-7",
+      "https://doi.org/10.1038/s41467-026-78613-7"
+    ],
+    "last_verified": "2026-10-29",
+    "curation_origin": "Manual-authoritative-source",
+    "verification": {
+      "mode": "manual-authoritative-source",
+      "confidence": 0.99,
+      "source": "Nature Communications publisher record",
+      "final_version_status": "published",
+      "track": "main"
+    }
+  },
+  {
     "id": "npjimaging2026-3d-paulm-multimodal-brain-tumor",
     "title": "3D-PAULM: integrated photoacoustic tomography and ultrasound localization microscopy for multiparametric brain and tumor imaging",
     "authors": "Yirui Xu; Rui Yao; Huaxin Sheng; Jinhuan Luo; Nanchao Wang; Xinyuan Yu; Xueyi Cai; Jiaji Cai; Jingting Li; Wei Yang; Pengfei Song; Vladislav V. Verkhusha; Junjie Yao",
@@ -162,6 +204,49 @@
       "confidence": 0.98,
       "source": "npj Imaging / Nature Portfolio",
       "final_version_status": "published early article",
+      "track": "main"
+    }
+  },
+  {
+    "id": "sakiyama2026-heterodyne-interferometric-sound-field-imaging",
+    "title": "Heterodyne interferometric sound-field imaging with full-field lock-in detection",
+    "authors": "Nao Sakiyama; Naru Yoneda; Osamu Matoba",
+    "year": 2026,
+    "publication_date": "2026-10-05",
+    "venue": "Optics Express 34(20), 38501–38512 (2026)",
+    "venue_group": "Other",
+    "venue_type": "journal",
+    "doi": "10.1364/OE.596985",
+    "primary_url": "https://doi.org/10.1364/OE.596985",
+    "pdf_url": "",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "acoustic imaging",
+      "sound-field imaging",
+      "acoustic holography",
+      "heterodyne interferometry",
+      "full-field lock-in detection",
+      "high-frequency acoustic measurement"
+    ],
+    "relevance": "core",
+    "summary_en": "Presents heterodyne interferometric sound-field imaging (HISI), combining optical heterodyne interferometry with full-field lock-in detection to reconstruct high-frequency sound fields beyond the camera-frame-rate Nyquist limit. Experiments recover sound fields from down-converted measurements acquired at a frame rate about an order of magnitude below the original acoustic frequency, while extending measurement duration and field of view.",
+    "summary_cn": "提出异频干涉声场成像（HISI），结合光学异频干涉与全场锁相检测，使相机帧率低于声场奈奎斯特采样要求时仍可重建高频声场。实验表明，利用降频后的测量信号，可在原始声学频率约十分之一的帧率下恢复声场，并扩展测量时长和视场。",
+    "why_include_en": "Directly advances optical-interferometric acoustic field imaging and addresses the frame-rate/Nyquist bottleneck in digital sound-field holography.",
+    "why_include_cn": "直接推进光学干涉式声场成像，并针对数字声场全息中的帧率与奈奎斯特频率限制提出解决方案。",
+    "download_note": "Official Optica issue record and PubMed metadata are available; use the DOI landing page for the article.",
+    "sources": [
+      "https://opg.optica.org/oe/issue.cfm?issue=20&tocid=1324652&volume=34",
+      "https://pubmed.ncbi.nlm.nih.gov/42839507/",
+      "https://doi.org/10.1364/OE.596985"
+    ],
+    "last_verified": "2026-10-29",
+    "curation_origin": "Manual-authoritative-source",
+    "verification": {
+      "mode": "manual-authoritative-source",
+      "confidence": 0.99,
+      "source": "Optica Publishing Group issue record / PubMed",
+      "final_version_status": "published",
       "track": "main"
     }
   },
