@@ -915,6 +915,174 @@
     }
   },
   {
+    "id": "biswas2026-photoacoustic-signal-breast-tumor-classification",
+    "title": "Photoacoustic signal analysis for breast tumor classification: a pilot study",
+    "authors": "Shimul Biswas; Diya Pratish Chohan; Ashwini Amin; Pratixa Nanjibhai Sevra; Subhash Chandra; Jackson Rodrigues; Bhavya K. P.; Sathya Priyanka Kocherlakota; Stanley Mathew; Krishna Kishore Mahato",
+    "year": 2026,
+    "publication_date": "2026-09-08",
+    "venue": "Scientific Reports (2026)",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "doi": "10.1038/s41598-026-70132-1",
+    "primary_url": "https://doi.org/10.1038/s41598-026-70132-1",
+    "pdf_url": "https://www.nature.com/articles/s41598-026-70132-1",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic imaging",
+      "signal analysis",
+      "breast tissue classification",
+      "wavelet features",
+      "machine learning",
+      "pilot study"
+    ],
+    "relevance": "related",
+    "summary_en": "Studies whether photoacoustic signal features can distinguish breast cancer, phyllodes tumors, and fibroadenoma using 27 ex-vivo specimens and several supervised classifiers. Random Forest had the highest observed test accuracy, but confidence intervals were wide and overlapping, so the results are preliminary rather than definitive.",
+    "summary_cn": "使用 27 份离体乳腺组织样本及多种监督学习分类器，探索光声信号特征区分乳腺癌、叶状肿瘤和纤维腺瘤的可行性。随机森林取得最高的观测测试准确率，但置信区间较宽且重叠，结果仍属初步研究。",
+    "why_include_en": "A relevant photoacoustic signal-analysis and diagnostic-ML study. Classified as related because it is a small pilot dataset and does not introduce a general imaging/reconstruction method.",
+    "why_include_cn": "与光声信号分析及诊断机器学习相关；由于样本量较小且未提出通用成像或重建方法，归为 related。",
+    "download_note": "Publisher page confirms authors, DOI, and publication date 2026-09-08; small pilot cohort noted in the summary.",
+    "sources": [
+      "https://www.nature.com/articles/s41598-026-70132-1",
+      "https://doi.org/10.1038/s41598-026-70132-1"
+    ],
+    "last_verified": "2026-10-30",
+    "curation_origin": "Manual-authoritative-source-verification",
+    "verification": {
+      "mode": "manual-source-verification",
+      "confidence": 0.99,
+      "source": "Scientific Reports publisher page",
+      "final_version_status": "published online",
+      "track": "main"
+    }
+  },
+  {
+    "id": "enslein2026-in-vivo-photoacoustic-breast-detectability",
+    "title": "In vivo photoacoustic breast imaging and the interactive effects of skin tone, wavelength, beamformer, and depth on target detectability",
+    "authors": "Jamie Enslein; Madhavi Tripathi; Babita Panigrahi; Kelly Myers; Joselyn Wei Chen; José Timaná; Emily Ambinder; Muyinatu A. Lediju Bell",
+    "year": 2026,
+    "publication_date": "2026-09-04",
+    "venue": "npj Imaging (2026)",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "doi": "10.1038/s44303-026-00193-4",
+    "primary_url": "https://doi.org/10.1038/s44303-026-00193-4",
+    "pdf_url": "https://www.nature.com/articles/s44303-026-00193-4",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic breast imaging",
+      "beamforming",
+      "skin tone",
+      "target detectability",
+      "clinical imaging evaluation",
+      "short-lag spatial coherence"
+    ],
+    "relevance": "related",
+    "summary_en": "Evaluates interactions among skin tone, excitation wavelength, beamformer, and target depth in clinical photoacoustic breast imaging using data from 29 patients. It compares delay-and-sum with short-lag spatial-coherence beamforming and shows that detectability depends on the joint acquisition and processing conditions.",
+    "summary_cn": "基于 29 位患者的数据，研究皮肤色调、激发波长、波束形成方法和目标深度对乳腺光声成像目标可检测性的交互影响，并比较 DAS 与短延迟空间相干波束形成。",
+    "why_include_en": "Provides clinically grounded evidence about acquisition/beamforming performance and demographic-related variability, directly relevant to reliable evaluation of photoacoustic imaging systems.",
+    "why_include_cn": "提供临床证据，分析采集参数、波束形成性能及人口特征相关差异，对可靠评估光声成像系统具有直接参考价值。",
+    "download_note": "Publisher page confirms publication on 2026-09-04 and DOI. Author names transcribed from the publisher's displayed author list.",
+    "sources": [
+      "https://www.nature.com/articles/s44303-026-00193-4",
+      "https://doi.org/10.1038/s44303-026-00193-4"
+    ],
+    "last_verified": "2026-10-30",
+    "curation_origin": "Manual-authoritative-source-verification",
+    "verification": {
+      "mode": "manual-source-verification",
+      "confidence": 0.98,
+      "source": "Nature Portfolio publisher page",
+      "final_version_status": "published online",
+      "track": "main"
+    }
+  },
+  {
+    "id": "beshir2026-adaptive-gaussian-weighted-photoacoustic-beamforming",
+    "title": "Adaptive Gaussian-weighted nonlinear beamforming with coherence factor enhancement for reflection-mode PLD-based photoacoustic imaging",
+    "authors": "Anwar Tesfaye Beshir; Arun Kumar Thittai",
+    "year": 2026,
+    "publication_date": "2026-09-04",
+    "venue": "Scientific Reports (2026)",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "doi": "10.1038/s41598-026-68694-1",
+    "primary_url": "https://doi.org/10.1038/s41598-026-68694-1",
+    "pdf_url": "https://www.nature.com/articles/s41598-026-68694-1",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic imaging",
+      "nonlinear beamforming",
+      "delay-and-sum",
+      "coherence factor",
+      "pulsed laser diode",
+      "reflection-mode imaging"
+    ],
+    "relevance": "core",
+    "summary_en": "Proposes adaptive filtered delay, adaptive-Gaussian-weighted multiply-and-sum beamforming (F-DaGwMAS), and a coherence-factor-augmented variant for pulsed-laser-diode reflection-mode photoacoustic imaging. Phantom experiments and in-vivo wrist imaging report improved resolution, contrast, and SNR over conventional beamformers.",
+    "summary_cn": "提出用于脉冲激光二极管反射式光声成像的自适应高斯加权非线性波束形成方法 F-DaGwMAS 及其相干因子版本，并通过体模与人体手腕成像评估分辨率、对比度和信噪比提升。",
+    "why_include_en": "Directly advances photoacoustic image formation through a new beamforming method and a coherence-weighted variant; suitable as a core reconstruction/beamforming record.",
+    "why_include_cn": "通过新的波束形成算法及相干加权变体直接改进光声图像形成，适合作为核心重建与波束形成论文收录。",
+    "download_note": "Publisher page confirms title, authors, DOI, and publication date 2026-09-04.",
+    "sources": [
+      "https://www.nature.com/articles/s41598-026-68694-1",
+      "https://doi.org/10.1038/s41598-026-68694-1"
+    ],
+    "last_verified": "2026-10-30",
+    "curation_origin": "Manual-authoritative-source-verification",
+    "verification": {
+      "mode": "manual-source-verification",
+      "confidence": 0.99,
+      "source": "Scientific Reports publisher page",
+      "final_version_status": "published online",
+      "track": "main"
+    }
+  },
+  {
+    "id": "rojas-lopez2026-realtime-quality-control-optoacoustic-mesoscopy",
+    "title": "Real-time quality control in optoacoustic mesoscopy for enhancing data quality and standardization in clinical studies",
+    "authors": "María Begoña Rojas López; Manuel Gehmeyr; Suhanyaa Nitkunanantharajah; Hubert Preißl; Andreas Vosseler; Reiner Jumpertz von Schwartzenberg; Andreas L. Birkenfeld; Nikoletta Katsouli; Nikolina-Alexia Fasoula; Angelos Karlas; Michael Kallmayer; Daniela Branzan; Anette-Gabriele Ziegler; Dominik Jüstel; Vasilis Ntziachristos",
+    "year": 2026,
+    "publication_date": "2026-08-27",
+    "venue": "Photoacoustics 51, 100878 (October 2026 issue)",
+    "venue_group": "Photoacoustics",
+    "venue_type": "journal article",
+    "doi": "10.1016/j.pacs.2026.100878",
+    "primary_url": "https://doi.org/10.1016/j.pacs.2026.100878",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13563549/",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "optoacoustic mesoscopy",
+      "photoacoustic imaging",
+      "real-time quality control",
+      "image quality assessment",
+      "clinical imaging standardization"
+    ],
+    "relevance": "related",
+    "summary_en": "Introduces machine-learning-based real-time quality control for raster-scan optoacoustic mesoscopy using signal-derived noise and motion metrics. The method was evaluated on 1,725 clinical scans against ratings from eight experts and can flag suboptimal acquisitions before image reconstruction.",
+    "summary_cn": "提出用于光声介观成像的机器学习实时质量控制方法，利用信号中的噪声与运动指标，在重建前识别质量不足的扫描。方法基于 1,725 份临床扫描并与 8 位专家的图像质量评价进行验证。",
+    "why_include_en": "A directly relevant acquisition-quality and standardization method for clinical optoacoustic imaging; useful for reproducibility and deployment even though it is not a new reconstruction algorithm.",
+    "why_include_cn": "直接涉及临床光声成像的采集质量控制与标准化，有助于提高可重复性和临床部署可靠性，尽管其重点不是新的图像重建算法。",
+    "download_note": "Publisher/PMC metadata checked; first published online 2026-08-27 and assigned to the October 2026 issue.",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/42729748/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13563549/",
+      "https://doi.org/10.1016/j.pacs.2026.100878"
+    ],
+    "last_verified": "2026-10-30",
+    "curation_origin": "Manual-authoritative-source-verification",
+    "verification": {
+      "mode": "manual-source-verification",
+      "confidence": 0.99,
+      "source": "PubMed, PMC, and publisher DOI record",
+      "final_version_status": "published",
+      "track": "main"
+    }
+  },
+  {
     "id": "grohl2026-openqpaidata-quantitative-photoacoustic-imaging",
     "title": "OpenQPAIData: Measurements of test objects with reference labels for quantitative photoacoustic imaging research",
     "authors": "Janek Gröhl; Sandeep Kumar Kalva; Berkan Lafci; Francesca Di Cecio; Ran Tao; Thomas R. Else; Lorna Wright; Daniel Razansky; Sarah E. Bohndiek",
@@ -1280,6 +1448,49 @@
       "confidence": 0.9,
       "source": "OpenAlex cited-by",
       "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
+    "id": "bender2026-photoacoustic-device-fingerprints-deep-learning-bias",
+    "title": "Photoacoustic device fingerprints induce bias in deep learning models",
+    "authors": "Christoph J. Bender; Marcel Knopp; Niklas Holzwarth; Tom Rix; Jan-Hinrich Nölke; Kris K. Dreher; Yi Li; Julius Kempf; Milenko Caranovic; Fabian Schneider; Melanie Schellenberg; Leonie Boland; Briain Haney; Ferdinand Knieling; Ulrich Rother; Alexander Seitel; Lena Maier-Hein",
+    "year": 2026,
+    "publication_date": "2026-06-13",
+    "venue": "Scientific Reports 16, 18695 (2026)",
+    "venue_group": "Nature Portfolio",
+    "venue_type": "journal article",
+    "doi": "10.1038/s41598-026-53468-6",
+    "primary_url": "https://doi.org/10.1038/s41598-026-53468-6",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13272909/",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic imaging",
+      "deep learning",
+      "hardware confounding",
+      "shortcut learning",
+      "dataset bias",
+      "clinical generalization"
+    ],
+    "relevance": "related",
+    "summary_en": "Analyzes hardware-induced confounding across four photoacoustic device instances and two peripheral-artery-disease studies. Device-specific image fingerprints enabled near-perfect device identification and could bias disease classifiers when device identity correlated with health labels, highlighting a key generalization risk for multicenter PAI.",
+    "summary_cn": "分析四台光声设备实例及两项外周动脉疾病研究中的硬件混杂因素。设备特征可使模型近乎完美地识别设备，并在设备身份与健康标签相关时误导疾病分类，揭示多中心光声成像机器学习的重要泛化风险。",
+    "why_include_en": "High-value methodological paper on dataset bias and hardware confounding in photoacoustic imaging; useful for evaluating robustness and reproducibility of learned imaging pipelines.",
+    "why_include_cn": "研究光声成像中的数据偏差与硬件混杂，对评估学习式成像流程的鲁棒性和可重复性很有价值。",
+    "download_note": "Publisher and PubMed records confirm full authors, DOI, and publication date 2026-06-13.",
+    "sources": [
+      "https://www.nature.com/articles/s41598-026-53468-6",
+      "https://pubmed.ncbi.nlm.nih.gov/42288533/",
+      "https://doi.org/10.1038/s41598-026-53468-6"
+    ],
+    "last_verified": "2026-10-30",
+    "curation_origin": "Manual-authoritative-source-verification",
+    "verification": {
+      "mode": "manual-source-verification",
+      "confidence": 0.99,
+      "source": "Nature Portfolio publisher and PubMed",
+      "final_version_status": "published",
       "track": "main"
     }
   },
