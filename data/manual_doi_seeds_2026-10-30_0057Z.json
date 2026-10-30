@@ -1,0 +1,53 @@
+[
+  {
+    "id": "arxiv2610-20237-photoacoustic-guided-reflection-wavefront-shaping",
+    "title": "Photoacoustic-guided reflection-mode wavefront shaping through dynamic biological tissue",
+    "authors": "Xuan Liu; Sacha Noimark; Wenfeng Xia; Sebastien Ourselin; Tianrui Zhao",
+    "year": 2026,
+    "publication_date": "2026-10-14",
+    "venue": "arXiv preprint arXiv:2610.20237",
+    "venue_group": "arXiv",
+    "venue_type": "preprint",
+    "doi": "10.48550/arXiv.2610.20237",
+    "primary_url": "https://arxiv.org/abs/2610.20237",
+    "pdf_url": "https://arxiv.org/pdf/2610.20237",
+    "source": "Manual-arXiv-photoacoustic-wavefront-shaping",
+    "matched_query": "photoacoustic-guided wavefront shaping reflection mode dynamic biological tissue October 2026",
+    "score": 12,
+    "reasons": [
+      "Official arXiv record confirms title, authors, and submission date 2026-10-14",
+      "Combines photoacoustic guidestar feedback with a real-valued intensity transmission matrix for same-side optical illumination and acoustic detection",
+      "Reports sub-second wavefront optimization, approximately 14-fold photoacoustic signal enhancement through a diffuser, and photoacoustic microscopy through ex-vivo tissue",
+      "Directly relevant to acoustic-optical imaging and wavefront control, but remains a preprint"
+    ],
+    "topics": [
+      "photoacoustic imaging",
+      "wavefront shaping",
+      "acousto-optic interaction",
+      "reflection-mode imaging",
+      "dynamic scattering tissue",
+      "photoacoustic guidestar"
+    ],
+    "status": "metadata-verified",
+    "relevance": "core",
+    "paper_type": "arXiv preprint",
+    "recommendation": "add-to-candidates",
+    "summary_en": "Combines a real-valued intensity transmission-matrix algorithm with a photoacoustic guidestar in reflection mode. A flexible multimode fiber passes through the central aperture of a focused ultrasound transducer, enabling same-side illumination and acoustic detection without a free-space combiner. The preprint reports sub-second optimization, about 14× PA-signal enhancement through a diffuser, and imaging of a ~100 μm wire through 2 mm of ex-vivo chicken tissue.",
+    "summary_cn": "将实值强度传输矩阵算法与光声导星结合，实现反射模式波前整形。多模光纤穿过聚焦超声换能器的中心孔径，使光照明与声学探测从样本同侧完成，无需自由空间合束器。预印本报告了亚秒级优化、穿过散射体约 14 倍的光声信号增强，以及透过 2 mm 离体鸡胸组织对约 100 μm 线目标的成像。",
+    "needs_metadata_verification": false,
+    "metadata_verified_from": "Official arXiv abstract record",
+    "final_version_status": "preprint; no peer-reviewed version verified",
+    "sources": [
+      "https://arxiv.org/abs/2610.20237",
+      "https://arxiv.org/pdf/2610.20237"
+    ],
+    "last_verified": "2026-10-30",
+    "verification": {
+      "mode": "manual-authoritative-source",
+      "confidence": 0.99,
+      "source": "arXiv",
+      "final_version_status": "preprint",
+      "track": "candidate"
+    }
+  }
+]
