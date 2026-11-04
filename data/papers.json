@@ -1577,6 +1577,43 @@
     }
   },
   {
+    "id": "2026-research-on-underwater-scene-reconstruction-for-mobile-platforms-based-on-r-a6e1d4ccace1",
+    "title": "Research on Underwater Scene Reconstruction for Mobile Platforms Based on Rotating Scanning Sonar",
+    "authors": "Lei Tan; Lei Wang; Chaohe Chen",
+    "year": 2026,
+    "publication_date": "2026-04-28",
+    "venue": "Sensors",
+    "venue_group": "Other",
+    "venue_type": "conference",
+    "doi": "10.3390/s26092734",
+    "primary_url": "https://doi.org/10.3390/s26092734",
+    "pdf_url": "https://www.mdpi.com/1424-8220/26/9/2734/pdf?version=1777382129",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "camera-sonar fusion",
+      "3D reconstruction"
+    ],
+    "relevance": "core",
+    "summary_en": "Automatically audited paper on camera-sonar fusion, 3D reconstruction.",
+    "summary_cn": "自动审核收录的论文，主题包括 camera-sonar fusion、3D reconstruction。",
+    "why_include_en": "Promoted by the automatic curation agent based on public source quality, topical relevance, final-version/preprint policy, and duplicate checks.",
+    "why_include_cn": "由自动文献审核 Agent 根据公开来源质量、主题相关性、最终版本/预印本策略和重复检查自动收录。",
+    "download_note": "The main tracker prefers final accepted/published versions. The hidden mmWave side track may also retain high-relevance arXiv/preprint records and explicit manual seeds.",
+    "sources": [
+      "https://doi.org/10.3390/s26092734"
+    ],
+    "last_verified": "2026-11-04",
+    "curation_origin": "OpenAlex cited-by",
+    "verification": {
+      "mode": "automatic-curation-agent",
+      "confidence": 0.9,
+      "source": "OpenAlex cited-by",
+      "final_version_status": "not-needed",
+      "track": "main"
+    }
+  },
+  {
     "id": "doi10-1016-j-jsv-2026-119834-asp-net-near-field-acoustic-holography",
     "title": "An acoustic spatial pattern based neural network for near-field acoustic holography",
     "authors": "Haijun Wu; Shijun Dai; Yuhang Tang; Yinong Gou; Weikang Jiang",
