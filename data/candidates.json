@@ -1444,7 +1444,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-11",
     "last_seen": "2026-11-07",
-    "times_seen": 209,
+    "times_seen": 210,
     "venue_group": null,
     "topics": [
       "camera-sonar fusion"
@@ -1847,6 +1847,60 @@
     "track": "main"
   },
   {
+    "id": "2026-scalable-photoacoustic-tomography-implementations-accounting-for-the-spatia-6357ec2dad70",
+    "title": "Scalable photoacoustic tomography implementations accounting for the spatial impulse response of transducers",
+    "authors": "Trung-Thai Do; Paul Escande; Caroline Chaux; Jérôme Gâteau; Hwee Kuan Lee",
+    "year": 2026,
+    "publication_date": "2026-09-24",
+    "venue": "arXiv (Cornell University)",
+    "doi": "10.48550/arxiv.2609.29253",
+    "primary_url": "https://doi.org/10.48550/arxiv.2609.29253",
+    "pdf_url": "https://arxiv.org/pdf/2609.29253",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: GPAIR: Gaussian-Kernel-Based Ultrafast 3D Photoacoustic Iterative Reconstruction",
+    "score": 13,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "wang2026-gpair-ultrafast-photoacoustic-iterative-reconstruction",
+    "cited_core_title": "GPAIR: Gaussian-Kernel-Based Ultrafast 3D Photoacoustic Iterative Reconstruction",
+    "cited_core_doi": "",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "photoacoustic imaging",
+      "3D reconstruction"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.75,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
     "id": "2026-whole-body-super-resolution-functional-and-molecular-imaging-with-panoramic-b18ccab96f66",
     "title": "Whole-body Super-resolution Functional and Molecular Imaging with Panoramic Photoacoustic–Ultrasound Tomography",
     "authors": "Rui Yao; Irma Husain; Jinhuan Luo; Haoming Huo; Xueyi Cai; Nanchao Wang; Tri Vu; Jingting Li; Yirui Xu; Luca Menozzi; Joseph Jaehyun Yang; Matthew R. Lowerison; et al.",
@@ -1875,7 +1929,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-04",
     "last_seen": "2026-11-07",
-    "times_seen": 7,
+    "times_seen": 8,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging",
@@ -2721,7 +2775,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-07",
-    "times_seen": 10,
+    "times_seen": 11,
     "venue_group": null,
     "topics": [
       "camera-sonar fusion"
@@ -8432,7 +8486,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-07",
-    "times_seen": 1187,
+    "times_seen": 1189,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -8480,8 +8534,8 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
     "times_seen": 2,
     "venue_group": "Other",
     "final_version_resolved": true,
@@ -14057,7 +14111,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-11-06",
     "last_seen": "2026-11-07",
-    "times_seen": 30,
+    "times_seen": 45,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging",
@@ -14539,7 +14593,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-08-31",
     "last_seen": "2026-11-07",
-    "times_seen": 246,
+    "times_seen": 247,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -14586,7 +14640,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-08-25",
     "last_seen": "2026-11-07",
-    "times_seen": 277,
+    "times_seen": 278,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -15111,8 +15165,8 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
@@ -17437,7 +17491,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-07",
-    "times_seen": 590,
+    "times_seen": 591,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -21419,7 +21473,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-10-29",
     "last_seen": "2026-11-07",
-    "times_seen": 750,
+    "times_seen": 773,
     "venue_group": null,
     "topics": [
       "imaging sonar",
@@ -21466,7 +21520,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-10-31",
     "last_seen": "2026-11-07",
-    "times_seen": 357,
+    "times_seen": 378,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging"
@@ -26867,6 +26921,58 @@
     "publication_note": "Published and e-published on 15 May 2026 in Science Advances 12(20), eaec5942. Newly surfaced as a repository-absent priority-venue backfill during the 2026-08-17 sweep."
   },
   {
+    "id": "2026-task-semantic-graph-driven-distributed-agent-networking-for-underwater-targ-af647e70f886",
+    "title": "Task-Semantic Graph-Driven Distributed Agent Networking for Underwater Target Tracking",
+    "authors": "Shengchao Zhu; Guangjie Han; Chuan Lin; Yu He",
+    "year": 2026,
+    "publication_date": "2026-05-15",
+    "venue": "arXiv (Cornell University)",
+    "doi": "10.48550/arxiv.2605.15528",
+    "primary_url": "https://doi.org/10.48550/arxiv.2605.15528",
+    "pdf_url": "https://arxiv.org/pdf/2605.15528",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Underwater Target Tracking Based on Acoustic-Optical Fusion for Multi-AUV Systems",
+    "score": 10,
+    "reasons": [
+      "core wave-sensing term",
+      "query-title/abstract match",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2026-underwater-target-tracking-based-on-acoustic-optical-fusion-for-multi-auv-s-7bcbc835f6c1",
+    "cited_core_title": "Underwater Target Tracking Based on Acoustic-Optical Fusion for Multi-AUV Systems",
+    "cited_core_doi": "10.1109/tnse.2026.3667901",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "camera-sonar fusion"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.6666666666666666,
+      "checks": {
+        "track": "main",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
     "id": "doi10-1038-s44460-026-00071-x-deep-learning-codesign-optoacoustic",
     "title": "Deep learning codesign for ultrasparse, high-performance optoacoustic imaging",
     "authors": "Xuyang Chang; Xiang Liu; Federico Villani; Quanyu Zhou; Tian Jin; Lin Tang; Luca Benini; Xosé Luís Deán-Ben; Liheng Bian; Zhenyue Chen; Daniel Razansky",
@@ -28635,7 +28741,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-30",
     "last_seen": "2026-11-07",
-    "times_seen": 128,
+    "times_seen": 129,
     "venue_group": null,
     "topics": [
       "camera-sonar fusion"
@@ -28686,7 +28792,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-11",
     "last_seen": "2026-11-07",
-    "times_seen": 209,
+    "times_seen": 210,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -28949,7 +29055,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-31",
     "last_seen": "2026-11-07",
-    "times_seen": 265,
+    "times_seen": 266,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -31760,7 +31866,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-11-07",
-    "times_seen": 641,
+    "times_seen": 642,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -33447,7 +33553,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-31",
     "last_seen": "2026-11-07",
-    "times_seen": 190,
+    "times_seen": 200,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -33492,7 +33598,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-10",
     "last_seen": "2026-11-07",
-    "times_seen": 2509,
+    "times_seen": 2534,
     "venue_group": "Science family",
     "topics": [
       "handheld mmWave SAR"
@@ -33537,7 +33643,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-14",
     "last_seen": "2026-11-07",
-    "times_seen": 534,
+    "times_seen": 540,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -33583,7 +33689,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-20",
     "last_seen": "2026-11-07",
-    "times_seen": 396,
+    "times_seen": 402,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -33629,7 +33735,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-22",
     "last_seen": "2026-11-07",
-    "times_seen": 348,
+    "times_seen": 354,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -33675,7 +33781,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-09-25",
     "last_seen": "2026-11-07",
-    "times_seen": 1276,
+    "times_seen": 1284,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -36985,7 +37091,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-07",
     "last_seen": "2026-11-07",
-    "times_seen": 549,
+    "times_seen": 550,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -37680,6 +37786,57 @@
     }
   },
   {
+    "id": "2026-neural-radiated-noise-fields-for-unmanned-underwater-vehicle-noise-spectrum-a12e7ef9ba29",
+    "title": "Neural Radiated-Noise Fields for Unmanned Underwater Vehicle Noise Spectrum Prediction in Three-Dimensional Scenes",
+    "authors": "Yan Xiang Wu; Yang Yang; Jun Fan; Bin Wang",
+    "year": 2026,
+    "publication_date": "2026-05-29",
+    "venue": "arXiv (Cornell University)",
+    "doi": "10.48550/arxiv.2606.04008",
+    "primary_url": "https://doi.org/10.48550/arxiv.2606.04008",
+    "pdf_url": "https://arxiv.org/pdf/2606.04008",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: SH-SAS: An Implicit Neural Representation for Complex Spherical-Harmonic Scattering Fields for 3D Synthetic Aperture Sonar",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "vengurlekar2026-sh-sas-3dv",
+    "cited_core_title": "SH-SAS: An Implicit Neural Representation for Complex Spherical-Harmonic Scattering Fields for 3D Synthetic Aperture Sonar",
+    "cited_core_doi": "10.1109/3dv69130.2026.00097",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "synthetic aperture sonar"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "main",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
     "id": "2026-millimeter-wave-imaging-for-anthropometric-body-measurement-c06121642205",
     "title": "Millimeter-wave Imaging for Anthropometric Body Measurement",
     "authors": "Miriam Senne; Benjamin D. Killeen; Christoph Baur; Nassir Navab; Azade Farshad",
@@ -38128,7 +38285,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-07",
-    "times_seen": 10,
+    "times_seen": 11,
     "venue_group": null,
     "topics": [
       "camera-sonar fusion"
@@ -39797,60 +39954,6 @@
         "preprint_only": false,
         "negative_filter": false,
         "final_version_status": "not-needed"
-      }
-    }
-  },
-  {
-    "id": "2025-us-x-complete-a-multi-modal-approach-to-anatomical-3d-shape-recovery-c00166ed7122",
-    "title": "US-X Complete: A Multi-modal Approach to Anatomical 3D Shape Recovery",
-    "authors": "Miruna-Alexandra Gafencu; Yordanka Velikova; Nassir Navab; Mohammad Farid Azampour",
-    "year": 2026,
-    "publication_date": "2026-01-01",
-    "venue": "Lecture Notes in Computer Science Shape in Medical Imaging",
-    "doi": "10.1007/978-3-032-06774-6_17",
-    "primary_url": "https://doi.org/10.1007/978-3-032-06774-6_17",
-    "pdf_url": "https://arxiv.org/pdf/2511.15600v1",
-    "source": "Crossref-final-version",
-    "matched_query": "coded acoustic imaging computational acoustics",
-    "score": 8,
-    "reasons": [
-      "core wave-sensing term",
-      "imaging/reconstruction term",
-      "query-title/abstract match",
-      "recent"
-    ],
-    "status": "agent-watchlist",
-    "first_seen": "2026-11-07",
-    "last_seen": "2026-11-07",
-    "times_seen": 1,
-    "venue_group": "Science family",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1007/978-3-032-06774-6_17",
-      "http://arxiv.org/abs/2511.15600v1",
-      "https://arxiv.org/pdf/2511.15600v1"
-    ],
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
-    "topics": [
-      "acoustic coded imaging"
-    ],
-    "track": "main",
-    "agent_audit": {
-      "decision": "candidate",
-      "confidence": 0.5333333333333333,
-      "checks": {
-        "track": "main",
-        "primary_scope": true,
-        "core_term": true,
-        "imaging_term": true,
-        "source_ok": true,
-        "mmwave_preprint_ok": false,
-        "manual_seed": false,
-        "manual_acm_seed": false,
-        "preprint_only": false,
-        "negative_filter": false,
-        "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
     }
   },
@@ -41976,7 +42079,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-07",
-    "times_seen": 592,
+    "times_seen": 593,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -42635,7 +42738,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-16",
     "last_seen": "2026-11-07",
-    "times_seen": 80,
+    "times_seen": 81,
     "venue_group": "Science family",
     "topics": [
       "camera-sonar fusion"
@@ -42680,7 +42783,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-08-21",
     "last_seen": "2026-11-07",
-    "times_seen": 5983,
+    "times_seen": 6000,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -42725,7 +42828,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-08-31",
     "last_seen": "2026-11-07",
-    "times_seen": 4957,
+    "times_seen": 4975,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -42770,7 +42873,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-09-06",
     "last_seen": "2026-11-07",
-    "times_seen": 4373,
+    "times_seen": 4391,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -43848,7 +43951,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-07",
-    "times_seen": 10,
+    "times_seen": 11,
     "venue_group": null,
     "topics": [
       "cites",
@@ -43929,6 +44032,62 @@
     }
   },
   {
+    "id": "2026-ev-pose-event-camera-enhanced-high-frequency-visual-positioning-service-for-2495432717ba",
+    "title": "EV-Pose: Event Camera-Enhanced High-Frequency Visual Positioning Service for Accurate Drone Landing",
+    "authors": "Haoyang Wang; Xinyu Luo; Wenhua Ding; Jingao Xu; Xuecheng Chen; Ruiyang Duan; Jialong Chen; Chao Wang; Haitao Zhang; Ziyi Zhou; Yunhao Liu; Xinlei Chen",
+    "year": 2026,
+    "publication_date": "2026-08-17",
+    "venue": "IEEE Transactions on Mobile Computing",
+    "doi": "10.1109/tmc.2026.3724581",
+    "primary_url": "https://doi.org/10.1109/tmc.2026.3724581",
+    "pdf_url": "https://doi.org/10.1109/tmc.2026.3724581",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: mmE-Loc: Facilitating Accurate Drone Landing With Ultra-High-Frequency Localization",
+    "score": 15,
+    "reasons": [
+      "top-venue",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2026-mme-loc-facilitating-accurate-drone-landing-with-ultra-high-frequency-local-6a38d2e92914",
+    "cited_core_title": "mmE-Loc: Facilitating Accurate Drone Landing With Ultra-High-Frequency Localization",
+    "cited_core_doi": "10.1109/tmc.2026.3666235",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "times_seen": 1,
+    "venue_group": "IEEE TMC",
+    "topics": [
+      "cites",
+      "Facilitating",
+      "Accurate",
+      "Drone"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": false,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
     "id": "2026-performance-evaluation-of-yolo-models-for-target-detection-from-ocean-sides-3bfd17ec88a3",
     "title": "Performance evaluation of YOLO models for target detection from ocean sidescan sonar imagery",
     "authors": "Dandan Liu; Hao Chen; Jiajie Chen; Yuxiang Ding; Jiahua Zhu",
@@ -43957,7 +44116,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-10",
     "last_seen": "2026-11-07",
-    "times_seen": 1127,
+    "times_seen": 1129,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -44013,7 +44172,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-11-07",
-    "times_seen": 640,
+    "times_seen": 641,
     "venue_group": "SenSys",
     "topics": [
       "cites",
@@ -45044,7 +45203,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-10-15",
     "last_seen": "2026-11-07",
-    "times_seen": 84,
+    "times_seen": 85,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -46035,7 +46194,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-07",
-    "times_seen": 10,
+    "times_seen": 11,
     "venue_group": null,
     "topics": [
       "cites",
@@ -46358,6 +46517,116 @@
     "track": "main"
   },
   {
+    "id": "2026-fpga-implementation-of-the-frequency-scaling-algorithm-for-real-time-sar-im-6ffbda766192",
+    "title": "FPGA Implementation of the Frequency Scaling Algorithm for Real-Time SAR Imaging",
+    "authors": "Dongmin Jeong; Chulho Jung; Kwangseok Choi; Yongchul Jung; Sungho Lee; Yunho Jung",
+    "year": 2026,
+    "publication_date": "2026-01-01",
+    "venue": "IEEE Access",
+    "doi": "10.1109/access.2026.3695128",
+    "primary_url": "https://doi.org/10.1109/access.2026.3695128",
+    "pdf_url": "https://doi.org/10.1109/access.2026.3695128",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Focus Improvement of Multireceiver SAS Based on Range-Doppler Algorithm",
+    "score": 11,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2026-focus-improvement-of-multireceiver-sas-based-on-range-doppler-algorithm-382c39e7d5cf",
+    "cited_core_title": "Focus Improvement of Multireceiver SAS Based on Range-Doppler Algorithm",
+    "cited_core_doi": "10.1109/tim.2026.3664370",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Focus",
+      "Improvement",
+      "Multireceiver"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": false,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2026-hf-head-a-lightweight-head-design-for-sar-small-ship-detection-with-algorit-99d10bcaab18",
+    "title": "HF-Head: A Lightweight Head Design for SAR Small-Ship Detection With Algorithm–Hardware Co-Optimization",
+    "authors": "Zhenjiao Chen; Hepeng Hu; Wei Cheng; Binghe Ma; Feng Liang; Guilin Zhao",
+    "year": 2026,
+    "publication_date": "2026-01-01",
+    "venue": "IEEE Access",
+    "doi": "10.1109/access.2026.3699472",
+    "primary_url": "https://doi.org/10.1109/access.2026.3699472",
+    "pdf_url": "https://doi.org/10.1109/access.2026.3699472",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Focus Improvement of Multireceiver SAS Based on Range-Doppler Algorithm",
+    "score": 11,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2026-focus-improvement-of-multireceiver-sas-based-on-range-doppler-algorithm-382c39e7d5cf",
+    "cited_core_title": "Focus Improvement of Multireceiver SAS Based on Range-Doppler Algorithm",
+    "cited_core_doi": "10.1109/tim.2026.3664370",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Focus",
+      "Improvement",
+      "Multireceiver"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": false,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
     "id": "2025-achieving-full-spatial-degrees-of-freedom-wavefront-reconstruction-for-cont-3e042ddd609c",
     "title": "Achieving Full Spatial Degrees of Freedom: Wavefront Reconstruction for Continuous Aperture MIMO Communications",
     "authors": "Weijie Dai; Xiaofeng Su; Liyan Zhang; Tiankuo Wei; Zhenyu Liu; Jian Song; Yuhan Dong",
@@ -46597,7 +46866,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-10-22",
     "last_seen": "2026-11-07",
-    "times_seen": 55,
+    "times_seen": 56,
     "venue_group": "Science family",
     "topics": [
       "cites",
@@ -46651,7 +46920,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-10-26",
     "last_seen": "2026-11-07",
-    "times_seen": 41,
+    "times_seen": 42,
     "venue_group": "MobiCom",
     "topics": [
       "cites",
@@ -47745,7 +48014,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-04",
     "last_seen": "2026-11-07",
-    "times_seen": 7,
+    "times_seen": 8,
     "venue_group": "MobiCom",
     "topics": [
       "cites",
@@ -48116,7 +48385,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-25",
     "last_seen": "2026-11-07",
-    "times_seen": 146,
+    "times_seen": 147,
     "venue_group": null,
     "topics": [
       "cites",
@@ -48240,7 +48509,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-27",
     "last_seen": "2026-11-07",
-    "times_seen": 284,
+    "times_seen": 285,
     "venue_group": null,
     "topics": [
       "cites",
@@ -48654,7 +48923,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-07-09",
     "last_seen": "2026-11-07",
-    "times_seen": 593,
+    "times_seen": 594,
     "venue_group": null,
     "topics": [
       "cites",
@@ -48708,7 +48977,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-04",
     "last_seen": "2026-11-07",
-    "times_seen": 7,
+    "times_seen": 8,
     "venue_group": null,
     "topics": [
       "cites",
@@ -49120,7 +49389,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-19",
     "last_seen": "2026-11-07",
-    "times_seen": 325,
+    "times_seen": 326,
     "venue_group": null,
     "topics": [
       "cites",
@@ -49631,7 +49900,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-23",
     "last_seen": "2026-11-07",
-    "times_seen": 304,
+    "times_seen": 305,
     "venue_group": null,
     "topics": [
       "cites",
@@ -49767,6 +50036,60 @@
     }
   },
   {
+    "id": "2026-count-every-rotation-and-every-rotation-counts-exploring-drone-dynamics-via-c4cd1bc89a8b",
+    "title": "Count Every Rotation and Every Rotation Counts: Exploring Drone Dynamics via Propeller Sensing",
+    "authors": "Xuecheng Chen; Jingao Xu; Wenhua Ding; Haoyang Wang; Xinyu Luo; Ruiyang Duan; Jialong Chen; Xueqian Wang; Yunhao Liu; Xinlei Chen",
+    "year": 2026,
+    "publication_date": "2026-05-08",
+    "venue": "OpenAlex indexed work",
+    "doi": "10.1145/3774906.3800477",
+    "primary_url": "https://doi.org/10.1145/3774906.3800477",
+    "pdf_url": "https://doi.org/10.1145/3774906.3800477",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: mmE-Loc: Facilitating Accurate Drone Landing With Ultra-High-Frequency Localization",
+    "score": 8,
+    "reasons": [
+      "query-title/abstract match",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2026-mme-loc-facilitating-accurate-drone-landing-with-ultra-high-frequency-local-6a38d2e92914",
+    "cited_core_title": "mmE-Loc: Facilitating Accurate Drone Landing With Ultra-High-Frequency Localization",
+    "cited_core_doi": "10.1109/tmc.2026.3666235",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Facilitating",
+      "Accurate",
+      "Drone"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": false,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
     "id": "2026-study-of-side-scan-sonar-seabed-wreckage-target-detection-based-on-mambaout-cd7961ef76bd",
     "title": "Study of Side-Scan Sonar Seabed Wreckage Target Detection Based on MambaOut-YOLO",
     "authors": "Zezhou Jin; Haoxiang Yang; Dandan Liu; Jiajie Chen",
@@ -49793,7 +50116,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-11",
     "last_seen": "2026-11-07",
-    "times_seen": 379,
+    "times_seen": 380,
     "venue_group": null,
     "topics": [
       "cites",
@@ -50060,7 +50383,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-07-29",
     "last_seen": "2026-11-07",
-    "times_seen": 472,
+    "times_seen": 473,
     "venue_group": null,
     "topics": [
       "cites",
@@ -50114,7 +50437,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-08",
     "last_seen": "2026-11-07",
-    "times_seen": 397,
+    "times_seen": 398,
     "venue_group": null,
     "topics": [
       "cites",
@@ -50168,7 +50491,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-14",
     "last_seen": "2026-11-07",
-    "times_seen": 363,
+    "times_seen": 364,
     "venue_group": null,
     "topics": [
       "cites",
@@ -50222,7 +50545,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-10",
     "last_seen": "2026-11-07",
-    "times_seen": 216,
+    "times_seen": 217,
     "venue_group": null,
     "topics": [
       "cites",
@@ -50276,7 +50599,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-10-30",
     "last_seen": "2026-11-07",
-    "times_seen": 20,
+    "times_seen": 21,
     "venue_group": null,
     "topics": [
       "cites",
@@ -50330,7 +50653,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-05",
     "last_seen": "2026-11-07",
-    "times_seen": 4,
+    "times_seen": 5,
     "venue_group": null,
     "topics": [
       "cites",
@@ -50346,6 +50669,60 @@
         "track": "main",
         "primary_scope": false,
         "core_term": true,
+        "imaging_term": false,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "not-needed"
+      }
+    }
+  },
+  {
+    "id": "2026-relay-assisted-mixed-uac-fso-system-for-oceanic-terrestrial-iot-networks-se-e985f8cbfb26",
+    "title": "Relay-Assisted Mixed UAC–FSO System for Oceanic–Terrestrial IoT Networks: Secrecy Analysis and Rate Optimization",
+    "authors": "Dipti R. Pattanayak; Vishal Narain Saxena; Ankit Garg; Vivek K. Dwivedi; Yeon Ho Chung; Ghanshyam Kumar Singh",
+    "year": 2026,
+    "publication_date": "2026-01-01",
+    "venue": "IEEE Access",
+    "doi": "10.1109/access.2026.3715267",
+    "primary_url": "https://doi.org/10.1109/access.2026.3715267",
+    "pdf_url": "https://doi.org/10.1109/access.2026.3715267",
+    "source": "OpenAlex cited-by",
+    "matched_query": "cites core: Focus Improvement of Multireceiver SAS Based on Range-Doppler Algorithm",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "recent",
+      "cites-core-paper"
+    ],
+    "status": "agent-watchlist",
+    "cites_core": true,
+    "cited_core_paper": "2026-focus-improvement-of-multireceiver-sas-based-on-range-doppler-algorithm-382c39e7d5cf",
+    "cited_core_title": "Focus Improvement of Multireceiver SAS Based on Range-Doppler Algorithm",
+    "cited_core_doi": "10.1109/tim.2026.3664370",
+    "citation_source": "OpenAlex cited-by graph",
+    "metadata_verified_from": "OpenAlex",
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "times_seen": 1,
+    "venue_group": null,
+    "topics": [
+      "cites",
+      "Focus",
+      "Improvement",
+      "Multireceiver"
+    ],
+    "track": "main",
+    "agent_audit": {
+      "decision": "reject-like",
+      "confidence": 0.2,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": false,
         "imaging_term": false,
         "source_ok": true,
         "mmwave_preprint_ok": false,
@@ -50540,7 +50917,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-04",
     "last_seen": "2026-11-07",
-    "times_seen": 7,
+    "times_seen": 8,
     "venue_group": null,
     "topics": [
       "cites",
@@ -51207,11 +51584,18 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-11-06",
+    "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
-    "times_seen": 2,
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "times_seen": 1,
     "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1103/physrevapplied.20.064014",
+      "http://arxiv.org/abs/2606.08614v1",
+      "https://arxiv.org/pdf/2606.08614v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
     "topics": [
       "acoustic",
       "cloning",
@@ -51235,14 +51619,7 @@
         "negative_filter": false,
         "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
-    },
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1103/physrevapplied.20.064014",
-      "http://arxiv.org/abs/2606.08614v1",
-      "https://arxiv.org/pdf/2606.08614v1"
-    ]
+    }
   },
   {
     "id": "2026-acoustic-cloning-0a3f9d638876",
