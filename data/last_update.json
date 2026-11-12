@@ -1,15 +1,10 @@
 {
-  "last_run": "2026-11-12T00:42:08.453046+00:00",
+  "last_run": "2026-11-12T06:28:51.593796+00:00",
   "since_date": "2024-11-12",
-  "raw_candidates_seen": 1746,
-  "saved_candidates_total": 922,
+  "raw_candidates_seen": 1757,
+  "saved_candidates_total": 923,
   "citation_graph_seed_count": 50,
   "errors": [
-    {
-      "source": "arXiv",
-      "query": "coded acoustic imaging computational acoustics",
-      "error": "429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22coded%22+AND+all%3A%22acoustic%22+AND+all%3A%22imaging%22+AND+all%3A%22computational%22+AND+all%3A%22acoustics%22&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending"
-    },
     {
       "source": "arXiv",
       "query": "computational ultrasound complex fields imaging",
@@ -267,8 +262,8 @@
     }
   ],
   "note": "Candidates are ready for automatic curation-agent audit. arXiv search uses AND-style term matching plus a topical relevance gate to avoid broad OR false positives; author strings are preserved in full when available; the query set tracks recent 3D sonar simulation and vision-sonar fusion preprints; the updater also expands through OpenAlex cited-by links from Core papers.",
-  "manual_doi_seed_last_run": "2026-11-12T00:42:08.552675+00:00",
-  "manual_doi_seed_file_count": 169,
+  "manual_doi_seed_last_run": "2026-11-12T06:28:51.750701+00:00",
+  "manual_doi_seed_file_count": 170,
   "manual_doi_seed_files": [
     "manual_doi_seeds.json",
     "manual_doi_seeds_2026-07-19.json",
@@ -438,10 +433,11 @@
     "manual_doi_seeds_2026-10-28_2057Z.json",
     "manual_doi_seeds_2026-10-29_0048Z.json",
     "manual_doi_seeds_2026-10-29_1254Z.json",
-    "manual_doi_seeds_2026-10-30_0057Z.json"
+    "manual_doi_seeds_2026-10-30_0057Z.json",
+    "manual_doi_seeds_2026-11-12_0624Z.json"
   ],
-  "manual_doi_seed_count": 388,
-  "manual_doi_seed_added": 0,
+  "manual_doi_seed_count": 393,
+  "manual_doi_seed_added": 5,
   "manual_doi_seed_updated": 360,
   "mmwave_seed_queries": [
     "high resolution handheld millimeter wave imaging phase error estimation compensation",
@@ -464,10 +460,10 @@
     "High-Fidelity Through-Occlusion 3D Reconstruction via Millimeter-Wave Surface Normal Estimation"
   ],
   "mmwave_seed_new_candidates": 0,
-  "agent_audit_last_run": "2026-11-12T00:42:44.925549+00:00",
+  "agent_audit_last_run": "2026-11-12T06:29:18.146359+00:00",
   "promoted_count": 0,
   "promoted_mmwave_count": 1,
-  "resolved_final_versions": 42,
+  "resolved_final_versions": 40,
   "audit_note": "High-confidence records are promoted automatically. Main scope covers acoustic imaging/fusion, geometric acoustic rendering/path tracing, acoustic holography, and photoacoustic/acousto-optic imaging; hidden mmWave track covers radar imaging, handheld SAR/autofocus, FMCW/MIMO-SAR, 4D radar, through-occlusion reconstruction, surface normals, and radar scene understanding. Nature-family mapping includes Communications Engineering.",
   "mmwave_allowlist_final_groups": [
     "ACM TOG / SIGGRAPH",
