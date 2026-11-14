@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ibrahim2026-surge-sonar-fused-reconstruction",
+    "title": "SURGE: Sonar-fUsed Reconstruction and localization via image-gated Graph Estimation",
+    "authors": "Mohammed Ibrahim M; Vallabh Deogaonkar; Trung Dong; Jane Shin; Abhilash Somayajula; Xiaomin Lin",
+    "year": 2026,
+    "publication_date": "2026-10-05",
+    "venue": "arXiv preprint",
+    "arxiv": "2610.07472",
+    "primary_url": "https://arxiv.org/abs/2610.07472",
+    "relevance": "core",
+    "status": "verified-preprint-not-peer-reviewed",
+    "recommendation": "add-to-main-library-with-preprint-label",
+    "topics": [
+      "camera-sonar fusion",
+      "underwater 3D reconstruction",
+      "sonar Gaussian splatting",
+      "joint localization",
+      "factor graph"
+    ],
+    "summary_en": "Jointly estimates metric ROV poses and target location using monocular RGB and 2D forward-looking sonar, then reconstructs a compact target via sonar Gaussian splatting. Evaluated on real underwater RGB-sonar observations.",
+    "metadata_verified_from": "arXiv original submission 2026-10-05"
+  }
+]
