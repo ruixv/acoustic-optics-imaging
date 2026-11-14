@@ -1444,7 +1444,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-11",
     "last_seen": "2026-11-14",
-    "times_seen": 227,
+    "times_seen": 228,
     "venue_group": null,
     "topics": [
       "camera-sonar fusion"
@@ -1875,7 +1875,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-14",
-    "times_seen": 17,
+    "times_seen": 18,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging",
@@ -1929,7 +1929,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-04",
     "last_seen": "2026-11-14",
-    "times_seen": 25,
+    "times_seen": 26,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging",
@@ -2775,7 +2775,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-14",
-    "times_seen": 28,
+    "times_seen": 29,
     "venue_group": null,
     "topics": [
       "camera-sonar fusion"
@@ -7028,6 +7028,57 @@
     "track": "main"
   },
   {
+    "id": "ibrahim2026-surge-sonar-fused-reconstruction",
+    "title": "SURGE: Sonar-fUsed Reconstruction and localization via image-gated Graph Estimation",
+    "authors": "Mohammed Ibrahim M; Vallabh Deogaonkar; Trung Dong; Jane Shin; Abhilash Somayajula; Xiaomin Lin",
+    "year": 2026,
+    "publication_date": "2026-10-05",
+    "venue": "arXiv preprint",
+    "arxiv": "2610.07472",
+    "primary_url": "https://arxiv.org/abs/2610.07472",
+    "relevance": "core",
+    "status": "agent-watchlist",
+    "recommendation": "add-to-main-library-with-preprint-label",
+    "topics": [
+      "camera-sonar fusion",
+      "underwater 3D reconstruction",
+      "sonar Gaussian splatting",
+      "joint localization",
+      "factor graph"
+    ],
+    "summary_en": "Jointly estimates metric ROV poses and target location using monocular RGB and 2D forward-looking sonar, then reconstructs a compact target via sonar Gaussian splatting. Evaluated on real underwater RGB-sonar observations.",
+    "metadata_verified_from": "arXiv original submission 2026-10-05",
+    "source": "Manual-DOI-seed",
+    "score": 11,
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "times_seen": 1,
+    "final_version_status": "arxiv-only-no-final-version-found",
+    "needs_metadata_verification": true,
+    "reasons": [
+      "manual-doi-seed"
+    ],
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.7333333333333333,
+      "checks": {
+        "track": "main",
+        "primary_scope": false,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": false,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": true,
+        "negative_filter": false,
+        "final_version_status": "arxiv-only-no-final-version-found"
+      }
+    },
+    "venue_group": "arXiv",
+    "track": "main"
+  },
+  {
     "id": "2026-trajectory-calibration-using-a-single-point-absorber-for-single-transducer-f7961fa51e04",
     "title": "Trajectory Calibration Using a Single Point Absorber for Single-Transducer Circular-Scanning Photoacoustic Tomography: A Theoretical and Simulation Study",
     "authors": "Jie Yin; Junjun He; Xiaoxian Wang; Qi Wang; Min Xie",
@@ -8694,7 +8745,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 1223,
+    "times_seen": 1225,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -8742,8 +8793,8 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-13",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
     "times_seen": 2,
     "venue_group": "Other",
     "final_version_resolved": true,
@@ -9498,7 +9549,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 314,
+    "times_seen": 315,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -14319,7 +14370,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-11-06",
     "last_seen": "2026-11-14",
-    "times_seen": 300,
+    "times_seen": 315,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging",
@@ -14458,7 +14509,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-11-04",
     "last_seen": "2026-11-14",
-    "times_seen": 13,
+    "times_seen": 14,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -14505,7 +14556,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-10-26",
     "last_seen": "2026-11-14",
-    "times_seen": 72,
+    "times_seen": 75,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -14658,7 +14709,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-09-29",
     "last_seen": "2026-11-14",
-    "times_seen": 114,
+    "times_seen": 117,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -14754,7 +14805,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-09-11",
     "last_seen": "2026-11-14",
-    "times_seen": 273,
+    "times_seen": 277,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -14855,7 +14906,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-08-31",
     "last_seen": "2026-11-14",
-    "times_seen": 264,
+    "times_seen": 265,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -14902,7 +14953,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-08-25",
     "last_seen": "2026-11-14",
-    "times_seen": 295,
+    "times_seen": 296,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -15266,8 +15317,8 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-13",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
     "times_seen": 3,
     "venue_group": "Other",
     "final_version_resolved": true,
@@ -15536,8 +15587,8 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-13",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
@@ -15646,8 +15697,8 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-13",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
     "times_seen": 1,
     "venue_group": "CVPR",
     "final_version_resolved": true,
@@ -15914,7 +15965,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 722,
+    "times_seen": 725,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -15961,7 +16012,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-10-27",
     "last_seen": "2026-11-14",
-    "times_seen": 41,
+    "times_seen": 42,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -16192,7 +16243,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 722,
+    "times_seen": 725,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -16291,7 +16342,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 722,
+    "times_seen": 725,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -16339,7 +16390,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 240,
+    "times_seen": 241,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -16437,7 +16488,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 722,
+    "times_seen": 725,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -16537,7 +16588,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 240,
+    "times_seen": 241,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -16582,8 +16633,8 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-13",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
     "times_seen": 3,
     "venue_group": "Other",
     "final_version_resolved": true,
@@ -16849,7 +16900,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 240,
+    "times_seen": 241,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -16896,7 +16947,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 331,
+    "times_seen": 332,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -17584,7 +17635,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 722,
+    "times_seen": 725,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -17684,8 +17735,8 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-13",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
     "times_seen": 3,
     "venue_group": "Other",
     "final_version_resolved": true,
@@ -17794,7 +17845,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 722,
+    "times_seen": 725,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -18078,7 +18129,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 608,
+    "times_seen": 609,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -18123,15 +18174,8 @@
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "times_seen": 1,
-    "venue_group": "Other",
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/tuffc.2025.3586460",
-      "http://arxiv.org/abs/2412.02413v1",
-      "https://arxiv.org/pdf/2412.02413v1"
-    ],
     "final_version_status": "manual-doi-metadata-pending",
+    "venue_group": "Other",
     "topics": [
       "acoustic imaging",
       "passive acoustic mapping",
@@ -18155,6 +18199,13 @@
         "final_version_status": "manual-doi-metadata-pending"
       }
     },
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/tuffc.2025.3586460",
+      "http://arxiv.org/abs/2412.02413v1",
+      "https://arxiv.org/pdf/2412.02413v1"
+    ],
     "relevance": "core",
     "recommendation": "add-to-main-library",
     "last_verified": "2026-08-13",
@@ -18855,8 +18906,8 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-13",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
     "times_seen": 1,
     "venue_group": "CVPR",
     "final_version_resolved": true,
@@ -18963,8 +19014,8 @@
       "recent"
     ],
     "status": "agent-approved-candidate",
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-13",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
     "times_seen": 1,
     "venue_group": "CVPR",
     "final_version_resolved": true,
@@ -19543,7 +19594,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-09-05",
     "last_seen": "2026-11-14",
-    "times_seen": 110,
+    "times_seen": 111,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -22316,7 +22367,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-10-29",
     "last_seen": "2026-11-14",
-    "times_seen": 1142,
+    "times_seen": 1162,
     "venue_group": null,
     "topics": [
       "imaging sonar",
@@ -22363,7 +22414,7 @@
     "status": "agent-approved-candidate",
     "first_seen": "2026-10-31",
     "last_seen": "2026-11-14",
-    "times_seen": 735,
+    "times_seen": 756,
     "venue_group": null,
     "topics": [
       "mmWave radar imaging"
@@ -22690,7 +22741,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-14",
-    "times_seen": 10,
+    "times_seen": 11,
     "venue_group": null,
     "topics": [
       "acoustic holography"
@@ -27977,7 +28028,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-14",
-    "times_seen": 18,
+    "times_seen": 19,
     "venue_group": null,
     "topics": [
       "camera-sonar fusion"
@@ -29770,7 +29821,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-30",
     "last_seen": "2026-11-14",
-    "times_seen": 146,
+    "times_seen": 147,
     "venue_group": null,
     "topics": [
       "camera-sonar fusion"
@@ -29821,7 +29872,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-11",
     "last_seen": "2026-11-14",
-    "times_seen": 227,
+    "times_seen": 228,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -30084,7 +30135,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-31",
     "last_seen": "2026-11-14",
-    "times_seen": 283,
+    "times_seen": 284,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -32895,7 +32946,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-11-14",
-    "times_seen": 659,
+    "times_seen": 660,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -34582,7 +34633,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-31",
     "last_seen": "2026-11-14",
-    "times_seen": 370,
+    "times_seen": 380,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -34627,7 +34678,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
-    "times_seen": 6,
+    "times_seen": 12,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -34673,7 +34724,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-10",
     "last_seen": "2026-11-14",
-    "times_seen": 2959,
+    "times_seen": 2984,
     "venue_group": "Science family",
     "topics": [
       "handheld mmWave SAR"
@@ -34718,7 +34769,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-14",
     "last_seen": "2026-11-14",
-    "times_seen": 642,
+    "times_seen": 648,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -34764,7 +34815,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-20",
     "last_seen": "2026-11-14",
-    "times_seen": 504,
+    "times_seen": 510,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -34810,7 +34861,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-22",
     "last_seen": "2026-11-14",
-    "times_seen": 456,
+    "times_seen": 462,
     "venue_group": "Science family",
     "topics": [
       "synthetic aperture sonar",
@@ -34856,7 +34907,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-09-25",
     "last_seen": "2026-11-14",
-    "times_seen": 1420,
+    "times_seen": 1428,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -35037,7 +35088,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-14",
-    "times_seen": 12,
+    "times_seen": 13,
     "venue_group": null,
     "topics": [
       "photoacoustic imaging"
@@ -36627,8 +36678,8 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-13",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
     "times_seen": 3,
     "venue_group": "Science family",
     "final_version_resolved": true,
@@ -36737,7 +36788,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-14",
-    "times_seen": 8,
+    "times_seen": 9,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -37302,7 +37353,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-08-27",
     "last_seen": "2026-11-14",
-    "times_seen": 186,
+    "times_seen": 187,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -38266,7 +38317,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-16",
     "last_seen": "2026-11-14",
-    "times_seen": 312,
+    "times_seen": 313,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -38314,7 +38365,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-07-07",
     "last_seen": "2026-11-14",
-    "times_seen": 567,
+    "times_seen": 568,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -38604,7 +38655,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 395,
+    "times_seen": 396,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -39012,6 +39063,60 @@
     ]
   },
   {
+    "id": "2026-occlusion-aware-multimodal-beam-prediction-and-pose-estimation-for-mmwave-v-74375d3fad2c",
+    "title": "Occlusion-Aware Multimodal Beam Prediction and Pose Estimation for mmWave V2I",
+    "authors": "Abidemi Orimogunje; Hyunwoo Park; Kyeong-Ju Cha; Igbafe Orikumhi; Sunwoo Kim; Dejan Vukobratovic",
+    "year": 2026,
+    "publication_date": "2026-06-01",
+    "venue": "2026 IEEE 103rd Vehicular Technology Conference (VTC2026-Spring)",
+    "doi": "10.1109/vtc2026-spring68026.2026.11757733",
+    "primary_url": "https://doi.org/10.1109/vtc2026-spring68026.2026.11757733",
+    "pdf_url": "https://arxiv.org/pdf/2603.25799v1",
+    "source": "Crossref-final-version",
+    "matched_query": "mmWave radar imaging TMC",
+    "score": 8,
+    "reasons": [
+      "core wave-sensing term",
+      "imaging/reconstruction term",
+      "query-title/abstract match",
+      "recent"
+    ],
+    "status": "agent-watchlist",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "times_seen": 3,
+    "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/vtc2026-spring68026.2026.11757733",
+      "http://arxiv.org/abs/2603.25799v1",
+      "https://arxiv.org/pdf/2603.25799v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "topics": [
+      "mmWave radar imaging"
+    ],
+    "track": "mmwave",
+    "agent_audit": {
+      "decision": "candidate",
+      "confidence": 0.5333333333333333,
+      "checks": {
+        "track": "mmwave",
+        "primary_scope": true,
+        "core_term": true,
+        "imaging_term": true,
+        "source_ok": true,
+        "mmwave_preprint_ok": false,
+        "manual_seed": false,
+        "manual_acm_seed": false,
+        "preprint_only": false,
+        "negative_filter": false,
+        "final_version_status": "resolved-from-arxiv-to-final-venue"
+      }
+    }
+  },
+  {
     "id": "2026-mupose-breaking-the-scalability-barrier-of-mmwave-multi-user-pose-estimatio-d53c8f9897ac",
     "title": "MuPose: Breaking the Scalability Barrier of mmWave Multi-User Pose Estimation in the Wild",
     "authors": "Duo Zhang; Zhehui Yin; Xusheng Zhang; Junzhe Wang; Hongliu Yang; Zhiyun Yao; Zizhou Fan; Wenwei Li; Daqing Zhang",
@@ -39089,7 +39194,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-14",
-    "times_seen": 18,
+    "times_seen": 19,
     "venue_group": null,
     "topics": [
       "synthetic aperture sonar"
@@ -39135,7 +39240,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 722,
+    "times_seen": 725,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -39247,7 +39352,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 362,
+    "times_seen": 363,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -39500,8 +39605,8 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-13",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
@@ -39562,7 +39667,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-14",
-    "times_seen": 28,
+    "times_seen": 29,
     "venue_group": null,
     "topics": [
       "camera-sonar fusion"
@@ -39730,7 +39835,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 722,
+    "times_seen": 725,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -39947,7 +40052,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 1034,
+    "times_seen": 1038,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -40045,7 +40150,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 722,
+    "times_seen": 725,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -40489,7 +40594,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 395,
+    "times_seen": 396,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -40536,7 +40641,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 722,
+    "times_seen": 725,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -41423,7 +41528,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 722,
+    "times_seen": 725,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -41775,11 +41880,18 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-11-13",
+    "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
-    "times_seen": 2,
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "times_seen": 1,
     "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1109/tuffc.2025.3586460",
+      "http://arxiv.org/abs/2412.02413v1",
+      "https://arxiv.org/pdf/2412.02413v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
     "topics": [
       "acoustic coded imaging",
       "computational ultrasound"
@@ -41801,14 +41913,7 @@
         "negative_filter": false,
         "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
-    },
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1109/tuffc.2025.3586460",
-      "http://arxiv.org/abs/2412.02413v1",
-      "https://arxiv.org/pdf/2412.02413v1"
-    ]
+    }
   },
   {
     "id": "2025-photoacoustic-circular-dichroism-as-a-window-into-wavelength-dependent-chir-9ef2a747d82e",
@@ -42713,8 +42818,8 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-13",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
     "times_seen": 1,
     "venue_group": "Other",
     "final_version_resolved": true,
@@ -43744,7 +43849,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 610,
+    "times_seen": 611,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -44457,7 +44562,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-10-16",
     "last_seen": "2026-11-14",
-    "times_seen": 98,
+    "times_seen": 99,
     "venue_group": "Science family",
     "topics": [
       "camera-sonar fusion"
@@ -44502,7 +44607,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-08-21",
     "last_seen": "2026-11-14",
-    "times_seen": 6260,
+    "times_seen": 6275,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -44547,7 +44652,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-08-31",
     "last_seen": "2026-11-14",
-    "times_seen": 5281,
+    "times_seen": 5299,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -44592,7 +44697,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-09-06",
     "last_seen": "2026-11-14",
-    "times_seen": 4697,
+    "times_seen": 4715,
     "venue_group": "Science family",
     "topics": [
       "radar indoor scene understanding"
@@ -45779,7 +45884,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-14",
-    "times_seen": 18,
+    "times_seen": 19,
     "venue_group": "IEEE TMC",
     "topics": [
       "cites",
@@ -45835,7 +45940,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-06-27",
     "last_seen": "2026-11-14",
-    "times_seen": 658,
+    "times_seen": 659,
     "venue_group": "SenSys",
     "topics": [
       "cites",
@@ -47596,7 +47701,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 314,
+    "times_seen": 315,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -48015,7 +48120,7 @@
     "status": "agent-watchlist",
     "first_seen": "2026-06-26",
     "last_seen": "2026-11-14",
-    "times_seen": 319,
+    "times_seen": 320,
     "final_version_status": "arxiv-only-no-final-version-found",
     "venue_group": "arXiv",
     "topics": [
@@ -48692,7 +48797,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-10-26",
     "last_seen": "2026-11-14",
-    "times_seen": 59,
+    "times_seen": 60,
     "venue_group": "MobiCom",
     "topics": [
       "cites",
@@ -49786,7 +49891,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-04",
     "last_seen": "2026-11-14",
-    "times_seen": 25,
+    "times_seen": 26,
     "venue_group": "MobiCom",
     "topics": [
       "cites",
@@ -50202,7 +50307,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-09-25",
     "last_seen": "2026-11-14",
-    "times_seen": 164,
+    "times_seen": 165,
     "venue_group": null,
     "topics": [
       "cites",
@@ -50326,7 +50431,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-27",
     "last_seen": "2026-11-14",
-    "times_seen": 302,
+    "times_seen": 303,
     "venue_group": null,
     "topics": [
       "cites",
@@ -50740,7 +50845,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-07-09",
     "last_seen": "2026-11-14",
-    "times_seen": 611,
+    "times_seen": 612,
     "venue_group": null,
     "topics": [
       "cites",
@@ -50794,7 +50899,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-04",
     "last_seen": "2026-11-14",
-    "times_seen": 25,
+    "times_seen": 26,
     "venue_group": null,
     "topics": [
       "cites",
@@ -51206,7 +51311,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-08-19",
     "last_seen": "2026-11-14",
-    "times_seen": 343,
+    "times_seen": 344,
     "venue_group": null,
     "topics": [
       "cites",
@@ -51879,7 +51984,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-14",
-    "times_seen": 18,
+    "times_seen": 19,
     "venue_group": null,
     "topics": [
       "cites",
@@ -52416,7 +52521,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-10-30",
     "last_seen": "2026-11-14",
-    "times_seen": 38,
+    "times_seen": 39,
     "venue_group": null,
     "topics": [
       "cites",
@@ -52734,7 +52839,7 @@
     "metadata_verified_from": "OpenAlex",
     "first_seen": "2026-11-04",
     "last_seen": "2026-11-14",
-    "times_seen": 25,
+    "times_seen": 26,
     "venue_group": null,
     "topics": [
       "cites",
@@ -53457,11 +53562,18 @@
       "recent"
     ],
     "status": "agent-watchlist",
-    "first_seen": "2026-11-13",
+    "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
-    "times_seen": 2,
-    "final_version_status": "resolved-from-arxiv-to-final-venue",
+    "times_seen": 1,
     "venue_group": "Other",
+    "final_version_resolved": true,
+    "final_version_similarity": 1.0,
+    "sources": [
+      "https://doi.org/10.1121/10.0023109",
+      "http://arxiv.org/abs/2606.08614v1",
+      "https://arxiv.org/pdf/2606.08614v1"
+    ],
+    "final_version_status": "resolved-from-arxiv-to-final-venue",
     "topics": [
       "acoustic",
       "cloning",
@@ -53485,14 +53597,7 @@
         "negative_filter": false,
         "final_version_status": "resolved-from-arxiv-to-final-venue"
       }
-    },
-    "final_version_resolved": true,
-    "final_version_similarity": 1.0,
-    "sources": [
-      "https://doi.org/10.1121/10.0023109",
-      "http://arxiv.org/abs/2606.08614v1",
-      "https://arxiv.org/pdf/2606.08614v1"
-    ]
+    }
   },
   {
     "id": "2026-acoustic-cloning-0a3f9d638876",
