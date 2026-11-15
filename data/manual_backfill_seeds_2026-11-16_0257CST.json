@@ -1,0 +1,44 @@
+{
+  "checked_at": "2026-11-16",
+  "type": "verified_backfill_candidates",
+  "note": "Previously published works discovered in November 16 monitoring; not new publications. Not yet merged into data/papers.json.",
+  "papers": [
+    {
+      "title": "A depth-dependent, transverse shift-invariant operator for fast iterative 3D photoacoustic tomography in planar geometry",
+      "authors": [
+        "Ege Küçükkomürcü",
+        "Simon Labouesse",
+        "Marc Allain",
+        "Thomas Chaigne"
+      ],
+      "date": "2026-03-30",
+      "venue": "arXiv preprint",
+      "arxiv": "2603.28150",
+      "url": "https://arxiv.org/abs/2603.28150",
+      "category": "Photoacoustic Imaging / Computational Reconstruction",
+      "recommendation": "Core",
+      "summary": "Depth-indexed FFT-based forward and adjoint operators for planar 3D PAT; reports up to two orders of magnitude acceleration in iterative reconstruction on experimental all-optical datasets."
+    },
+    {
+      "title": "Resolving Acoustic Temporal Aliasing in High-Throughput Photoacoustic Microscopy Through Spatial Division Multiplexing",
+      "authors": [
+        "Tingting Li",
+        "Weizhi Qi",
+        "Wei Qin",
+        "Linyang Li",
+        "Heng Guo",
+        "Xiao Liang",
+        "Baochen Li",
+        "Yifan Chen",
+        "Lei Xi"
+      ],
+      "date": "2026-03-23",
+      "venue": "Laser & Photonics Reviews 20(14), e03093",
+      "doi": "10.1002/lpor.202503093",
+      "url": "https://doi.org/10.1002/lpor.202503093",
+      "category": "Photoacoustic Imaging / Coded and Multiplexed Acquisition",
+      "recommendation": "Core",
+      "summary": "Spatial-division multiplexed photoacoustic microscopy to avoid acoustic temporal aliasing; reports equivalent 6 MHz pulse repetition rate and 4-fold spatial-bandwidth-product improvement."
+    }
+  ]
+}
