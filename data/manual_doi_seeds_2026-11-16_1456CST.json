@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-11-16T14:56:59+08:00",
+  "source": "PubMed PMID 42959988",
+  "papers": [
+    {
+      "title": "High-fidelity dual-domain photoacoustic data synthesis with latent diffusion models",
+      "authors": [
+        "Linxin Li",
+        "Zhiyuan Zheng",
+        "Ziyang Wang",
+        "Ye Yu",
+        "Haipeng Wei",
+        "Shangkun Hou",
+        "Hanchen Xu",
+        "Qiegen Liu",
+        "Xianlin Song"
+      ],
+      "venue": "Photoacoustics",
+      "volume": "52",
+      "article_number": "100898",
+      "published_online": "2026-10-19",
+      "issue_date": "2026-12",
+      "doi": "10.1016/j.pacs.2026.100898",
+      "pmid": "42959988",
+      "url": "https://doi.org/10.1016/j.pacs.2026.100898",
+      "category": "Photoacoustic Imaging / Generative Data Synthesis",
+      "recommendation": "add-to-main-library",
+      "tier": "Core",
+      "note": "Separate latent diffusion synthesis of photoacoustic images and projection-domain sinograms; downstream validation on sparse-view, limited-view and bandwidth-limited reconstruction. Historical backfill, not a new November publication."
+    }
+  ]
+}
