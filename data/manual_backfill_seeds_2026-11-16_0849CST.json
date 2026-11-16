@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-11-16",
+  "type": "verified_backfill_candidate",
+  "papers": [
+    {
+      "title": "Photoacoustic tomography using thickness-corrected Fabry-Perot sensors and parallelized camera-based signal acquisition",
+      "authors": [
+        "Jan Sievers",
+        "Claus Villringer",
+        "Thomas Kirchner",
+        "Martin Regehly",
+        "Thomas Allen",
+        "Jan Laufer"
+      ],
+      "venue": "Optics Express",
+      "year": 2026,
+      "volume": "34",
+      "issue": "13",
+      "pages": "23299-23313",
+      "published": "2026-06-29",
+      "doi": "10.1364/OE.592886",
+      "pmid": "42387690",
+      "url": "https://doi.org/10.1364/OE.592886",
+      "category": "Photoacoustic Imaging / Optical Acoustic Detection",
+      "recommendation": "Core — add to main library after deduplication",
+      "summary": "Thickness-corrected planar Fabry-Perot polymer sensor combined with intensified high-speed sCMOS parallel readout for scanning-free 3D photoacoustic tomography; demonstrated on tissue phantoms.",
+      "verification": "https://pubmed.ncbi.nlm.nih.gov/42387690/",
+      "status": "published",
+      "note": "Historical backfill; not a new November publication. GitHub code searches for exact DOI/title found no match; confirm structured-library deduplication before promotion."
+    }
+  ]
+}
