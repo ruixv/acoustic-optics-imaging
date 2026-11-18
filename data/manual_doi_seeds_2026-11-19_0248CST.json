@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-11-19T02:48:14+08:00",
+  "note": "Verified historical gap candidates; not newly published on run date. DOI code search on default branch returned no matches; full-library deduplication still recommended.",
+  "papers": [
+    {
+      "title": "Dynamic quantitative photoacoustic tomography under sparse sampling via residual-driven Kalman filter assisted reconstruction",
+      "authors": [
+        "Ye Wu",
+        "Wenxing Bai",
+        "Pengfei Zhang",
+        "Limin Zhang",
+        "Dongyuan Liu",
+        "Feng Gao"
+      ],
+      "journal": "Photoacoustics",
+      "volume": "52",
+      "article_number": "100893",
+      "online_date": "2026-10-03",
+      "issue_date": "2026-12",
+      "doi": "10.1016/j.pacs.2026.100893",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898425/",
+      "category": "Photoacoustic Imaging / Computational Reconstruction",
+      "priority": "Core",
+      "status": "verified_historical_gap_candidate"
+    },
+    {
+      "title": "Enhancing Volumetric Imaging in Linear-Array Photoacoustic Tomography: multiview fusion with deep learning",
+      "authors": [
+        "Jingyi Miao",
+        "Haochen Zhang",
+        "Zihan Zhao",
+        "Shunyao Zhang",
+        "Lei S Li"
+      ],
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "online_date": "2026-07-03",
+      "doi": "10.1109/TBME.2026.3709999",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42397995/",
+      "category": "Photoacoustic Imaging / Deep Learning Reconstruction",
+      "priority": "Core",
+      "status": "verified_historical_gap_candidate"
+    }
+  ]
+}
