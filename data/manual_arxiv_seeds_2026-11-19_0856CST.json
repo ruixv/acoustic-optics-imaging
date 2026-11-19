@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-11-19T08:56:27+08:00",
+  "note": "Historical gap candidate, not newly published on run date. arXiv metadata cross-checked against arXiv-indexed record; repository default-branch search found no title/arXiv-ID match. Preprint only; publication acceptance unverified.",
+  "papers": [
+    {
+      "title": "Adapting Vision Foundation Models to Acoustics for Pose-Free 3D Sonar Reconstruction",
+      "authors": [
+        "Kevin Zhang",
+        "Jingxi Chen",
+        "Mohamad Qadri",
+        "Russell Shomberg",
+        "Michael Kaess",
+        "Jia-Bin Huang",
+        "Adithya Pediredla",
+        "Christopher Metzler"
+      ],
+      "online_date": "2026-09-05",
+      "venue": "arXiv preprint",
+      "arxiv": "2609.06261",
+      "url": "https://arxiv.org/abs/2609.06261",
+      "category": "Acoustic Imaging / Sonar 3D Reconstruction",
+      "priority": "Core",
+      "status": "verified_preprint_historical_gap_candidate",
+      "summary": "Adapts vision foundation models to imaging sonar using geometric modality relationships and physics-based synthetic noise to achieve pose-free 3D sonar reconstruction."
+    }
+  ]
+}
