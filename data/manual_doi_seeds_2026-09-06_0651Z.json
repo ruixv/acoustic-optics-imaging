@@ -6,12 +6,12 @@
     "year": 2026,
     "publication_date": "2026-01-03",
     "publication_date_precision": "day",
-    "indexed_date": "2026-09-06",
-    "venue": "arXiv:2601.01144",
-    "venue_group": "arXiv",
-    "venue_type": "preprint",
-    "doi": "10.48550/arXiv.2601.01144",
-    "primary_url": "https://arxiv.org/abs/2601.01144",
+    "indexed_date": "2026-09-30",
+    "venue": "2026 IEEE International Conference on Robotics and Automation (ICRA)",
+    "venue_group": "ICRA",
+    "venue_type": "conference",
+    "doi": "10.1109/ICRA57385.2026.11697392",
+    "primary_url": "https://doi.org/10.1109/ICRA57385.2026.11697392",
     "source": "Manual-arXiv-camera-sonar-backfill",
     "matched_query": "camera sonar fusion underwater SLAM 2026",
     "score": 8,
@@ -20,7 +20,7 @@
       "directly fuses stereo cameras, IMU, and 3D sonar for underwater localization and dense reconstruction",
       "includes online camera-sonar extrinsic calibration and photometric rendering of sonar geometry",
       "exact title was absent from repository code search before this update",
-      "high relevance to opti-acoustic and camera-sonar fusion, though currently a preprint"
+      "IEEE Xplore confirms ICRA 2026 publication and DOI"
     ],
     "topics": [
       "camera-sonar fusion",
@@ -30,18 +30,18 @@
       "multimodal mapping",
       "sonar-camera calibration"
     ],
-    "status": "metadata-verified-preprint",
+    "status": "metadata-verified-published",
     "relevance": "core",
     "paper_type": "method",
     "recommendation": "add-to-main-library",
     "summary_en": "Presents an underwater SLAM system combining stereo cameras, an IMU, and 3D sonar, with coarse-to-fine online camera-sonar extrinsic calibration and photometric rendering that transfers visual appearance onto sonar-derived dense geometry.",
     "needs_metadata_verification": false,
-    "metadata_verified_from": "arXiv",
-    "publication_note": "Originally submitted January 3, 2026 to arXiv; surfaced as a repository backfill during the September 6, 2026 update.",
+    "metadata_verified_from": "IEEE Xplore",
+    "publication_note": "arXiv submitted 2026-01-03; presented at ICRA 2026 (June 1–5); indexed by IEEE Xplore 2026-09-30. Previous candidate incorrectly remained preprint-only.",
     "sources": [
-      "https://arxiv.org/abs/2601.01144",
-      "https://doi.org/10.48550/arXiv.2601.01144"
+      "https://ieeexplore.ieee.org/abstract/document/11697392",
+      "https://arxiv.org/abs/2601.01144"
     ],
-    "last_verified": "2026-09-06"
+    "last_verified": "2026-11-20"
   }
 ]
