@@ -66,8 +66,10 @@ def main() -> int:
     seeds: List[Dict[str, Any]] = []
     for seed_file in SEED_FILES:
         loaded = load(seed_file, [])
-        if not isinstance(loaded, list):
-            raise ValueError(f'{seed_file} must contain a JSON list')
+        if isinstance(loaded, dict):
+            loaded = loaded.get('papers')
+        if not isinstance(loaded, list) or not all(isinstance(item, dict) for item in loaded):
+            raise ValueError(f'{seed_file} must contain a JSON list of records or an object with a papers list')
         seeds.extend(loaded)
 
     candidates: List[Dict[str, Any]] = load(CANDIDATES, [])
