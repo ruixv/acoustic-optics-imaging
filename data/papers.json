@@ -4460,5 +4460,43 @@
       "https://graphics.stanford.edu/papers/soundnlos/"
     ],
     "last_verified": "2026-06-25"
+  },
+  {
+    "id": "khishkhah2026-patbox",
+    "title": "PATBox for reproducible benchmarking of photoacoustic reconstruction",
+    "authors": "Bahareh Khishkhah; Parsa Shahidi; M. Reza Rahimi Tabar",
+    "year": 2026,
+    "publication_date": "2026-11-22",
+    "venue": "Scientific Reports",
+    "venue_group": "Scientific Reports",
+    "venue_type": "journal",
+    "doi": "10.1038/s41598-026-80577-z",
+    "primary_url": "https://www.nature.com/articles/s41598-026-80577-z",
+    "pdf_url": "https://www.nature.com/articles/s41598-026-80577-z_reference.pdf",
+    "project_url": "",
+    "code_url": "",
+    "topics": [
+      "photoacoustic imaging",
+      "computed tomography",
+      "reconstruction benchmarking"
+    ],
+    "relevance": "core",
+    "summary_en": "MATLAB benchmarking framework for photoacoustic reconstruction using controlled simulated acquisitions and standardized evaluation.",
+    "summary_cn": "基于 MATLAB 的光声重建评测框架，使用受控仿真采集和统一评价指标。",
+    "why_include_en": "Directly relevant to reproducible comparison of photoacoustic inverse imaging methods; validation is simulation-only.",
+    "why_include_cn": "直接关联光声逆成像方法的可复现比较；验证仅基于仿真。",
+    "download_note": "Publisher-hosted peer-reviewed article in press; final version of record pending.",
+    "sources": [
+      "https://www.nature.com/articles/s41598-026-80577-z"
+    ],
+    "last_verified": "2026-11-28",
+    "curation_origin": "manual-publisher-verified",
+    "verification": {
+      "mode": "manual-publisher-verification",
+      "confidence": 0.99,
+      "source": "Scientific Reports",
+      "final_version_status": "accepted-article-in-press",
+      "track": "main"
+    }
   }
 ]
